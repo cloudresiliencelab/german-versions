@@ -1,6 +1,6 @@
 # Versions of terms from the *german* collection
 
-The terms in this collection are tracked by _ _ _ _ _ ✍️ using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by volunteer contributors using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 

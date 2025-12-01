@@ -197,6 +197,7 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
 *   Analyse von Telefongesprächen mit unserem Kundenservice, die wir mit Ihrem Einverständnis aufgezeichnet haben.
 *   Zusendung von Werbung per Post (sofern Sie nicht widersprochen haben).
 *   Soweit dies ohne ausdrückliche Einwilligung gesetzlich zulässig ist, Kontaktaufnahme mit Ihnen mittels elektronischer Post (z.B. E-Mail) oder Telefon, um unsere Services zu bewerben. Wenn Sie keine Marketingmitteilungen von uns erhalten möchten, können Sie diese auch über den Link in der von Ihnen empfangenen E-Mail abbestellen. Aus technischen Gründen kann die Umsetzung einige Tage in Anspruch nehmen.
+*   Soweit dies ohne ausdrückliche Einwilligung gesetzlich zulässig ist, verwenden wir die Telefonnummern, um Ihnen unsere Services mittels intelligenter, automatisierter Lösungen anzubieten.
 *   Anzeige von Hinweisen auf Sonderaktionen und Informationen zu unseren Services nach dem Einloggen
 *   Anpassung von Seiteninhalten, um anhand der von Ihnen vorgenommenen Handlungen die Anzeigen und Dienstleistungen anzuzeigen, die Ihnen gefallen könnten.
 *   Beurteilung der Qualität und des Erfolgs unserer E-Mail-Marketing-Kampagnen auf aggregierter Basis (z.B. durch Analyse von Öffnungs- und Klickraten).

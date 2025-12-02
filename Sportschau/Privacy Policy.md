@@ -1,4 +1,4 @@
-        ![Binärcode liegt über Silhouetten von Menschen](https://images.sportschau.de/image/938c4167-72b0-491d-af49-faeb208f134c/AAABlcSFUjI/AAABmgWmO88/16x7/datenschutz-sp-102.jpg?width=1280 "Binärcode liegt über Silhouetten von Menschen | WDR/imago")
+        ![Binärcode liegt über Silhouetten von Menschen](https://images.sportschau.de/image/938c4167-72b0-491d-af49-faeb208f134c/AAABlcSFUjI/AAABmt415Mo/16x7/datenschutz-sp-102.jpg?width=1280 "Binärcode liegt über Silhouetten von Menschen | WDR/imago")
 
 Datenschutzbestimmungen
 =======================

@@ -2,7 +2,7 @@
 ======================================================================================================================================
 
 **Allgemeines / datenschutzrechtliche Verantwortlichkeiten auf der Plattform otto.de  
-**In den nachfolgenden Datenschutzinformationen informieren wir Sie über die durch die Otto GmbH & Co. KGaA, Werner-Otto-Str. 1-7, 22179 Hamburg (**„OTTO“ und/oder „wir“ und/oder „Verantwortlicher“**) durchgeführte Verarbeitung personenbezogener Daten nach Maßgabe der [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&from=EN) und des Bundesdatenschutzgesetzes (**BDSG 2018**).
+**In den nachfolgenden Datenschutzinformationen informieren wir Sie über die durch die Otto GmbH & Co. KGaA, Werner-Otto-Str. 1-7, 22179 Hamburg (**„OTTO“ und/oder „wir“ und/oder „Verantwortlicher“**) durchgeführte Verarbeitung personenbezogener Daten nach Maßgabe der [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&from=EN) und des Bundesdatenschutzgesetzes (**BDSG 2018**), der Website otto.de, OTTO-App sowie verbundene Kanäle.
 
 **Verantwortlichkeit bei Käufen auf otto.de  
 **Auf der von OTTO betriebenen Plattform otto.de werden sowohl von OTTO, als auch von anderen Händlern als OTTO (Partner), Waren zum Kauf angeboten. Für die Verarbeitung der Daten, die im Rahmen eines Vertragsabschlusses sowie im Zusammenhang mit der Durchführung des Vertrags anfallen, sind grundsätzlich die jeweiligen Händler, mit denen die Verträge zustande kommen, datenschutzrechtlich verantwortlich. Dies bedeutet unter anderem, dass Betroffenenrechte (u.a. Recht auf Auskunft, Recht auf Löschung der Daten), die diese Daten betreffen, gegenüber dem jeweilig datenschutzrechtlich verantwortlichen Händler OTTO oder Partner geltend gemacht werden müssen. OTTO hat seine Partner dazu verpflichtet, auf der Plattform otto.de die gesetzlich erforderlichen Informationen, die die Datenverarbeitungen betreffen, für die die Partner datenschutzrechtlich verantwortlich sind, den Nutzern in Partner-Datenschutzerklärungen zugänglich zu machen. Die nachfolgenden Hinweise zum Datenschutz gelten für die Verarbeitung von Daten durch OTTO als datenschutzrechtlich Verantwortliche.
@@ -171,7 +171,6 @@ E-Mail-Adresse: service@otto.de
 Dr. Marcus Ackermann  
 Sergio Bucher  
 Katy Roewer  
-Mahbobeh Sabetnia  
 Kay Schiebur
 
 Plattform otto.de  
@@ -597,4 +596,4 @@ Eine Auskunft über Ihre bei uns gespeicherten persönlichen Daten können Sie z
 
   
   
-**Stand**: 11. November 2025
+**Stand**: 01.12.2025

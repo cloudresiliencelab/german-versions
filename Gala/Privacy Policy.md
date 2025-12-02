@@ -98,7 +98,7 @@ Um Ihre Meinungen zu Inhalten mit anderen Nutzer\*innen teilen zu können haben 
 
 ### 2.8 Contentpass
 
-Um Ihnen den Service aus 1. auf unserer Webseite anzuzeigen und damit anbieten können, verarbeitet contcentpass, in unserem Auftrag, zu Beginn Ihres Webseitenaufrufs Ihre IP-Adresse. Für die Registrierung sowie die Vertragsabwicklung des contentpass und die damit einhergehende Datenverarbeitung ist contentpass Verantwortlicher im Sinne der DS-GVO. Wir sind ausschließlich Verantwortlicher für die Verarbeitung Ihrer IP-Adresse. Für weitere Informationen bezüglich der Datenverarbeitung bei contentpass, lese bitte die dortigen [Datenschutzhinweise](https://www.contentpass.net/de/privacy).
+Um Ihnen den Service aus 1. auf unserer Webseite anzuzeigen und damit anbieten können, verarbeitet contcentpass, in unserem Auftrag, zu Beginn Ihres Webseitenaufrufs Ihre IP-Adresse. Für die Registrierung sowie die Vertragsabwicklung des contentpass und die damit einhergehende Datenverarbeitung ist contentpass Verantwortlicher im Sinne der DS-GVO. Wir sind ausschließlich Verantwortlicher für die Verarbeitung Ihrer IP-Adresse. Für weitere Informationen bezüglich der Datenverarbeitung bei contentpass, lesen Sie bitte die dortigen [Datenschutzhinweise](https://www.contentpass.net/de/privacy).
 
 Grundlage für die Datenverarbeitung der IP-Adresse, im Rahmen unserer Auftragsverarbeitung mit contentpass, ist unser berechtigtes Interesse die die Möglichkeit zu bieten, unsere Webseite werbe- und tracking-frei aufrufen zu können und Ihr Interesse an der Nutzung unserer Webseite praktisch ohne Werbung und Tracking \[Art. 6 Abs. 1 S. 1 lit. f.) DS-GVO\]. Zudem erfüllen wir hiermit die rechtliche Verpflichtung, eine rechtskonforme Zustimmung in einwilligungsbedürftige Datenverarbeitungen einzuholen \[Art. 6 Abs. 1 lit. c) DSGVO\].
 
@@ -108,7 +108,7 @@ Auf unserer Webseite haben Sie die Möglichkeit an Gewinnspielen teilzunehmen, d
 
 Bei Gewinnspielen gibt es grundsätzlich zwei Alternativen; Gewinnspiele, bei denen wir die Gewinne selbst versenden/verwalten und solche, bei denen das ein Partner macht, der den Gewinn (z.B. Produkte, Freikarten zu Events, etc.) bereitstellt. Genaueres zu einzelnen Gewinnspielen können Sie den Teilnahmebedingungen entnehmen. Sofern Sie an einem Gewinnspiel teilnehmen, das wir gemeinsam mit einem oder mehreren Partnern veranstalten und als Gewinner ausgewählt werden, geben wir Ihre Teilnahmedaten (siehe unten Ziffer 2 f) an diesen zur Versendung des Gewinns einschließlich Gewinnerkommunikation an Sie weiter. Ihre Daten werden zu diesem Zweck gem. Art. 6 (1) b DSGVO im Rahmen und zur Durchführung des Gewinnspielvertrages verwendet. Die Daten des/der Gewinner speichern wir gem. § 147 AO für die Dauer von sechs Jahren. Die Daten derer, die nicht gewonnen haben, werden nach der Gewinnerziehung innerhalb von drei Monaten gelöscht, sofern sie nicht in eine weitere Speicherung und Nutzung eingewilligt haben.
 
-Ihre Daten können von uns auch zu weiteren (personalisierten) Ansprachen genutzt werden, etwa per Mail, Telefon oder postalisch, sofern Sie bei der Teilnahme an einem Gewinnspiel hierzu eingewilligt haben. Hierfür werden Ihre Daten gem. Art. 6 (1) a DSGVO gespeichert und verwendet und Sie können Ihre Einwilligung in diese Art der Nutzung Ihrer Daten jederzeit durch einen formlosen Widerruf (mit einem Hinweis auf welches Gewinnspiel und welche Firma du dich beziehst) an die unten genannte Adresse beenden.
+Ihre Daten können von uns auch zu weiteren (personalisierten) Ansprachen genutzt werden, etwa per Mail, Telefon oder postalisch, sofern Sie bei der Teilnahme an einem Gewinnspiel hierzu eingewilligt haben. Hierfür werden Ihre Daten gem. Art. 6 (1) a DSGVO gespeichert und verwendet und Sie können Ihre Einwilligung in diese Art der Nutzung Ihrer Daten jederzeit durch einen formlosen Widerruf (mit einem Hinweis auf welches Gewinnspiel und welche Firma sie sich beziehen) an die unten genannte Adresse beenden.
 
 ### 2.9.1 Cookies
 
@@ -379,9 +379,9 @@ Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt 
 
 Im Zusammenhang mit Events werden drei Arten von Daten verarbeitet:
 
-1.  Anmelde- und Teilnahmedaten: Beim Kauf deines Tickets musst du deinen Namen und deine Email-Adresse angeben. Dorthin schicken wir die Einwahldaten, mit denen du am Event selbst teilnehmen kannst. Da das Format aktuell wegen Corona digital stattfindet, verarbeiten wir technische Daten, wenn du dich einwählst, wie deine IP, deinen Browser, dessen Version, deine Bildschirmeinstellungen, Auflösung, Betriebssystem und andere technisch erforderliche Dinge. Nimmst du aktiv durch Wortbeiträge und Anschalten deiner Kamera teil – worüber wir uns freuen würden – dann erheben, verarbeiten und übermitteln diese Daten auch an alle anderen Teilnehmer. Möchtest du das nicht, kannst du natürlich auch ohne Kamera und Ton teilnehmen.
-2.  Deine Anschrift verwenden wir, um dir dein Getränkepaket zuzuschicken – du sollst ja nicht auf dem Trockenen sitzen!
-3.  Rechnungsdaten verarbeiten wir, um deinen Ticketkauf und Teilnahme abzuwickeln. Hierfür werden deine Kontodaten, Kreditkartendaten oder diejenigen Daten verarbeitet und gegebenenfalls auch an Dritte (Kreditinstitut, Zahlungsdienste) weitergegeben, abhängig davon, wie und womit du zahlst; beispielsweise tauschen wir Daten mit Paypal aus, wenn du bei deiner Ticketbestellung deren Service als Bezahlmethode nutzt.
+1.  Anmelde- und Teilnahmedaten: Beim Kauf Ihres Tickets müssen Sie Ihren Namen und Ihre Email-Adresse angeben. Dorthin schicken wir die Einwahldaten, mit denen Sie am Event selbst teilnehmen können. Da das Format aktuell wegen Corona digital stattfindet, verarbeiten wir technische Daten, wenn Sie sich einwählen, wie Ihre IP, Ihren Browser, dessen Version, deine Bildschirmeinstellungen, Auflösung, Betriebssystem und andere technisch erforderliche Dinge. Nehmen Sie aktiv durch Wortbeiträge und Anschalten Ihrer Kamera teil – worüber wir uns freuen würden – dann erheben, verarbeiten und übermitteln wir diese Daten auch an alle anderen Teilnehmer. Möchten Sie das nicht, können Sie natürlich auch ohne Kamera und Ton teilnehmen.
+2.  Ihre Anschrift verwenden wir, um Ihnen Ihr Getränkepaket zuzuschicken – Sie sollen ja nicht auf dem Trockenen sitzen!
+3.  Rechnungsdaten verarbeiten wir, um Ihren Ticketkauf und Ihre Teilnahme abzuwickeln. Hierfür werden Ihre Kontodaten, Kreditkartendaten oder diejenigen Daten verarbeitet und gegebenenfalls auch an Dritte (Kreditinstitut, Zahlungsdienste) weitergegeben, abhängig davon, wie und womit Sie zahlen; beispielsweise tauschen wir Daten mit Paypal aus, wenn Sie bei Ihrer Ticketbestellung deren Service als Bezahlmethode nutzt.
 
 4\. Wer bekommt meine Daten?
 ----------------------------
@@ -414,7 +414,7 @@ Wir sind daran interessiert, Daten in einer möglichst transparenten und natürl
 
 Datenschutzrechtlich verantwortlich ist für die hierin beschriebenen Datenverarbeitungen die FUNKE Women, People & Family GmbH, Großer Burstah 18-32, 20457 Hamburg, eMail: [datenschutz.gala@funkemedien.de](mailto:datenschutz.gala@funkemedien.de) Wenn Sie also mehr Informationen über Ihre Datenverarbeitung erhalten oder eine Betroffenenrechte ausüben möchten, können Sie sich jederzeit an uns wenden. Unsere Datenschutzbeauftragten erreichen Sie unter der gerade genannten Anschrift mit dem Zusatz „An den Datenschutzbeauftragten“ und bitte einem Hinweis in Ihrer Nachricht, dass Sie sich auf diese Webseite beziehen. 
 
-Stand: 14.11.2025
+Stand: 01.12.2025
 
 Gala
 

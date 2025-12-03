@@ -44,7 +44,7 @@ Es ist insbesondere untersagt:
 
 ### Vorbehalt der Rechte für Text- und Data-Mining sowie für Künstliche Intelligenz
 
-**Text- und Data-Mining:** Die SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG behält sich eine Nutzung ihrer Inhalte für kommerzielles Text- und Data-Mining im Sinne von § 44b UrhG ausdrücklich vor. Für den Erwerb einer entsprechenden Nutzungslizenz wenden Sie sich bitte an [syndication@spiegel.de](mailto:syndication@spiegel.de)   .
+**Text- und Data-Mining:** Die SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG behält sich eine Nutzung ihrer Inhalte für kommerzielles Text- und Data-Mining im Sinne von § 44b UrhG ausdrücklich vor. Für den Erwerb einer entsprechenden Nutzungslizenz wenden Sie sich bitte an [syndication@spiegel.de](mailto:syndication@spiegel.de)  .
 
 Insbesondere dürfen die Inhalte nicht für die Entwicklung, das Training, das Programmieren, die Verbesserung und/oder das Anreichern von KI-Systemen (einschließlich, aber nicht beschränkt auf generative KI-Systeme) verwendet werden, die direkt oder indirekt Inhalte (unabhängig davon, ob diese urheberrechtlich geschützt sind) ausgeben können.
 

@@ -288,14 +288,6 @@ Bitte beachten Sie, dass diese Übermittlung in den Verantwortungsbereich des �
 
 Wir speichern in zu diesem Zweck deine Zustimmung zur Übermittlung deiner IP-Adresse für die Dauer von drei Jahren in Form eines Log-Eintrags zu Zwecken unserer Nachweispflicht gem. Art. 7 (1) DSGVO.
 
-### 2.13 Events
-
-Wir veranstalten eine Reihe spannender Events, unter anderem die "Gala Shopping Night". Bei diesem einzigartigen Format haben Sie die Möglichkeit in glamouröser Atmosphäre zusammen mit vielen prominenten Gästen gemeinsam zu shoppen. Hierfür müssen Sie sich anmelden und wir brauchen dann zweierlei Daten von Ihnen (siehe unten 2.10) zu dreierlei Zwecken:
-
-*   Ihre Anmelde- und Teilnahmedaten brauchen wir, um Ihnen einen Zugang bereitzustellen, damit Sie am Event selbst teilnehmen können
-*   teilweise binden wir Guestmamagement-Tools ein, durch die Ihre Daten an einen weiteren Partner gegeben werden
-*   alle vorgenannten Datenarten zzgl. Ihrer Zahlungsdaten speichern wir in unseren Systemen, um Ihr Ticket im Rahmen Ihrer Bestellung zu verwalten. 
-
 3\. Welche Daten verwenden wir von Ihnen (Datenarten)?
 ------------------------------------------------------
 
@@ -374,14 +366,6 @@ Zusätzlich zu diesen Pflichtangaben können Sie uns auch noch Ihre Telefonnumme
 Für die Einbindung externer Inhalte ist technisch Ihre IP-Adresse erforderlich. Nur wenn diese an die externe Partei weitergegeben wird, ist eine Ausspielung der jeweiligen Inhalte möglich.
 
 Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt haben, ist es darüber hinaus möglich, dass die Fremdinhalte auch eigene Technologien einsetzen, auf die wir keinen Einfluss nehmen können. Hierbei können insbesondere eine eindeutige ID (z.B. Cookie-ID) von Ihnen/über Sie gespeichert und verarbeitet werden, durch die dem Drittanbieter die Möglichkeit zu weiteren Datenverarbeitungen – auf die wir keinen Einfluss haben können und daher auch keine Verantwortung übernehmen – geben.
-
-### 3.10 Event-Daten
-
-Im Zusammenhang mit Events werden drei Arten von Daten verarbeitet:
-
-1.  Anmelde- und Teilnahmedaten: Beim Kauf Ihres Tickets müssen Sie Ihren Namen und Ihre Email-Adresse angeben. Dorthin schicken wir die Einwahldaten, mit denen Sie am Event selbst teilnehmen können. Da das Format aktuell wegen Corona digital stattfindet, verarbeiten wir technische Daten, wenn Sie sich einwählen, wie Ihre IP, Ihren Browser, dessen Version, deine Bildschirmeinstellungen, Auflösung, Betriebssystem und andere technisch erforderliche Dinge. Nehmen Sie aktiv durch Wortbeiträge und Anschalten Ihrer Kamera teil – worüber wir uns freuen würden – dann erheben, verarbeiten und übermitteln wir diese Daten auch an alle anderen Teilnehmer. Möchten Sie das nicht, können Sie natürlich auch ohne Kamera und Ton teilnehmen.
-2.  Ihre Anschrift verwenden wir, um Ihnen Ihr Getränkepaket zuzuschicken – Sie sollen ja nicht auf dem Trockenen sitzen!
-3.  Rechnungsdaten verarbeiten wir, um Ihren Ticketkauf und Ihre Teilnahme abzuwickeln. Hierfür werden Ihre Kontodaten, Kreditkartendaten oder diejenigen Daten verarbeitet und gegebenenfalls auch an Dritte (Kreditinstitut, Zahlungsdienste) weitergegeben, abhängig davon, wie und womit Sie zahlen; beispielsweise tauschen wir Daten mit Paypal aus, wenn Sie bei Ihrer Ticketbestellung deren Service als Bezahlmethode nutzt.
 
 4\. Wer bekommt meine Daten?
 ----------------------------

@@ -92,17 +92,13 @@ Auf der Webseite besteht die Möglichkeit, uns über eine E-Mail-Adresse, die Te
 
 Die Erhebung der Daten erfolgt grundsätzlich auf Basis unseres berechtigten Interesses gem. Art. 6 (1) f DSGVO, wonach wir unseren Kunden und Geschäftspartnern durch ein solches Kontaktformular eine einfache und unkomplizierte Möglichkeit der Kontaktaufnahme bieten möchten. Abhängig vom geäußerten Anliegen, erfolgen weiterführende Datenverarbeitungen auf Basis anderer Rechtsgrundlagen. Betrifft Ihre Anfrage zum Beispiel einen Vertragsabschluss, verwenden wir Ihre Daten gem. Art. 6 (1) b DSGVO. Möchten Sie Ihre Betroffenenrechte geltend machen, verwenden wir Ihre Daten auf Basis von Art. 6 (1) c DSGVO. Abhängig davon, welche der genannten Optionen anwendbar sind, speichern wir die Daten nach Zweckerfüllung. Anfragen ohne Aufbewahrungspflicht werden drei Monate nach der Bearbeitung gelöscht. Anfragen, die im Zusammenhang mit einem Vertrag stehen, können gem. §§ 257 HGB, 147 AO bis zu zehn Jahre gespeichert werden. Daten, die im Zusammenhang mit einem Betroffenenersuchen stehen, werden gem. § 195 ff. BGB für die Dauer von drei Jahren aufbewahrt.
 
-### 2.7 Kommentare
-
-Um Ihre Meinungen zu Inhalten mit anderen Nutzer\*innen teilen zu können haben wir eine Kommentarfunktion integriert. Zur Nutzung benötigen Sie ein Konto bei den bekannten Social Media Diensten. Die Datenverarbeitung erfolgt bei dem integrierten Dienstleister. Die Verarbeitung der unter Ziffer 2 genannten Daten erfolgt dabei gem. Art. 6 (1) b DSGVO im Rahmen Bereitstellung und des Betriebs des Kommentardienstes im Geltungsbereich der Nutzungsbedingungen. Solange Sie Ihr Profil nicht löschen, bleiben deine Daten grundsätzlich gespeichert.
-
-### 2.8 Contentpass
+### 2.7 Contentpass
 
 Um Ihnen den Service aus 1. auf unserer Webseite anzuzeigen und damit anbieten können, verarbeitet contcentpass, in unserem Auftrag, zu Beginn Ihres Webseitenaufrufs Ihre IP-Adresse. Für die Registrierung sowie die Vertragsabwicklung des contentpass und die damit einhergehende Datenverarbeitung ist contentpass Verantwortlicher im Sinne der DS-GVO. Wir sind ausschließlich Verantwortlicher für die Verarbeitung Ihrer IP-Adresse. Für weitere Informationen bezüglich der Datenverarbeitung bei contentpass, lesen Sie bitte die dortigen [Datenschutzhinweise](https://www.contentpass.net/de/privacy).
 
 Grundlage für die Datenverarbeitung der IP-Adresse, im Rahmen unserer Auftragsverarbeitung mit contentpass, ist unser berechtigtes Interesse die die Möglichkeit zu bieten, unsere Webseite werbe- und tracking-frei aufrufen zu können und Ihr Interesse an der Nutzung unserer Webseite praktisch ohne Werbung und Tracking \[Art. 6 Abs. 1 S. 1 lit. f.) DS-GVO\]. Zudem erfüllen wir hiermit die rechtliche Verpflichtung, eine rechtskonforme Zustimmung in einwilligungsbedürftige Datenverarbeitungen einzuholen \[Art. 6 Abs. 1 lit. c) DSGVO\].
 
-### 2.9 Gewinnspiele
+### 2.8 Gewinnspiele
 
 Auf unserer Webseite haben Sie die Möglichkeit an Gewinnspielen teilzunehmen, die wir selbst oder in Zusammenarbeit mit einem oder mehreren Partnern veranstalten.
 
@@ -110,7 +106,7 @@ Bei Gewinnspielen gibt es grundsätzlich zwei Alternativen; Gewinnspiele, bei de
 
 Ihre Daten können von uns auch zu weiteren (personalisierten) Ansprachen genutzt werden, etwa per Mail, Telefon oder postalisch, sofern Sie bei der Teilnahme an einem Gewinnspiel hierzu eingewilligt haben. Hierfür werden Ihre Daten gem. Art. 6 (1) a DSGVO gespeichert und verwendet und Sie können Ihre Einwilligung in diese Art der Nutzung Ihrer Daten jederzeit durch einen formlosen Widerruf (mit einem Hinweis auf welches Gewinnspiel und welche Firma sie sich beziehen) an die unten genannte Adresse beenden.
 
-### 2.9.1 Cookies
+### 2.9 Cookies
 
 Wie alle anderen Webseiten verwendet auch unsere Webseite Cookies. Cookies sind kleine Textdateien, die im Browser Ihres Rechners gespeichert werden und die ganz unterschiedliche Funktionen erfüllen und zu verschiedenen Zwecken Daten verarbeiten können.
 
@@ -120,17 +116,17 @@ Daneben gibt es nicht technisch erforderliche Cookies. Solche Cookies dienen gan
 
 In den folgenden Abschnitten geben wir Ihnen mehr Informationen zu den einzelnen Kategorien solcher einwilligungsbasierter Cookies. Welche dies genau sind und von welchem Dienstleister/Partner sie angeboten werden, können Sie sich in unseren Datenschutz Einstellungen ansehen: [Datenschutz-Einstellungen](https://www.gala.de/service/neuer-inhalt-22191650.html)
 
-#### 2.9.2 Informationen auf einem Gerät speichern und/oder abrufen
+#### 2.9.1 Informationen auf einem Gerät speichern und/oder abrufen
 
 Hierbei können Anbieter Informationen wie z. B. Cookies und Geräte-Kennungen zu den dem Nutzer angezeigten Verarbeitungszwecken auf dem Gerät speichern und abrufen. 
 
-#### 2.9.3 Einfache Anzeigen und Anzeigenmessung
+#### 2.9.2 Einfache Anzeigen und Anzeigenmessung
 
 Hierbei dürfen Anbieter einfache Anzeigen einblenden. Die Anzeigenleistung kann gemessen werden.
 
 Anbieter dürfen hierbei mit diesen Informationen kein personalisiertes Anzeigen-Profil für die Auswahl zukünftiger Anzeigen erstellen, ohne eine eigene Rechtsgrundlage für die Erstellung eines personalisierten Anzeigenprofils zu haben. 
 
-#### 2.9.4 Personalisiertes Anzeigenprofil und Einblendung
+#### 2.9.3 Personalisiertes Anzeigenprofil und Einblendung
 
 Hierbei können Anzeigen basierend auf einem Profil personalisiert werden. Es können Daten hinzugefügt werden, um Anzeigen besser zu personalisieren.
 
@@ -138,7 +134,7 @@ Um ein personalisiertes Anzeigen-Profil zu erstellen, können Anbieter Informati
 
 Für die Auswahl personalisierter Anzeigen können Anbieter personalisierte Anzeigen, basierend auf einem Nutzer-Profil oder anderen historischen Nutzungsdaten, einschließlich der früheren Aktivitäten, der Interessen, den Besuchen auf Webseiten oder der Verwendung von Anwendungen, des Standorts oder demografischen Informationen, auswählen. 
 
-#### 2.9.5 Personalisierte Inhalte, Inhaltemessung, Erkenntnisse über Zielgruppen und Produktentwicklung
+#### 2.9.4 Personalisierte Inhalte, Inhaltemessung, Erkenntnisse über Zielgruppen und Produktentwicklung
 
 Inhalte können basierend auf einem Profil personalisiert werden. Es können Daten hinzugefügt werden, um Inhalte besser zu personalisieren. Die Leistung von Inhalten kann gemessen werden. Erkenntnisse über Zielgruppen, die die Anzeigen und Inhalte gesehen haben, können abgeleitet werden. Daten können verwendet werden, um die Benutzerfreundlichkeit zu verbessern und Systeme und Software zu entwickeln. 
 
@@ -176,7 +172,7 @@ Um Produkte zu entwickeln und zu verbessern, können Anbieter Informationen verw
 
 Anbieter können keine Datenverarbeitungen durchführen, die in einem der anderen Verarbeitungszwecke definiert sind. 
 
-#### 2.9.6 Nutzung von Identifikationsmethoden netID
+#### 2.9.5 Nutzung von Identifikationsmethoden netID
 
 Wir erhalten von Ihrem netID Account-Anbieter den sog. netID Identifier, wenn Sie uns eine Zustimmung für die „Identifikation über netID“ erteilt haben. Hierüber können wir Sie beim Besuch unserer Angebote und Inhalte wiederzuerkennen.
 
@@ -346,11 +342,7 @@ Für die Bearbeitung von Kontaktanfragen verwenden wir:
 
 Darüber hinaus verwenden wir alle inhaltlichen Daten und Informationen des Anliegens – welche Daten und Informationen das sind, bestimmt der Betroffene durch seine Anfrage. Abhängig von der Anfrage, kann es sein, dass wir zusätzliche Informationen hinzuspeichern, etwa solche, die wir im Rahmen eines Gewinnspiels oder eines Vertragsabschlusses erhoben haben.
 
-### 3.7 Kommentare
-
-Für das Kommentieren der Inhalte müssen Sie sich mit einem Ihrer Social Media Accounts mit Username und Passwort anmelden. Diese Daten werden bei den Social Media Diensten verwaltet. Auch die Kommentare, die Sie eingeben, werden bei dem Dienstleister des Kommentarsystems abgelegt und durch die Einbettung auf unserer Webseite angezeigt. 
-
-### 3.8 Gewinnspielteilnahmen
+### 3.7 Gewinnspielteilnahmen
 
 Um unsere Gewinnspiele anbieten und durchführen zu können, müssen wir gewisse Daten über Sie verwenden. Diese sind bei der Anmeldung zum Gewinnspiel jeweils als Pflichtfelder gekennzeichnet und umfassen in der Regel:
 
@@ -361,7 +353,7 @@ Um unsere Gewinnspiele anbieten und durchführen zu können, müssen wir gewisse
 
 Zusätzlich zu diesen Pflichtangaben können Sie uns auch noch Ihre Telefonnummer und/oder Email-Adresse zur Verwendung bereitstellen. Sofern Sie uns eine entsprechende Einwilligung erteilt haben, verwenden wir diese Daten entsprechend zu Werbezwecken.
 
-### 3.9 Einbindung externer Inhalte
+### 3.8 Einbindung externer Inhalte
 
 Für die Einbindung externer Inhalte ist technisch Ihre IP-Adresse erforderlich. Nur wenn diese an die externe Partei weitergegeben wird, ist eine Ausspielung der jeweiligen Inhalte möglich.
 

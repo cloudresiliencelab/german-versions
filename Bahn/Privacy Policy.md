@@ -105,7 +105,7 @@ Der Komfort Check-In bietet Ihnen in ausgewählten Zügen des DB Fernverkehrs di
 *   Name der/des BahnCard-Inhabers/Inhaberin 
 
 **Buchung einer BahnCard**   
-Beim Erwerb einer BahnCard werden Kontakt- und Identifizierungsdaten (bspw. Geburtsdatum) erfasst. Nähere Informationen zur Datenverarbeitung im Zusammenhang mit der BahnCard finden Sie unter: [https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard](https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard) 
+Beim Erwerb einer BahnCard werden Kontakt- und Identifizierungsdaten (bspw. Geburtsdatum) erfasst. Nähere Informationen zur Datenverarbeitung im Zusammenhang mit der BahnCard finden Sie unter der folgenden Seite: [https://www.db-fernverkehr.com/datenschutzhinweise](https://www.db-fernverkehr.com/datenschutzhinweise#allgemeine-datenschutzhinweise)
 
 **Angebote zu ähnlichen Waren oder Dienstleistungen**   
 Ihre im Zuge der Registrierung oder im Rahmen der Vertragsdurchführung (z.B. Buchung eines Digitalen Tickets) erhobene E-Mail-Adresse verwenden wir außerdem, um Sie per E-Mail über eigene, ähnliche Waren oder Dienstleistungen zu informieren. Die Verarbeitung der E-Mail-Adresse erfolgt in diesem Fall auf Grundlage unseres überwiegenden berechtigten Interesses an der Bewerbung unserer Waren und Dienstleistungen (Art. 6 Abs. 1 lit. f) DSGVO).   

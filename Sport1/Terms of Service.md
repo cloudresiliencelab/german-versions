@@ -159,6 +159,6 @@ Die Modalitäten der Zahlungsabwicklung, Rechnungslegung ist Gegenstand der Nutz
 
 Der Vertrag kommt am Tag der Registrierung und mit vollständiger Zahlung der ersten monatlichen Vergütung zustande. Die Vertragsdauer beträgt einen Monat, der Vertrag verlängert sich automatisch um jeweils einen weiteren Monat, wenn er nicht vom Kunden über dessen Account oder in Textform (z.B. per E-Mail) oder von SPORT1 in Textform (z.B. per E-Mail) vor Ablauf des jeweiligen Monats gekündigt wird. Das Recht zur Kündigung aus wichtigem Grund bleibt hiervon unberührt.
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fnutzungsbedingungen%0AZugriffsdatum%3A%202025-12-06%2013%3A20%3A50%0A%C3%84nderungsdatum%20des%20Artikels%3A%2019.4.2023%2C%2011%3A29%3A00%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fnutzungsbedingungen%0AZugriffsdatum%3A%202025-12-07%2001%3A27%3A16%0A%C3%84nderungsdatum%20des%20Artikels%3A%2019.4.2023%2C%2011%3A29%3A00%0A)
 
 [Zur Startseite](https://www.sport1.de/?b2h=true)

@@ -5,7 +5,7 @@ Last updated on 28.11.2025
 
 Find the previous iteration of Conditions of Use & Sale on [Previous versions of Legal policies](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q). This version of the Conditions of Use & Sale applies to all orders which were placed on or after the last update date indicated above. For orders placed before this date, please access previous versions of the Conditions of Use & Sale and select the version that applied at the time of your order.
 
-**_Click [here](https://www.amazon.de/-/en/hz/cs/help?nodeId=TUQVHhK8W2MJ7DPdo6) to see a summary of the main elements of these Conditions of Use._**
+**_Click [here](https://www.amazon.de/hz/cs/help?nodeId=TUQVHhK8W2MJ7DPdo6) to see a summary of the main elements of these Conditions of Use._**
 
 Welcome to Amazon.de
 

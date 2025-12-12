@@ -1,4 +1,4 @@
-Datenschutzerklärung für die Website und die Applikationen Schwäbischer Verlag GmbH & Co. KG Drexler, Gessler (Stand 08.05.2025).
+Datenschutzerklärung für die Website und die Applikationen Schwäbischer Verlag GmbH & Co. KG Drexler, Gessler (Stand 11.12.2025).
 =================================================================================================================================
 
 #### Inhaltsverzeichnis
@@ -232,6 +232,16 @@ Der Einsatz von ConsentManager erfolgt, um die gesetzlich vorgeschriebenen Einwi
 **Auftragsverarbeitung**
 
 Wir haben einen Vertrag über Auftragsverarbeitung (AVV) zur Nutzung des oben genannten Dienstes geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet.
+
+### Einwilligung mit contentpass
+
+Auf unserer Website bieten wir Ihnen einen Service zum [werbe- und tracking-freien Zugang mit contentpass](https://contentpass.net/) an. Dies ist ein Angebot der Content Pass GmbH, Wolfswerder 58, 14532 Kleinmachnow, Deutschland. Beim Abschluss des Service wird contentpass Ihr Vertragspartner.
+
+Um Ihnen diesen Service auf unserer Webseite anzuzeigen und damit anbieten zu können, verarbeitet contentpass, in unserem Auftrag, zu Beginn Ihres Webseitenaufrufs Ihre IP-Adresse. Für die Registrierung sowie die Vertragsabwicklung des contentpass und die damit einhergehende Datenverarbeitung ist contentpass Verantwortlicher im Sinne der DS-GVO. Wir sind ausschließlich Verantwortlicher für die Verarbeitung Ihrer IP-Adresse.
+
+Grundlage für die Datenverarbeitung der IP-Adresse, im Rahmen unserer Auftragsverarbeitung mit contentpass, ist unser berechtigtes Interesse Ihnen die Möglichkeit zu bieten, unsere Webseite werbe- und tracking-frei aufrufen zu können und Ihr Interesse an der Nutzung unserer Webseite praktisch ohne Werbung und Tracking \[Art. 6 Abs. 1 S. 1 lit. f) GDPR\]. Zudem erfüllen wir hiermit die rechtliche Verpflichtung, eine rechtskonforme Zustimmung in einwilligungsbedürftige Datenverarbeitungen einzuholen \[Art. 6 Abs. 1 lit. c) GDPR\].
+
+Bitte klicken Sie auf die folgenden Links um [mehr zum Datenschutz bei contentpass](https://www.contentpass.net/privacy) zu erfahren, sich [in Ihren contentpass Account einzuloggen](https://www.contentpass.net/login/), oder sich [für contentpass zu registrieren](https://www.contentpass.net/register/).
 
 ### Server-Log-Dateien
 

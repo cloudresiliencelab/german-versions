@@ -93,7 +93,7 @@ Amazon respects the intellectual property of others. If you believe that your in
 9 AMAZON SOFTWARE TERMS
 -----------------------
 
-In addition to these Conditions of Use, the terms found on the help page [Amazon Games and Software Terms of Use](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201441190) apply to any software (including any updates or upgrades to the software and any related documentation) that we make available to you from time to time for your use in connection with Amazon Services (the "Amazon Software").
+In addition to these Conditions of Use, the terms found on the help page [Amazon Games and Software Terms of Use](https://www.amazon.de/gp/help/customer/display.html?nodeId=201441190) apply to any software (including any updates or upgrades to the software and any related documentation) that we make available to you from time to time for your use in connection with Amazon Services (the "Amazon Software").
 
 10 OTHER BUSINESS
 -----------------

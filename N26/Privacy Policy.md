@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 12.7., Datum: 01.12.2025)
+(Version 12.8., Datum: 16.12.2025)
 
 
 
@@ -434,37 +434,37 @@ Wenn Sie Ihren N26 Crypto Service nutzen, verarbeiten wir Ihre personenbezogenen
 
 
 
-15\. N26 Aktien \& ETFs
+15\. Datenverarbeitung im Rahmen von N26 Aktien \& ETFs
 
-Damit du N26 Aktien \& ETFs und die Trading-Angebote der Upvest Securities GmbH, Schlesische Straße 33/34,10997 Berlin ("Upvest") innerhalb deiner N26 App nutzen kannst, verarbeiten N26 und Upvest deinepersonenbezogenen Daten.
+Damit du N26 Aktien \& ETFs (Exchange-Traded Funds), einschließlich ETCs (Exchange-Traded Commodities) unddie Trading-Angebote der Upvest Securities GmbH, Schlesische Straße 33/34, 10997 Berlin ("Upvest") innerhalbdeiner N26 App nutzen kannst, verarbeiten N26 und Upvest deine personenbezogenen Daten.
 
 
 
 Upvest ist für die Verarbeitung deiner personenbezogenen Daten zur Ausführung der von dir über die N26 Apperteilten Aufträge und Transaktionen verantwortlich (einschließlich der Abonnement von Sofort-Fonds). Es
 
-gelten die Allgemeinen Geschäftsbedingungen von Upvest und die Datenschutzerklärung von Upvest. In
+gelten die Allgemeinen Geschäftsbedingungen von Upvest und die Datenschutzhinweise von Upvest. In diesem
 
-diesem Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als Auftragsverarbeiter vonUpvest im Sinne des Art. 28 DSGVO für die folgenden Zwecke:
+Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als Auftragsverarbeiter von Upvestim Sinne des Art. 28 DSGVO für die folgenden Zwecke:
 
 
 
 ● Prüfung der Teilnahmeberechtigung: Die Nutzung von N26 Aktien \& ETFs ist für registrierte Kundenvöllig freiwillig. Die Prüfung der Berechtigung erfolgt gemäß den für dieses Produkt geltendenGeschäftsbedingungen und ist ein notwendiger Schritt vor dem Abschluss des Vertrages. Zu diesemZweck verarbeiten wir Informationen wie deinen steuerlichen Wohnsitz und deinen N26-Kontostatus.
 
-● Einrichtung eines Kontos bei Upvest gemäß den Allgemeinen Geschäftsbedingungen. Zu diesemZweck verarbeiten wir die folgende Informationen:
 
-○ Informationen, die bei der Eröffnung deines N26-Kontos von dir erhoben wurden und die fürdie Einrichtung deines Kontos bei Upvest erforderlich sind: Datum deinesIdentifizierungsverfahrens, dein vollständiger Name, deine E-Mail-Adresse, deineMobiltelefonnummer, dein Geburtsdatum, dein Geburtsort, deine Anschrift, dein steuerlicherWohnsitz, dein Geschlecht, deine Staatsangehörigkeit(en), eine Kopie deinesAusweisdokumentes und die Art des Ausweisdokumentes, die Nummer, dasAusstellungsdatum und das Ablaufdatum des Ausweisdokumentes, Fotos, die im Rahmen desIdentifizierungsverfahrens gemacht wurden.
 
-○ Bestätigung der folgenden Informationen für Steuererklärungszwecke: steuerlicher Wohnsitz,Steuer-ID und geltende Steuerbefreiungen. Bitte beachte, dass du, wenn dein steuerlicherWohnsitz und deine Steuer-ID nicht korrekt sind oder dein Identifizierungsverfahren älter als24 Monate ist, eine Bestätigung erforderlich ist, dass du immer noch in Deutschland steuerlichansässig bist und deine Steuer-ID noch gültig ist - dazu kann es erforderlich sein, dasszusätzliche Informationen erhoben werden.
+● Einrichtung eines Kontos bei Upvest gemäß den Allgemeinen Geschäftsbedingungen. Zu diesem Zweckverarbeiten wir die folgende Informationen: ○ Informationen, die bei der Eröffnung deines N26-Kontosvon dir erhoben wurden und die für die Einrichtung deines Kontos bei Upvest erforderlich sind: Datumdeines Identifizierungsverfahrens, dein vollständiger Name, deine E-Mail-Adresse, deineMobiltelefonnummer, dein Geburtsdatum, dein Geburtsort, deine Anschrift, dein steuerlicherWohnsitz, dein Geschlecht, deine Staatsangehörigkeit(en), eine Kopie deines Ausweisdokumentes unddie Art des Ausweisdokumentes, die Nummer, das Ausstellungsdatum und das Ablaufdatum desAusweisdokumentes, Fotos, die im Rahmen des Identifizierungsverfahrens gemacht wurden. ○
+
+Bestätigung der folgenden Informationen für Steuererklärungszwecke: steuerlicher Wohnsitz,Steuer-ID und geltende Steuerbefreiungen. Bitte beachte, dass du, wenn dein steuerlicher Wohnsitzund deine Steuer-ID nicht korrekt sind oder dein Identifizierungsverfahren älter als 24 Monate ist, eineBestätigung erforderlich ist, dass du immer noch in Deutschland steuerlich ansässig bist und deineSteuer-ID noch gültig ist - dazu kann es erforderlich sein, dass zusätzliche Informationen erhobenwerden.
+
+
 
 ● Ausführung deiner Aufträge und Transaktionen durch Upvest: Verarbeitung der erforderlichenInformationen im Zusammenhang mit deinen Aufträgen und Transaktionen, d. h. Betrag, Art undHäufigkeit (insbesondere im Fall von Investitionsplänen) der von Ihnen erteilten Aufträge undTransaktionen. Dies schließt auch alle Sofort-Fonds ein, auf die du abonniert hast.
 
-● Erfüllung gesetzlicher Verpflichtungen: Verarbeitung personenbezogener Daten zur Erfüllung derfür Upvest geltenden gesetzlichen Verpflichtungen, wie z. B. die Überwachung von Zahlungsvorgängen
-
-im Hinblick auf betrügerische Transaktionen, die Verpflichtung zur Feststellung der Kundenidentitätund die Überprüfung zur Bekämpfung von Geldwäsche (hauptsächlich aufgrund der Verordnung (EU)Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte fürFinanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 ("MiFIR") und des GwG).
+● Erfüllung gesetzlicher Verpflichtungen: Verarbeitung personenbezogener Daten zur Erfüllung der fürUpvest geltenden gesetzlichen Verpflichtungen, wie z. B. die Beurteilung Ihres Wissensstands in Bezugauf den Handel, die Überwachung von Zahlungsvorgängen im Hinblick auf betrügerischeTransaktionen, die Verpflichtung zur Feststellung der Kundenidentität und die Überprüfung zurBekämpfung von Geldwäsche (hauptsächlich aufgrund der Verordnung (EU) Nr. 600/2014 desEuropäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zurÄnderung der Verordnung (EU) Nr. 648/2012 („MiFIR"), die Richtlinie über Märkte fürFinanzinstrumente II – Richtlinie 2014/65/EU („MiFID II“) und des GwG).
 
 
 
-N26 bleibt für die Verarbeitung deiner personenbezogenen Daten verantwortlich für die Bereitstellung dieserFunktion in deiner N26-App und für die Sicherstellung, dass du Aufträge und Transaktionen direkt von deinemHauptkonto in dein Upvest-Konto übertragen kannst, gemäß Art. 6 (1) b) DSGVO, in Übereinstimmung mit denvon dir mit N26 unterzeichneten Allgemeinen Geschäftsbedingungen. Die in dieser Datenschutzerklärungenthaltenen Informationen über die Nutzung deines Hauptkontos gelten für die Verarbeitungpersonenbezogener Daten durch N26 als Verantwortlicher. N26 wird deine Daten auch als Verantwortlicherverarbeiten, um die unmittelbar auf N26 anwendbaren gesetzlichen Verpflichtungen aus der MiFIR und demGWG zu erfüllen, gemäß Art. 6 (1) c) DSGVO.
+N26 bleibt für die Verarbeitung deiner personenbezogenen Daten verantwortlich für die Bereitstellung dieserFunktion in deiner N26-App und für die Sicherstellung, dass du Aufträge und Transaktionen direkt von deinemHauptkonto in dein Upvest-Konto übertragen kannst, gemäß Art. 6 (1) b) DSGVO, in Übereinstimmung mit denvon dir mit N26 unterzeichneten Allgemeinen Geschäftsbedingungen. Die in dieser Datenschutzerklärungenthaltenen Informationen über die Nutzung deines Hauptkontos gelten für die Verarbeitungpersonenbezogener Daten durch N26 als Verantwortlicher. N26 wird deine Daten auch als Verantwortlicherverarbeiten, um die unmittelbar auf N26 anwendbaren gesetzlichen Verpflichtungen aus der MiFIR, MiFID II unddem GWG zu erfüllen, gemäß Art. 6 (1) c) DSGVO.
 
 
 
@@ -486,9 +486,9 @@ Um diese Insights zu erstellen und anzuzeigen, verarbeiten wir Daten aus deinen 
 
 Deine personenbezogenen Daten werden zum Zweck der Erstellung und Anzeige personalisierter Insightsmithilfe der KI in deiner N26 App verarbeitet, auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Dukannst deine Einwilligung jederzeit in den Einstellungen der N26 App über Home \> Personalisieren \> KI-Insights\> Deaktivierung des entsprechenden Toggles widerrufen.
 
-
-
 Wir speichern die für diese Funktion verarbeiteten Daten bis zu sechs Monate, um den ordnungsgemäßenBetrieb sicherzustellen und die Leistung der Funktion zu optimieren. Diese Verarbeitung erfolgt auf Grundlageunseres berechtigten Interesses an der Verbesserung unserer Servicequalität und der Nutzererfahrung (Art. 6Abs. 1 lit. f DSGVO). Wenn du deine Einwilligung widerrufst, werden die Daten unverzüglich gelöscht.
+
+
 
 18\. Datenverarbeitung bei der Anzeige von In-App Updates
 
@@ -512,7 +512,11 @@ Darüber hinaus verarbeiten wir deine Daten im Rahmen unseres berechtigten Inter
 
 20\. Datenverarbeitung bei der Übermittlung einer Betrugsmeldung über dasWebformular
 
-Bei der Übermittlung einer Betrugsmeldung auf unserer Webseite werden dein Name und deine IBAN erhobenund verarbeitet, soweit dies erforderlich ist, damit N26 die betrügerische Transaktion mit hoher Sicherheitidentifizieren kann. Das ist der Fall wenn es mehrere Transaktionen mit demselben Betrag mit demselbenDatum oder eine Diskrepanz im Transaktionszeitpunkt gibt. Falls du einen Aspekt weiter klären und die Qualitätdes Berichts verbessern möchtest, verarbeiten wir auch die personenbezogenen Daten, die du inFreitextfeldern des Formulars angibst. Wir verarbeiten diese Daten im Rahmen unserer Ermittlungen zurBekämpfung von Finanzkriminalität auf Grundlage unseres berechtigten Interesses an der Einhaltung unserergesetzlichen Verpflichtungen zur Betrugsprävention gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben.
+Bei der Übermittlung einer Betrugsmeldung auf unserer Webseite werden dein Name und deine IBAN erhobenund verarbeitet, soweit dies erforderlich ist, damit N26 die betrügerische Transaktion mit hoher Sicherheitidentifizieren kann. Das ist der Fall wenn es mehrere Transaktionen mit demselben Betrag mit demselbenDatum oder eine Diskrepanz im Transaktionszeitpunkt gibt. Falls du einen Aspekt weiter klären und die Qualität
+
+des Berichts verbessern möchtest, verarbeiten wir auch die personenbezogenen Daten, die du inFreitextfeldern des Formulars angibst. Wir verarbeiten diese Daten im Rahmen unserer Ermittlungen zurBekämpfung von Finanzkriminalität auf Grundlage unseres berechtigten Interesses an der Einhaltung unserergesetzlichen Verpflichtungen zur Betrugsprävention gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben.
+
+
 
 21. Datenverarbeitung im Rahmen transaktionaler \& informativerKommunikation
 
@@ -532,13 +536,9 @@ hier zur Verfügung steht. Die Bereitstellung deiner personenbezogenen Daten ist
 
 den Abschluss des Versicherungsvertrags erforderlich.
 
-
-
 23\. Datenverarbeitung im Rahmen des N26 Tagesgeldkontos
 
-Das N26 Tagesgeldkonto bietet dir die Möglichkeit, Zinsen auf deine Ersparnisse zu erhalten. Wenn du dichdafür entscheidest, ein N26 Tagesgeldkonto zu eröffnen, verarbeiten wir, um das Produkt anzubieten, deinenNamen, deine Adresse, dein Ausweisdokument, deine Steueridentifikationsnummer, deinen Steuerwohnsitz,deine Kundennummer, deine Gerätekennung und dein mobiles Betriebssystem. Wir können auch deineUS-amerikanische Individual-Steueridentifikationsnummer (Individual Taxpayer Identification Number, ITIN)
-
-oder Sozialversicherungsnummer (Social Security Number, SSN) verarbeiten, wenn du in den USAsteuerpflichtig bist.
+Das N26 Tagesgeldkonto bietet dir die Möglichkeit, Zinsen auf deine Ersparnisse zu erhalten. Wenn du dichdafür entscheidest, ein N26 Tagesgeldkonto zu eröffnen, verarbeiten wir, um das Produkt anzubieten, deinenNamen, deine Adresse, dein Ausweisdokument, deine Steueridentifikationsnummer, deinen Steuerwohnsitz,deine Kundennummer, deine Gerätekennung und dein mobiles Betriebssystem. Wir können auch deineUS-amerikanische Individual-Steueridentifikationsnummer (Individual Taxpayer Identification Number, ITIN)oder Sozialversicherungsnummer (Social Security Number, SSN) verarbeiten, wenn du in den USAsteuerpflichtig bist.
 
 
 
@@ -560,9 +560,13 @@ Darüber hinaus verarbeiten wir Daten, die du uns über den erwarteten monatlich
 
 24\. Aufbereitung von anonymisierten statistischen Datensätzen
 
-Wir bereiten anonymisierte statistische Datensätze über das Ausgabeverhalten unserer Kunden auf, umPrognosen zu erstellen, die Produktentwicklung zu optimieren sowie das Verbraucherverhalten zu verstehen,und bewerten dadurch die Leistung unseres Unternehmens. Die Berichte werden unter Verwendung vonInformationen über dich und andere Kunden erstellt. Die auf diese Weise verwendeten Informationen werdenjedoch anonymisiert, sodass es sich nicht mehr um personenbezogene Daten handelt. Du kannst im Rahmenvon anonymisierten statistischen Daten also nicht als Individuum zurückverfolgt werden. Wir dürfen dieseDatensätze an Dritte weitergeben. Diese Verarbeitung erfolgt auf der Grundlage der rechtlichenVerpflichtungen von N26 gemäß Art. 6 (1) c) DSGVO oder auf der Grundlage des berechtigten Interesses vonN26 gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben.
+Wir bereiten anonymisierte statistische Datensätze über das Ausgabeverhalten unserer Kunden auf, umPrognosen zu erstellen, die Produktentwicklung zu optimieren sowie das Verbraucherverhalten zu verstehen,und bewerten dadurch die Leistung unseres Unternehmens. Die Berichte werden unter Verwendung vonInformationen über dich und andere Kunden erstellt. Die auf diese Weise verwendeten Informationen werdenjedoch anonymisiert, sodass es sich nicht mehr um personenbezogene Daten handelt. Du kannst im Rahmenvon anonymisierten statistischen Daten also nicht als Individuum zurückverfolgt werden. Wir dürfen dieseDatensätze an Dritte weitergeben. Diese Verarbeitung erfolgt auf der Grundlage der rechtlichen
+
+Verpflichtungen von N26 gemäß Art. 6 (1) c) DSGVO oder auf der Grundlage des berechtigten Interesses vonN26 gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben.
 
 Das folgende Beispiel veranschaulicht, wie wir anonymisierte Datensätze im Rahmen unserer rechtlichenVerpflichtungen nutzen: Der Entschädigungsfonds deutscher Banken („EdB“) verpflichtet uns, anonymisierteDatensätze zur Verfügung zu stellen, die es dem EdB ermöglichen, über ersatzpflichtige Einlagen im Sinne desEinlagensicherungsgesetzes auf dem Laufenden zu bleiben.
+
+
 
 25\. Datenübermittlung im Rahmen von Mastercard Automatic Billing UpdaterProgramm
 
@@ -596,8 +600,6 @@ Sofern du dich dazu entschieden hast, auf die Warteliste aufgenommen zu werden, 
 
 27\. Datenverarbeitung im Zusammenhang mit unseren Kreditprodukten
 
-
-
 Im Zusammenhang mit unseren Kreditprodukten – also dem N26-Überziehungskredit, N26-Kredit undN26-Ratenkredit – verarbeiten wir deine Daten wie in diesem Abschnitt beschrieben.
 
 
@@ -606,9 +608,7 @@ Im Zusammenhang mit unseren Kreditprodukten – also dem N26-Überziehungskredit
 
 
 
-Um das mit der Bereitstellung unserer Kreditprodukte verbundene Kreditrisiko zu steuern, bewerten wir deinefinanzielle Situation. Dazu gehört eine Kreditwürdigkeitsprüfung, bei der wir mithilfe standardisierterstatistisch-mathematischer Verfahren einen internen Kreditscore berechnen und deine monatliche
-
-Rückzahlungsfähigkeit schätzen. Dies stellt ein Profiling dar und kann den Einsatz vonMachine-Learning-Verfahren beinhalten.
+Um das mit der Bereitstellung unserer Kreditprodukte verbundene Kreditrisiko zu steuern, bewerten wir deinefinanzielle Situation. Dazu gehört eine Kreditwürdigkeitsprüfung, bei der wir mithilfe standardisierterstatistisch-mathematischer Verfahren einen internen Kreditscore berechnen und deine monatlicheRückzahlungsfähigkeit schätzen. Dies stellt ein Profiling dar und kann den Einsatz vonMachine-Learning-Verfahren beinhalten.
 
 
 
@@ -648,9 +648,9 @@ Hierfür berücksichtigen wir deinen internen Kreditscore und deine geschätzte 
 
 ● Kreditüberwachung
 
-
-
 Wir überprüfen aktive Kreditprodukte regelmäßig – sowohl zur Bewertung der Leistung des zugrunde liegendenKreditvertrags als auch zur Steuerung des damit verbundenen Kreditrisikos. Dabei prüfen wir, ob dievertraglichen Verpflichtungen weiterhin eingehalten werden und ob das Risiko im Einklang mit unserer internenRisikobereitschaft bleibt. Dabei prüfen wir, ob die Vertragsbedingungen des jeweiligen Kreditvertrags weiterhinerfüllt werden und ob das Risiko im Einklang mit unserer internen Risikobereitschaft bleibt.
+
+
 
 In diesem Zusammenhang können wir deinen internen Kreditscore und deine Rückzahlungsfähigkeit, wie zuvorbeschrieben, deine Nutzung des jeweiligen Kreditprodukts sowie weitere relevante Datenpunkte aus den obengenannten Kategorien heranziehen – jeweils getrennt und soweit relevant. Wie bei der Berechtigungsprüfungnutzen wir auch hier objektive Kriterien, um festzustellen, ob du die Voraussetzungen des Produkts weiterhinerfüllst.
 
@@ -686,7 +686,11 @@ Wenn Du uns dein Feedback in der App durch die Teilnahme an Umfragen mitteilen, 
 
 
 
-Abhängig von der Umfrage verarbeiten wir möglicherweise auch den Inhalt deiner Antworten undinsbesondere die Informationen, die du uns freiwillig mitteilen. Darüber hinaus können wir die durch dieUmfrage gesammelten Daten mit anderen Kundendaten kombinieren, die wir im Rahmen unsererVertragsbeziehung mit dir verarbeiten, einschließlich deiner Kunden-ID, Datum der Kontoerstellung, Art derMitgliedschaft, Altersgruppe, Geschlecht, Land und Wohnort. In diesem Fall weisen wir dich im jeweiligenInformationsvermerk zu Beginn der Befragung entsprechend darauf hin. Wir verarbeiten deine Daten wiebeschrieben zu Marktforschungs- und Analysezwecken sowie zur Verbesserung unserer Produkte, Prozesseund Serviceleistungen auf Grundlage unserer berechtigten Interessen gemäß Art. 6 (1) f) DSGVO.
+Abhängig von der Umfrage verarbeiten wir möglicherweise auch den Inhalt deiner Antworten undinsbesondere die Informationen, die du uns freiwillig mitteilen. Darüber hinaus können wir die durch dieUmfrage gesammelten Daten mit anderen Kundendaten kombinieren, die wir im Rahmen unserer
+
+Vertragsbeziehung mit dir verarbeiten, einschließlich deiner Kunden-ID, Datum der Kontoerstellung, Art derMitgliedschaft, Altersgruppe, Geschlecht, Land und Wohnort. In diesem Fall weisen wir dich im jeweiligenInformationsvermerk zu Beginn der Befragung entsprechend darauf hin. Wir verarbeiten deine Daten wiebeschrieben zu Marktforschungs- und Analysezwecken sowie zur Verbesserung unserer Produkte, Prozesseund Serviceleistungen auf Grundlage unserer berechtigten Interessen gemäß Art. 6 (1) f) DSGVO.
+
+
 
 Wenn Sie sich entscheiden, dein Feedback mit uns zu teilen, können wir die erhaltenen Daten anonymisieren,um Forschungsberichte und Veröffentlichungen zu erstellen. Dies erfolgt auf Grundlage unseres berechtigtenInteresses, statistische Erhebungen und Berichte und Analysen zur Nutzung der von N26 bereitgestelltenProdukte und Funktionen durch Kunden durchzuführen und zu erstellen, gemäß Art. 6 (1) f) DSGVO.
 
@@ -710,13 +714,13 @@ Verarbeitung deiner Daten durch Currence findest du in der iDeal-Erklärung zu D
 
 
 
-Falls du ein iDEAL-Profil in Verbindung mit deinem N26-Konto erstellst, sind N26 und Currence gemeinsamVerantwortliche, deines iDEAL-Profils zu ermöglichen. Ein iDEAL-Profil ermöglicht schnellere iDEAL-Zahlungenund Käufe, indem es dir erlaubt, relevante Informationen innerhalb des iDEAL-Systems zu speichern. Um deineIdentität zu überprüfen sowie das iDEAL-Profil zu registrieren und zu verwalten, verarbeiten wir gemeinsamdeinen Namen, deine Adresse, deine Telefonnummer, deine E-Mail-Adresse, die maskierte IBAN deinesausgewählten N26-Kontos (nur die ersten 8 und die letzten 4 Zeichen), eine einzigartige iDEAL-Profilkennungund den Zeitstempel deiner iDEAL-Profilregistrierung. Dies geschieht zur Ausführung unserer Vereinbarung mitdir gemäß Art. 6 Abs. 1 b DSGVO.
+Falls du ein iDEAL-Profil in Verbindung mit deinem N26-Konto erstellst, sind N26 und Currence gemeinsamVerantwortliche, deines iDEAL-Profils zu ermöglichen. Ein iDEAL-Profil ermöglicht schnellere iDEAL-Zahlungenund Käufe, indem es dir erlaubt, relevante Informationen innerhalb des iDEAL-Systems zu speichern. Um deineIdentität zu überprüfen sowie das iDEAL-Profil zu registrieren und zu verwalten, verarbeiten wir gemeinsamdeinen Namen, deine Adresse, deine Telefonnummer, deine E-Mail-Adresse, die maskierte IBAN deinesausgewählten N26-Kontos (nur die ersten 8 und die letzten 4 Zeichen), eine einzigartige iDEAL-Profilkennung
+
+und den Zeitstempel deiner iDEAL-Profilregistrierung. Dies geschieht zur Ausführung unserer Vereinbarung mitdir gemäß Art. 6 Abs. 1 b DSGVO.
 
 
 
-Darüber hinaus verarbeiten wir deine Daten zur Aufdeckung und Verhinderung von Betrug und Straftaten,einschließlich Geldwäsche und Terrorismusfinanzierung, sowie zum Risikomanagement und zu Meldezweckenauf der Grundlage unserer berechtigten Interessen gemäß Art. 6 (1) f) DSGVO. Weitere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt Il. oben. Zudem
-
-verarbeiten wir deine Daten, um unseren rechtlichen Verpflichtungen nachzukommen, die sich aus dengeltenden Gesetzen und regulatorischen Anforderungen ergeben, einschließlich der Gesetze zur Bekämpfungvon Geldwäsche und Steuern sowie anderer verbindlicher Maßnahmen in Bezug auf finanzielleAngelegenheiten, basierend auf Art. 6 (1) c) DSGVO.
+Darüber hinaus verarbeiten wir deine Daten zur Aufdeckung und Verhinderung von Betrug und Straftaten,einschließlich Geldwäsche und Terrorismusfinanzierung, sowie zum Risikomanagement und zu Meldezweckenauf der Grundlage unserer berechtigten Interessen gemäß Art. 6 (1) f) DSGVO. Weitere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt Il. oben. Zudemverarbeiten wir deine Daten, um unseren rechtlichen Verpflichtungen nachzukommen, die sich aus dengeltenden Gesetzen und regulatorischen Anforderungen ergeben, einschließlich der Gesetze zur Bekämpfungvon Geldwäsche und Steuern sowie anderer verbindlicher Maßnahmen in Bezug auf finanzielleAngelegenheiten, basierend auf Art. 6 (1) c) DSGVO.
 
 
 
@@ -742,7 +746,9 @@ Um dir die N26 SIM und die eSIM für Reisen bereitzustellen, sodass du die von d
 
 
 
-N26 ist Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten zur Überprüfung, ob du fürdieses Produkt berechtigt bist. Dabei werden bestimmte Informationen verarbeitet, wie z. B. deineN26-Kontonummer, der Gerätetyp, der mit Ihrem N26-Konto verbunden ist, Status und Art Ihres N26-Kontos,das Vorhandensein etwaiger Ansprüche im Zusammenhang mit deinem Konto sowie die von dir mit N26unterzeichneten Allgemeinen Geschäftsbedingungen. Die Rechtsgrundlage für diese Datenverarbeitung ist Art.6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags, insbesondere der geltenden AllgemeinenGeschäftsbedingungen für die N26 SIM und eSIM für Reisen, erforderlich ist.
+N26 ist Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten zur Überprüfung, ob du fürdieses Produkt berechtigt bist. Dabei werden bestimmte Informationen verarbeitet, wie z. B. deineN26-Kontonummer, der Gerätetyp, der mit Ihrem N26-Konto verbunden ist, Status und Art Ihres N26-Kontos,das Vorhandensein etwaiger Ansprüche im Zusammenhang mit deinem Konto sowie die von dir mit N26unterzeichneten Allgemeinen Geschäftsbedingungen. Die Rechtsgrundlage für diese Datenverarbeitung ist Art.
+
+6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags, insbesondere der geltenden AllgemeinenGeschäftsbedingungen für die N26 SIM und eSIM für Reisen, erforderlich ist.
 
 
 
@@ -751,6 +757,8 @@ N26 ist Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten zu
 Allgemeinen Geschäftsbedingungen und die Datenschutzerklärung von 1GLOBAL. In diesem Zusammenhang
 
 verarbeitet N26 im Auftrag von 1GLOBAL als Auftragsverarbeiter (gemäß Art. 28 DSGVO) die folgendenpersonenbezogenen Daten zu den nachfolgend genannten Zwecken und übermittelt diese an 1GLOBAL:
+
+
 
 1. N26 SIM
 
@@ -788,7 +796,9 @@ Wenn du diese Funktion aktivierst, wird ein verschlüsselter Schlüssel auf Grun
 
 
 
-Sobald du den Vorgang auf deinem Gerät autorisierst, greift Keyless vorübergehend auf die Kamera deinesGeräts zu, damit du ein Foto von dir machen kannst. Die rechtliche Grundlage für die Verarbeitung dieserbiometrischen Daten ist deine ausdrückliche Einwilligung gemäß Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO.Du kannst deine Einwilligung jederzeit in den Sicherheitseinstellungen der App widerrufen. Der Widerruf dieserEinwilligung deaktiviert die Gesichtserkennung für die Geräteverknüpfung, ohne die Rechtmäßigkeit der bisdahin erfolgten Verarbeitung zu beeinträchtigen.
+Sobald du den Vorgang auf deinem Gerät autorisierst, greift Keyless vorübergehend auf die Kamera deinesGeräts zu, damit du ein Foto von dir machen kannst. Die rechtliche Grundlage für die Verarbeitung dieserbiometrischen Daten ist deine ausdrückliche Einwilligung gemäß Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO.Du kannst deine Einwilligung jederzeit in den Sicherheitseinstellungen der App widerrufen. Der Widerruf dieser
+
+Einwilligung deaktiviert die Gesichtserkennung für die Geräteverknüpfung, ohne die Rechtmäßigkeit der bisdahin erfolgten Verarbeitung zu beeinträchtigen.
 
 
 
@@ -830,9 +840,7 @@ Wenn Sie innerhalb Ihres Kontos einen „N26 für Unter 18“-Space für Ihr min
 
 
 
-N26 bestätigt mittels einer automatisierten Entscheidung, dass die eingereichte Geburtsurkunde einauthentisches, von einer zuständigen Behörde ausgestelltes offizielles Dokument ist. Ebenfalls in diesem
-
-Prozess entnehmen wir dem Dokument die oben genannten Informationen, um die Identität desMinderjährigen zu überprüfen, und vergleichen diese mit den zuvor von Ihnen als Kontoinhaberbereitgestellten Angaben. N26 verarbeitet zudem Ihren Namen, um zu prüfen, dass Sie als Kontoinhaber dieelterliche Verantwortung für den Minderjährigen innehaben. Diese Verarbeitung erfolgt auf Grundlage dergesetzlichen Verpflichtungen von N26 gemäß Artikel 6 Abs. 1 lit. c DSGVO sowie im Rahmen vorvertraglicherMaßnahmen auf Ihren Wunsch hin, vor Abschluss eines Vertrags mit N26, gemäß Artikel 6 Abs. 1 lit. b undArtikel 22 Abs. 2 lit. a DSGVO.
+N26 bestätigt mittels einer automatisierten Entscheidung, dass die eingereichte Geburtsurkunde einauthentisches, von einer zuständigen Behörde ausgestelltes offizielles Dokument ist. Ebenfalls in diesemProzess entnehmen wir dem Dokument die oben genannten Informationen, um die Identität desMinderjährigen zu überprüfen, und vergleichen diese mit den zuvor von Ihnen als Kontoinhaberbereitgestellten Angaben. N26 verarbeitet zudem Ihren Namen, um zu prüfen, dass Sie als Kontoinhaber dieelterliche Verantwortung für den Minderjährigen innehaben. Diese Verarbeitung erfolgt auf Grundlage dergesetzlichen Verpflichtungen von N26 gemäß Artikel 6 Abs. 1 lit. c DSGVO sowie im Rahmen vorvertraglicherMaßnahmen auf Ihren Wunsch hin, vor Abschluss eines Vertrags mit N26, gemäß Artikel 6 Abs. 1 lit. b undArtikel 22 Abs. 2 lit. a DSGVO.
 
 
 
@@ -858,7 +866,9 @@ IV. Identifizierungsverfahren
 
 1\. Video-Ident-Verfahren
 
-N26 ist gesetzlich verpflichtet, bei der Kontoeröffnung deine Identität anhand eines gültigenAusweisdokuments zu überprüfen und bestimmte Daten aus dem Ausweisdokument zu speichern. Zu diesemZweck bieten wir dir über unseren Dienstleister IDNow und Sumsub ein Video-Ident-Verfahren an. N26 alsAuftragsverarbeiter übermittelt personenbezogene Daten zum Zwecke der gesetzlich vorgeschriebenenÜberprüfung deiner Identität an ihre externen Dienstleister. Im Hinblick auf das von IDNow oder Sumsubdurchgeführte Video-Ident-Verfahren verweisen wir auf die Allgemeinen Geschäftsbedingungen von IDNowbzw. Sumsub, die wir dir im Rahmen des Identifizierungsverfahrens zur Annahme zur Verfügung stellen.Während des Video-Ident-Verfahrens, das mittels eines aufgezeichneten Videoanrufs erfolgt, muss unserAnbieter IDNow bzw. Sumsub die Echtheit des von dir vorgelegten Personalausweises oder Reisepassessicherstellen. Du wirst gebeten, dich gemäß den Anweisungen des IDNow- bzw. Sumsub-Vertreters direkt imVideoanruf zu identifizieren. Deine personenbezogenen Daten werden zum Nachweis deiner Berechtigung zurNutzung unserer Dienste gemäß unseren gesetzlichen Verpflichtungen und auf Grundlage von Art. 6 (1) c)DSGVO erhoben. Um deine Identität anhand der im Identifizierungsverfahren aufgezeichneten Videos und desAusweisdokuments zu überprüfen, holen wir deine Einwilligung ein, sodass die Verarbeitung auf Art. 6 (1) a)DSGVO beruht. Nach Abschluss dieses Identifizierungsverfahrens werden deine personenbezogenen Daten solange aufbewahrt, wie es unsere gesetzlichen Verpflichtungen gemäß Art. 6 (1) c) DSGVO erfordern.
+N26 ist gesetzlich verpflichtet, bei der Kontoeröffnung deine Identität anhand eines gültigenAusweisdokuments zu überprüfen und bestimmte Daten aus dem Ausweisdokument zu speichern. Zu diesemZweck bieten wir dir über unseren Dienstleister IDNow und Sumsub ein Video-Ident-Verfahren an. N26 alsAuftragsverarbeiter übermittelt personenbezogene Daten zum Zwecke der gesetzlich vorgeschriebenenÜberprüfung deiner Identität an ihre externen Dienstleister. Im Hinblick auf das von IDNow oder Sumsubdurchgeführte Video-Ident-Verfahren verweisen wir auf die Allgemeinen Geschäftsbedingungen von IDNowbzw. Sumsub, die wir dir im Rahmen des Identifizierungsverfahrens zur Annahme zur Verfügung stellen.Während des Video-Ident-Verfahrens, das mittels eines aufgezeichneten Videoanrufs erfolgt, muss unserAnbieter IDNow bzw. Sumsub die Echtheit des von dir vorgelegten Personalausweises oder Reisepassessicherstellen. Du wirst gebeten, dich gemäß den Anweisungen des IDNow- bzw. Sumsub-Vertreters direkt im
+
+Videoanruf zu identifizieren. Deine personenbezogenen Daten werden zum Nachweis deiner Berechtigung zurNutzung unserer Dienste gemäß unseren gesetzlichen Verpflichtungen und auf Grundlage von Art. 6 (1) c)DSGVO erhoben. Um deine Identität anhand der im Identifizierungsverfahren aufgezeichneten Videos und desAusweisdokuments zu überprüfen, holen wir deine Einwilligung ein, sodass die Verarbeitung auf Art. 6 (1) a)DSGVO beruht. Nach Abschluss dieses Identifizierungsverfahrens werden deine personenbezogenen Daten solange aufbewahrt, wie es unsere gesetzlichen Verpflichtungen gemäß Art. 6 (1) c) DSGVO erfordern.
 
 
 
@@ -884,13 +894,13 @@ Deine personenbezogenen Daten werden aus Sicherheitsgründen und aufgrund unsere
 
 Als Alternative zum Video-Ident- und PostIdent-Verfahren bieten wir dir das eID-Verfahren über unserenDienstleister IDNow an.
 
-N26 übermittelt zu diesem Zweck personenbezogene Daten an den externen Dienstleister IDNow, der alsAuftragsverarbeiter tätig wird, um deine Identität gemäß den gesetzlichen Vorgaben zu überprüfen. Für dasvon IDNow durchgeführte eID-Identifikationsverfahren gelten die Allgemeinen Geschäftsbedingungen vonIDNow, die wir dir im Rahmen des Identifikationsprozesses zur Annahme zur Verfügung stellen.
+N26 übermittelt zu diesem Zweck personenbezogene Daten an den externen Dienstleister IDNow, der alsAuftragsverarbeiter tätig wird, um deine Identität gemäß den gesetzlichen Vorgaben zu überprüfen. Für das
+
+von IDNow durchgeführte eID-Identifikationsverfahren gelten die Allgemeinen Geschäftsbedingungen vonIDNow, die wir dir im Rahmen des Identifikationsprozesses zur Annahme zur Verfügung stellen.
 
 Im Rahmen des eID-Verfahrens muss unser Dienstleister IDNow die Echtheit deines Personalausweises oderReisepasses sicherstellen. Du wirst aufgefordert, dein Ausweisdokument an die NFC-Schnittstelle deinesSmartphones zu halten und während des Prozesses deine eID-PIN einzugeben – entsprechend denAnweisungen von IDNow. Die relevanten personenbezogenen Daten werden dabei überprüft und über einengesicherten, verschlüsselten Kanal übermittelt.
 
-Deine personenbezogenen Daten werden erhoben, um deine Berechtigung zur Nutzung unserer Dienstenachzuweisen, entsprechend unseren gesetzlichen Verpflichtungen und auf Grundlage von Art. 6 Abs. 1 lit. cDSGVO. Nach Abschluss des Identifikationsverfahrens werden deine personenbezogenen Daten so lange
-
-aufbewahrt, wie dies im Rahmen unserer gesetzlichen Verpflichtungen erforderlich ist, basierend auf Art. 6 Abs.1 lit. c DSGVO.
+Deine personenbezogenen Daten werden erhoben, um deine Berechtigung zur Nutzung unserer Dienstenachzuweisen, entsprechend unseren gesetzlichen Verpflichtungen und auf Grundlage von Art. 6 Abs. 1 lit. cDSGVO. Nach Abschluss des Identifikationsverfahrens werden deine personenbezogenen Daten so langeaufbewahrt, wie dies im Rahmen unserer gesetzlichen Verpflichtungen erforderlich ist, basierend auf Art. 6 Abs.1 lit. c DSGVO.
 
 
 
@@ -918,7 +928,9 @@ Nachdem du die oben genannten Schritte abgeschlossen hast, wirst du aufgefordert
 
 
 
-Deine personenbezogenen Daten werden zum Nachweis deiner Berechtigung zur Nutzung unserer Dienste aufGrundlage unserer gesetzlichen Verpflichtungen gemäß Art. 6 Abs. 1 lit. c DSGVO erhoben. Zur Überprüfungdeiner Identität anhand der im Identifizierungsverfahren erfassten Fotos und Videos sowie desAusweisdokuments holen wir deine Einwilligung ein; die Verarbeitung erfolgt daher auf Grundlage von Art. 6Abs. 1 lit. a DSGVO. Nach Abschluss dieses Identifizierungsverfahrens werden deine personenbezogenen Datenso lange gespeichert, wie es unsere gesetzlichen Verpflichtungen erfordern, auf Grundlage von Art. 6 Abs. 1 lit. cDSGVO.
+Deine personenbezogenen Daten werden zum Nachweis deiner Berechtigung zur Nutzung unserer Dienste aufGrundlage unserer gesetzlichen Verpflichtungen gemäß Art. 6 Abs. 1 lit. c DSGVO erhoben. Zur Überprüfungdeiner Identität anhand der im Identifizierungsverfahren erfassten Fotos und Videos sowie desAusweisdokuments holen wir deine Einwilligung ein; die Verarbeitung erfolgt daher auf Grundlage von Art. 6Abs. 1 lit. a DSGVO. Nach Abschluss dieses Identifizierungsverfahrens werden deine personenbezogenen Daten
+
+so lange gespeichert, wie es unsere gesetzlichen Verpflichtungen erfordern, auf Grundlage von Art. 6 Abs. 1 lit. cDSGVO.
 
 
 
@@ -928,9 +940,7 @@ N26 übermittelt personenbezogene Daten - die im Rahmen dieses Vertragsverhältn
 
 
 
-Die Zulässigkeit dieser Datenübermittlung basiert auf Art. 6 Abs. 1 lit. b) und Art. 6 Abs. 1 lit. f) DSGVO. EineDatenübermittlung auf der Grundlage von Art. 6 Abs. 1 lit. f) DSGVO ist nur zulässig, wenn dies zur Wahrung der
-
-berechtigten Interessen der Bank oder Dritter erforderlich ist und die Interessen oder Grundrechte undGrundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, nichtüberwiegen. Ein Datenaustausch mit der SCHUFA erfolgt auch zur Erfüllung rechtlicher Verpflichtungen bei derDurchführung von Kundenbonitätsprüfungen (§ 505a BGB; § 18a KWG).
+Die Zulässigkeit dieser Datenübermittlung basiert auf Art. 6 Abs. 1 lit. b) und Art. 6 Abs. 1 lit. f) DSGVO. EineDatenübermittlung auf der Grundlage von Art. 6 Abs. 1 lit. f) DSGVO ist nur zulässig, wenn dies zur Wahrung derberechtigten Interessen der Bank oder Dritter erforderlich ist und die Interessen oder Grundrechte undGrundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, nichtüberwiegen. Ein Datenaustausch mit der SCHUFA erfolgt auch zur Erfüllung rechtlicher Verpflichtungen bei derDurchführung von Kundenbonitätsprüfungen (§ 505a BGB; § 18a KWG).
 
 
 
@@ -948,8 +958,6 @@ VI. Social Plugins
 
 Auf unserer Website sowie in unserem Support Center nutzen wir Share Buttons von Facebook, YouTube,LinkedIn, Twitter, Instagram und Glassdoor. Bei diesen Share Buttons handelt es sich nicht um Plugins vonDritten, und sie senden weder aktiv personenbezogene Daten oder sonstige Informationen noch erlauben sieDrittparteien, diese abzurufen. Die Share Buttons sind Hyperlinks, welche dich lediglich zur Website derentsprechenden Drittpartei weiterleiten, wenn du darauf klickst.
 
-
-
 VII. N26 Social-Media-Seiten
 
 
@@ -966,9 +974,7 @@ N26 unterhält öffentlich zugängliche Social-Media-Seiten auf Facebook, Instag
 
 
 
-Facebook, ein soziales Netzwerk, das von Meta Platforms Ireland Ltd, 4 Grand Canal Square, Dublin 2, Irland (imFolgenden "Meta") betrieben wird, stellt uns Nutzungsstatistiken zur Verfügung, die sich auf die Anzahl derWebsite-Besucher, die demografische Zusammensetzung der Website-Besucher und die Nutzung der einzelnenFunktionalitäten beziehen. Meta stellt diese Statistiken aus personenbezogenen Daten zusammen, die Metaerfasst, wenn du unsere Facebook-Seite besuchst. Diese Datenverarbeitung dient unserem berechtigtenInteresse, die Nutzererfahrung für unsere Seitenbesucher zielgruppenorientiert zu verbessern. DieRechtsgrundlage für diese Datenverarbeitung ist unser berechtigtes Interesse gemäß Art. 6 (1) f) DSGVO.Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du inAbschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten, die Facebook zur Erstellung
-
-dieser Statistiken erhebt und können diese statistischen Daten nicht mit den Profilen unserer Follower odereinzelner Nutzer verknüpfen.
+Facebook, ein soziales Netzwerk, das von Meta Platforms Ireland Ltd, 4 Grand Canal Square, Dublin 2, Irland (imFolgenden "Meta") betrieben wird, stellt uns Nutzungsstatistiken zur Verfügung, die sich auf die Anzahl derWebsite-Besucher, die demografische Zusammensetzung der Website-Besucher und die Nutzung der einzelnenFunktionalitäten beziehen. Meta stellt diese Statistiken aus personenbezogenen Daten zusammen, die Metaerfasst, wenn du unsere Facebook-Seite besuchst. Diese Datenverarbeitung dient unserem berechtigtenInteresse, die Nutzererfahrung für unsere Seitenbesucher zielgruppenorientiert zu verbessern. DieRechtsgrundlage für diese Datenverarbeitung ist unser berechtigtes Interesse gemäß Art. 6 (1) f) DSGVO.Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du inAbschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten, die Facebook zur Erstellungdieser Statistiken erhebt und können diese statistischen Daten nicht mit den Profilen unserer Follower odereinzelner Nutzer verknüpfen.
 
 
 
@@ -980,7 +986,9 @@ Darüber hinaus verwendet Facebook sogenannte Cookies, die auf deinem Gerät ges
 
 
 
-Instagram, ein soziales Netzwerk, das von Meta betrieben wird, stellt uns Nutzungsstatistiken zumNutzerwachstum, Nutzerdemographie und der Nutzung der einzelnen Funktionalitäten zur Verfügung. Metaerstellt diese Statistiken aus personenbezogenen Daten, die Meta erhebt, wenn du unsere Instagram-Seitebesuchst. Diese Datenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsereSeitenbesucher zielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daherArt. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten,die Meta zur Erstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilenunserer Fans oder einzelner Nutzer verknüpfen.
+Instagram, ein soziales Netzwerk, das von Meta betrieben wird, stellt uns Nutzungsstatistiken zumNutzerwachstum, Nutzerdemographie und der Nutzung der einzelnen Funktionalitäten zur Verfügung. Metaerstellt diese Statistiken aus personenbezogenen Daten, die Meta erhebt, wenn du unsere Instagram-Seitebesuchst. Diese Datenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsereSeitenbesucher zielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daherArt. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten,
+
+die Meta zur Erstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilenunserer Fans oder einzelner Nutzer verknüpfen.
 
 
 
@@ -992,9 +1000,7 @@ Dies kann auch dann geschehen, wenn du kein Instagram Account hast oder nicht in
 
 
 
-YouTube, ein Video-Hosting-Dienst, der von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4,Irland (nachfolgend: „YouTube”), betrieben wird, stellt uns Nutzungsstatistiken zum Nutzerwachstum,Nutzerdemografie und Nutzung der einzelnen Funktionalitäten zur Verfügung. YouTube erstellt dieseStatistiken aus personenbezogenen Daten, die YouTube erhebt, wenn du unsere YouTube-Seite besuchst. DieseDatenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsere Seitenbesucherzielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daher Art. 6 (1) f)DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitungfindest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten, die YouTube zur
-
-Erstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilen unserer Fansoder einzelner Nutzer verknüpfen.
+YouTube, ein Video-Hosting-Dienst, der von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4,Irland (nachfolgend: „YouTube”), betrieben wird, stellt uns Nutzungsstatistiken zum Nutzerwachstum,Nutzerdemografie und Nutzung der einzelnen Funktionalitäten zur Verfügung. YouTube erstellt dieseStatistiken aus personenbezogenen Daten, die YouTube erhebt, wenn du unsere YouTube-Seite besuchst. DieseDatenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsere Seitenbesucherzielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daher Art. 6 (1) f)DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitungfindest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten, die YouTube zurErstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilen unserer Fansoder einzelner Nutzer verknüpfen.
 
 
 
@@ -1006,7 +1012,9 @@ Darüber hinaus verwendet YouTube so genannte Cookies, die auf deinem Gerät ges
 
 
 
-X, ein soziales Netzwerk, das von der Twitter International Company, One Cumberland Place, Fenian Street,Dublin 2, D02 AX07, Irland (im Folgenden „Twitter”) betrieben wird, stellt uns Nutzungsstatistiken zur Verfügungzum Nutzerwachstum, Nutzerdemographie und der Nutzung der einzelnen Funktionalitäten zur Verfügung.Twitter erstellt diese Statistiken aus personenbezogenen Daten, die Twitter erhebt, wenn du unsere X-Seitebesuchst. Diese Datenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsereSeitenbesucher zielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daherArt. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten,die Twitter zur Erstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilenunserer Fans oder einzelner Nutzer verknüpfen.
+X, ein soziales Netzwerk, das von der Twitter International Company, One Cumberland Place, Fenian Street,Dublin 2, D02 AX07, Irland (im Folgenden „Twitter”) betrieben wird, stellt uns Nutzungsstatistiken zur Verfügungzum Nutzerwachstum, Nutzerdemographie und der Nutzung der einzelnen Funktionalitäten zur Verfügung.Twitter erstellt diese Statistiken aus personenbezogenen Daten, die Twitter erhebt, wenn du unsere X-Seitebesuchst. Diese Datenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsereSeitenbesucher zielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daherArt. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten,
+
+die Twitter zur Erstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilenunserer Fans oder einzelner Nutzer verknüpfen.
 
 
 
@@ -1020,6 +1028,8 @@ Darüber hinaus verwendet Twitter sogenannte Cookies, die auf deinem Gerät gesp
 
 LinkedIn, ein soziales Netzwerk, das von LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland (imFolgenden „LinkedIn”) betrieben wird, stellt uns Nutzungsstatistiken zum Nutzerwachstum,Nutzerdemographie, Nutzung der einzelnen Funktionalitäten zur Verfügung. LinkedIn erstellt diese Statistikenaus personenbezogenen Daten, die LinkedIn erhebt, wenn du unsere LinkedIn-Seite besuchst. DieseDatenverarbeitung dient unserem berechtigten Interesse, das Nutzungserlebnis für unsere Seitenbesucherzielgruppenorientiert zu verbessern. Die Rechtsgrundlage für die Datenverarbeitung ist daher Art. 6 (1) f)DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitungfindest du Abschnitt II. oben. Wir haben keinen Zugriff auf die personenbezogenen Daten, die LinkedIn zurErstellung dieser Statistiken erhebt, und können diese statistischen Daten nicht mit den Profilen unserer Fansoder einzelner Nutzer verknüpfen.
 
+
+
 Darüber hinaus verwendet LinkedIn sogenannte Cookies, die auf deinem Gerät gespeichert werden, wenn duunsere Seite besuchst. Dies kann auch dann geschehen, wenn du kein LinkedIn Account hast oder nicht indeinen Account eingeloggt bist, während du unsere Profil besuchst. Einzelheiten zur Erhebung und Speicherungdeiner personenbezogenen Daten sowie zu Art, Umfang und Zweck der Nutzung durch LinkedIn findest du inden Datenschutzbestimmungen von LinkedIn unter: https://de.linkedin.com/legal/privacy-policy?. Als Betreiberdes Profils sind wir gemeinsam mit LinkedIn für die Verarbeitung deiner personenbezogenen Datenverantwortlich. Wir haben mit LinkedIn eine Vereinbarung über die gemeinsame Verantwortlichkeit (im Sinnevon Art. 26 DSGVO) geschlossen. Du findest diese hier:https://legal.linkedin.com/pages-joint-controller-addendum.
 
 
@@ -1029,8 +1039,6 @@ Darüber hinaus verwendet LinkedIn sogenannte Cookies, die auf deinem Gerät ges
 
 
 TikTok, ein soziales Mediennetzwerk, das von TikTok Information Technologies UK Limited, Kaleidoscope, 4Lindsey St, Barbican, London EC1A 9HP, Großbritannien (im Folgenden "TikTok") betrieben wird, stellt unsNutzungsstatistiken in Bezug auf Ausgaben, Reichweite, Impressionen, Klicks, Ansichten und Ereignisse sowieKosten pro Ereignis zur Verfügung. TikTok erstellt diese Statistiken aus personenbezogenen Daten, die TikTokerhebt, wenn du unsere TikTok-Seite besuchst. Diese Datenverarbeitung dient unserem berechtigten Interesse,das Nutzererlebnis für unsere Seitenbesucher zielgruppenorientiert zu verbessern. Die Rechtsgrundlage für dieDatenverarbeitung ist daher Art. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse alsRechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben. Wir haben keinen Zugriff auf diepersonenbezogenen Daten, die TikTok zur Erstellung dieser Statistiken verarbeitet, und können diesestatistischen Daten nicht mit den Profilen einzelner Nutzer verknüpfen.
-
-
 
 Wir sind gemeinsam mit TikTok für die Verarbeitung Ihrer personenbezogenen Daten zu diesem Zweckverantwortlich. Wir haben mit TikTok eine Vereinbarung über die gemeinsame Verantwortlichkeit (im Sinne vonArt. 26 DSGVO) geschlossen. Diese kannst du hier einsehen für die Analyse der Interaktionen mit unsererTikTok-Seite: https://www.tiktok.com/legal/page/global/tiktok-analytics-joint-controller-addendum/en und hierfür die Analyse der Interaktionen mit Anzeigen, die wir auf TikTok veröffentlichen:https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms. Weitere Informationen darüber, wie TikTokpersonenbezogene Daten verarbeitet, einschließlich der Rechtsgrundlage, auf die sich TikTok stützt, und derMöglichkeiten, Betroffenenrechte gegenüber TikTok auszuüben, findest du in den entsprechendenDatenschutzhinweisen von TikTok (https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE).
 
@@ -1044,9 +1052,7 @@ Wenn du unsere Seiten auf sozialen Medien nutzt, um mit uns in Kontakt zu treten
 
 
 
-Wenn du dich an uns wendest, um vertragliche Angelegenheiten im Zusammenhang mit deinem Konto zuklären (z. B. Kontoeröffnung, konto- oder transaktionsbezogene Informationen), ist die rechtmäßige Grundlagefür die Datenverarbeitung Art. 6 (1) b) DSGVO. Ansonsten ist die Rechtsgrundlage für die Datenverarbeitungunser berechtigtes Interesse gemäß Art. 6 (1) f) DSGVO. Die Datenverarbeitung dient unserem berechtigtenInteresse, mit dir auf deine Anfrage hin zu kommunizieren und deine Anfrage zu beantworten. WeitereInformationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in
-
-Abschnitt II. oben. Gespeicherte Daten löschen wir, wenn sie für diesen Zweck oder, um geltende gesetzlicheAnforderungen zu erfüllen, nicht mehr erforderlich sind.
+Wenn du dich an uns wendest, um vertragliche Angelegenheiten im Zusammenhang mit deinem Konto zuklären (z. B. Kontoeröffnung, konto- oder transaktionsbezogene Informationen), ist die rechtmäßige Grundlagefür die Datenverarbeitung Art. 6 (1) b) DSGVO. Ansonsten ist die Rechtsgrundlage für die Datenverarbeitungunser berechtigtes Interesse gemäß Art. 6 (1) f) DSGVO. Die Datenverarbeitung dient unserem berechtigtenInteresse, mit dir auf deine Anfrage hin zu kommunizieren und deine Anfrage zu beantworten. WeitereInformationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du inAbschnitt II. oben. Gespeicherte Daten löschen wir, wenn sie für diesen Zweck oder, um geltende gesetzlicheAnforderungen zu erfüllen, nicht mehr erforderlich sind.
 
 
 
@@ -1060,7 +1066,9 @@ Wenn du an einem Gewinnspiel oder einer Verlosung teilnimmst und gewinnst, ist d
 
 
 
-Personenbezogene Daten, die im Rahmen von Gewinnspielen und Verlosungen erhoben werden, werdenausschließlich zum Zwecke der Auswahl der Gewinner verarbeitet und innerhalb von 4 Wochen nach Ende desGewinnspiels oder der Verlosung gelöscht. Dies gilt nicht für die Gewinner. In diesem Fall löschen wir diegespeicherten Daten, wenn sie für diesen Zweck nicht mehr erforderlich sind oder um etwaigen gesetzlichenAnforderungen zu genügen.
+Personenbezogene Daten, die im Rahmen von Gewinnspielen und Verlosungen erhoben werden, werdenausschließlich zum Zwecke der Auswahl der Gewinner verarbeitet und innerhalb von 4 Wochen nach Ende des
+
+Gewinnspiels oder der Verlosung gelöscht. Dies gilt nicht für die Gewinner. In diesem Fall löschen wir diegespeicherten Daten, wenn sie für diesen Zweck nicht mehr erforderlich sind oder um etwaigen gesetzlichenAnforderungen zu genügen.
 
 
 
@@ -1073,6 +1081,8 @@ In unseren Marketing E-Mails informieren wir dich über unsere Angebote im Zusam
 
 
 Die Verarbeitung deiner Daten, um dir Marketing E-Mails zu senden, erfolgt auf Grundlage deiner vorherigenEinwilligung gemäß Art. 6 (1) a) DSGVO. Um sicherzustellen, dass wir dir nur Informationen senden, die für dichmöglichst relevant sind und deinen persönlichen Interessen entsprechen, nutzen wir Kundensegmentierungauf Grundlage unseres berechtigten Interesses gemäß Art. 6 (1) f) DSGVO, dir Informationen zu senden, die fürdich relevant sind. Zu diesem Zweck analysieren wir dein Nutzerverhalten, indem wir Daten zu deinen kürzlichgetätigten Transaktionen, Abhebungen, Einzahlungen, Zahlungen sowie Freundeseinladungen verarbeiten. Fürweitere Informationen zu unseren berechtigten Interessen als Grundlage für die Verarbeitungpersonenbezogener Daten, siehe Abschnitt II. oben.
+
+
 
 Du kannst deine Einwilligung in den Erhalt von Marketing E-Mails jederzeit widerrufen. Du kannst den Link amEnde jeder Marketing E-Mail nutzen, um deine Einwilligung zu widerrufen. Sobald du dein Konto eingerichtethast, kannst du deine Einwilligung zum Erhalt von Marketing E-Mails in den App-Einstellungen auch über dieN26 App \> Mein Konto \> Einstellungen \> App-Einstellungen \> Kommunikationseinstellungen \> Deaktivierungdes entsprechenden Toggles widerrufen. Weitere Informationen zu den Einstellungen für
 
@@ -1088,7 +1098,9 @@ In unseren Marketing Push-Nachrichten informieren wir dich über unsere Angebote
 
 
 
-Die Verarbeitung deiner Daten, um dir Marketing Push-Nachrichten zu senden, erfolgt auf Grundlage deinervorherigen Einwilligung gemäß Art. 6 (1) a) DSGVO. Um sicherzustellen, dass wir dir nur Informationen senden,die für dich möglichst relevant sind und deinen persönlichen Interessen entsprechen, nutzen wirKundensegmentierung auf Grundlage unseres berechtigten Interesses gemäß Art. 6 (1) f) DSGVO, dirInformationen zu senden, die für dich relevant sind. Zu diesem Zweck analysieren wir dein Nutzerverhalten,indem wir Daten zu deinen kürzlich getätigten Transaktionen, Abhebungen, Einzahlungen, Zahlungen sowieFreundeseinladungen verarbeiten. Für weitere Informationen zu unseren berechtigten Interessen alsGrundlage für die Verarbeitung personenbezogener Daten, siehe Abschnitt II. oben.
+Die Verarbeitung deiner Daten, um dir Marketing Push-Nachrichten zu senden, erfolgt auf Grundlage deinervorherigen Einwilligung gemäß Art. 6 (1) a) DSGVO. Um sicherzustellen, dass wir dir nur Informationen senden,die für dich möglichst relevant sind und deinen persönlichen Interessen entsprechen, nutzen wirKundensegmentierung auf Grundlage unseres berechtigten Interesses gemäß Art. 6 (1) f) DSGVO, dir
+
+Informationen zu senden, die für dich relevant sind. Zu diesem Zweck analysieren wir dein Nutzerverhalten,indem wir Daten zu deinen kürzlich getätigten Transaktionen, Abhebungen, Einzahlungen, Zahlungen sowieFreundeseinladungen verarbeiten. Für weitere Informationen zu unseren berechtigten Interessen alsGrundlage für die Verarbeitung personenbezogener Daten, siehe Abschnitt II. oben.
 
 
 
@@ -1106,9 +1118,7 @@ In unseren Marketing In-App-Nachrichten informieren wir dich über unsere Angebo
 
 
 
-Der Verarbeitung deiner Daten, damit wir dir Marketing In-App-Nachrichten senden können, legen wir unserberechtigtes Interesse gemäß Art. 6 (1) f) DSGVO daran zugrunde, dich über unsere Angebote imZusammenhang mit Finanzprodukten und -diensten von N26, Funktionen und Partnerschaften zwischen N26
-
-und Dritten (Ermäßigungen auf Produkte/Dienste von Dritten für N26 Kunden) zu informieren sowie dich übereine Umfrage um dein Feedback oder deine Meinung zu fragen. Um sicherzustellen, dass wir dir nurInformationen senden, die für dich möglichst relevant sind und deinen persönlichen Interessen entsprechen,nutzen wir Kundensegmentierung. Zu diesem Zweck prüfen und analysieren wir dein Nutzerverhalten, indemwir Daten zu deinen kürzlich getätigten Transaktionen, Abhebungen, Einzahlungen, Zahlungen sowieFreundeseinladungen verarbeiten und diese Informationen für Marketing In-App-Nachrichten verwenden,basierend auf unserem berechtigten Interesse gemäß Art. 6 (1) f DSGVO, dir Informationen zu senden, die fürdich relevant sind. Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Sobald du dein Konto erstellt hast, kannst du in den AppEinstellungen der Verarbeitung deiner personenbezogenen Daten zum Erhalt von MarketingIn-App-Nachrichten widersprechen. Wähle dazu in der N26 App Mein Konto \> Einstellungen \> App-Einstellungen\> Kommunikationseinstellungen und deaktiviere den entsprechenden Toggle. Weitere Informationen zu den
+Der Verarbeitung deiner Daten, damit wir dir Marketing In-App-Nachrichten senden können, legen wir unserberechtigtes Interesse gemäß Art. 6 (1) f) DSGVO daran zugrunde, dich über unsere Angebote imZusammenhang mit Finanzprodukten und -diensten von N26, Funktionen und Partnerschaften zwischen N26und Dritten (Ermäßigungen auf Produkte/Dienste von Dritten für N26 Kunden) zu informieren sowie dich übereine Umfrage um dein Feedback oder deine Meinung zu fragen. Um sicherzustellen, dass wir dir nurInformationen senden, die für dich möglichst relevant sind und deinen persönlichen Interessen entsprechen,nutzen wir Kundensegmentierung. Zu diesem Zweck prüfen und analysieren wir dein Nutzerverhalten, indemwir Daten zu deinen kürzlich getätigten Transaktionen, Abhebungen, Einzahlungen, Zahlungen sowieFreundeseinladungen verarbeiten und diese Informationen für Marketing In-App-Nachrichten verwenden,basierend auf unserem berechtigten Interesse gemäß Art. 6 (1) f DSGVO, dir Informationen zu senden, die fürdich relevant sind. Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du in Abschnitt II. oben. Sobald du dein Konto erstellt hast, kannst du in den AppEinstellungen der Verarbeitung deiner personenbezogenen Daten zum Erhalt von MarketingIn-App-Nachrichten widersprechen. Wähle dazu in der N26 App Mein Konto \> Einstellungen \> App-Einstellungen\> Kommunikationseinstellungen und deaktiviere den entsprechenden Toggle. Weitere Informationen zu den
 
 Einstellungen für Marketingmitteilungen findest du in einem Support Center Artikel, der hier verfügbar ist. Du
 
@@ -1120,8 +1130,6 @@ kannst auch der Verarbeitung deiner Daten zur Kundensegmentierung widersprechen.
 
 In unserem Customer Chat informieren wir dich über unsere Angebote im Zusammenhang mitFinanzprodukten und -diensten von N26, Funktionen und Partnerschaften zwischen N26 und Dritten(Ermäßigungen auf Produkte/Dienste Dritter für N26 Kunden) und können dich über eine Umfrage um deinFeedback oder deine Meinung fragen.
 
-
-
 Um sicherzustellen, dass wir dir nur Informationen senden, die für dich möglichst relevant sind und deinenpersönlichen Interessen entsprechen, nutzen wir Kundensegmentierung. Zu diesem Zweck prüfen undanalysieren wir dein Nutzerverhalten, indem wir Daten zu deinen kürzlich getätigten Transaktionen,Abhebungen, Einzahlungen, Zahlungen sowie Freundeseinladungen verarbeiten und diese Informationen überunseren Customer Chat für Marketinginformationen verwenden, wenn du mit einem Kundenservicemitarbeiteroder N26 Neon, unserem Chatbot in Kontakt bist. Dem legen wir unser berechtigtes Interesse gemäß Art. 6 (1)f) DSGVO daran zugrunde, dich über Angebote im Zusammenhang mit Finanzprodukten und -diensten von N26,Funktionen und Partnerschaften zwischen N26 und Dritten (Nachlässe auf Produkte/Dienste von Dritten fürN26 Kunden) zu informieren sowie dich über eine Umfrage nach deinem Feedback oder deiner Meinung zufragen. Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitungfindest du in Abschnitt II. oben. Sobald du dein Konto erstellt hast, kannst du in den Einstellungen der App derVerarbeitung deiner personenbezogenen Daten zum Erhalt von Marketingmitteilungen bei Verwendungunseres Customer Chat widersprechen. Wähle dazu in der N26 App Mein Konto \> Einstellungen \>App-Einstellungen \> Kommunikationseinstellungen und deaktiviere den entsprechenden Toggle. WeitereInformationen zu den Einstellungen für Marketingmitteilungen findest du in einem Support Center Artikel, der
 
 hier verfügbar ist. Du kannst auch der Verarbeitung deiner Daten zur Kundensegmentierung widersprechen.
@@ -1132,9 +1140,7 @@ Weitere Informationen zu deinem Recht auf Widerspruch gegen die Datenverarbeitun
 
 IX. Übermittlung personenbezogener Daten ins Ausland
 
-Soweit N26 Daten an Empfänger außerhalb des Europäischen Wirtschaftsraums übermittelt und zurGewährleistung eines angemessenen Datenschutzniveaus, das dem der DSGVO bei Übermittlung von Daten insAusland gleicht hat N26 einen oder mehrere der folgenden Übermittlungsinstrumente implementiert,
-
-zusätzlich zu geeigneten Garantien gemäß der Datentransferfolgenabschätzung für Datenübermittlungen insAuslad für den jeweiligen Datentransfer, sofern anwendbar:
+Soweit N26 Daten an Empfänger außerhalb des Europäischen Wirtschaftsraums übermittelt und zurGewährleistung eines angemessenen Datenschutzniveaus, das dem der DSGVO bei Übermittlung von Daten insAusland gleicht hat N26 einen oder mehrere der folgenden Übermittlungsinstrumente implementiert,zusätzlich zu geeigneten Garantien gemäß der Datentransferfolgenabschätzung für Datenübermittlungen insAuslad für den jeweiligen Datentransfer, sofern anwendbar:
 
 ● einen Beschluss der Europäischen Kommission, in dem festgestellt wird, dass das Drittland einangemessenes Schutzniveau gemäß Art. 45 (1) DSGVO bietet - die bestehenden
 
@@ -1156,7 +1162,9 @@ Du kannst eine ausführliche Kopie des Übermittlungsinstruments und weitere Inf
 
 X. Automatisierte Entscheidungsfindung im Rahmen vonFlex-Konten
 
-Wir entscheiden automatisch, ob wir dir nur ein Flex-Konto anbieten, wenn du unseren Kontoerstellungsablaufdurchläufst. Das machen wir, um unsere Dienste schnell und effizient anbieten zu können. Du wirstentsprechend informiert, bevor die Entscheidung getroffen wird. Diese Verarbeitung basiert aufvorvertraglichen Maßnahmen, die auf deine Anfrage hin durchgeführt werden, insbesondere um zu prüfen,welches N26 Konto wir dir anbieten können, gemäß Art. 6 (1) b) sowie Art. 22 (2) a) DSGVO. Diese Entscheidungbasiert ausschließlich auf deinem SCHUFA-Score, wenn du versuchst dein Konto bei uns zu eröffnen. Nähere
+Wir entscheiden automatisch, ob wir dir nur ein Flex-Konto anbieten, wenn du unseren Kontoerstellungsablaufdurchläufst. Das machen wir, um unsere Dienste schnell und effizient anbieten zu können. Du wirst
+
+entsprechend informiert, bevor die Entscheidung getroffen wird. Diese Verarbeitung basiert aufvorvertraglichen Maßnahmen, die auf deine Anfrage hin durchgeführt werden, insbesondere um zu prüfen,welches N26 Konto wir dir anbieten können, gemäß Art. 6 (1) b) sowie Art. 22 (2) a) DSGVO. Diese Entscheidungbasiert ausschließlich auf deinem SCHUFA-Score, wenn du versuchst dein Konto bei uns zu eröffnen. Nähere
 
 Informationen über die involvierte Logik beim SCHUFA-Score findest du auf der Website der SCHUFA. Wenn du
 
@@ -1192,7 +1200,9 @@ Bezüglich deiner personenbezogenen Daten hast du die folgenden Rechte:
 
 ● das Recht auf Berichtigung gemäß Art. 16 DSGVO, was bedeutet, dass du die Berichtigung deinerDaten anfordern kannst, sollten sie unvollständig oder unrichtig sein;
 
-● das Recht auf Löschung gemäß Art. 17 DSGVO, was bedeutet, dass du die Löschung deinerpersonenbezogenen Daten anfordern kannst, wenn sie von N26 nicht mehr für die Zwecke benötigtwerden, für die sie ursprünglich erhoben wurden, oder wenn du weißt, dass sie unrechtmäßigverwendet wurden. N26 kann deine Anfrage zurückweisen, wenn die Daten zur Erfüllung einerrechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder für rechtliche Schrittenotwendig sind;
+● das Recht auf Löschung gemäß Art. 17 DSGVO, was bedeutet, dass du die Löschung deinerpersonenbezogenen Daten anfordern kannst, wenn sie von N26 nicht mehr für die Zwecke benötigtwerden, für die sie ursprünglich erhoben wurden, oder wenn du weißt, dass sie unrechtmäßigverwendet wurden. N26 kann deine Anfrage zurückweisen, wenn die Daten zur Erfüllung einer
+
+rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder für rechtliche Schrittenotwendig sind;
 
 ● das Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO, was bedeutet, dass du dieEinschränkung der Verarbeitung deiner personenbezogenen Daten anfordern kannst, wenn diesrechtlich zulässig ist und insbesondere dann, (i) wenn du die Richtigkeit deiner Daten bestreitest, (ii)wenn du die Einschränkung forderst, weil du der Ansicht bist, dass die Verarbeitung unrechtmäßig ist,oder (iii) wenn die Daten für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind, N26sie jedoch für rechtliche Schritte benötigt;
 
@@ -1211,6 +1221,8 @@ Ungeachtet des Abschnitts XII.2. weiter unten, kannst du:
 Dein Auskunftsrecht, dein Recht auf Löschung und dein Recht auf Einschränkung der Verarbeitung auf
 
 dieser Webform ausüben;
+
+
 
 Bitte stelle deine Anfragen nicht über Drittanbieterplattformen an uns, bei denen wir uns über das gleicheKommunikationsmittel bei dir melden müssen. Wir können dich in diesen Fällen nicht eindeutig als Kunde vonN26 identifizieren. Bitte nutze stattdessen eine der vorgenannten Möglichkeiten, um deine Rechte gegenüberN26 geltend zu machen.
 
@@ -1238,8 +1250,6 @@ Du kannst dein Recht auf Widerruf deiner Einwilligung über die in unserer Web-A
 
 ● Widerspruchsrecht (gemäß Art. 21 (1) DSGVO)
 
-
-
 Du hast das Recht, jederzeit gegen die Verarbeitung deiner personenbezogenen Daten, die aufgrundvon Art. 6 (1) e) DSGVO und Art. 6 (1) f) DSGVO erfolgt, Widerspruch einzulegen. Dies gilt auch für dasProfiling im Sinne von Art. 4 (4) DSGVO. Widerrufst du deine Einwilligung, werden deinepersonenbezogenen Daten nicht länger verarbeitet, es sei denn, wir können zwingende schutzwürdigeGründe für die Verarbeitung nachweisen, die deine Interessen, Rechte und Freiheiten überwiegen,oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.Bis zum Zeitpunkt deines Widerspruchs erfolgte Datenverarbeitungen bleiben dabei rechtmäßig. Du
 
 kannst dein Widerspruchsrecht über unsere Webform ausüben.
@@ -1259,6 +1269,8 @@ ausüben.
 
 
 XIII. Lösch- und Aufbewahrungsfristen
+
+
 
 Grundsätzlich verarbeiten und speichern wir deine personenbezogenen Daten nur, solange es für die Erfüllungunserer vertraglichen und gesetzlichen Pflichten erforderlich ist. Das heißt, sind die Daten für die Erfüllungvertraglicher oder gesetzlicher Pflichten nicht mehr erforderlich, werden diese gelöscht. Das trifft auch dann zu,wenn dein Onboarding-Prozess für die Kontoeröffnung noch nicht abgeschlossen ist und die Bank unterdessendeine Daten aufgrund anstehender gesetzlicher oder sicherheitsrelevanter Verpflichtungen aufbewahren muss.Diese Vorschrift kommt jedoch nicht zur Anwendung, wenn die eingeschränkte Verarbeitung für die folgendenZwecke notwendig ist:
 

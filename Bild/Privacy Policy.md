@@ -716,4 +716,4 @@ Die in Ihrer Meldung von Ihnen bereitgestellten Informationen verarbeitet unsere
 
 Sofern Sie dies wünschen, schicken wir Ihnen diese Datenschutzerklärung selbstverständlich kostenfrei per Post zu. Bitte kontaktieren Sie uns hierzu unter Axel Springer Deutschland GmbH, Betrieblicher Datenschutz, Axel-Springer-Straße 65, 10888 Berlin.
 
-Stand 02.09.2025
+Stand 15.12.2025

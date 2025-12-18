@@ -1,4 +1,4 @@
-Datenschutzerklärung für die Website und die Applikationen Schwäbischer Verlag GmbH & Co. KG Drexler, Gessler (Stand 11.12.2025).
+Datenschutzerklärung für die Website und die Applikationen Schwäbischer Verlag GmbH & Co. KG Drexler, Gessler (Stand 18.12.2025).
 =================================================================================================================================
 
 #### Inhaltsverzeichnis
@@ -311,6 +311,41 @@ Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendige
 Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b DSGVO).
 
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf dieser Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
+
+### Registrierung mit Google
+
+Statt einer direkten Registrierung auf dieser Website können Sie sich mit Google registrieren. Anbieter dieses Dienstes ist die Google Ireland Limited („Google”), Gordon House, Barrow Street, Dublin 4, Irland.
+
+Um sich mit Google zu registrieren, müssen Sie ausschließlich Ihre Google-Namen und Ihr Passwort eingeben. Google wird Sie identifizieren und unserer Website Ihre Identität bestätigen.
+
+Wenn Sie sich mit Google anmelden, ist es uns ggf. möglich bestimmte Informationen auf Ihrem Konto zu nutzen, um Ihr Profil bei uns zu vervollständigen. Ob und welche Informationen das sind, entscheiden Sie im Rahmen Ihrer Google-Sicherheitseinstellungen, die Sie hier finden: [https://myaccount.google.com/security](https://myaccount.google.com/security) und [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions).
+
+Die Datenverarbeitung, die mit der Google-Registrierung einhergeht beruht auf unserem berechtigten Interesse, unseren Nutzern einen möglichst einfachen Registrierungsprozess zu ermöglichen (Art. 6 Abs. 1 lit. f DSGVO). Da die Nutzung der Registrierungsfunktion freiwillig ist und die Nutzer selbst über die jeweiligen Zugriffsmöglichkeiten entscheiden können, sind keine entgegenstehenden überwiegenden Rechte der Betroffenen ersichtlich.
+
+Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: [https://www.dataprivacyframework.gov/participant/5780](https://www.dataprivacyframework.gov/participant/5780).
+
+### Registrierung mit Facebook
+
+Statt einer direkten Registrierung auf dieser Website können Sie sich auch mit Ihrem Facebook-Konto anmelden. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited („Meta”), 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+
+Um sich mit Facebook zu registrieren, geben Sie Ihre Facebook-Zugangsdaten ein. Meta identifiziert Sie und bestätigt gegenüber unserer Website Ihre Identität.
+
+Wenn Sie sich über Facebook anmelden, können wir bestimmte Informationen aus Ihrem Facebook-Profil nutzen, um Ihr Benutzerkonto bei uns zu vervollständigen. Welche Daten das sind, bestimmen Sie in Ihren Facebook-Datenschutzeinstellungen, die Sie hier verwalten können: [https://www.facebook.com/settings](https://www.facebook.com/settings).  
+Die Verarbeitung Ihrer Daten im Rahmen der Facebook-Registrierung erfolgt auf Grundlage unseres berechtigten Interesses, Ihnen einen einfachen und komfortablen Registrierungsprozess anzubieten (Art. 6 Abs. 1 lit. f DSGVO). Die Nutzung dieser Funktion ist freiwillig, und Sie entscheiden selbst über die jeweiligen Zugriffsrechte.
+
+Meta ist nach dem „EU-US Data Privacy Framework“ (DPF) zertifiziert. Weitere Informationen hierzu finden Sie unter: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+### Registrierung mit Apple
+
+Sie können sich alternativ mit Ihrer Apple-ID anmelden. Anbieter dieses Dienstes ist die Apple Distribution International Ltd., Hollyhill Industrial Estate, Hollyhill, Cork, Irland.
+
+Für die Anmeldung mit Apple benötigen Sie Ihre Apple-ID und Ihr Passwort. Apple authentifiziert Sie und übermittelt uns die Bestätigung Ihrer Identität.
+
+Bei der Anmeldung über Apple können wir bestimmte Informationen aus Ihrem Apple-Konto verwenden, um Ihr Profil bei uns zu ergänzen. Ob und welche Daten übermittelt werden, legen Sie in Ihren Apple-Datenschutzeinstellungen fest: [https://appleid.apple.com/](https://appleid.apple.com/).
+
+Die Datenverarbeitung erfolgt auf Grundlage unseres berechtigten Interesses, Ihnen eine komfortable und sichere Registrierungsmöglichkeit anzubieten (Art. 6 Abs. 1 lit. f DSGVO). Die Nutzung ist freiwillig, und Sie behalten die Kontrolle über die freigegebenen Informationen.
+
+Apple ist ebenfalls nach dem „EU-US Data Privacy Framework“ (DPF) zertifiziert. Weitere Details finden Sie hier: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
 5\. Soziale Medien
 ------------------

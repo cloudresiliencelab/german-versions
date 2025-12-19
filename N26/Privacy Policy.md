@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 12.8., Datum: 16.12.2025)
+(Version 12.9., Datum: 18.12.2025)
 
 
 
@@ -410,13 +410,13 @@ Das Stripe Top Up Feature (nachfolgend: „Top Up Feature“) ist für Kunden ei
 
 
 
-14\. N26 Crypto Service
+14\. Datenverarbeitung im Rahmen vonN26 Crypto Service
 
 Um Ihnen den N26 Krypto-Service zur Verfügung stellen zu können, damit Sie die von Bitpanda GmbH,Stella-Klein-Löw-Weg 17, 1020 Wien, Österreich ("Bitpanda") bereitgestellten Krypto-Handelsdienste innerhalbIhrer N26-App nutzen können, verarbeiten wir zur Vorbereitung des dafür mit Ihnen abzuschließendenVertrages und auf dessen Grundlage die folgenden Daten (Art. 6 (1) b) DSGVO):
 
 
 
-Daten, die erhoben werden, wenn Sie ein N26 Krypto-Service-Konto erstellen: Ihr Name, Ihre E-Mail-Adresse,Ihre Mobiltelefonnummer, Ihr Geburtsdatum, Ihr Geburtsort, Ihre Anschrift, Ihr steuerlicher Wohnsitz, IhrGeschlecht, Ihre Staatsangehörigkeit, Ihre Kunden-ID;
+Daten, die erhoben werden, wenn Sie ein N26 Krypto-Service-Konto erstellen: Ihr Name, Ihre E-Mail-Adresse,Ihre Mobiltelefonnummer, Ihr Geburtsdatum, Ihr Geburtsort, Ihre Anschrift, Ihr steuerlicher Wohnsitz undSteuer-ID(s), Ihr Geschlecht, Ihre Staatsangehörigkeit, Ihre Kunden-ID;
 
 
 
@@ -452,15 +452,17 @@ Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als Auftragsv
 
 
 
-● Einrichtung eines Kontos bei Upvest gemäß den Allgemeinen Geschäftsbedingungen. Zu diesem Zweckverarbeiten wir die folgende Informationen: ○ Informationen, die bei der Eröffnung deines N26-Kontosvon dir erhoben wurden und die für die Einrichtung deines Kontos bei Upvest erforderlich sind: Datumdeines Identifizierungsverfahrens, dein vollständiger Name, deine E-Mail-Adresse, deineMobiltelefonnummer, dein Geburtsdatum, dein Geburtsort, deine Anschrift, dein steuerlicherWohnsitz, dein Geschlecht, deine Staatsangehörigkeit(en), eine Kopie deines Ausweisdokumentes unddie Art des Ausweisdokumentes, die Nummer, das Ausstellungsdatum und das Ablaufdatum desAusweisdokumentes, Fotos, die im Rahmen des Identifizierungsverfahrens gemacht wurden. ○
+● Einrichtung eines Kontos bei Upvest gemäß den Allgemeinen Geschäftsbedingungen. Zu diesemZweck verarbeiten wir die folgende Informationen:
 
-Bestätigung der folgenden Informationen für Steuererklärungszwecke: steuerlicher Wohnsitz,Steuer-ID und geltende Steuerbefreiungen. Bitte beachte, dass du, wenn dein steuerlicher Wohnsitzund deine Steuer-ID nicht korrekt sind oder dein Identifizierungsverfahren älter als 24 Monate ist, eineBestätigung erforderlich ist, dass du immer noch in Deutschland steuerlich ansässig bist und deineSteuer-ID noch gültig ist - dazu kann es erforderlich sein, dass zusätzliche Informationen erhobenwerden.
+○ Informationen, die bei der Eröffnung deines N26-Kontos von dir erhoben wurden und die für dieEinrichtung deines Kontos bei Upvest erforderlich sind: Datum deines Identifizierungsverfahrens, deinvollständiger Name, deine E-Mail-Adresse, deine Mobiltelefonnummer, dein Geburtsdatum, deinGeburtsort, deine Anschrift, dein steuerlicher Wohnsitz, dein Geschlecht, deineStaatsangehörigkeit(en), eine Kopie deines Ausweisdokumentes und die Art des Ausweisdokumentes,die Nummer, das Ausstellungsdatum und das Ablaufdatum des Ausweisdokumentes, Fotos, die imRahmen des Identifizierungsverfahrens gemacht wurden.
+
+○ Bestätigung der folgenden Informationen für Steuererklärungszwecke: steuerlicher Wohnsitz,Steuer-ID und geltende Steuerbefreiungen. Bitte beachte, dass du, wenn dein steuerlicher Wohnsitzund deine Steuer-ID nicht korrekt sind oder dein Identifizierungsverfahren älter als 24 Monate ist, eineBestätigung erforderlich ist, dass du immer noch in Deutschland steuerlich ansässig bist und deineSteuer-ID noch gültig ist - dazu kann es erforderlich sein, dass zusätzliche Informationen erhobenwerden.
 
 
 
 ● Ausführung deiner Aufträge und Transaktionen durch Upvest: Verarbeitung der erforderlichenInformationen im Zusammenhang mit deinen Aufträgen und Transaktionen, d. h. Betrag, Art undHäufigkeit (insbesondere im Fall von Investitionsplänen) der von Ihnen erteilten Aufträge undTransaktionen. Dies schließt auch alle Sofort-Fonds ein, auf die du abonniert hast.
 
-● Erfüllung gesetzlicher Verpflichtungen: Verarbeitung personenbezogener Daten zur Erfüllung der fürUpvest geltenden gesetzlichen Verpflichtungen, wie z. B. die Beurteilung Ihres Wissensstands in Bezugauf den Handel, die Überwachung von Zahlungsvorgängen im Hinblick auf betrügerischeTransaktionen, die Verpflichtung zur Feststellung der Kundenidentität und die Überprüfung zurBekämpfung von Geldwäsche (hauptsächlich aufgrund der Verordnung (EU) Nr. 600/2014 desEuropäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zurÄnderung der Verordnung (EU) Nr. 648/2012 („MiFIR"), die Richtlinie über Märkte fürFinanzinstrumente II – Richtlinie 2014/65/EU („MiFID II“) und des GwG).
+● Erfüllung gesetzlicher Verpflichtungen: Verarbeitung personenbezogener Daten zur Erfüllung derfür Upvest geltenden gesetzlichen Verpflichtungen, wie z. B. die Beurteilung Ihres Wissensstands inBezug auf den Handel, die Überwachung von Zahlungsvorgängen im Hinblick auf betrügerischeTransaktionen, die Verpflichtung zur Feststellung der Kundenidentität und die Überprüfung zurBekämpfung von Geldwäsche (hauptsächlich aufgrund der Verordnung (EU) Nr. 600/2014 desEuropäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zurÄnderung der Verordnung (EU) Nr. 648/2012 („MiFIR"), die Richtlinie über Märkte fürFinanzinstrumente II – Richtlinie 2014/65/EU („MiFID II“) und des GwG).
 
 
 
@@ -486,7 +488,11 @@ Um diese Insights zu erstellen und anzuzeigen, verarbeiten wir Daten aus deinen 
 
 Deine personenbezogenen Daten werden zum Zweck der Erstellung und Anzeige personalisierter Insightsmithilfe der KI in deiner N26 App verarbeitet, auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Dukannst deine Einwilligung jederzeit in den Einstellungen der N26 App über Home \> Personalisieren \> KI-Insights\> Deaktivierung des entsprechenden Toggles widerrufen.
 
-Wir speichern die für diese Funktion verarbeiteten Daten bis zu sechs Monate, um den ordnungsgemäßenBetrieb sicherzustellen und die Leistung der Funktion zu optimieren. Diese Verarbeitung erfolgt auf Grundlageunseres berechtigten Interesses an der Verbesserung unserer Servicequalität und der Nutzererfahrung (Art. 6Abs. 1 lit. f DSGVO). Wenn du deine Einwilligung widerrufst, werden die Daten unverzüglich gelöscht.
+
+
+Wir speichern die für diese Funktion verarbeiteten Daten bis zu sechs Monate, um den ordnungsgemäßenBetrieb sicherzustellen und die Leistung der Funktion zu optimieren. Diese Verarbeitung erfolgt auf Grundlage
+
+unseres berechtigten Interesses an der Verbesserung unserer Servicequalität und der Nutzererfahrung (Art. 6Abs. 1 lit. f DSGVO). Wenn du deine Einwilligung widerrufst, werden die Daten unverzüglich gelöscht.
 
 
 
@@ -512,9 +518,9 @@ Darüber hinaus verarbeiten wir deine Daten im Rahmen unseres berechtigten Inter
 
 20\. Datenverarbeitung bei der Übermittlung einer Betrugsmeldung über dasWebformular
 
-Bei der Übermittlung einer Betrugsmeldung auf unserer Webseite werden dein Name und deine IBAN erhobenund verarbeitet, soweit dies erforderlich ist, damit N26 die betrügerische Transaktion mit hoher Sicherheitidentifizieren kann. Das ist der Fall wenn es mehrere Transaktionen mit demselben Betrag mit demselbenDatum oder eine Diskrepanz im Transaktionszeitpunkt gibt. Falls du einen Aspekt weiter klären und die Qualität
+Bei der Übermittlung einer Betrugsmeldung auf unserer Webseite werden dein Name und deine IBAN erhobenund verarbeitet, soweit dies erforderlich ist, damit N26 die betrügerische Transaktion mit hoher Sicherheitidentifizieren kann. Das ist der Fall wenn es mehrere Transaktionen mit demselben Betrag mit demselbenDatum oder eine Diskrepanz im Transaktionszeitpunkt gibt. Falls du einen Aspekt weiter klären und die Qualitätdes Berichts verbessern möchtest, verarbeiten wir auch die personenbezogenen Daten, die du inFreitextfeldern des Formulars angibst. Wir verarbeiten diese Daten im Rahmen unserer Ermittlungen zur
 
-des Berichts verbessern möchtest, verarbeiten wir auch die personenbezogenen Daten, die du inFreitextfeldern des Formulars angibst. Wir verarbeiten diese Daten im Rahmen unserer Ermittlungen zurBekämpfung von Finanzkriminalität auf Grundlage unseres berechtigten Interesses an der Einhaltung unserergesetzlichen Verpflichtungen zur Betrugsprävention gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben.
+Bekämpfung von Finanzkriminalität auf Grundlage unseres berechtigten Interesses an der Einhaltung unserergesetzlichen Verpflichtungen zur Betrugsprävention gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben.
 
 
 
@@ -740,7 +746,7 @@ Bitte gib keine personenbezogenen Daten wie deinen Namen oder deine E-Mail-Adres
 
 
 
-31. N26 SIM \& eSIM für Reisen
+31. Datenverarbeitung im Rahmen von N26 SIM \& eSIM für Reisen
 
 Um dir die N26 SIM und die eSIM für Reisen bereitzustellen, sodass du die von der 1GLOBAL (Germany) GmbH,Mergenthalerallee 79–81, 65760 Eschborn, Deutschland, und den 1GLOBAL-Konzerngesellschaften gemäß der1GLOBAL-Datenschutzerklärung („1GLOBAL“) angebotenen Telekommunikationsdienste über deine N26 Appnutzen kannst, verarbeiten N26 und 1GLOBAL deine personenbezogenen Daten.
 

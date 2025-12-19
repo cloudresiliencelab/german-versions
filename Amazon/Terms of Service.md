@@ -336,7 +336,7 @@ In the case of used goods, the warranty period can be shorter than two years.
 
 For further information on the terms and conditions please see our return conditions.
 
-Further information on your statutory warranty rights can be found on the following help page: [Warranty under Statutory Consumer Rights](https://www.amazon.de/gp/help/customer/display.html?nodeId=201310960)
+Further information on your statutory warranty rights can be found on the following help page: [Warranty under Statutory Consumer Rights](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201310960)
 
 4 PRICING
 ---------

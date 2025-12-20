@@ -1386,7 +1386,7 @@ E-Mail: [datenschutz@sport1.de](mailto:datenschutz@sport1.de)
 
 Stand: April 2025
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202025-12-18%2020%3A01%3A15%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202025-12-19%2020%3A02%3A06%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
 
 [
 

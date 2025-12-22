@@ -1,11 +1,11 @@
 Amazon.de Privacy Notice
 ========================
 
-Last Updated: 24.11.2025
+Last Updated: 22.12.2025
 
 To see prior version, please click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services").
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). Please also review the [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25) and [Interest-Based Ads notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
 
 *   [Controllers of Personal Information](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_59D17962BEAC4806A83E752ECC5FC54D)
 *   [What Personal Information About Customers Does Amazon Europe Collect?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_7C569F52615A45629A7A4922B1CFA46C)
@@ -25,13 +25,13 @@ We know that you care how information about you is used and shared and we apprec
 *   [Automatic Information](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_61FADCCC4CF941AA8E93F14E028064B8)
 *   [Information From Other Sources](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_081D072F608A4147B93AB0DD4E45368D)
 *   [Information You Can Access](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_8E8555298F744144B56A48C866F09067)
-*   [Information for Customers in the European Union and United Kingdom](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_281023DBC0CF4EDBBB52A2AA757B7956)
+*   [Information for Customers in the European Union and United Kingdom](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-F98885CE-7304-4110-8544-29D55FD1F13C)
     
-    *   [What Rights Do I Have?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_42CA325F989040A4B772E9370268D508)
-    *   [How Can I Make a Complaint to a Supervisory Authority?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_F0B19BB57F2F48009A05CC89F3F29419)
-    *   [Who Are the Recipients of My Information?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_CF0D5D5AE5CD45778363CBACDB77A71A)
-    *   [Additional Information About Data Retention](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_A18DD2FFF49F410E8C9C39F786E907C4)
-    *   [Data Use Purposes, Data Categories and Legal Bases](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_62891B540A4F4AC489669C85A8DF6216)
+    *   [What Rights Do I Have?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-214DEBAA-7F7D-4DC5-9E7F-821B91EEF7E1)
+    *   [How Can I Make a Complaint to a Supervisory Authority?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-BE5B76C7-14D2-4E03-8488-E7159DC443BA)
+    *   [Who Are the Recipients of My Information?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-5E09321D-6DC4-4383-A525-894271E9383A)
+    *   [Additional Information About Data Retention](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-BA3B3078-3827-4E53-9597-556DE45B70F3)
+    *   [Data Use Purposes, Data Categories and Legal Bases](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__GUID-639481B2-5789-4B2D-9D62-45F75E349611)
     
 
 Controllers of Personal Information

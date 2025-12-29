@@ -1032,7 +1032,7 @@ So setzen Sie sich mit uns in Verbindung:
 *   Über unsere [Kontaktseite](https://www.paypal.com/de/cgi-bin/helpscr?cmd=_help&t=escalateTab&locale.x=en_GB). Hier können Sie:
     *   Auf „Schreiben Sie uns“ klicken, um uns online zu kontaktieren.
     *   Auf „Rufen Sie uns an“ klicken, um uns telefonisch zu kontaktieren.
-*   Senden Sie eine E-Mail an [enquiry@paypal.com](mailto:enquiry@paypal.com).
+*   Senden Sie eine E-Mail an [\[email protected\]](https://www.paypal.com/cdn-cgi/l/email-protection).
 
 Senden Sie uns rechtliche Mitteilungen im Zusammenhang mit diesen Nutzungsbedingungen auf dem Postweg.
 

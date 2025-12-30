@@ -25,7 +25,7 @@ AT-Internet Opt-Out
 
 1.3 Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Registrierung, Nutzerverwaltung, Login und Zahlungsabwicklung Ihres SPORT1-Accounts
 
-**2\. Nutzung von** [**SPORT1.de**](http://sport1.de/) **mit SPORT1 PUR-Abo**
+**2\. Nutzung von** [**SPORT1.de**](http://sport1.de/) **mit SPORT1 Contentpass**
 
 **3\. Nutzung von** [**SPORT1.de**](http://sport1.de/) **mit Tracking und Cookies (Nutzung mit Werbung)**
 
@@ -65,9 +65,9 @@ AT-Internet Opt-Out
 *   Zahlungs- und Vertragsdaten wie Ihre Bankverbindung oder gebuchte Abos, aber auch
 *   Nutzungs- und Metadaten, etwa die Information über den Zeitpunkt Ihres Besuchs unserer Seiten, den dabei von Ihnen verwendeten Browser, und weitere beim Besuch unserer Seiten generierte Daten.
 
-· Die Nutzung unserer Webseite ist möglich, indem Sie nach dem Aufrufen unserer Webseite entweder der **Nutzungsvereinbarung mit Werbung** (im Folgenden „Nutzung mit Werbung“) zustimmen oder sich registrieren und so unser **SPORT1 PUR-Abo** (im Folgenden „PUR-Abo“) abschließen können. In beiden Fällen werden personenbezogene Daten von Ihnen als unser Webseitenbesucher verarbeitet. Mit unseren Datenschutzhinweisen informieren wir die betroffenen Personen über die Datenverarbeitung im Rahmen der Nutzung mit Werbung bzw. unserem PUR-Abo.
+· Die Nutzung unserer Webseite ist möglich, indem Sie nach dem Aufrufen unserer Webseite entweder der **Nutzungsvereinbarung mit Werbung** (im Folgenden „Nutzung mit Werbung“) zustimmen oder sich registrieren und so unser **SPORT1 Contentpass** (im Folgenden Contentpass) abschließen können. In beiden Fällen werden personenbezogene Daten von Ihnen als unser Webseitenbesucher verarbeitet. Mit unseren Datenschutzhinweisen informieren wir die betroffenen Personen über die Datenverarbeitung im Rahmen der Nutzung mit Werbung bzw. unserem Contentpass.
 
-· Wir haben unsere Webseite sowie die hier enthaltenen Informationen soweit möglich an den Vorgaben des „GDPR Transparency and Consent Frameworks (TCF)“ ausgerichtet welches vom Branchenverband „International Advertising Bureau (IAB) Europe“ verabschiedet wurde. Das TCF bietet uns die Möglichkeit, über einen internationalen Standard, einen datenschutzkonformen Einsatz von Fremdvermarktung durch Dritte / Partner gegenüber dem Besucher unserer Webseite zu ermöglichen. Über den IAB-Standard, konkret den IAB Europe Transparency & Consent Framework Policies, verpflichten sich die IAB-zertifizierten Unternehmen personenbezogene Daten ausschließlich zu fest definierten Zwecken und Rechtsgrundlagen zu verarbeiten. Diese Unternehmen müssen bei der Zertifizierung neben den einer Datenverarbeitung zugrundeliegenden Zwecken auch die Rechtsgrundlage festlegen und transparent machen. Eine Übersicht dieser Unternehmen ist jederzeit online abrufbar: [https://iabeurope.eu/vendor-list/](https://iabeurope.eu/vendor-list/). Die notwendige Transparenz gegenüber dem Besucher einer Webseite wird über einheitliche Verpflichtungen für jede an der Datenverarbeitung involvierte Partei gewährleistet, was auch die Beachtung der festgelegten Rechtsgrundlagen umfasst. Die Verbindung der definierten Zwecke für eine Datenverarbeitung, in Verbindung mit der erforderlichen Rechtsgrundlage wird dann über einen systemseitig fest definierten Prozess an die beteiligten Parteien weitergegeben. Sie als Besucher haben mittels unserer Consent Management Plattform (kurz „CMP“) die Möglichkeit selbst zu entscheiden, ob Sie unsere Webseite mit Werbung und Tracking (Nutzung mit Werbung) nutzen möchten oder ein entgeltliches PUR-Abo abschließen wollen.
+· Wir haben unsere Webseite sowie die hier enthaltenen Informationen soweit möglich an den Vorgaben des „GDPR Transparency and Consent Frameworks (TCF)“ ausgerichtet welches vom Branchenverband „International Advertising Bureau (IAB) Europe“ verabschiedet wurde. Das TCF bietet uns die Möglichkeit, über einen internationalen Standard, einen datenschutzkonformen Einsatz von Fremdvermarktung durch Dritte / Partner gegenüber dem Besucher unserer Webseite zu ermöglichen. Über den IAB-Standard, konkret den IAB Europe Transparency & Consent Framework Policies, verpflichten sich die IAB-zertifizierten Unternehmen personenbezogene Daten ausschließlich zu fest definierten Zwecken und Rechtsgrundlagen zu verarbeiten. Diese Unternehmen müssen bei der Zertifizierung neben den einer Datenverarbeitung zugrundeliegenden Zwecken auch die Rechtsgrundlage festlegen und transparent machen. Eine Übersicht dieser Unternehmen ist jederzeit online abrufbar: [https://iabeurope.eu/vendor-list/](https://iabeurope.eu/vendor-list/). Die notwendige Transparenz gegenüber dem Besucher einer Webseite wird über einheitliche Verpflichtungen für jede an der Datenverarbeitung involvierte Partei gewährleistet, was auch die Beachtung der festgelegten Rechtsgrundlagen umfasst. Die Verbindung der definierten Zwecke für eine Datenverarbeitung, in Verbindung mit der erforderlichen Rechtsgrundlage wird dann über einen systemseitig fest definierten Prozess an die beteiligten Parteien weitergegeben. Sie als Besucher haben mittels unserer Consent Management Plattform (kurz „CMP“) die Möglichkeit selbst zu entscheiden, ob Sie unsere Webseite mit Werbung und Tracking (Nutzung mit Werbung) nutzen möchten oder ein entgeltliches Contentpass-Abo abschließen wollen.
 
 **II. Umfang der Datenerhebung, -verarbeitung und –nutzung**
 
@@ -77,11 +77,11 @@ AT-Internet Opt-Out
 
 · Soweit wir personenbezogene Daten auf Basis einer Einwilligung verarbeiten, tun wir dies nur, solange Sie nicht die Einwilligung widerrufen.
 
-*   Im kostenpflichtigen PUR-Abo erfolgen keine einwilligungspflichtigen Datenverarbeitungen und insbesondere keine personalisierten Anzeigen und Inhalte. Es werden nur Cookies und andere Technologien verwendet, die zur Erbringung unseres Dienstes unbedingt erforderlich sind. Darüber hinaus werden technisch notwendige Daten für die Anzeige, Stabilität und Sicherheit unserer Website verarbeitet.
+*   Im kostenpflichtigen Contentpass-Abo erfolgen keine einwilligungspflichtigen Datenverarbeitungen und insbesondere keine personalisierten Anzeigen und Inhalte. Es werden nur Cookies und andere Technologien verwendet, die zur Erbringung unseres Dienstes unbedingt erforderlich sind. Darüber hinaus werden technisch notwendige Daten für die Anzeige, Stabilität und Sicherheit unserer Website verarbeitet.
 
-Wir verwenden Cookies nur dann, wenn dies unbedingt erforderlich ist, um den vom Nutzer gewünschten Dienst bereitzustellen. Die Rechtsgrundlage für die Verarbeitung dieser technisch notwendigen Daten im Rahmen des Pur-Angebots hängt von der Art des Dienstes ab und kann entweder Art. 6 Abs. 1 lit. b) oder lit. f) DSGVO i.V.m. § 25 Abs. 2 S. 2 TDDDG sein.
+Wir verwenden Cookies nur dann, wenn dies unbedingt erforderlich ist, um den vom Nutzer gewünschten Dienst bereitzustellen. Die Rechtsgrundlage für die Verarbeitung dieser technisch notwendigen Daten im Rahmen des Contentpass-Angebots hängt von der Art des Dienstes ab und kann entweder Art. 6 Abs. 1 lit. b) oder lit. f) DSGVO i.V.m. § 25 Abs. 2 S. 2 TDDDG sein.
 
-Im Rahmen des Pur-Abos müssen wir Ihnen auch andere nicht werbliche Dienste zur Verfügung stellen. In diesen Fällen ist die Rechtsgrundlage § 25 Abs. 2 S. 2 TDDDG und Art. 6 Abs. 1 lit. b) DSGVO für die Verarbeitung der Daten zur Vertragserfüllung.
+Im Rahmen des Contentpass-Abos müssen wir Ihnen auch andere nicht werbliche Dienste zur Verfügung stellen. In diesen Fällen ist die Rechtsgrundlage § 25 Abs. 2 S. 2 TDDDG und Art. 6 Abs. 1 lit. b) DSGVO für die Verarbeitung der Daten zur Vertragserfüllung.
 
 *   Im Falle der Nutzung mit Werbung nutzen wir und unsere Partner Cookies und andere Technologien, um personenbezogene Daten und Informationen unserer Webseitenbesucher wie die IP-Adresse, die Werbe-ID oder Browserinformationen auf dem Endgerät zu speichern und/oder abzurufen, personalisierte Anzeigen und Anzeigenmessung durchzuführen sowie personalisierte Inhalte, Inhaltsmessungen, Erkenntnisse über Zielgruppen zu gewinnen und weitere Produktentwicklungen zu ermöglichen. Wir geben Informationen zur Nutzung unseres Angebotes an unsere Partner für soziale Medien, Werbung und Analysen weiter.
 *   Zur Nutzung unserer Webseite kann eine vereinzelte Übermittlung von personenbezogenen Daten in ein Drittland erforderlich sein. Wir weisen darauf hin, dass durch eine Zustimmung zur Nutzung einzelner Partner im Rahmen der Vertragsbedingungen eine Verarbeitung deiner Daten in den USA erfolgen kann. Die USA ist vom Europäischen Gerichtshof als Land mit einem nicht angemessenen Datenschutzniveau identifiziert worden. Es besteht daher ein erhöhtes Risiko, dass US-Behörden auf diese Daten zugreifen können. Eine Verarbeitung von Daten in einem Drittland erfolgt stets unter Berücksichtigung der Voraussetzungen nach Art. 44 ff. DSGVO.
@@ -206,7 +206,7 @@ Eine Nutzung unserer Angebote ist auch ohne Cookies grundsätzlich möglich. Die
 
 **Datenschutzeinstellung mit Sourcepoint**
 
-Wir verwenden für die Bereitstellung einer Consent Management Plattform (kurz: „CMP“), d.h. ein System, welches den Einsatz von Drittanbietern, technischen Maßnahmen sowie Cookies über den Abschluss einer Nutzungsvereinbarung (Nutzung mit Werbung) oder alternativ der Teilnahme an unserem PUR-Abo regelt, die Dienste der Sourcepoint Technologies, Inc., 228 Park Ave S 87903, New York, NY 10003-1502, USA (im Folgenden „Sourcepoint“). Das CMP ermöglicht, dass keine Maßnahmen ohne vorliegende Rechtsgrundlagen und abhängig von Nutzung mit Werbung bzw. den PUR-Abo gesetzt oder ausgeführt werden. Wir haben mit Sourcepoint eine datenschutzrechtlich erforderliche Vereinbarung zur Auftragsverarbeitung (AV-Vertrag i.S.d. Artikel 28 DSGVO auf Basis der gültigen Standardvertragsklauseln) abgeschlossen, in der sich Sourcepoint dazu verpflichtet, die Daten unserer Nutzer zu schützen und gemäß den geltenden Datenschutzbestimmungen ausschließlich in unserem Auftrag zu verarbeiten.
+Wir verwenden für die Bereitstellung einer Consent Management Plattform (kurz: „CMP“), d.h. ein System, welches den Einsatz von Drittanbietern, technischen Maßnahmen sowie Cookies über den Abschluss einer Nutzungsvereinbarung (Nutzung mit Werbung) oder alternativ der Teilnahme an unserem Contentpass-Abo regelt, die Dienste der Sourcepoint Technologies, Inc., 228 Park Ave S 87903, New York, NY 10003-1502, USA (im Folgenden „Sourcepoint“). Das CMP ermöglicht, dass keine Maßnahmen ohne vorliegende Rechtsgrundlagen und abhängig von Nutzung mit Werbung bzw. den PUR-Abo gesetzt oder ausgeführt werden. Wir haben mit Sourcepoint eine datenschutzrechtlich erforderliche Vereinbarung zur Auftragsverarbeitung (AV-Vertrag i.S.d. Artikel 28 DSGVO auf Basis der gültigen Standardvertragsklauseln) abgeschlossen, in der sich Sourcepoint dazu verpflichtet, die Daten unserer Nutzer zu schützen und gemäß den geltenden Datenschutzbestimmungen ausschließlich in unserem Auftrag zu verarbeiten.
 
 Sourcepoint verarbeitet zur Bereitstellung und zum Management des CMPs folgende Daten:
 
@@ -214,17 +214,17 @@ Sourcepoint verarbeitet zur Bereitstellung und zum Management des CMPs folgende 
 
 · eine zufällig generierte Unique ID,
 
-· Ihre Auswahl (Nutzung mit Werbung oder PUR-Abo), welche in einer Cookie-Einwilligungs-Textdatei gespeichert wird,
+· Ihre Auswahl (Nutzung mit Werbung oder Contentpass-Abo), welche in einer Cookie-Einwilligungs-Textdatei gespeichert wird,
 
 und verwendet dabei sowohl den lokalen Speicher (auch Local Storage genannt) auf Ihrem Endgerät als auch das Setzen eines Consent-Cookies, um diese Information lokal in Ihrem Browser zu speichern. Die Daten werden darüber hinaus auf von Sourcepoint gehosteten Cloud-Servern von Amazon Web Services („AWS“) im Europäischen Wirtschaftsraum (Frankfurt am Main) gespeichert.
 
 Die Inhalte unseres CMPs basieren auf den Regeln und Übersichten wie sie im aktuellen IAB-TCF-Standard definiert sind. Wir nutzen immer den aktuellen „Transparency & Consent Framework“ der IAB Europe. Weitere Informationen zum IAB-TCF-Standard finden Sie unter [https://iabeurope.eu/transparency-consent-framework/](https://iabeurope.eu/transparency-consent-framework/).
 
-Die Aufbewahrungsfrist ist die Zeitspanne, in der die vom CMP verarbeiteten Daten für den Zweck der Datenschutzeinstellung bzw. Vertragsverwaltung gespeichert werden. Die oben genannten Daten (insbesondere Ihre Auswahl sowie ggf. im Rahmen des PUR-Abo individuell getroffenen Einstellungen) werden bis zu Ihrem Widerruf bzw. Widerspruch aufbewahrt.
+Die Aufbewahrungsfrist ist die Zeitspanne, in der die vom CMP verarbeiteten Daten für den Zweck der Datenschutzeinstellung bzw. Vertragsverwaltung gespeichert werden. Die oben genannten Daten (insbesondere Ihre Auswahl sowie ggf. im Rahmen des Contentpass-Abo individuell getroffenen Einstellungen) werden bis zu Ihrem Widerruf bzw. Widerspruch aufbewahrt.
 
 Weitere Informationen zur Datenverarbeitung durch Sourcepoint finden Sie in der Datenschutzerklärung von Sourcepoint unter [https://sourcepoint.com/privacy-notice/](https://sourcepoint.com/privacy-notice/).
 
-Der Zweck der Datenverarbeitung durch Sourcepoint ist die datenschutzkonforme Bereitstellung sowie das Management der von unseren Webseite-Besuchern getroffenen Einstellungen bzw. der Verwaltung der individuellen Datenschutz-Einstellungen unserer Webseiten-Besuchern. Die Verarbeitung erfolgt zum Zweck der Dokumentation der Auswahl des Webseiten-Besuchers (Nutzung mit Werbung oder PUR-Abo), der Bereitstellung von Widerrufs- und Widerspruchsmöglichkeiten, zur Nachweiserbringung der getroffenen Auswahl (Zeitpunkt der Einwilligung, genutztes Endgerät) sowie zur Identifikation des Nutzers zum Management seiner individuellen Datenschutz-Einstellungen.
+Der Zweck der Datenverarbeitung durch Sourcepoint ist die datenschutzkonforme Bereitstellung sowie das Management der von unseren Webseite-Besuchern getroffenen Einstellungen bzw. der Verwaltung der individuellen Datenschutz-Einstellungen unserer Webseiten-Besuchern. Die Verarbeitung erfolgt zum Zweck der Dokumentation der Auswahl des Webseiten-Besuchers (Nutzung mit Werbung oder Contentpass-Abo), der Bereitstellung von Widerrufs- und Widerspruchsmöglichkeiten, zur Nachweiserbringung der getroffenen Auswahl (Zeitpunkt der Einwilligung, genutztes Endgerät) sowie zur Identifikation des Nutzers zum Management seiner individuellen Datenschutz-Einstellungen.
 
 Der Einsatz einer Consent Management Plattform sowie das Management und die Speicherung Ihrer Auswahl in die Verarbeitung Ihrer personenbezogenen Daten erfolgt auf Basis unserer rechtlichen Verpflichtung zur Bereitstellung einer datenschutzkonformen Webseite (Art. 6 Abs. 1 S. 1 lit. c) DSGVO). Rechtsgrundlage für den Einsatz des Dienstleisters Sourcepoint ist auch Art. 6 Abs. 1 S. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der rechtssicheren Dokumentation und Nachweisbarbarkeit sowie der Aussteuerung unserer Analyse-Kampagnen auf Basis Ihrer erteilten Zustimmung durch den Einsatz von spezialisierten Auftragsverarbeitern und der dadurch verbundenen technischen Umsetzung.
 
@@ -328,7 +328,7 @@ Die Erfassung der Daten zur Bereitstellung der Webseite zwingend erforderlich. E
 
 Wir verwenden den Dienst Pubstack der Pubstack SAS, 9 rue des Colonnes, 75002 Paris, Frankreich, um die Auslieferung, Analyse und Optimierung von Werbeanzeigen auf unserer Website zu ermöglichen. Hierbei werden technische Informationen (z. B. IP-Adresse, Browser- und Geräteinformationen, Zugriffszeitpunkt) sowie Daten über die Nutzung unserer Website verarbeitet. Pubstack kann dazu Cookies oder vergleichbare Technologien einsetzen. Wir und Pubstack sind im Sinne von Art. 26 DSGVO gemeinsam für die Verarbeitung verantwortlich. Hierzu haben wir eine Vereinbarung über die gemeinsame Verantwortlichkeit abgeschlossen, die die jeweiligen Zuständigkeiten und Verantwortlichkeiten regelt. Die wesentlichen Inhalte dieser Vereinbarung können auf Anfrage bei uns eingesehen werden.
 
-Für den Fall, dass Sie ein Sport1 Pur-Abo abschließen, ist die Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Wenn Sie der Nutzung mit Werbung zustimmen, nutzen wir Ihre Daten grundsätzlich für personalisierte Werbung auf der Grundlage der Einwilligung nach Art. 6 Abs. 1 lit. a. DSGVO.
+Für den Fall, dass Sie ein Sport1 Contentpass-Abo abschließen, ist die Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Wenn Sie der Nutzung mit Werbung zustimmen, nutzen wir Ihre Daten grundsätzlich für personalisierte Werbung auf der Grundlage der Einwilligung nach Art. 6 Abs. 1 lit. a. DSGVO.
 
 Sie können der interessenbasierten Online-Werbung jederzeit widersprechen. Eine Deaktivierung („Opt-out“) ist über die folgenden Plattformen möglich:
 
@@ -486,171 +486,15 @@ Aus vorgenannten Punkten (1. – 6.) sowie unter Berücksichtigung, dass die tec
 
 Die Verarbeitung der Daten ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-**1.3. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Registrierung, Nutzerverwaltung, Login und Zahlungsabwicklung Ihres SPORT1-Accounts**
+**1.3 Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Registrierung, Nutzerverwaltung, Login und Zahlungsabwicklung Ihres Contentpass-Zugangs.**
 
-Sie haben auf unserer Webseite die Möglichkeit sich für einen unserer kostenpflichtigen Dienste (u.a. PUR-Abo – im Folgenden „Abonnement“) sowie kostenlosen Dienste (u.a. Tippspiel) zu registrieren. Ihre Registrierung zu Ihrem SPORT1-Account (im Folgenden „Profil“) ist hierbei für die Nutzung unserer Abonnements bzw. einzelner Services innerhalb unserer Webseite erforderlich.
+Auf unserer Website bieten wir Ihnen den [datenschutzfreundlichen und werbefreien Zugang mit contentpass](https://contentpass.net/) an. Dies ist ein Angebot der Content Pass GmbH, Wolfswerder 58, 14532 Kleinmachnow, Deutschland. Beim Abschluss des Service wird contentpass Ihr Vertragspartner.
 
-Wir verarbeiten die von Ihnen zu diesem Zweck uns freiwillig überlassenen Daten, um für Sie innerhalb der Nutzerverwaltung ein Profil erstellen und die technischen Abbuchungen durch unsere eingesetzten Zahlungsdienstleister durchführen zu können. Um Ihnen den Zugriff auf kostenpflichtige Dienste, sowie deren Administration, Verwaltung und Zahlungsabwicklung anbieten zu können, arbeiten wir derzeit mit der Firma Piano Software Norway, Drammensveien 165, 0277 Oslo, Norway (im Folgenden „Piano“) zusammen. Für weitere Informationen zu Piano und den eingesetzten Diensten verweisen wir auf den folgenden Abschnitt „Piano ID, Composer & VX“.
+Um Ihnen diesen Service auf unserer Webseite anzuzeigen und damit anbieten zu, können, verarbeitet contentpass, in unserem Auftrag, zu Beginn Ihres Webseitenaufrufs Ihre IP-Adresse. Für die Registrierung sowie die Vertragsabwicklung des contentpass und die damit einhergehende Datenverarbeitung ist contentpass Verantwortlicher im Sinne der DS-GVO. Wir sind ausschließlich Verantwortlicher für die Verarbeitung Ihrer IP-Adresse. Sie finden [weiterführende Informationen zum Datenschutz direkt bei contentpass](https://www.contentpass.net/privacy).
 
-**a) Registrierung**
+Grundlage für die Datenverarbeitung der IP-Adresse, im Rahmen unserer Auftragsverarbeitung mit contentpass, ist unser berechtigtes Interesse Ihnen die Möglichkeit zu bieten, unsere Webseite werbe- und tracking-frei aufrufen zu können und Ihr Interesse an der Nutzung unserer Webseite praktisch ohne Werbung und Tracking \[Art. 6 Abs. 1 S. 1 lit. f) GDPR.
 
-Im Rahmen der Registrierung benötigen wir folgende Informationen von Ihnen (nachfolgend „Mindestangaben“):
-
-· E-Mail-Adresse,
-
-· Vorname,
-
-· Nachname,
-
-· Passwort für den Zugang.
-
-Zusätzlich speichern wir Informationen zu Ihrer Registrierung (Bestätigung der Datenschutzerklärung sowie der Nutzungsbedingungen).
-
-Darüber hinaus werden automatisch folgende Daten erhoben und Ihrem Profil zugeordnet:
-
-· Land,
-
-· Region / Kontinent,
-
-· IP-Adresse (Die IP-Adresse wird nach Ermittlung des Landes, Region, Kontinent unverzüglich anonymisiert),
-
-· für die Registrierung verwendetes Gerät.
-
-Nach Ihrer erfolgreichen Registrierung senden wir Ihnen eine E-Mail mit einer Registrierungsbestätigung.
-
-**b) Login und Ihr Profilbereich**
-
-Wenn Sie sich mit Ihren Zugangsdaten gegenüber der Webseite authentifizieren, ist es erforderlich, dass wir die von Ihnen angegebenen Daten zur Verifizierung verarbeiten. Im Rahmen dieser Authentifizierung werden folgende Daten verarbeitet:
-
-· E-Mail-Adresse,
-
-· Passwort für den Zugang.
-
-Darüber hinaus werden automatisch folgende Daten mit Ihrem Profil abgeglichen:
-
-· Land,
-
-· Region / Kontinent,
-
-· IP-Adresse (Die IP-Adresse wird nach Ermittlung des Landes, Region, Kontinent anonymisiert),
-
-· für die Registrierung verwendetes Gerät.
-
-Durch die Benutzung der Webseite im eingeloggten Zustand werden zusätzlich verschiedene Daten – die in Zusammenhang mit den kostenpflichtigen Inhalten der Webseite benötigt werden – erhoben. Hierrunter zählen:
-
-· Daten betreffend Ihre Zahlungen. Dies betrifft u.a. die von Ihnen ausgewählte Zahlungsart und dessen Informationen und muss aufgrund gesetzlicher Bestimmungen protokolliert werden,
-
-· Daten über Ihre abgeschlossenen Abonnements,
-
-· Daten der Zugriffe auf kostenpflichtige Inhalte,
-
-· Daten über die Verwendung oder das Hinzufügen von Gutscheinen.
-
-Jedes Mitglied hat sein eigenes Nutzungsprofil. Im Profilbereich der Registrierungsplattform haben Sie die Möglichkeit sich über die folgenden Bereiche:
-
-· Abonnements: Anzeige und Verwaltung aller Abonnements (bspw. SPORT1 Pur Abo),
-
-· Zahlungsmittel: Anzeige und Verwaltung der hinterlegten Zahlungsmittel,
-
-· Transaktionen und Verlauf: Anzeige aller vergangenen Transaktionen bzw. Anzeige aller Einkäufe/Kaufhistorie (aktiv, inaktiv, alle),
-
-· Nutzerprofil: Änderung des Profilnamens, der E-Mail-Adresse sowie des Passworts möglich,
-
-· Abmelden: Logout
-
-zu informieren. Auf die dort dargestellten Informationen können lediglich Sie direkt zugreifen. Die Daten werden nicht auf Ihrem Endgerät gespeichert, sondern werden auf von Piano gehosteten Servern gespeichert. Die Kündigung eines Abonnements ist jederzeit über den jeweiligen Schieberegler „Automatische Verlängerung“ oder per E-Mail an [datenschutz@sport1.de](mailto:datenschutz@sport1.de) möglich.
-
-**c) Zahlungsabwicklung**
-
-Im Rahmen Ihres Abonnements bieten wir Ihnen effiziente und sichere Zahlungsmöglichkeiten an und setzen hierzu neben Kreditinstituten weitere Zahlungsdienstleister ein (zusammenfassend „Zahlungsdienstleister“).
-
-Den Zahlungsdienstleister wählen Sie im Rahmen des Registrierungsprozesses aus. In Abhängigkeit Ihrer Auswahl, müssen Sie selbst den Zahlungsvorgang anstoßen. SPORT1 bzw. Piano überlässt Ihre SPORT1 überlassenen Daten dem von Ihnen ausgewählten Zahlungsdienstleister in Ihrem Auftrage zur Abwicklung Ihrer Bestellung.
-
-Zu den durch die Zahlungsdienstleister verarbeiteten Daten gehören Bestandsdaten (z.B. Namen), Zahlungsdaten (z.B. Kreditkartennummer, Rechnungen, Zahlungshistorie), Vertragsdaten (z.B. Vertragsgegenstand, Laufzeit, Kundenkategorie), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen), Kontaktdaten (z.B. E-Mail). Diese Angaben sind erforderlich, damit der Zahlungsdienstleister die Transaktionen durchzuführen kann. Die eingegebenen Daten werden nur durch den jeweiligen Zahlungsdienstleister verarbeitet und bei diesem gespeichert. D.h., wir erhalten keine konto- oder kreditkartenbezogenen Informationen, sondern lediglich Informationen mit Bestätigung oder Negativbeauskunftung über die Zahlung. Unter Umständen werden die Daten seitens der Zahlungsdienstleister an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung bezweckt die Identitäts- und Bonitätsprüfung. Hierzu verweisen wir auf die AGB und die Datenschutzhinweise des jeweilig von Ihnen bestimmten Zahlungsdienstleisters. Wir verweisen auf diese ebenfalls zwecks weiterer Informationen und Geltendmachung von Widerrufs-, Auskunfts- und anderen Betroffenenrechten.
-
-Abhängig von Ihrer gewählten Zahlungsart werden die zur Zahlungsabwicklung erforderlichen Daten an einen der folgenden Zahlungsdienstleister übermittelt:
-
-· Stripe: Zahlungsdienstleistungen; Dienstanbieter: Stripe, Inc., 510 Townsend Street, San Francisco, CA 94103, USA; Website: [https://stripe.com/de;](https://stripe.com/de;) Datenschutzerklärung: [https://stripe.com/de/privacy](https://stripe.com/de/privacy).
-
-Für die technische Anbindung der Zahlungsdienstleister ist unser Dienstleister Piano verantwortlich.
-
-Ihre zum Zwecke der Registrierung, Anmeldung, Nutzerverwaltung und Zahlungsabwicklung angegebenen Daten werden ausschließlich in einem von Piano gehosteten Rechenzentrum in der Europäischen Union verarbeitet. Wir bieten Ihnen auf unserer Registrierungsplattform jederzeit die Möglichkeit in Ihren Profileinstellungen Änderungen an Ihrem Benutzerprofil (unter „Nutzerprofil“) oder Ihrem Passwort („Passwort ändern“) vorzunehmen. Hierzu müssen Sie auf der Registrierungsplattform eingeloggt sein. Zudem finden Sie in den Einstellungen Möglichkeiten Ihre Einkäufe/Abonnements sowie Rechnungen einzusehen bzw. diesbezüglich Einstellungen vornehmen. Eine Beantragung der Löschung Ihres Profils bzw. die Kündigung bestehender Abonnements ist jederzeit per E-Mail an [datenschutz@sport1.de](mailto:datenschutz@sport1.de) möglich.
-
-Wir speichern Ihre Daten, solange wie das Abonnement besteht, d.h. bis der beschriebene Zweck, sich zu den kostenpflichtigen Diensten zu registrieren, erfüllt ist und keine anderweitigen gesetzlichen Aufbewahrungspflichten bestehen. Im Falle einer Kündigung bzw. eines Löschungsbegehrens werden die Daten gelöscht; aufbewahrungspflichtige Daten werden gesperrt und nach Ablauf der gesetzlichen Aufbewahrungsfristen gelöscht.
-
-**d) Löschung Ihres SPORT1-Accounts**
-
-Sie können jederzeit Ihren SPORT1-Account kündigen oder auch nur einzelne innerhalb Ihres SPORT1-Account gebuchten Dienste aufkündigen. Im Falle einer Kündigung werden die Daten des jeweiligen Dienstes bzw. bei einer Kündigung Ihres SPORT1-Accounts sämtliche Daten gelöscht; aufbewahrungspflichtige Daten werden gesperrt und nach Ablauf der gesetzlichen Aufbewahrungsfristen gelöscht. Eine von Ihnen geäußerte Löschung bzw. ein uns mitgeteiltes Löschbegehren ist eine Kündigung des bezogenen Dienstes bzw. ein Widerruf in die weitere Verarbeitung Ihrer Daten zu einem einwilligungsbedürftigen Dienst.
-
-Rechtsgrundlage für die Verarbeitung Ihrer Daten zum Zwecke der Registrierung, Anmeldung bzw. Nutzerverwaltung sowie die Verarbeitung zur Erfüllung des Vertrages zwischen Ihnen und uns bzw. Piano ist Art. 6 Abs. 1 S. 1 lit. b) DSGVO. Zum Zwecke einer etwaigen Altersverifizierung gilt Art. 6 Abs. 1 lit. c) DSGVO als Rechtsgrundlage. Zum Zwecke der Übermittlung der für die Zahlungsabwicklung notwendigen Daten an die beauftragten Zahlungsdienstleister gilt das berechtigte Interesse des Verantwortlichen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) als Rechtsgrundlage. Wenn Sie ihr Nutzerkonto löschen, werden ihre Daten im Hinblick auf das Nutzerkonto gelöscht, es sei denn deren Aufbewahrung ist aus handels- oder steuerrechtlichen Gründen entsprechend Art. 6 Abs. 1 lit. c) DSGVO notwendig.
-
-**Piano ID, Composer & VX**
-
-Wir verwenden die Produkte Piano ID, Composer, VX & DMP von Piano Software Norway, Drammensveien 165, 0277 Oslo, Norway (im Folgenden „Piano“) für das korrekte Ausspielen der Webseiteninhalte. Die angegebenen Piano Produkte helfen uns sicherzustellen, dass Nutzer beim PUR-Abo alle verfügbaren Inhalte entweder mit oder ohne zielgruppenorientierte Werbung bzw. Tracking sehen können, basierend auf der Entscheidung, ob ein PUR-Abonnement abgeschlossen wurde oder nicht.
-
-Der Einsatz von Piano Composer ermöglicht uns die Anzeige der Bezahlschranke und damit die Steuerung der digitalen Leserechte. Die Erlöse aus den Abonnements stellen einen elementaren Bestandteil unseres Geschäftsmodells dar und erlauben uns Ihnen weiter hochwertige Inhalte anbieten zu können.
-
-Piano VX ist ein Tool von Piano für die Verwaltung der verschiedenen Mitgliedschaften bei uns. Mit Piano VX können wir die Leistungsberechtigungen, Preise, Werbeaktionen und Zahlungsabwicklung bei den bezahlten Abonnements verwalten.
-
-Piano ID ist ein Tool von Piano für das Identity-Management, das es uns ermöglicht, Sie und Ihre Verhaltensweisen durch Ihr Profil bei uns auf verschiedenen Geräten und Plattformen zusammenzuführen und zu verstehen. Mit Piano ID können wir ein umfassendes Verständnis für Sie und Ihre Bedürfnisse entwickeln, um personalisierte und relevante Inhalte und Angebote bereitzustellen.
-
-Das Datenmanagement Tool von Piano (DMP_) ermöglicht es uns_ Benutzerprofile und Publikumssegmente zu entwickeln und diese dann für Multi-Channel-Werbekampagnen zu nutzen.
-
-Folgende personenbezogene Daten können durch die beschriebenen und eingesetzten Piano Produkte verarbeitet werden, um sicherzustellen, dass Sie die Inhalte in korrekter Form angezeigt sowie abhängig von der Auswahl „Nutzung mit Werbung“ oder Ihrem abgeschlossenen PUR-Abo bekommen:
-
-· Name,
-
-· E-Mail-Adresse,
-
-· Finanzdaten (bei Abschluss des Abonnements),
-
-· Unterseiten, die Sie besuchen (inkl. Referrer-Seite),
-
-· Besuchszeit und -dauer,
-
-· Informationen über Angebotsconversions und Interaktionen,
-
-· Informationen über das Gerät zum Aufruf unserer Inhalte.
-
-Wir haben mit Piano die datenschutzrechtlich erforderliche Vereinbarung zur Auftragsverarbeitung nach Art. 28 DSGVO abgeschlossen. Ausweislich dieser Vereinbarung verpflichtet sich Piano dazu, den notwendigen Schutz Ihrer Daten zu gewährleisten und diese gemäß den geltenden Datenschutzbestimmungen ausschließlich in unserem Auftrag zu verarbeiten.
-
-Piano ID, Composer, VX & DMP verwenden sog. Cookies, Textdateien, die auf Ihrem Computer gespeichert werden, um Ihnen die korrekte Darstellung bei Benutzung der Webseite zu ermöglichen. Folgende Cookies werden von Piano gesetzt:
-
-· \_tbc: Identifiziert den Browser des Nutzers. Gültigkeit 2 Jahre.
-
-· \_tac: Speichert die Ressourcen, auf die ein Benutzer Zugriff hat, und die Ablaufzeit dieses Zugriffs. Gültigkeit X Jahre.
-
-· \_tae: Speichert einen Zeitstempel, wann das Token Access List Cookie (\_\_tac) ablaufen soll. Gültigkeit 2 Jahre.
-
-· \_pvi: Daten über den letzten Besuch auf der Webseite, einschließlich: AID, Domain und Zeitpunkt des Besuchs. Nur für die Berichterstattung verwendet. Gültigkeit 1 Tag.
-
-· \_pat: Differenz zwischen der Zeitzone der Client-Anwendung und UTC. Um Mitternacht (Ortszeit der Anwendung) läuft der vorherige Besuch ab und ein neuer wird erstellt. Das Cookie wird für die Berechnung verwendet. Gültigkeit 30 Tage.
-
-· \_lang: Ausgewählte Sprache. Gültigkeit 2 Jahre.
-
-· ch\_sid: ID der Kassensitzung. Mit dieser ID können wir die Daten der Kassenstatistik mit einer Kassensitzung verknüpfen. Gültigkeit 1 Stunde.
-
-· \_pnahc: Feststellung, ob Piano Skripte von einem Adblocker geblockt werden. Gültigkeit 3 Monate.
-
-· xbc: Der Experience-Cookie ermöglicht es der Software von Piano, einzelne Browser über einen längeren Zeitraum zu beobachten, wenn sie unsere Webseite besuchen. Piano nutzt diese Daten, um Berichte über die Nutzung der Webseite für uns zu erstellen. Darüber hinaus ermöglicht die Speicherung der zuletzt besuchten URLs uns, in Composer eine Segmentierung vorzunehmen, wenn der betreffende Nutzer angetroffen wird, ohne dass ein zusätzlicher Aufruf an den Server erfolgt (z. B. um Nutzern, die innerhalb von 30 Tagen zwei Unterhaltungsberichte konsumiert haben, ein bestimmtes Angebot zu zeigen). Gültigkeit 2 Jahre.
-
-Die durch die Cookies erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen Server von Piano in der EU gesendet und verarbeitet.
-
-Ausführliche Informationen zum Einsatz von Cookies durch Piano können Sie unter folgendem Link einsehen: [https://docs.piano.io/piano-cookie-descriptions/](https://docs.piano.io/piano-cookie-descriptions/). Nähere Informationen zum Datenschutz finden Sie unter [https://piano.io/privacy-policy/](https://piano.io/privacy-policy/).
-
-Die Verwendung von Piano ID, Composer, VX & DMP stützen wir auf die Rechtsgrundlage des berechtigten Interesses gemäß Art. 6 Abs. 1 S.1 lit. f) DSGVO i.V.m. §25 (2) (2) TDDDG. Unser berechtigtes Interesse begründen wir damit, dass diese Tools das korrekte Ausspielen unserer Inhalte basierend auf dem Abonnement der Nutzer sicherstellt und somit integraler Bestandteil unseres Erlösmodells ist.
-
-Ihre Daten werden so lange aufbewahrt, wie dies für die Erfüllung der Zwecke notwendig ist. Sie können Ihr Konto bei uns jederzeit löschen (siehe Abschnitt 1.3. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Registrierung, Nutzerverwaltung, Login und Zahlungsabwicklung Ihres SPORT1-Accounts).
-
-Die Verarbeitung der Daten ist für den Betrieb der Webseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
-
-**2\. Nutzung von** [**SPORT1.de**](http://sport1.de/) **mit dem SPORT1 PUR-Abo**
-
-Im kostenpflichtigen PUR-Abo erfolgen keine einwilligungspflichtigen Datenverarbeitungen und insbesondere keine personalisierten Anzeigen und Inhalte. Es werden nur Cookies und andere Technologien verwendet, die zur Erbringung unseres Dienstes unbedingt erforderlich sind. Darüber hinaus werden technisch notwendige Daten für die Anzeige, Stabilität und Sicherheit unserer Website verarbeitet.
-
-Wir verwenden Cookies nur dann, wenn dies unbedingt erforderlich ist, um den vom Nutzer gewünschten Dienst bereitzustellen. Die Rechtsgrundlage für die Verarbeitung dieser technisch notwendigen Daten im Rahmen des Pur-Angebots hängt von der Art des Dienstes ab und kann entweder Art. 6 Abs. 1 lit. b) oder lit. f) DSGVO i.V.m. § 25 Abs. 2 S. 2 TDDDG sein.
-
-Im Rahmen des Pur-Abos müssen wir Ihnen auch andere nicht werbliche Dienste zur Verfügung stellen. In diesen Fällen ist die Rechtsgrundlage § 25 Abs. 2 S. 2 TDDDG und Art. 6 Abs. 1 lit. b) DSGVO für die Verarbeitung der Daten zur Vertragserfüllung.
+Hier gelangen Sie [zum Login mit contentpass](https://www.contentpass.net/login/sport1.de) oder [zur Registrierung](https://www.contentpass.net/register/sport1.de).
 
 **3\. Nutzung von** [**SPORT1.de**](http://sport1.de/) **mit Tracking und Cookies (Nutzung mit Werbung)**
 
@@ -1132,9 +976,9 @@ Sollten Sie bei Twitch mit Ihrem Benutzerkonto eingeloggt sein, kann Twitch Inte
 
 Die Datenschutzerklärung sowie Nutzungsbedingungen von Twitch Interactive sowie Informationen zur Erhebung und Nutzung Ihrer Daten durch Twitch Interactive finden Sie unter [https://www.twitch.tv/p/de-de/legal/terms-of-service/](https://www.twitch.tv/p/de-de/legal/terms-of-service/) und [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/).
 
-Um einen eigenmächtigen und unkontrollierten Datenfluss ab dem Zeitpunkt Ihres Besuchs unseres Internetauftritts zu vermeiden, setzen wir die Einbindung der Social Widgets innerhalb des PUR Abos ausschließlich auf Basis Ihrer gegebenen Einwilligung um, d.h. dass wir Ihnen das Social Widget und die darüber eingebunden YouTube-Videos oder Facebook-, Twitter-, Twitch Interactive und Instagram-Inhalte nur anzeigen, wenn Sie in die Datenverarbeitung über die ausgegrauten Flächen mittels eines Layers zugestimmt haben. Wir weisen Sie über einen Infotext auf die dahinterliegenden Social Media-Inhalte sowie die datenschutzrechtlichen Verantwortlichkeiten hin. Mit der sogenannten „One-Shot-Lösung“ ermöglichen wir es Ihnen jederzeit einzelne Inhalte anzusehen, ohne allen YouTube-; Facebook-, Twitter- oder Instagram-Einbindungen zuzustimmen. Bitte beachte Sie, dass YouTube erst Cookies setzen darf bzw. Informationen über Ihren Besuch auf unserer Webseite erhält, wenn Sie aktiv auf den Link im Layer zum Anzeigen des Videos geklickt haben. Die Anzeige der YouTube-Inhalte erfolgt nach Ihrem Klick ausschließlich für die jeweilige Session. Durch den Besuch (eingeloggt mit PUR Abo) unserer Webseite ohne Bestätigung Ihrerseits werden keine Daten an YouTube, Facebook oder Twitter übermittelt. Zudem bieten wir Ihnen über einen zweiten Link im eingeblendeten Layer in die Anzeige aller Social Widgets einzuwilligen.
+Um einen eigenmächtigen und unkontrollierten Datenfluss ab dem Zeitpunkt Ihres Besuchs unseres Internetauftritts zu vermeiden, setzen wir die Einbindung der Social Widgets innerhalb des Contentpass Abos ausschließlich auf Basis Ihrer gegebenen Einwilligung um, d.h. dass wir Ihnen das Social Widget und die darüber eingebunden YouTube-Videos oder Facebook-, Twitter-, Twitch Interactive und Instagram-Inhalte nur anzeigen, wenn Sie in die Datenverarbeitung über die ausgegrauten Flächen mittels eines Layers zugestimmt haben. Wir weisen Sie über einen Infotext auf die dahinterliegenden Social Media-Inhalte sowie die datenschutzrechtlichen Verantwortlichkeiten hin. Mit der sogenannten „One-Shot-Lösung“ ermöglichen wir es Ihnen jederzeit einzelne Inhalte anzusehen, ohne allen YouTube-; Facebook-, Twitter- oder Instagram-Einbindungen zuzustimmen. Bitte beachte Sie, dass YouTube erst Cookies setzen darf bzw. Informationen über Ihren Besuch auf unserer Webseite erhält, wenn Sie aktiv auf den Link im Layer zum Anzeigen des Videos geklickt haben. Die Anzeige der YouTube-Inhalte erfolgt nach Ihrem Klick ausschließlich für die jeweilige Session. Durch den Besuch (eingeloggt mit Contentpass Abo) unserer Webseite ohne Bestätigung Ihrerseits werden keine Daten an YouTube, Facebook oder Twitter übermittelt. Zudem bieten wir Ihnen über einen zweiten Link im eingeblendeten Layer in die Anzeige aller Social Widgets einzuwilligen.
 
-Im Rahmen der Nutzung mit Werbung zeigen wir Ihnen die Inhalte von Facebook, Instagram, Twitter, YouTube und Twitch Interactive direkt an. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten ist bei im Fall der Nutzung mit Werbung Art. 6 Abs. S. 1 lit. b) DSGVO. Im Falle eines bestehenden PUR Abos erfolgt die Datenverarbeitung auf Basis Ihrer diesbezüglichen Einwilligung bzw. Klick auf die zur Verfügung gestellten Social Widgets-Inhalte Art. 6 Abs. 1 S. 1 lit. a) DSGVO i.V.m. § 25 (1) TDDDG. Darüber hinaus liegen die genannten Verarbeitungszwecke in unserem berechtigten Interesse (Art. 6 Abs. 1 S. 1 lit. f) DSGVO i.V.m. § 25 (2) (2) TDDDG). Es ist für die verantwortliche Stelle wichtig, die Webseite attraktiv zu gestalten und die Interaktion mit den Besuchern und Kunden mit Hilfe des Plug-Ins zu steigern.
+Im Rahmen der Nutzung mit Werbung zeigen wir Ihnen die Inhalte von Facebook, Instagram, Twitter, YouTube und Twitch Interactive direkt an. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten ist bei im Fall der Nutzung mit Werbung Art. 6 Abs. S. 1 lit. b) DSGVO. Im Falle eines bestehenden Contentpass Abos erfolgt die Datenverarbeitung auf Basis Ihrer diesbezüglichen Einwilligung bzw. Klick auf die zur Verfügung gestellten Social Widgets-Inhalte Art. 6 Abs. 1 S. 1 lit. a) DSGVO i.V.m. § 25 (1) TDDDG. Darüber hinaus liegen die genannten Verarbeitungszwecke in unserem berechtigten Interesse (Art. 6 Abs. 1 S. 1 lit. f) DSGVO i.V.m. § 25 (2) (2) TDDDG). Es ist für die verantwortliche Stelle wichtig, die Webseite attraktiv zu gestalten und die Interaktion mit den Besuchern und Kunden mit Hilfe des Plug-Ins zu steigern.
 
 Sie können der Erhebung, Speicherung und Nutzung von Informationen durch Google, Facebook, Twitch Interactive oder Twitter jederzeit mit Wirkung für die Zukunft über die folgenden Wege widersprechen bzw. Ihre über die ausgegraute Schaltefläche gegebene Einwilligung widerrufen:
 
@@ -1386,7 +1230,7 @@ E-Mail: [datenschutz@sport1.de](mailto:datenschutz@sport1.de)
 
 Stand: April 2025
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202025-12-28%2019%3A37%3A41%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202025-12-29%2019%3A10%3A26%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
 
 [
 

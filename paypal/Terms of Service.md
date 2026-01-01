@@ -1324,7 +1324,7 @@ Wenn andere Dokumente (z.B. Nutzungsbedingungen) auf Abschnittsnummern oder defi
 
 * * *
 
-*   ©1999–2025 PayPal. Alle Rechte vorbehalten.
+*   ©1999–2026 PayPal. Alle Rechte vorbehalten.
 *   [Barrierefreiheit](https://www.paypal.com/de/webapps/mpp/accessibility)
 *   [Impressum](https://www.paypal.com/de/webapps/mpp/imprint)
 *   [Datenschutz](https://www.paypal.com/myaccount/privacy/privacyhub)

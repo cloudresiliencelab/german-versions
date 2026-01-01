@@ -53,7 +53,7 @@ We have a reporting and complaints procedure to review potentially unlawful cont
 **10\. Miscellaneous:**
 -----------------------
 
-The statutory warranty rights to which you are entitled apply. Further information on this can be found in the general terms and conditions. You also have the option of [**downloading and archiving the general terms and conditions**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/34adcc72-1173-4477-92ea-2cd0eed594f2.pdf)**.**  
+The statutory warranty rights to which you are entitled apply. Further information on this can be found in the general terms and conditions. You also have the option of [**downloading and archiving the general terms and conditions**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/595f2872-5f2a-4ff4-8f01-4e76bd381e7b.pdf)**.**  
 
 **Reporting and complaints procedure; out-of-court dispute resolution**
 -----------------------------------------------------------------------
@@ -67,7 +67,7 @@ Before suspending the processing of reports and complaints, we shall issue a war
 Standard Terms and Conditions Zalando
 =====================================
 
-[**Downloading and Archiving the General Terms and Conditions as PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/34adcc72-1173-4477-92ea-2cd0eed594f2.pdf)
+[**Downloading and Archiving the General Terms and Conditions as PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/595f2872-5f2a-4ff4-8f01-4e76bd381e7b.pdf)
 
 ### Standard Terms and Conditions (T&Cs) for orders placed online at [en.zalando.de](https://en.zalando.de/)
 
@@ -131,7 +131,9 @@ The Zalando Gift Cards are not e-money but non-regulated stored value. This mean
 6\. Statutory right of revocation in respect of Zalando merchandise
 -------------------------------------------------------------------
 
-When you purchase Zalando merchandise you have a statutory right of revocation:The first thing you should know is that if you decide to return merchandise, you can use the return shipping label enclosed with your order, or it can also be printed out from your customer account page. If you do not have access to a printer, you encounter problems downloading the return shipping label or you require a new return shipping label, you can contact Customer Care to request one (contact details below). Please help us to avoid unnecessary costs by always using the return shipping label when returning merchandise.
+When you purchase Zalando merchandise you have a statutory right of revocation:  
+  
+The first thing you should know is that if you decide to return merchandise, you can use the QR code or the return shipping label accessible and printable from your customer account page. If you do not have access to a printer, you encounter problems downloading the return shipping label or accessing the QR code, you can contact Customer Care to request one (contact details below). Please help us to avoid unnecessary costs by always using the QR code or the return shipping label when returning merchandise.
 
 ### Information regarding the right of revocation:
 
@@ -139,7 +141,7 @@ You have the right to revoke this contract within 14 days without giving any rea
 
 ### Consequences of revocation
 
-If you revoke this contract, we are required to refund all payments we received from you, including delivery costs (except any additional costs incurred as a result of you choosing a delivery method other than the lowest-cost standard delivery offered by us), without undue delay and at least within 14 days from the day on which we received your notice of revocation of this contract. Refunds will be processed using the same method of payment which you used for the original transaction, unless expressly agreed otherwise with you. We will not charge you any fees for the refund. We may hold off completing your refund until we have received the merchandise back, or you have supplied us with proof that you have returned the merchandise, whichever occurs earlier. You are obliged to return or hand over all merchandise to us without undue delay, but at least within 14 days from the day on which you gave us your notice of revocation of this contract. The above requirement is deemed satisfied if you return the goods before expiry of the 14-day period. We will assume the return shipping costs, provided you use the return shipping label provided by us for shipment from the country in which delivery was made to you, otherwise you will be required to pay the return shipping costs. You are only obliged to cover any depreciation in the value of merchandise if the depreciation is attributable to your improper handling of the merchandise when examining its condition, properties and function.
+If you revoke this contract, we are required to refund all payments we received from you, including delivery costs (except any additional costs incurred as a result of you choosing a delivery method other than the lowest-cost standard delivery offered by us), without undue delay and at least within 14 days from the day on which we received your notice of revocation of this contract. Refunds will be processed using the same method of payment which you used for the original transaction, unless expressly agreed otherwise with you. We will not charge you any fees for the refund. We may hold off completing your refund until we have received the merchandise back, or you have supplied us with proof that you have returned the merchandise, whichever occurs earlier. You are obliged to return or hand over all merchandise to us without undue delay, but at least within 14 days from the day on which you gave us your notice of revocation of this contract. The above requirement is deemed satisfied if you return the goods before expiry of the 14-day period. We will assume the return shipping costs, provided you use the QR code or the return shipping label for shipment from the country in which delivery was made to you, otherwise you will be required to pay the return shipping costs. You are only obliged to cover any depreciation in the value of merchandise if the depreciation is attributable to your improper handling of the merchandise when examining its condition, properties and function.
 
 ### **Revocation form**
 
@@ -160,7 +162,9 @@ The right of cancellation expires prematurely for contracts subject to sealed go
 7\. Statutory right of revocation in respect of Zalando partner merchandise and Zalando Pre-owned merchandise
 -------------------------------------------------------------------------------------------------------------
 
-When you purchase Zalando partner merchandise and Zalando Pre-owned merchandise you have a statutory right of revocation: The first thing you should know is that if you decide to return merchandise, you can use the return shipping label enclosed with your order. If you require a new return shipping label, you can contact Customer Care to request one (contact details below). Please help us to avoid unnecessary costs by always using the return shipping label when returning merchandise.
+When you purchase Zalando partner merchandise and Zalando Pre-owned merchandise you have a statutory right of revocation:  
+  
+The first thing you should know is that if you decide to return merchandise, you can use the QR code or the return shipping label enclosed with your order or accessible from your customer account page. If you require a new return shipping label, you can contact Customer Care to request one (contact details below). Please help us to avoid unnecessary costs by always using the QR code or the return shipping label when returning merchandise.
 
 ### **Information regarding the right of revocation:**
 
@@ -170,7 +174,8 @@ You have the right to revoke this contract within 14 days without giving any rea
 
 If you revoke this contract, we are required to refund all payments we received from you, including delivery costs (except any additional costs incurred as a result of you choosing a delivery method other than the lowest-cost standard delivery offered by us), without undue delay and at least within 14 days from the day on which we or our Zalando partner received your notice of revocation of this contract. Refunds will be processed using the same method of payment which you used for the original transaction, unless expressly agreed otherwise with you; we will not charge you any fees for the refund. We may hold off completing your refund until Zalando Pre-owned or our Zalando partner have/has received the merchandise back, or you have supplied us with proof that you have returned the merchandise, whichever occurs earlier.  
 You are obliged to return or hand over all merchandise to the relevant Zalando partner or Zalando Pre-owned without undue delay, but at least within 14 days from the day on which you gave us your notice of revocation of this contract. You will find a link identifying the Zalando partner or Zalando Pre-owned and providing their contact information on the web page for each product. You will also find their contact details in the PDF file entitled "Information regarding the right of revocation" attached to the order confirmation we send to you.  
-The above requirement is deemed satisfied if you return the goods before expiry of the 14-day period. We will assume the return shipping costs, provided you use the return shipping label provided by us for shipment from the country in which delivery was made to you, otherwise you will be required to pay the return shipping costs. You are only obliged to cover any depreciation in the value of merchandise if the depreciation is attributable to your improper handling of the merchandise when examining its condition, properties and function.
+  
+The above requirement is deemed satisfied if you return the goods before expiry of the 14-day period. We will assume the return shipping costs, provided you use the QR code or the return shipping label for shipment from the country in which delivery was made to you, otherwise you will be required to pay the return shipping costs. You are only obliged to cover any depreciation in the value of merchandise if the depreciation is attributable to your improper handling of the merchandise when examining its condition, properties and function.
 
 ### **Revocation form**
 
@@ -191,8 +196,8 @@ The right of cancellation expires prematurely for contracts subject to sealed go
 ------------------------------------------------------------
 
 8.1 Without prejudice to your statutory right of revocation, we offer you the option of returning merchandise within 30 days of you receiving them. This return option allows you, even after the 14-day revocation period has expired (see "Information regarding the right of revocation" above), to cancel the contract by returning the merchandise to us, or to our Zalando partner if Zalando partner merchandise is involved, within 30 days of receiving them (this period commences upon your receipt of the merchandise).  
-8.2 If you are returning Zalando merchandise or Zalando Pre-owned merchandise, you can use the return shipping label enclosed with your order, or you can print the label out yourself from your customer account page. Please contact Customer Care if you have any problems downloading the return shipping label or you do not have access to a printer.  
-8.3 If you are returning Zalando partner merchandise, you can use the return shipping label enclosed with your order. Otherwise there is a link to the relevant Zalando partner's contact details on the web page for each product. You will also find their contact details in the PDF file entitled "Information regarding the right of revocation" attached to the order confirmation we send to you.  
+8.2 If you are returning Zalando merchandise or Zalando Pre-owned merchandise, you can use the QR code or the return shipping label accessible and printable from your customer account page. Please contact Customer Care if you have any problems accessing the QR code or downloading the return shipping label or you do not have access to a printer.  
+8.3 If you are returning Zalando partner merchandise, you can use the QR code or the return shipping label enclosed with your order. Otherwise there is a link to the relevant Zalando partner's contact details on the web page for each product. You will also find their contact details in the PDF file entitled "Information regarding the right of revocation" attached to the order confirmation we send to you.  
 8.4 Your merchandise will be deemed returned within 30 days if you send it within such time. However, your exercise of this return option is preconditioned upon you having worn/tried on the merchandise only as you would have in a shop, and upon the merchandise being returned in full in its original condition, intact and undamaged, and in its original packaging. Until the period for exercising the statutory right of revocation expires, the statutory provisions governing this right shall apply exclusively. The option to return merchandise does not limit your statutory warranty rights, to which you remain entitled without qualification. The option to return merchandise does not apply to gift vouchers.  
 8.5 The voluntary 30 days return right does not exist for contracts subject to sealed goods which have been unsealed after delivery and which are not suitable for return due to hygienic reasons.  
 8.6 Until expiration of the statutory revocation right of revocation the conditions as listed under section 6 and 7 apply exclusively. The statutory warranty rights remain unaffected from the voluntary 30 days return right.  The voluntary 30 days right of return is not applicable for the purchase of gift vouchers.
@@ -222,7 +227,7 @@ Please note that when ordering Zalando-Pre-owned articles, these are used articl
 Since Zalando-Pre-owned merchandise are second-hand goods, usual signs of use, which can be expected due to the used quality of the goods, do not constitute a defect. For such usual signs of use or properties of the goods, which were already evident from the description of the item, no warranty rights exist.  
 11.4 The offers made available at www.zalando.de can be used by persons of at least 18 years of age.  
 11.5 Each customer is only entitled to have one customer account with Zalando at any time. We reserve the right to delete multiple registrations.  
-11.6 These T&Cs can be viewed at [**en.zalando.de/zalando-terms.**](https://en.zalando.de/zalando-terms/) You can also print or save this document by selecting the usual commands in your web browser (usually File -> Save as). You can also [**download and archive this document as a PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/34adcc72-1173-4477-92ea-2cd0eed594f2.pdf). To open the PDF file, you will need Adobe Reader, which you can download for free at www.adobe.de, or a similar PDF viewer.  
+11.6 These T&Cs can be viewed at [**en.zalando.de/zalando-terms.**](https://en.zalando.de/zalando-terms/) You can also print or save this document by selecting the usual commands in your web browser (usually File -> Save as). You can also [**download and archive this document as a PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/595f2872-5f2a-4ff4-8f01-4e76bd381e7b.pdf). To open the PDF file, you will need Adobe Reader, which you can download for free at www.adobe.de, or a similar PDF viewer.  
 11.7 You can also easily archive your order details by either downloading the T&Cs and using the appropriate commands in your browser to save the order summary appearing on the last page of the online shop ordering process, or by waiting to receive the automatic order confirmation which we also send to your nominated e-mail address upon completion of your order. The order confirmation e-mail includes your order details and our T&Cs and can be easily printed out or saved with your e-mail programme.  
 11.8 We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
 
@@ -278,8 +283,10 @@ Link to Recommendation preferences:[**https://en.zalando.de/myaccount/recommenda
 Kind regards,  
 Zalando SE Valeska-Gert-Str. 5  
 10243 Berlin  
-Executive Board: Robert Gentz & David Schröder (both co-chairs of the board), Dr. Astrid Arndt, David Schneider  
+Executive Board: Robert Gentz & David Schröder (both co-chairs of the board), Dr. Astrid Arndt,  
+Anna Dimitrova, David Schneider  
 Supervisory Board Chairperson: Kelly Bennett  
 Registered with the Local Court (Amtsgericht) of Charlottenburg Berlin, HRB 158855 B VAT ID: DE 260543043  
 WEEE-Reg.-Nr. DE /WEEG-Reg.-No GER: 72754189  
-Last updated: 20.07.2025
+  
+Last updated: 01.01.2026

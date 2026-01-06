@@ -15,15 +15,14 @@ Rothenbaumchaussee 132
 20149 Hamburg  
 E-Mail: info@ndr.de
 
-2\. Kontaktdaten der Rundfunkdatenschutzbeauftragten
-----------------------------------------------------
+2\. Kontaktdaten des Datenschutzbeauftragten
+--------------------------------------------
 
-Rundfunkdatenschutzbeauftragter des NDR ist:
+Datenschutzbeauftragter des NDR ist:
 
 Dr. Heiko Neuhoff  
 Norddeutscher Rundfunk (NDR)  
 Anstalt des öffentlichen Rechts  
-Gremienbüro  
 Rothenbaumchaussee 132  
 20149 Hamburg  
 E-Mail: datenschutz@ndr.de
@@ -140,11 +139,11 @@ Ihre Rechte und Kontaktmöglichkeiten finden Sie unter Ziffer 9.
 6\. Social Media und Inhalte von Drittanbietern
 -----------------------------------------------
 
-Sie können die Inhalte von NDR.de über soziale Netzwerke teilen und weiterempfehlen. Dies funktioniert ausschließlich über die betriebssystemeigenen Sharing-Dienste, bei denen Sie die Möglichkeit haben, die Inhalte direkt in den Netzwerken zu platzieren. Damit Sie die Sharing-Funktionen nutzen können, müssen Sie bei einem Netzwerk angemeldet sein und aus unserem Angebot heraus eine Verbindung mit dem Netzwerk herstellen. Dadurch erhält das Netzwerk möglicherweise Nutzungsdaten wie zum Beispiel Ihre aktuelle IP-Adresse. Wir erhalten dadurch keine weiteren Daten und insbesondere auch keinen Zugriff auf Ihre Daten bei z. B. Facebook, Twitter oder WhatsApp. Wir bieten diese Möglichkeit lediglich an, damit Sie Inhalte teilen können.
+Sie können die Inhalte von NDR.de über soziale Netzwerke teilen und weiterempfehlen. Dies funktioniert ausschließlich über die betriebssystemeigenen Sharing-Dienste, bei denen Sie die Möglichkeit haben, die Inhalte direkt in den Netzwerken zu platzieren. Damit Sie die Sharing-Funktionen nutzen können, müssen Sie bei einem Netzwerk angemeldet sein und aus unserem Angebot heraus eine Verbindung mit dem Netzwerk herstellen. Dadurch erhält das Netzwerk möglicherweise Nutzungsdaten wie zum Beispiel Ihre aktuelle IP-Adresse. Wir erhalten dadurch keine weiteren Daten und insbesondere auch keinen Zugriff auf Ihre Daten bei z. B. Facebook oder WhatsApp. Wir bieten diese Möglichkeit lediglich an, damit Sie Inhalte teilen können.
 
 Genauere Informationen zu Art, Zweck und Umfang sowie der weiteren Nutzung Ihrer Daten durch die sozialen Netzwerke finden Sie in den einzelnen Datenschutzerklärungen der jeweiligen Netzwerke.
 
-Wir verlinken auch auf Inhalte von Drittanbietern und haben dafür Maßnahmen zum Schutz Ihrer Daten getroffen. Dabei handelt es sich zum Beispiel um sog. Social Plugins der Sozialen Netzwerke Facebook und Twitter, die sich als Standard in der Medienwelt durchgesetzt haben und wichtig für die Verbreitung unserer Inhalte sind. Darüber hinaus integrieren wir Funktionen und Inhalte von weiteren Netzwerken (z.B. Instagram und YouTube) und von Datenvisualisierungs-Tools (z. B. DataWrapper), um die Medienentwicklung aktiv mitzugestalten und Inhalte in der bestmöglichen Form anzubieten.
+Wir verlinken auch auf Inhalte von Drittanbietern und haben dafür Maßnahmen zum Schutz Ihrer Daten getroffen. Dabei handelt es sich zum Beispiel um sog. Social Plugins der Sozialen Netzwerke Facebook und X, die sich als Standard in der Medienwelt durchgesetzt haben und wichtig für die Verbreitung unserer Inhalte sind. Darüber hinaus integrieren wir Funktionen und Inhalte von weiteren Netzwerken (z.B. Instagram und YouTube) und von Datenvisualisierungs-Tools (z. B. DataWrapper), um die Medienentwicklung aktiv mitzugestalten und Inhalte in der bestmöglichen Form anzubieten.
 
 Der NDR schützt die Privatsphäre, indem Inhalte von Drittanbietern nicht direkt eingebettet werden. Zum Schutz der Daten weisen wir vor der Anzeige externer Inhalte und der Übertragung von Daten an Drittanbieter ausdrücklich darauf hin. Sie können danach selbstständig der Datenübertragung zustimmen und sich den Inhalt per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung ist Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
 
@@ -271,7 +270,7 @@ Im Rahmen unserer Möglichkeiten gehen wir mit größter Sorgfalt und Sensibilit
 9\. Ihre Rechte
 ---------------
 
-Sofern von Ihnen personenbezogene Daten verarbeitet werden, sind Sie sogenannte betroffene Person im Sinne der DSGVO. Als betroffene Person stehen Ihnen gegenüber dem Verantwortlichen (Ziffer 1) das Recht auf Auskunft gemäß Art. 15 DSGVO, auf Berichtigung nach Art. 16 DSGVO, auf Löschung nach Art. 17 DSGVO, auf Einschränkung der Verarbeitung nach Art. 18 DSGVO, auf Widerspruch aus Art. 21 DSGVO sowie das Recht auf Datenübertragbarkeit aus Art. 20 DSGVO zu. Darüber hinaus besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde gemäß Art. 77 DSGVO. Zuständige Aufsichtsbehörde ist der Rundfunkdatenschutzbeauftragte des NDR (Ziffer 2).
+Sofern von Ihnen personenbezogene Daten verarbeitet werden, sind Sie sogenannte betroffene Person im Sinne der DSGVO. Als betroffene Person stehen Ihnen gegenüber dem Verantwortlichen (Ziffer 1) das Recht auf Auskunft gemäß Art. 15 DSGVO, auf Berichtigung nach Art. 16 DSGVO, auf Löschung nach Art. 17 DSGVO, auf Einschränkung der Verarbeitung nach Art. 18 DSGVO, auf Widerspruch aus Art. 21 DSGVO sowie das Recht auf Datenübertragbarkeit aus Art. 20 DSGVO zu. Darüber hinaus besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde gemäß Art. 77 DSGVO. Zuständige Aufsichtsbehörde ist der Datenschutzbeauftragte des NDR (Ziffer 2).
 
 10\. Apps
 ---------
@@ -343,4 +342,4 @@ Personenbezogene Daten, die wir in Wahrnehmung unserer Aufgaben im öffentlichen
 
 Sie haben das Recht, vom NDR Auskunft über die Sie betreffenden personenbezogenen Daten zu verlangen sowie ggf. Berichtigung, Löschung und Einschränkung der Verarbeitung oder ggf. auch das Recht, einen Widerspruch geltend zu machen (Betroffenenrechte gem. Art. 15 ff. DSGVO). Unter den Voraussetzungen von Art. 20 DSGVO kann ein Recht auf Datenübertragung in Betracht kommen. Kontaktmöglichkeiten finden Sie in Ziffer 1 und 9.
 
-Schließlich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten des NDR (s. Ziffer 2) zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt.
+Sie haben das Recht, sich bei der zuständigen Datenschutzaufsicht zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt.

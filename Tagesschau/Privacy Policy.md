@@ -1,7 +1,7 @@
 Datenschutz Datenschutzerklärung von tagesschau.de
 ==================================================
 
-Stand: 02.09.2024 15:31 Uhr
+Stand: 05.01.2026 16:11 Uhr
 
 **Wir freuen uns über die Nutzung unseres Angebots. Tagesschau.de nimmt den Schutz Ihrer Daten sehr ernst. Hier erfahren Sie, welche Daten tagesschau.de bei der Nutzung der Webseiten erhebt und wie diese verwendet werden.**
 
@@ -18,19 +18,20 @@ Rothenbaumchaussee 132
 
 E-Mail: [Anfrage per Kontaktformular](https://www.tagesschau.de/mehr/so-erreichen-sie-uns-100.html "Link zum Kontaktformular")
 
-2\. Kontaktdaten der Rundfunkdatenschutzbeauftragten
-----------------------------------------------------
+2\. Kontaktdaten des Datenschutzbeauftragten
+--------------------------------------------
 
-Rundfunkdatenschutzbeauftragter des NDR ist:
+Datenschutzbeauftragter des NDR ist:
 
 Dr. Heiko Neuhoff  
 Norddeutscher Rundfunk (NDR)  
 Anstalt des öffentlichen Rechts  
-Gremienbüro  
 Rothenbaumchaussee 132  
 20149 Hamburg
 
 E-Mail: datenschutz@ndr.de
+
+Sie haben das Recht, sich bei der zuständigen Datenschutzaufsicht zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt.
 
 3\. Erhebung von Daten bei der Nutzung der tagesschau.de
 --------------------------------------------------------

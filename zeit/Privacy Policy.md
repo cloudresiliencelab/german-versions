@@ -5,7 +5,7 @@ Datenschutzerklärung
 
 01.04.2025
 
-Beim Aufruf einer Website, der Nutzung eines Kontaktformulars, der Teilnahme an einer Veranstaltung oder der Anmeldung zu einem Newsletter werden personenbezogene Daten verarbeitet. Das geschieht sowohl automatisch (z.B. bei der IP-Adresse) als auch durch die aktive Eingabe von Daten (z.B. bei einer Bestellung). Die Datenschutz-Grundverordnung (DSGVO) verpflichtet uns dazu, Sie über diese Verarbeitung zu informieren. Sie sollen z.B. wissen, welche Zwecke wir verfolgen, wie lange Ihre Informationen gespeichert werden, auf welcher Rechtsgrundlage die Verarbeitung basiert und welche Empfänger von Daten es geben kann. Darum geht es in dieser Datenschutzerklärung.
+Beim Aufruf einer Website, der Registrierung für einen Dienst, der Abwicklung von Verträgen und anderen Interaktionen werden personenbezogene Daten verarbeitet. Das geschieht sowohl automatisch (z.B. bei der IP-Adresse) als auch durch die aktive Eingabe von Daten (z.B. bei einer Bestellung). Die Datenschutz-Grundverordnung (DSGVO) verpflichtet uns dazu, Sie über diese Verarbeitung zu informieren. Sie sollen z.B. wissen, welche Zwecke wir verfolgen, wie lange Ihre Informationen gespeichert werden, auf welcher Rechtsgrundlage die Verarbeitung basiert und welche Empfänger von Daten es geben kann. Darum geht es in dieser Datenschutzerklärung.
 
 Verantwortlich für die Datenverarbeitung ist grundsätzlich die ZEIT Online GmbH, Buceriusstraße, Eingang Speersort 1, 20095 Hamburg. Weitere Angaben zum Unternehmen sowie Kontaktmöglichkeiten finden Sie am Ende der Datenschutzerklärung.
 

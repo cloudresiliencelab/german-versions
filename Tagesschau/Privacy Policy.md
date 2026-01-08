@@ -1,7 +1,7 @@
 Datenschutz Datenschutzerklärung von tagesschau.de
 ==================================================
 
-Stand: 05.01.2026 16:11 Uhr
+Stand: 07.01.2026 15:47 Uhr
 
 **Wir freuen uns über die Nutzung unseres Angebots. Tagesschau.de nimmt den Schutz Ihrer Daten sehr ernst. Hier erfahren Sie, welche Daten tagesschau.de bei der Nutzung der Webseiten erhebt und wie diese verwendet werden.**
 
@@ -56,7 +56,7 @@ Bei jedem Aufruf unseres Onlineangebots erfasst unser System automatisiert die f
 3.1.1 Content Delivery Network
 ------------------------------
 
-Bei der Verbreitung unseres Onlineangebots – insbesondere großer Mediendateien – bedienen wir uns eines sogenannten Content Delivery Network (CDN). Unser CDN ist ein Netz regional verteilter und über das Internet verbundener Server unserer technischen Dienstleister (Auftragsverarbeiter). Bei Abruf des Onlineangebots übermittelt der Internet-Browser bzw. das Programm, mit dem das Angebot abgerufen wird, diesen Dienstleistern automatisiert Informationen, die in entsprechenden Protokolldateien, den sog. Server-Logfiles, erhoben und auf Servern innerhalb der Europäischen Union verarbeitet werden. Die Server-Logfiles werden auf diesen Servern anonymisiert und dann ohne Personenbezug in die USA übermittelt. Dort werden die Server-Logfiles 90 Tage gespeichert und dann automatisiert gelöscht.
+Bei der Verbreitung unseres Onlineangebots – insbesondere großer Mediendateien – bedienen wir uns eines sogenannten Content Delivery Network (CDN). Unser CDN ist ein Netz regional verteilter und über das Internet verbundener Server unserer technischen Dienstleister (Auftragsverarbeiter). Bei Abruf des Onlineangebots übermittelt der Internet-Browser bzw. das Programm, mit dem das Angebot abgerufen wird, diesen Dienstleistern automatisiert Informationen, die in entsprechenden Protokolldateien, den sog. Server-Logfiles, erhoben und auf Servern innerhalb der Europäischen Union verarbeitet werden. Die Server-Logfiles werden auf diesen Servern anonymisiert und dann ohne Personenbezug in die USA übermittelt. Dort werden die Server-Logfiles 90 Tage gespeichert und dann automatisiert gelöscht.
 
 Bei den Server-Logfiles handelt es sich insbesondere um Details zum verwendeten Browser und Betriebssystem, ein Hinweis auf die Herkunft der zuvor besuchten Seiten (sog. Referral URL), die IP-Adresse des verwendeten Geräts, den Namen des Internet-Providers, sowie Datum, Uhrzeit aller Seiten-Aufrufe unter dem Angebot einschließlich der dabei übermittelten Datenmenge. Zusätzlich werden zur Optimierung der Videoqualität und Sicherstellung der Erreichbarkeit der Videos technische, nicht-personenbezogene Daten in Form von Video-Startzeit, technisch verursachte Unterbrechungen und Ladezeiten, empfangene Qualität und Netzwerkinformationen an Auswertungsservern erhoben.
 
@@ -94,23 +94,10 @@ Auf dieser Webseite werden Informationen über die Videonutzung auch mit einem V
 
 Die GfK setzt hierzu ein als sensic bezeichnetes Verfahren ein, welches über die GfK Domain sensic.net betrieben wird. Dieses Verfahren wird fälschlicherweise gelegentlich von Browser-Add-Ons, welche ein Tracking von Usern ermitteln oder verhindern sollen, als Werbetracker erkannt. Tagesschau.de stellt sicher und bestätigt hiermit, dass es sich hierbei um ein Messverfahren der statistischen Nutzungsmessung und nicht um Werbetracking handelt.
 
-Durchführung von AB-Tests mit AB Tasty
---------------------------------------
-
-Wir nutzen den Dienst AB Tasty des Unternehmens AB Tasty GmbH (https://www.abtasty.com/de), ein Tochterunternehmen der AB Tasty SAS. Der Dienst ermöglicht eine Analyse des Nutzerverhaltens mithilfe von Nutzersegmentierungen. Anhand der Auswertung der Logfiledaten kann ermittelt werden, wie die einzelnen Nutzersegmente die Website nutzen, welche Seiten aufgesucht werden und wie die Klickraten erhöht werden können. Der Einsatz von AB Tasty dient dazu, das Website-Angebot tagesschau.de anhand der Interessen und Präferenzen unserer Nutzer auszurichten. So können wir die Nutzererfahrung sowohl hinsichtlich der Funktionen der Website als auch hinsichtlich redaktioneller Aspekte verbessern.
-
-Dabei sammelt AB Tasty statistische Informationen über Besucherzugriffe. Bei diesen Informationen handelt es sich um Nutzungsdaten (wie Browser oder Anzahl der angesehenen Seiten), die anonymisiert erfasst und statistisch ausgewertet werden. Ein Rückschluss auf eine spezifische Person ist zu keinem Zeitpunkt möglich.
-
-Darüber hinaus nimmt AB Tasty mit Hilfe der IP-Adresse eine Geolokalisierung (regionale Details des Standortes) vor. Nach der Geolokalisierung, die unmittelbar beim Besuch der Seite erfolgt, wird die IP-Adresse sofort gelöscht. Um personalisierte Inhalte anzuzeigen, wird ein personalisiertes Muster gebildet. Dieses Muster wird verschlüsselt und lässt keine Rückschlüsse auf die Person zu. Weitere Informationen finden Sie in der Datenschutzerklärung der Firma AB Tasty: https://www.abtasty.com/de/verarbeitung-personenbezogener-kundendaten/.
-
-Für die Speicherung und Wiedererkennung der Seitenbesucher werden Cookies gespeichert. Diese haben eine Laufzeit von maximal 13 Monaten und werden danach automatisch gelöscht. Darüber hinaus haben Sie die Möglichkeit, die Cookies manuell zu löschen.
-
-Rechtsgrundlage für die Nutzungsmessung ist Art. 6 Abs. 1 S. 1 lit. e) DSGVO bzw. hinsichtlich des Einsatzes von Cookies § 25 Abs. 2 Nr. 2 TTDSG. Der Einsatz von AB Tasty ist Voraussetzung dafür, dass wir die in Art. 5 Abs. 1. S. 2 GG und in §30 MStV übertragene Aufgabe erfüllen können. Das Tool befähigt uns, ein auf Nutzerbedürfnisse und -interessen angepasstes und konkurrenzfähiges Angebot zur Verfügung zu stellen.
-
 Hinweis
 -------
 
-Sie haben die Möglichkeit, die Erfassung der statistischen Daten durch AT Internet (A Piano Company), Nielsen und AB Tasty zu verhindern, indem Sie das folgende Häkchen setzen:
+Sie haben die Möglichkeit, die Erfassung der statistischen Daten durch AT Internet (A Piano Company) und Nielsen zu verhindern, indem Sie das folgende Häkchen setzen:
 
 Darüber hinaus führen wir von Zeit zu Zeit auf tagesschau.de, meta.tagesschau.de und in den sozialen Medien, Befragungen unserer Nutzer\*innen durch, um unser Angebot zu verbessern. Dabei verwenden wir ein Produkt der Firma Lamapoll. Bei der Teilnahme an der Umfrage werden Sie auf Server der Firma Lamapoll umgeleitet.
 
@@ -183,7 +170,7 @@ Für die Nutzung dieses Angebots, für die Kommentierung von Beiträgen oder das
 
 Wir verlinken auch auf Inhalte von Drittanbietern und haben dafür Maßnahmen zum Schutz Ihrer Daten getroffen. Dabei handelt es sich zum Beispiel um sog. Social Plugins der Sozialen Netzwerke Facebook und X, die sich als Standard in der Medienwelt durchgesetzt haben und wichtig für die Verbreitung unserer Inhalte sind. Darüber hinaus integrieren wir Funktionen und Inhalte von weiteren Netzwerken (z.B. Instagram und YouTube) und von Datenvisualisierungs-Tools, um die Medienentwicklung aktiv mitzugestalten und Inhalte in der bestmöglichen Form anzubieten.
 
-tagesschau.de schützt Ihre Privatsphäre, indem keine direkte Einbindung der Inhalte von Drittanbietern erfolgt. Zum Schutz der Daten weisen wir vor der Anzeige externer Inhalte und der Übertragung von Daten an Drittanbieter ausdrücklich darauf hin. Nutzerinnen und Nutzer können danach selbstständig der Datenübertragung zustimmen und sich den Inhalt per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung des Nutzers ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
+tagesschau.de schützt Ihre Privatsphäre, indem keine direkte Einbindung der Inhalte von Drittanbietern erfolgt. Zum Schutz der Daten weisen wir vor der Anzeige externer Inhalte und der Übertragung von Daten an Drittanbieter ausdrücklich darauf hin. Nutzerinnen und Nutzer können danach selbstständig der Datenübertragung zustimmen und sich den Inhalt per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung des Nutzers ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
 10\. Zustimmung für Inhalte von Drittanbietern
 ----------------------------------------------
@@ -221,7 +208,7 @@ Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 *   Datenschutz bei Audio Now: [https://audionow.de/datenschutz](https://audionow.de/datenschutz "Audio Now")
 *   Datenschutz bei TikTok: [https://www.tiktok.com/legal/privacy-policy?lang=de](https://www.tiktok.com/legal/privacy-policy?lang=de "TikTok Datenschutzbestimmungen")
 
-Wir weisen darauf hin, dass wir keine personenbezogenen Daten von Nutzer\*innen des Tagesschau-Kanals von TikTok erhalten. Allgemein wird die Nutzung von TikTok aus datenschutzrechtlicher Sicht kritisch gesehen: Gemäß den AGB der TikTok-App darf die Nutzung der App bereits **ab 13 Jahren** erfolgen. Das bedeutet, dass bei Nutzer\*innen unter 18 Jahren die Einverständniserklärung der Eltern notwendig ist. Das Vorliegen des Einverständnisses wird aber offenbar von TikTok nicht überprüft, weshalb Erziehungsberechtigte aufmerksam kontrollieren sollten, ob ihre Kinder den Dienst nutzen. Weiterhin soll die App Daten auf einem Smartphone mitlesen und z. B. Standorte und Telefonkontakte weitergeben. Der Umgang und die Weitergabe dieser Daten von TikTok – etwa an ausländische Behörden – sind ungewiss. Wir machen daher darauf aufmerksam, dass die Nutzung der auf TikTok von tagesschau.de produzierten Inhalte aufgrund der noch ungeklärten Fragen mit Risiken verbunden ist.
+Wir weisen darauf hin, dass wir keine personenbezogenen Daten von Nutzer\*innen des Tagesschau-Kanals von TikTok erhalten. Allgemein wird die Nutzung von TikTok aus datenschutzrechtlicher Sicht kritisch gesehen: Gemäß den AGB der TikTok-App darf die Nutzung der App bereits **ab 13 Jahren** erfolgen. Das bedeutet, dass bei Nutzer\*innen unter 18 Jahren die Einverständniserklärung der Eltern notwendig ist. Das Vorliegen des Einverständnisses wird aber offenbar von TikTok nicht überprüft, weshalb Erziehungsberechtigte aufmerksam kontrollieren sollten, ob ihre Kinder den Dienst nutzen. Weiterhin soll die App Daten auf einem Smartphone mitlesen und z. B. Standorte und Telefonkontakte weitergeben. Der Umgang und die Weitergabe dieser Daten von TikTok – etwa an ausländische Behörden – sind ungewiss. Wir machen daher darauf aufmerksam, dass die Nutzung der auf TikTok von tagesschau.de produzierten Inhalte aufgrund der noch ungeklärten Fragen mit Risiken verbunden ist.
 
 11.1 Welche Daten werden verarbeitet und was passiert mit diesen Daten?
 -----------------------------------------------------------------------
@@ -327,7 +314,7 @@ ARD aktuell ist die ARD-Gemeinschaftsredaktion für die aktuellen Fernsehsendung
 --------------------------------------------------------
 
 Im Zeitpunkt der Datenerhebung, beispielsweise im Rahmen einer Vertragsbeziehung zur Erfüllung gegenseitig geschuldeter Leistungen und Pflichten oder in Wahrnehmung des Hausrechts und ggf. damit einhergehenden berechtigten Sicherheitsinteressen speichert der NDR personenbezogene Daten von Ihnen. Dies können beispielsweise sein:  
-Name, Kontaktdaten, Geburtsdatum, Bankverbindung, Arbeitgeber, Auftraggeber, Personalausweis- oder Führerscheindaten, haussicherheitsrelevante Daten wie Personenbilder aus videoüberwachten Zutrittsbereichen und andere Zutrittsdaten, Bilder oder Filmaufnahmen bei Konzerten oder sonstigen Veranstaltungen des NDR.
+Name, Kontaktdaten, Geburtsdatum, Bankverbindung, Arbeitgeber, Auftraggeber, Personalausweis- oder Führerscheindaten, haussicherheitsrelevante Daten wie Personenbilder aus videoüberwachten Zutrittsbereichen und andere Zutrittsdaten, Bilder oder Filmaufnahmen bei Konzerten oder sonstigen Veranstaltungen des NDR.
 
 Personenbezogene Daten werden zu jeweils ganz unterschiedlichen Zwecken und immer auf gesetzmäßiger Grundlage verarbeitet, beispielsweise:
 
@@ -361,7 +348,7 @@ Empfänger Ihrer personenbezogenen Daten sind die jeweils mit konkreten zweckgeb
 14.5 Auftragsdatenverarbeitung und Datensicherheit
 --------------------------------------------------
 
-Aufgrund gesonderter schriftlicher Vereinbarungen lassen wir personenbezogene Daten auch von Dienstleistern im Rahmen von Auftragsverarbeitungsverhältnissen gem. Art. 28 DSGVO verarbeiten. Hiermit sind keine Übermittlungen Ihrer persönlichen Daten an Dritte im datenschutzrechtlichen Sinne verbunden. Der NDR bleibt Ihnen gegenüber datenschutzrechtlich verantwortlich.  
+Aufgrund gesonderter schriftlicher Vereinbarungen lassen wir personenbezogene Daten auch von Dienstleistern im Rahmen von Auftragsverarbeitungsverhältnissen gem. Art. 28 DSGVO verarbeiten. Hiermit sind keine Übermittlungen Ihrer persönlichen Daten an Dritte im datenschutzrechtlichen Sinne verbunden. Der NDR bleibt Ihnen gegenüber datenschutzrechtlich verantwortlich.  
 Die Mitarbeiter\*innen der Auftragsverarbeiter sind zur Wahrung der Vertraulichkeit Ihrer Daten verpflichtet wie unsere eigenen Beschäftigten. Sie unterliegen unseren Weisungen. Alle gesetzlich vorgeschriebenen technischen und organisatorischen Sicherheitsmaßnahmen zum Schutz Ihrer personenbezogenen Daten vor Verlust und Missbrauch werden vom NDR gewährleistet. So werden Ihre personenbezogenen Daten jeweils in sicheren Betriebsumgebungen gespeichert, die Mitarbeitern der Auftragsverarbeiter nur insoweit zugänglich sind, als dies zur Erfüllung der vertraglichen Aufgaben zwingend erforderlich ist.
 
 14.6 Kriterien für die Festlegung von Speicherdauern

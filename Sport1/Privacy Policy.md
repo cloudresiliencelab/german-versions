@@ -710,42 +710,6 @@ Die Einbindung der Shikenso-Inhalte mittels eingebunden iFrame erfolgt auf Grund
 
 Sie können die Nutzung mit Werbung jederzeit über den Link „Nutzung mit Werbung beenden“ beenden. Durch einen Klick auf den Button „Jetzt beenden“ werden die Nutzungsberechtigung von SPORT1 sofort beendet und die Verarbeitung durch Shikenso unterbunden.
 
-**A/B-Testing mit AB Tasty**
-
-Um unsere Webangebote kontinuierlich verbessern zu können, führen wir A/B-Tests an vereinzelten Unterwebseiten durch. Zu solchen Test-Zwecken erheben wir mithilfe eines Web-Management-/Analyse-Tool des Anbieters AB Tasty Société par Actions simplifiée, 17-19 Rue Michel-le-Comte, 75003 Paris, Frankreich (im Folgenden „AB Tasty“) anonymisierte statistische Daten. Bei einem A/B Test werden zwei verschiedene Versionen einer Unterwebseite / eines Beitrags auf unserer Webseite zufällig unseren Webseitenbesuchern angezeigt. Durch die Auswertung mittels AB Tasty können wir feststellen, welche Version bei unseren Kunden bzw. den Webseitenbesuchern besser ankommt. Auf Basis der Auswertungen können wir anschließend unser Webangebot entsprechend optimieren.
-
-AB Tasty verwendet folgende Cookies für die Analyse unserer Testseiten:
-
-· AB\_TASTY: Wird von AB Tasty verwendet, um Webseiten und Besucher zu analysieren und zu verstehen. Gültigkeit 13 Monate.
-
-Sollten Sie eine Seite aufrufen, welche über AB Tasty einem Test unterzogen wird, werden folgende Informationen zur statistischen Auswertung verarbeitet:
-
-· IP-Adresse (es erfolgt keine Speicherung von Seiten AB Tasty),
-
-· Test- und Varianten-IDs,
-
-· Zeitstempel.
-
-Die dadurch erhobenen Daten werden ausschließlich für den oben genannten Zweck verwendet und ausschließlich auf zertifizierten Servern innerhalb der EU / EWR verarbeitet. Die IP-Adresse wird nur zu Geolokalisierungszwecken gesammelt und danach sofort unwiderruflich von AB Tasty gelöscht. Eine Speicherung auf den Servern von AB Tasty erfolgt nicht. AB Tasty sammelt keine anderen persönlichen Daten (inklusive sensitiver Daten).
-
-Für die Bereitstellung des Service arbeitet AB Tasty mit folgendem Dienstleister zusammen:
-
-· Google Ireland Ltd., Gordon hous, Barrow Street, Dublin, Ireland (Google Cloud Platform) – Location: Belgien.
-
-Weitere Informationen zum Datenschutz bei AB Tasty finden Sie unter [https://www.abtasty.com/de/datenschutzerklarung/](https://www.abtasty.com/de/datenschutzerklarung/).
-
-Der Einsatz von AB Tasty erfolgt auf Grundlage der eingegangenen Nutzungsvereinbarung „Nutzung mit Werbung“ nach Art. 6 Abs. 1 S. 1 lit. b) DSGVO:
-
-· zur Durchführung von Datenanalysen und A/B-Testing,
-
-· um die Nutzung unserer Website statistisch zu erfassen und zum Zwecke der Optimierung unseres Angebotes für Sie auszuwerten,
-
-· zur ständigen Verbesserung und Verwaltung unseres Angebotes,
-
-· zum Einsatz von spezialisierten Auftragsverarbeitern und den dadurch verbundenen wirtschaftlichen und technischen Vorteilen.
-
-Sie können die Nutzung mit Werbung jederzeit über den Link „Nutzung mit Werbung beenden“ beenden. Durch einen Klick auf den Button „Jetzt beenden“ werden die Nutzungsberechtigung von SPORT1 sofort beendet und die Verarbeitung durch AB Tasty unterbunden. Wenn Sie am A/B-Testing mit AB Tasty nicht teilnehmen möchten, können Sie zudem unter folgendem Link widersprechen: [https://www.abtasty.com/de/#abtastyoptout=1](https://www.abtasty.com/de/#abtastyoptout=1)
-
 **4\. Weitere datenverarbeitende Prozesse auf** [**SPORT1.de**](http://sport1.de/)
 
 **4.1. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister und Social Media-Plattformen zur Kommunikation mit unseren Webseiten-Besucher**
@@ -1230,7 +1194,7 @@ E-Mail: [datenschutz@sport1.de](mailto:datenschutz@sport1.de)
 
 Stand: April 2025
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-01-07%2019%3A37%3A02%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-01-08%2019%3A39%3A15%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
 
 [
 

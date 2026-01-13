@@ -8,7 +8,7 @@
 8\. Einbindung von Drittanbieter-Inhalt  
 9\. Informationen zur Verwendung von Cookies  
 9.1 Allgemeine Informationen zur Verwendung von Cookies  
-9.2 PUR-Abo: Werbetrackingfreie Nutzung unserer Website und App  
+9.2 PUR-Abo: Werbetrackingfreie Nutzung unserer Website und App  
 9.2.1 Stripe  
 9.3 Cookie-Einwilligung mit "Usercentrics"  
 9.4 Web Analytics, Online Werbung und Cookies von Drittanbietern  
@@ -135,7 +135,7 @@ Nach der EU-Datenschutz-Grundverordnung haben Sie als Betroffener folgende Recht
 
 ### 4.1 Auskunft, Löschung, Sperrung, Widerspruch
 
-Sie haben das Recht, von uns als Verantwortliche die Information zu erhalten, ob und welche personenbezogenen Daten, die Sie betreffen, von uns verarbeitet werden sowie weitere Informationen gemäß den gesetzlichen Vorgaben nach Art. 13, 14 DSGVO. Ihren Auskunftsanspruch könnten Sie unter [datenschutz@kicker.de](mailto:datenschutz@kicker.de) geltend machen.
+Sie haben das Recht, von uns als Verantwortliche die Information zu erhalten, ob und welche personenbezogenen Daten, die Sie betreffen, von uns verarbeitet werden sowie weitere Informationen gemäß den gesetzlichen Vorgaben nach Art. 13, 14 DSGVO. Ihren Auskunftsanspruch könnten Sie unter [datenschutz@kicker.de](mailto:datenschutz@kicker.de) geltend machen.
 
 ### 4.2 Recht auf Berichtigung
 
@@ -191,7 +191,7 @@ Wir verwenden für die Registrierung das sog. Double-opt-in-Verfahren, d. h. Ihr
 
 Bei der Registrierung erheben und speichern wir folgende Daten: Vorname Nachname, Benutzername, Passwort, E-Mail-Adresse. Darüber hinaus können in den Profileinstellungen weitere Daten ergänzt werden. Diese Daten sind Anrede, Geburtsdatum, Adresse, Telefonnummer, Benutzerbild. Diese Bestandsdaten werden zwecks Erfüllung unserer vertraglichen Verpflichtungen und Serviceleistungen gemäß Art. 6 Abs.1 lit. b DSGVO verarbeitet.
 
-OV bietet allen Kunden die Möglichkeit, die Dienste im Falle einer Registrierung unter einem Pseudonym zu nutzen. Bei Nutzern, die ein Pseudonym gewählt haben, darf OV Nutzungsprofile erstellen, die eine Verbindung der Profile zu dem konkreten Nutzer ermöglichen. Sie können jederzeit über die zu Ihrem Pseudonym abgespeicherten Daten Auskunft verlangen. Eine diesbezügliche Anfrage ist an datenschutz@kicker.de zu richten. Sie können jederzeit der Verarbeitung und Nutzung der zu Ihrem Pseudonym erhobenen Nutzungsdaten widersprechen. Dazu reicht es aus, wenn Sie eine formlose E-Mail an folgende Adresse senden: datenschutz@kicker.de.
+OV bietet allen Kunden die Möglichkeit, die Dienste im Falle einer Registrierung unter einem Pseudonym zu nutzen. Bei Nutzern, die ein Pseudonym gewählt haben, darf OV Nutzungsprofile erstellen, die eine Verbindung der Profile zu dem konkreten Nutzer ermöglichen. Sie können jederzeit über die zu Ihrem Pseudonym abgespeicherten Daten Auskunft verlangen. Eine diesbezügliche Anfrage ist an datenschutz@kicker.de zu richten. Sie können jederzeit der Verarbeitung und Nutzung der zu Ihrem Pseudonym erhobenen Nutzungsdaten widersprechen. Dazu reicht es aus, wenn Sie eine formlose E-Mail an folgende Adresse senden: datenschutz@kicker.de.
 
 ### 6.2. Single-Sign-On
 
@@ -260,7 +260,7 @@ Die während des Absendevorgangs zusätzlich erhobenen personenbezogenen Daten w
 
 ### 8.1 Einbindung von Externen Inhalten
 
-Der OV bindet auf verschiedenen Artikelseiten und Unterseiten Inhalte von anderen Webseiten ein. Für Nutzer\*innen des europäischen Auslandes ist hierfür die Rechtsgrundlage Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Dadurch ist es möglich, die Ausschnitte, Beiträge und insbesondere Videos direkt auf unserer Webseite aufrufen zu können. Wir binden dabei Inhalte von folgenden externen Anbietern ein: Google Maps, Facebook, Instagram, YouTube, Twitter, Twitch, TikTok und Eurosport.
+Der OV bindet auf verschiedenen Artikelseiten und Unterseiten Inhalte von anderen Webseiten ein. Für Nutzer\*innen des europäischen Auslandes ist hierfür die Rechtsgrundlage Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Dadurch ist es möglich, die Ausschnitte, Beiträge und insbesondere Videos direkt auf unserer Webseite aufrufen zu können. Wir binden dabei Inhalte von folgenden externen Anbietern ein: Google Maps, Facebook, Instagram, YouTube, Twitter, Twitch, TikTok und Eurosport.
 
 Auch wenn Sie in die Nutzung des jeweiligen Anbieters des Externen Inhalts nicht eingewilligt haben, haben Sie die Möglichkeit bei jedem eingebetteten Beitrag oder Video eine direkte Einwilligung für den jeweiligen Inhalt zu geben. Diese Einwilligung können Sie jederzeit in den Einstellungen unseres Consent Management Tools wieder rückgängig machen. Diese finden Sie [hier](https://www.kicker.de/datenschutzhinweis-513381/artikel).
 
@@ -294,11 +294,11 @@ Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitu
 
 **X**: X Internet Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland; Datenschutzerklärung: [https://x.com/de/privacy](https://x.com/de/privacy) ; Opt-Out: [https://x.com/settings/account/personalization](https://x.com/settings/account/personalization).
 
-**Twitch**:  Twitch Interactive, Inc. mit Sitz in 350 Bush Street, 2nd Floor, San Francisco, CA 94104; Datenschutzerklärung: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/)
+**Twitch**: Twitch Interactive, Inc. mit Sitz in 350 Bush Street, 2nd Floor, San Francisco, CA 94104; Datenschutzerklärung: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/)
 
 **TikTok**: TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Irland; Datenschutzerklärung /Opt-Out: [https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE](https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE)
 
-**Eurosport**: Dplay Entertainment Limited, Chiswick Park Building 2, 566 Chiswick High Road, London, W4 5YB UK; Datenschutzerklärung  [https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice\_sto9054806/story.shtml](https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice_sto9054806/story.shtml)
+**Eurosport**: Dplay Entertainment Limited, Chiswick Park Building 2, 566 Chiswick High Road, London, W4 5YB UK; Datenschutzerklärung [https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice\_sto9054806/story.shtml](https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice_sto9054806/story.shtml)
 
 **Threads**: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland; Datenschutzerklärung: [https://help.instagram.com/515230437301944](https://help.instagram.com/515230437301944)
 
@@ -529,7 +529,7 @@ Hierbei werden die folgenden Informationen verarbeitet: eindeutlicher Schlüssel
 
 Die Speicherdauer beträgt hierbei 1 Stunde.
 
-**Piano-ID (SSO-Verwaltung)** 
+**Piano-ID (SSO-Verwaltung)**
 
 **\_\_utp**
 
@@ -570,14 +570,14 @@ DSE: https://usercentrics.com/privacy-policy/
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 Abs. 1 S. 1 lit. c DSGVO (Berechtigtes Interesse ohne Opt-Out) Dieser Dienst ist für den Betrieb der Webseite und der App erforderlich um der Informationspflicht gegenüber dem User laut Datenschutzgrundverordnung nachkommen zu können, die so verarbeiteten Daten werden nur in unserem Auftrag verarbeitet.
 
 **Anbieter:** INFOnline  
-**Angaben zum Anbieter:**   
+**Angaben zum Anbieter:**  
 INFOnline GmbH  
 Brühler Str. 9,  
 53119 Bonn,  
 Deutschland  
 DSE: [https://www.infonline.de/datenschutz/](https://www.infonline.de/datenschutz/)  
-**Verarbeitete personenbezogene Daten:** Keine Verarbeitung personenbezogener Daten  
-**Zweck:** Reichweitenmessung, Dient der Inhaltlichen Verbesserung des Produkts und ist Basis für die transparente Preisermittlung gegenüber B2B Kunden (Werbeflächen, Autorenvergütung)  
+**Verarbeitete personenbezogene Daten:** Keine Verarbeitung personenbezogener Daten  
+**Zweck:** Reichweitenmessung, Dient der Inhaltlichen Verbesserung des Produkts und ist Basis für die transparente Preisermittlung gegenüber B2B Kunden (Werbeflächen, Autorenvergütung)  
 **Speicherdauer:** -  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG
 
@@ -602,20 +602,20 @@ Belgien
 DSE: [https://qualifio.com/de/datenschutzerklarung/](https://qualifio.com/de/datenschutzerklarung/)  
 **Verarbeitete personenbezogene Daten:** Daten zur elektronischen Identifizierung: IP-Adresse, verwendetes Terminal usw., Daten, die vom Nutzer direkt angegeben werden  
 **Zweck:** Ausspielung von Gewinnspielen und Umfragen  
-**Speicherdauer:** 3 Monate  
+**Speicherdauer:** 3 Monate  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Hierdurch können Umfragen und Gewinnspiele durchgeführt werden. Es findet durch Qualifio keine Analyse oder Profilbildung statt.
 
 **Anbieter:** Statsperform  
 **Angaben zum Anbieter:**  
 Stats LLC,  
-203 North LaSalle Street,    
-Suite 2350,    
+203 North LaSalle Street,  
+Suite 2350,  
 Chicago, IL 60601  
 DSE: [https://www.statsperform.com/privacy-policy/](https://www.statsperform.com/privacy-policy/)  
 **Verarbeitete personenbezogene Daten:** Keine Verarbeitung personenbezogener Daten  
 **Zweck:** Darstellung von Sportinhalten  
 **Speicherdauer:** -  
-**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG 
+**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG
 
 **Anbieter:** Dailymotion  
 **Angaben zum Anbieter:**  
@@ -624,17 +624,17 @@ daiBoulevard Malesherbes,
 75017 Paris,  
 France  
 DSE: [https://legal.dailymotion.com/en/privacy-policy/](https://legal.dailymotion.com/en/privacy-policy/)  
-**Verarbeitete personenbezogene Daten:** IP-Adresse,    
+**Verarbeitete personenbezogene Daten:** IP-Adresse,  
 Zeit und Datum an dem Inhalte kommuniziert wurden, URL der Webseite auf der die Inhalte konsumiert wurden  
 **Zweck:** Darstellung von Videos  
-**Speicherdauer:** Max. 13 Monate  
+**Speicherdauer:** Max. 13 Monate  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen)  
 Es werden nur die Daten, die zur Darstellung der externen Inhalte benötigt werden, verarbeitet. Eine Verarbeitung zu anderen Zwecken findet nicht statt.
 
 **Anbieter:** Tickaroo  
 **Angaben zum Anbieter:**  
 Tickaroo,  
-Waffnergasse 8,    
+Waffnergasse 8,  
 93047 Regensburg,  
 Deutschland  
 DSE: [https://www.tickaroo.com/about/de/datenschutz.html](https://www.tickaroo.com/about/de/datenschutz.html)  
@@ -646,13 +646,13 @@ DSE: [https://www.tickaroo.com/about/de/datenschutz.html](https://www.tickaroo.c
 **Anbieter:** Tickaroo Digital Media Services  
 **Angaben zum Anbieter:**  
 Tickaroo Digital Media Services,  
-Waffnergasse 8,    
+Waffnergasse 8,  
 93047 Regensburg,  
 Deutschland  
 DSE: [https://www.tickaroo.com/about/de/datenschutz.html](https://www.tickaroo.com/about/de/datenschutz.html)  
-**Verarbeitete personenbezogene Daten:** IP-Adresse, FCM Device Token, APNS Device Token, kicker User, kicker Auth Token, Libero UUID, gewählte Sprache, spezifische Einstellungen  
+**Verarbeitete personenbezogene Daten:** IP-Adresse, FCM Device Token, APNS Device Token, kicker User, kicker Auth Token, Libero UUID, gewählte Sprache, spezifische Einstellungen  
 **Zweck:** Zur Verfügungstellung von Diensten (u.a. Verwaltung Push-Benachrichtigungen, Spiele) und Inhalten zum Betrieb der Webseite / App.  
-**Speicherdauer:** IP-Adressen aus Log Files werden nach vier Wochen entfernt.  
+**Speicherdauer:** IP-Adressen aus Log Files werden nach vier Wochen entfernt.  
 Einstellungen am Gerät bleiben gespeichert, bis die App oder die App-Daten gelöscht werden.  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Dieser Dienst ist für den Betrieb der Webseite und der App technisch erforderlich, die so verarbeiteten Daten werden nur in unserem Auftrag verarbeitet.
 
@@ -664,11 +664,11 @@ California 94043,
 USA  
 DSE: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)  
 **Verarbeitete personenbezogene Daten:** Fehlerdaten, eindeutige ID, Absturzdaten  
-**Zweck:** Echtzeitfehler-Reporting  
-**Speicherdauer:** 90 Tage  
+**Zweck:** Echtzeitfehler-Reporting  
+**Speicherdauer:** 90 Tage  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Zur Gewährleistung eines fehlerfreien Betriebs bzw. zur Fehleranalyse wird in der App Firebase Crashlytics eingesetzt.
 
-**Anbieter:** Firebase Cloud Messaging (FCM)  
+**Anbieter:** Firebase Cloud Messaging (FCM)  
 **Angaben zum Anbieter:**  
 Google Inc.,  
 1600 Amphitheater Parkway, Mountainview,  
@@ -677,7 +677,7 @@ USA
 DSE: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)  
 **Verarbeitete personenbezogene Daten:** Fehlerdaten, eindeutige ID  
 **Zweck:** Plattformübergreifende Synchronisation des Abo-Status  
-**Speicherdauer:** 180 Tage  
+**Speicherdauer:** 180 Tage  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Dieser Dienst wird benötigt, um eine Synchronisation des PUR-Abo-Status in der App und im Web zu ermöglichen.
 
 **Anbieter:** Pinpoll  
@@ -702,7 +702,7 @@ DSE: [https://hmspl.de/datenschutz/](https://hmspl.de/datenschutz/)
 **Verarbeitete personenbezogene Daten:** Keine Verarbeitung personenbezogener Daten  
 **Zweck:** Darstellung von Sportinhalten  
 **Speicherdauer:** -  
-**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG 
+**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG
 
 **Anbieter:** Sportradar  
 **Angaben zum Anbieter:**  
@@ -711,14 +711,14 @@ Feldlistrasse 2,
 9000 St. Gallen,  
 Switzerland  
 DSE: [https://sportradar.com/privacy-notice/](https://sportradar.com/privacy-notice/)  
-**Verarbeitete personenbezogene Daten:** IP-Adresse, Geolokalisierung  
+**Verarbeitete personenbezogene Daten:** IP-Adresse, Geolokalisierung  
 **Zweck:** Darstellung von Sportinhalten  
-**Speicherdauer:** Max. 365 Tage  
+**Speicherdauer:** Max. 365 Tage  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Es werden nur die Daten, die zur Darstellung der externen Sportinhalte benötigt werden, in unserem Auftrag verarbeitet.
 
 **Anbieter:** Thinking Apps  
 **Angaben zum Anbieter:**  
-thinking apps GmbH,    
+thinking apps GmbH,  
 Kurt-Schumacher-Str. 9b,  
 67663 Kaiserslautern,  
 Deutschland  
@@ -728,7 +728,7 @@ DSE: [https://www.thinking-apps.com/datenschutz.html](https://www.thinking-apps.
 **Speicherdauer:** Max. 30 Tage  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Wir nutzen dieses Tool, um unseren Usern eine barrierefreie Webseite zur Verfügung zu stellen. Die Daten werden dabei in unserem Auftrag verarbeitet.
 
-**Anbieter:** mycrocast GmbH  
+**Anbieter:** mycrocast GmbH  
 **Angaben zum Anbieter:**  
 mycrocast GmbH,  
 Halberstädter Chaussee 9,  
@@ -743,12 +743,12 @@ Kommunikationsdaten (E-Mail)
 
 **Anbieter:** Eurosport  
 **Angaben zum Anbieter:**  
-Eurosport SAS,    
+Eurosport SAS,  
 3 rue Gaston et René Caudron, Cedex 9,  
 92798, Issy-Les-Moulineaux,  
 Frankreich  
 DSE: [https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice\_sto9054806/story.shtml](https://www.eurosport.de/eurosport/legal/2020-2021/privacy-notice_sto9054806/story.shtml)  
-**Verarbeitete personenbezogene Daten:** IP-Adresse  
+**Verarbeitete personenbezogene Daten:** IP-Adresse  
 **Zweck:** Darstellung von Videos  
 **Speicherdauer:** 1 Tag  
 **Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG / Art. 6 lit. f) DSGVO (Berechtigte Interessen) Es werden nur die Daten, die zur Darstellung der externen Sportinhalte benötigt werden, in unserem Auftrag verarbeitet.
@@ -769,7 +769,7 @@ DSE: [https://www.vgwort.de/hilfsseiten/datenschutz.html](https://www.vgwort.de/
 **Angaben zum Anbieter:**  
 Friendly Captcha GmbH,  
 Am Anger 3-5,  
-82237 Woerthsee,   
+82237 Woerthsee,  
 Deutschland  
 DSE: [https://friendlycaptcha.com/legal/privacy-end-users/](https://friendlycaptcha.com/legal/privacy-end-users/)  
 **Verarbeitete personenbezogene Daten:** Anonymisierte IP-Adresse, Referrer-URL, URL, User Agent, Zeitstempel  
@@ -783,7 +783,7 @@ Google Ireland Limited,
 Google Building Gordon House, 4 Barrow St,  
 Dublin, D04 E5W5,  
 Ireland  
-DSE: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)  
+DSE: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)  
 **Verarbeitete personenbezogene Daten:** Identifikatoren, Nutzungsdaten, Sitzungsdauer, IP-Adresse, Geografischer Standort, Gerätebetriebssystem, Geräteinformationen, Zeitpunkt des ersten Besuchs des Benutzers, App-Aktualisierungen, Anfragen der Anwendung, Angesehener Inhalt, Firebase-Installations-IDs, Analytics-App-Instanz-IDs, Handy-Anzeigen-IDs, IDFVs/ Android-IDs  
 **Zweck:** Bereitstellung von Analsye- und Zuordnungsinformationen  
 **Speicherdauer:** Max. 14 Monate  
@@ -823,7 +823,7 @@ DSE: [https://docs.bugsnag.com/legal/privacy-policy/](https://docs.bugsnag.com/l
 **Verarbeitete personenbezogene Daten:** Irrtümer, Diagnostische Daten: Skriptinhalt (wenn Fehler in einem Inline-Script-Tag auftrat, Browsername, Version, Benutzer-Agent, Gebietsschema und Uhrzeit, Betriebssystem, Release-Stadium (Produktion, Beta, Staging, etc.)  
 **Zweck:** Tool zur Erfassung, Priorisierung und Behebung von Fehlern in unseren Apps, Browsern, mobilen Geräten, Front-Ends und Back-Ends auf unserer Plattform.  
 **Speicherdauer:** Max. 7 Tage  
-**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG 
+**Rechtsgrundlage:** § 25 Abs. 2 Nr. 2 TTDSG
 
 Opt-Out Links für PUR-Abonnenten
 --------------------------------
@@ -1103,7 +1103,7 @@ Sollten Sie wünschen, dass Ihre Daten gelöscht werden, teilen Sie uns dies bit
 
 Auf unserer Webseite stellen wir Ihnen einen "Quotencoach" zur Verfügung. Diese Dienstleistung beziehen wir über die E-Quadrat Communications GmbH, Rathausstraße 19, 1010 Wien, Österreich.
 
-Zweck der Verarbeitung ist ein Vergleich von Wettpartner-Quoten einzelner Spielpaarungen, um die besten Wett-Quoten zu ermitteln. Um passende Ergebnisse darzustellen, wird die Location des Users anhand des Benutzerlandes verarbeitet. Hierzu erfolgt eine kurzzeitige Verarbeitung der IP-Adresse, eine Speicherung erfolgt jedoch nicht. Es werden keine darüberhinausgehenden personenbezogenen Daten verarbeitet.
+Zweck der Verarbeitung ist ein Vergleich von Wettpartner-Quoten einzelner Spielpaarungen, um die besten Wett-Quoten zu ermitteln. Um passende Ergebnisse darzustellen, wird die Location des Users anhand des Benutzerlandes verarbeitet. Hierzu erfolgt eine kurzzeitige Verarbeitung der IP-Adresse, eine Speicherung erfolgt jedoch nicht. Es werden keine darüberhinausgehenden personenbezogenen Daten verarbeitet.
 
 Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Die Daten werden für nicht länger als einen Tag gespeichert.
 
@@ -1123,6 +1123,8 @@ Wir möchten Sie darauf hinweisen, dass wir im Rahmen der Verarbeitung Ihrer per
 · Verlag Der Tagesspiegel GmbH (Askanischer Platz 3, 10963 Berlin), [https://www.tagesspiegel.de/verlag-der-tagesspiegel-datenschutzerklarung-383383.html](https://www.tagesspiegel.de/verlag-der-tagesspiegel-datenschutzerklarung-383383.html)
 
 · pd digital Hub GmbH (Curt-Frenzel-Straße 2, 86167 Augsburg mit ihren Titeln Augsburger Allgemeine https://www.augsburger-allgemeine.de/unternehmen/datenschutz-102594384, Allgäuer Zeitung https://www.allgaeuer-zeitung.de/datenschutz/, Main-Post [https://www.mainpost.de/unternehmen/datenschutz-mainpost-106672535](https://www.mainpost.de/unternehmen/datenschutz-mainpost-106672535) und Südkurier [https://www.suedkurier.de/services/agb/datenschutzerklaerung;art1370803,10581762)](https://www.suedkurier.de/services/agb/datenschutzerklaerung;art1370803,10581762\))
+
+· Zeitungsverlag GmbH & Co Waiblingen KG (Albrecht-Villinger-Straße 10, 71332 Waiblingen), [https://www.zvw.de/datenschutz/](https://www.zvw.de/datenschutz/)
 
 Um die Sicherheit Ihrer Daten zu gewährleisten, erfolgt eine solche Verarbeitung ausschließlich auf Basis einer Vereinbarung mit dem jeweiligen Partner-Verlag gemäß Art. 26 Abs. 1 DSGVO. Somit werden die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß der DSGVO hinsichtlich der gemeinsamen Verarbeitung festgelegt.
 

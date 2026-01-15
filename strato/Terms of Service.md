@@ -14,9 +14,9 @@
 Allgemeine Geschäftsbedingungen der STRATO GmbH
 -----------------------------------------------
 
-Version 17.80
+**Version 17.80**
 
-Stand: 01.01.2025
+**Stand:** 01.01.2025
 
 ### 1\. Geltungsbereich, Änderungen
 
@@ -216,7 +216,7 @@ Der Kunde ersetzt STRATO alle Schäden, die aus einer Verletzung der vorstehende
 
 ### 10\. Widerrufsbelehrung
 
-Widerrufsrecht
+**Widerrufsrecht**
 
 Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
 
@@ -226,7 +226,7 @@ Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (STRATO GmbH, Otto-Ostrowski-S
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
-Folgen des Widerrufs
+**Folgen des Widerrufs**
 
 Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
 
@@ -236,14 +236,14 @@ Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser
 
 Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen sollen, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
 
-Muster-Widerrufsformular
+**Muster-Widerrufsformular**
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
             `An                                                 STRATO GmbH,                         Otto-Ostrowski-Straße 7,                         10249 Berlin,                         E-Mail: impressum@strato.de                          Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über die Erbringung der folgenden Dienstleistung                          Bestellt am (*)/erhalten am (*):                         Name des/der Verbraucher(s):                         Anschrift des/der Verbraucher(s):                           Unterschrift des/der Verbraucher(s)                         (nur bei Mitteilung auf Papier)                          Datum:                                                                           (*) Unzutreffendes streichen.`
         
 
-Ende des Muster-Widerrufsformulars
+**Ende des Muster-Widerrufsformulars**
 
 Das Widerrufsrecht gilt nicht, sofern das Rechtsgeschäft Ihrer gewerblichen oder beruflichen Tätigkeit zugerechnet werden kann.
 
@@ -256,7 +256,7 @@ Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtun
 Domainbedingungen der STRATO GmbH
 ---------------------------------
 
-Version 1.0
+**Version 1.0**
 
 ### 1\. Allgemeines / Geltungsbereich
 
@@ -369,7 +369,7 @@ Für die folgenden Domainendungen erklären Sie sich einverstanden, die Top Leve
 End User License Terms and Conditions regarding use of Microsoft Software
 -------------------------------------------------------------------------
 
-Hinweis: Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden mit einem STRATO Server-Paket mit Windows Betriebssystem gelten!
+**Hinweis:** Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden mit einem STRATO Server-Paket mit Windows Betriebssystem gelten!
 
 This document governs the use of Microsoft software, which may include associated media, printed materials, and “online” or electronic documentation (individually and collectively, “Products”) provided by STRATO GmbH (hereinafter referred to as “STRATO”). STRATO does not own the Products and the use thereof is subject to certain rights and limitations of which STRATO must inform you. Your right to use the Products is subject to the terms of your agreement with STRATO, and to your understanding of, compliance with, and consent to the following terms and conditions, which STRATO does not have authority to vary, alter, or amend.
 
@@ -387,7 +387,7 @@ You may use the Client Software installed on your Devices by STRATO only in acco
 
 ### 4\. Use of Redistribution Software
 
-In connection with the services provided to you by STRATO, you may have access to certain “sample,” “redistributable” and/or software development (“SDK”) software code and tools (individually and collectively “Redistribution Software”). YOU MAY NOT USE, MODIFY, COPY, AND/OR DISTRIBUTE ANY REDISTRIBUTION SOFTWARE UNLESS YOU EXPRESSLY AGREE TO AND COMPLY WITH CERTAIN ADDITIONAL TERMS CONTAINED IN THE SERVICES PROVIDER USE RIGHTS (“SPUR”) APPLICABLE TO STRATO, WHICH TERMS MUST BE PROVIDED TO YOU BY STRATO. Microsoft does not permit you to use any Redistribution Software unless you expressly agree to and comply with such additional terms, as provided to you by STRATO.
+In connection with the services provided to you by STRATO, you may have access to certain “sample,” “redistributable” and/or software development (“SDK”) software code and tools (individually and collectively “Redistribution Software”). **YOU MAY NOT USE, MODIFY, COPY, AND/OR DISTRIBUTE ANY REDISTRIBUTION SOFTWARE UNLESS YOU EXPRESSLY AGREE TO AND COMPLY WITH CERTAIN ADDITIONAL TERMS CONTAINED IN THE SERVICES PROVIDER USE RIGHTS (“SPUR”) APPLICABLE TO STRATO, WHICH TERMS MUST BE PROVIDED TO YOU BY STRATO.** Microsoft does not permit you to use any Redistribution Software unless you expressly agree to and comply with such additional terms, as provided to you by STRATO.
 
 ### 5\. Copies
 
@@ -430,40 +430,40 @@ You find the MICROSOFT SERVICES PROVIDER USE RIGHTS under: [https://www.microsof
 Präambel
 --------
 
-Version 1.1
+**Version 1.1**
 
-Hinweis: Bitte beachten Sie, dass die folgenden Vereinbarungen nur für Kunden gelten, die zu ihrem Tarif ein STRATO Service Level Agreement dazu gebucht haben!
+**Hinweis:** Bitte beachten Sie, dass die folgenden Vereinbarungen nur für Kunden gelten, die zu ihrem Tarif ein STRATO Service Level Agreement dazu gebucht haben!
 
 Die STRATO GmbH bietet ihren Kunden für dedizierte Server das vorliegende Service Level Agreement (im Folgenden auch: SLA) an.
 
 ### § 1 Definitionen
 
-1.1 Service Level sind die verschiedenen, auf Grundlage des vorliegenden SLA definierten Dienstleistungsstufen, die die STRATO GmbH ihren Kunden je nach Gegenstand der jeweiligen Bestellung erbringt. Unter diesem SLA werden folgende, aufsteigend genannte Service Level zur Verfügung gestellt: Basis, Silber, Gold, Platin. Der Umfang der einzelnen Service Level ergibt sich aus den folgenden Bestimmungen.
+1.1 **Service Level** sind die verschiedenen, auf Grundlage des vorliegenden SLA definierten Dienstleistungsstufen, die die STRATO GmbH ihren Kunden je nach Gegenstand der jeweiligen Bestellung erbringt. Unter diesem SLA werden folgende, aufsteigend genannte Service Level zur Verfügung gestellt: Basis, Silber, Gold, Platin. Der Umfang der einzelnen Service Level ergibt sich aus den folgenden Bestimmungen.
 
-1.2 Betriebszeit ist die Zeit, in der die STRATO Rechenzentren - im Rahmen der in diesem SLA vereinbarten Verfügbarkeit - in Betrieb sind. Betriebszeit in den STRATO Rechenzentren ist 24 Stunden pro Tag, 365 Tage im Jahr.
+1.2 **Betriebszeit** ist die Zeit, in der die STRATO Rechenzentren - im Rahmen der in diesem SLA vereinbarten Verfügbarkeit - in Betrieb sind. Betriebszeit in den STRATO Rechenzentren ist 24 Stunden pro Tag, 365 Tage im Jahr.
 
-1.3 Geschäftszeit ist die Zeit, während der bei STRATO regulär Kundenanfragen bearbeitet werden. Die jeweils aktuellen Geschäftszeiten können dem STRATO Kunden-Login (erreichbar über [https://www.strato.de/apps/CustomerService#/skl](https://www.strato.de/apps/CustomerService#/skl) ) entnommen werden. Uhrzeiten sind in Mitteleuropäischer Zeit (MEZ) angegeben. Darüber hinaus werden Kundenanfragen lediglich angenommen und bearbeitet, soweit es sich aus diesem SLA ergibt.
+1.3 **Geschäftszeit** ist die Zeit, während der bei STRATO regulär Kundenanfragen bearbeitet werden. Die jeweils aktuellen Geschäftszeiten können dem STRATO Kunden-Login (erreichbar über [https://www.strato.de/apps/CustomerService#/skl](https://www.strato.de/apps/CustomerService#/skl) ) entnommen werden. Uhrzeiten sind in Mitteleuropäischer Zeit (MEZ) angegeben. Darüber hinaus werden Kundenanfragen lediglich angenommen und bearbeitet, soweit es sich aus diesem SLA ergibt.
 
-1.4 Wartungszeit ist die Zeit, in der Wartungsarbeiten im Rechenzentrum durchgeführt werden, die die Antwortzeiten der STRATO Dienste beeinflussen können.
+1.4 **Wartungszeit** ist die Zeit, in der Wartungsarbeiten im Rechenzentrum durchgeführt werden, die die Antwortzeiten der STRATO Dienste beeinflussen können.
 
-1.5 Reaktionszeit ist die Zeit zwischen Eingang der Störungsmeldung des Kunden und erster Kontaktaufnahme durch STRATO in der die Störungsmeldung betreffenden Angelegenheit. Kontaktaufnahme ist dabei neben einem Telefonanruf auch das Kontaktieren per E-Mail, wenn STRATO den Kunden telefonisch nicht erreichen konnte oder ein Kontaktieren per Telefon nicht gewünscht war.
+1.5 **Reaktionszeit** ist die Zeit zwischen Eingang der Störungsmeldung des Kunden und erster Kontaktaufnahme durch STRATO in der die Störungsmeldung betreffenden Angelegenheit. Kontaktaufnahme ist dabei neben einem Telefonanruf auch das Kontaktieren per E-Mail, wenn STRATO den Kunden telefonisch nicht erreichen konnte oder ein Kontaktieren per Telefon nicht gewünscht war.
 
-1.6 Leistungskomponenten im Sinne dieses SLA sind alle Komponenten, für die dieses SLA eine Regelung trifft. Komponenten, die weder in Kategorie 1, noch in Kategorie 2 oder sonst in diesem SLA genannt sind, fallen nicht unter die Vereinbarungen des vorliegenden Service Level Agreement.
+1.6 **Leistungskomponenten** im Sinne dieses SLA sind alle Komponenten, für die dieses SLA eine Regelung trifft. Komponenten, die weder in Kategorie 1, noch in Kategorie 2 oder sonst in diesem SLA genannt sind, fallen nicht unter die Vereinbarungen des vorliegenden Service Level Agreement.
 
 1.6.1 **Leistungskomponenten der Kategorie 1** sind Einrichtungen zur grundsätzlichen Versorgung des Rechenzentrums mit Strom (durch unabhängige Stromversorgungsleitungen, Netzersatzanlage (NEA) mit redundanter unterbrechungsfreier Stromversorgungsanlage (USV-Anlage), Duale Stromversorgung (A/B)), Klimatisierung (durch unabhängige Klima – und Kühlungssysteme) sowie die Netzwerkanbindung des Rechenzentrums bis zu den Netzwerkroutern in den Serverräumen.
 
 1.6.2 **Leistungskomponenten der Kategorie 2** sind die Hardwarekomponenten des Servers, sowie die direkt mit dem Server verbundenen Netzwerkswitches (Access-Switch) sowie Powerswitches und Stromschienen zur Stromversorgung, sofern STRATO nicht ausdrücklich eine redundante Versorgung Strom- oder Netzwerkversorgung anbietet und der Kunde diese für seinen Server bucht.
 
-1.7 Verfügbarkeit ist die in Prozent von Hundert angegebene Kennzahl, mit der die Qualität der Leistungskomponenten der Kategorie 1 von STRATO angegeben wird. Die in diesem SLA vereinbarten Zielverfügbarkeiten beziehen sich auf das Monatsmittel, ein Monat wird mit 30 Tagen Betriebszeit berechnet. Die Bewertung erfolgt jeweils über den letzten Kalendermonat, dessen Ausfallzeiten in die Berechnung einbezogen werden. In dem Kalendermonat, in den die Bestellung des von diesem SLA umfassten Servers fällt, finden Ausfallzeiten, die vor dem Bestellzeitpunkt lagen, keine Beachtung bei der Berechnung der Verfügbarkeit. Die Verfügbarkeit berechnet sich demnach, wie folgt: \[(Betriebszeit eines Monats (720 Stunden) – Ausfallzeiten des letzten Kalendermonats) / Betriebszeit eines Monats\] 100.
+1.7 **Verfügbarkeit** ist die in Prozent von Hundert angegebene Kennzahl, mit der die Qualität der Leistungskomponenten der Kategorie 1 von STRATO angegeben wird. Die in diesem SLA vereinbarten Zielverfügbarkeiten beziehen sich auf das Monatsmittel, ein Monat wird mit 30 Tagen Betriebszeit berechnet. Die Bewertung erfolgt jeweils über den letzten Kalendermonat, dessen Ausfallzeiten in die Berechnung einbezogen werden. In dem Kalendermonat, in den die Bestellung des von diesem SLA umfassten Servers fällt, finden Ausfallzeiten, die vor dem Bestellzeitpunkt lagen, keine Beachtung bei der Berechnung der Verfügbarkeit. Die Verfügbarkeit berechnet sich demnach, wie folgt: **\[(Betriebszeit eines Monats (720 Stunden) – Ausfallzeiten des letzten Kalendermonats) / Betriebszeit eines Monats\] 100.**
 
-1.8 Time to Repair (auch: TTR, Entstörzeit) ist die in diesem SLA vereinbarte Zeit, innerhalb der STRATO in Bezug auf Leistungskomponenten der Kategorie 2 gewährleistet, eine Störung tatsächlich zu beenden. Die Time to Repair beginnt mit der qualifizierten Meldung einer Störung im Sinne dieses SLA durch den Kunden.
+1.8 **Time to Repair (auch: TTR, Entstörzeit)** ist die in diesem SLA vereinbarte Zeit, innerhalb der STRATO in Bezug auf Leistungskomponenten der Kategorie 2 gewährleistet, eine Störung tatsächlich zu beenden. Die Time to Repair beginnt mit der qualifizierten Meldung einer Störung im Sinne dieses SLA durch den Kunden.
 
-1.9 Qualifizierte Störungsmeldung ist das telefonische Melden einer Störung unter Angabe folgender Informationen:  
+1.9 **Qualifizierte** Störungsmeldung ist das telefonische Melden einer Störung unter Angabe folgender Informationen:  
 − Kundennummer und Auftragsnummer des betroffenen Servers  
 − Name und Rückrufnummer eines Ansprechpartners, der rechtlich und fachlich in der Lage ist, Fragen zu beantworten und Entscheidungen in Bezug auf den Server treffen zu können  
 − möglichst detaillierte Beschreibung der Störungsmerkmale.
 
-1.10 Eine Störung im Sinne von § 1.7 liegt vor, wenn eine Leistungskomponente der Kategorie 2 ausfällt und hierdurch die Dienste/ Antwortzeiten des Servers des Kunden beeinträchtigt werden.
+1.10 Eine **Störung** im Sinne von § 1.7 liegt vor, wenn eine Leistungskomponente der Kategorie 2 ausfällt und hierdurch die Dienste/ Antwortzeiten des Servers des Kunden beeinträchtigt werden.
 
 ### § 2 Angebotene Service Level
 
@@ -521,7 +521,7 @@ NBD =Next Business Day, nächster Werktag; Samstage, Sonntage und gesetzl. Feier
 
 5.2 Jede Unterbrechung der Dienste, die auf Wartungsarbeiten in angekündigten Wartungszeiten beruht, wird im Rahmen des SLA nicht berücksichtigt.
 
-5.3 Unplanmäßige Wartungszeit ist die Zeit, in der Wartungsarbeiten durchgeführt werden, die zur Aufrechterhaltung des ordnungsgemäßen Betriebs des Rechenzentrums oder aufgrund aktueller Sicherheitslücken, die die STRATO Dienste beeinträchtigen oder beeinträchtigen könnten, unverzüglich erforderlich sind. STRATO unternimmt jede Anstrengung, um die Notwendigkeit solcher unplanmäßigen Wartungsarbeiten mittels regelmäßiger Wartung und Pflege zu minimieren.
+5.3 **Unplanmäßige Wartungszeit** ist die Zeit, in der Wartungsarbeiten durchgeführt werden, die zur Aufrechterhaltung des ordnungsgemäßen Betriebs des Rechenzentrums oder aufgrund aktueller Sicherheitslücken, die die STRATO Dienste beeinträchtigen oder beeinträchtigen könnten, unverzüglich erforderlich sind. STRATO unternimmt jede Anstrengung, um die Notwendigkeit solcher unplanmäßigen Wartungsarbeiten mittels regelmäßiger Wartung und Pflege zu minimieren.
 
 5.4 Unplanmäßige Wartungsarbeiten können die STRATO Dienste beeinträchtigen. Eine Nichtverfügbarkeit oder Störung, die durch unplanmäßige Wartungszeit verursacht wird, wird bei der Berechnung des Service Levels nicht berücksichtigt, wenn die Wartungsarbeiten nicht durch eine Verletzung der rechtlichen Verpflichtungen von STRATO verursacht wurden.
 
@@ -596,7 +596,7 @@ Diesem SLA gehen individuelle schriftliche Vereinbarungen zwischen dem Kunden un
 
 11.1 Wird das in diesem SLA vereinbarte Service Level für Leistungskomponenten der Kategorie 1 (vereinbarte Verfügbarkeit) nicht eingehalten, gewährt STRATO dem Kunden eine Gutschrift entsprechend folgender Staffelung auf die Monatsgebühr des Servers, bzw. der Leistungskomponente, deren vereinbarte Verfügbarkeit nicht eingehalten wurde:
 
-Anlage 1: Messung der Verfügbarkeit und Vorliegen von Nichtverfügbarkeit
+**Anlage 1: Messung der Verfügbarkeit und Vorliegen von Nichtverfügbarkeit**
 
 #### Gutschrift bei Nichteinhaltung der Service Levels
 
@@ -612,9 +612,9 @@ Anlage 1: Messung der Verfügbarkeit und Vorliegen von Nichtverfügbarkeit
 Informationen zur Datenübermittlung an Microsoft für Microsoft 365
 ------------------------------------------------------------------
 
-Version 1.1
+**Version 1.1**
 
-Hinweis: Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden mit einem STRATO Office365 EU Paket gelten.
+**Hinweis:** Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden mit einem STRATO Office365 EU Paket gelten.
 
 Unter diesem [Link](https://www.microsoft.com/licensing/docs) finden sie die aktuellen Microsoft Online Service Terms in allen Sprachen.
 
@@ -625,9 +625,9 @@ Unter diesem [Link](https://www.microsoft.com/licensing/docs/customeragreement) 
 Zusätzliche Vertragsbedingungen für den Homepage Design Service
 ---------------------------------------------------------------
 
-Version 1.3
+**Version 1.3**
 
-Stand: 24.01.2022
+**Stand:** 24.01.2022
 
 ### § 1 Vertragsgegenstand
 
@@ -692,9 +692,9 @@ Im Falle der Übernahme von Inhalten aus früheren Webseiten und bei Übersendun
 Zusätzliche Vertragsbedingungen für das HiDrive Office
 ------------------------------------------------------
 
-Version 1.0
+**Version 1.0**
 
-Hinweis: Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden gelten, die das Feature HiDrive Office bestellen.
+**Hinweis:** Bitte beachten Sie, dass die folgenden zusätzlichen Lizenzbedingungen nur für Kunden gelten, die das Feature HiDrive Office bestellen.
 
 Zustimmung zur Collabora Office Kunden Vereinbarung
 ---------------------------------------------------
@@ -704,9 +704,9 @@ Unter diesem [Link](https://www.collaboraonline.com/end-user-license-and-subscri
 ALLGEMEINE GESCHÄFTSBEDINGUNGEN DER IT-RECHT KANZLEI FÜR DIE BEREITSTELLUNG UND PFLEGE VON RECHTSTEXTEN
 -------------------------------------------------------------------------------------------------------
 
-Version 1.1
+**Version 1.1**
 
-Stand: 11.09.2022
+**Stand:** 11.09.2022
 
 ### 1\. Geltungsbereich
 
@@ -754,9 +754,9 @@ Der Vertragsschluss erfolgt über die Website von STRATO unter [www.strato.de/we
 
 Mandanten, die als Verbraucher handeln und die eine entgeltliche Leistung in Anspruch nehmen (kostenpflichtige Dienste) steht das nachstehende Widerrufsrecht zu:
 
-\-Widerrufsbelehrung-
+**\-Widerrufsbelehrung-**
 
-\-Widerrufsrecht-
+**\-Widerrufsrecht-**
 
 Sie haben das Recht, binnen 14 Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
 
@@ -771,22 +771,22 @@ E-Mail: info@it-recht-kanzlei.de
 
 mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
-\-Folgen des Widerrufs-
+**\-Folgen des Widerrufs-**
 
 Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
 
 Haben Sie verlangt, dass die Dienstleistung während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
 
-\-Vorzeitiges Erlöschen des Widerrufsrechts-
+**\-Vorzeitiges Erlöschen des Widerrufsrechts-**
 
 Das Widerrufsrecht erlischt vorzeitig, wenn wir die Dienstleistung vollständig erbracht haben und wir mit der Ausführung der Dienstleistung erst begonnen haben, nachdem Sie dazu Ihre ausdrückliche Zustimmung gegeben haben und gleichzeitig Ihre Kenntnis davon bestätigt haben, dass Sie Ihr Widerrufsrecht bei vollständiger Vertragserfüllung durch uns verlieren.
 
-\-Muster-Widerrufsformular-
+**\-Muster-Widerrufsformular-**
 
             `An            Rechtsanwälte Keller-Stoltenhoff, Keller GbR            Alter Messeplatz 2            80339 München            Telefax: +49 (0)89 / 130 1433 - 60            E-Mail: info@it-recht-kanzlei.de            - Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)           - Bestellt am (*)/erhalten am (*)           - Name des/der Verbraucher(s)           - Anschrift des/der Verbraucher(s)           - Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)           - Datum            (*) Unzutreffendes streichen.`
         
 
-\-Ende Muster-Widerrufsformulars-
+**\-Ende Muster-Widerrufsformulars-**
 
 ### 5\. Leistungsänderungen
 
@@ -869,17 +869,17 @@ Bei Abusefällen helfen wir Ihnen weiter. Dazu zählen beispielsweise:
 
 − eindeutig illegale Inhalte wie extremistische, pornografische oder kommerziell erotische Inhalte, die unter bei uns registrierten Domains erreichbar sind − über Mailserver von bei uns registrierten Domains versendete Spam-, Phishing- oder Malwaremails − Disputefälle z.B. aufgrund von Namensrechten, die Domainnamen von bei uns registrierten Domains betreffen
 
-Um eine schnelle Bearbeitung Ihrer Abusemeldung zu gewährleisten, beachten Sie bitte folgende Punkte:
+**Um eine schnelle Bearbeitung Ihrer Abusemeldung zu gewährleisten, beachten Sie bitte folgende Punkte:**
 
-1\. Jeder kann Abusemeldungen bezüglich bei uns registrierten Domains einreichen. Wir nehmen Abusemeldungen grundsätzlich nur per E-Mail an. Sie können Ihren Abusefall direkt an [impressum@strato.de](http://impressum@strato.de/) melden.
+**1\. Jeder kann Abusemeldungen bezüglich bei uns registrierten Domains einreichen.** Wir nehmen Abusemeldungen grundsätzlich nur per E-Mail an. Sie können Ihren Abusefall direkt an [impressum@strato.de](http://impressum@strato.de/) melden.
 
-2\. Bitte beschreiben Sie Ihren Fall so genau wie möglich. Beschreiben Sie das Problem in einigen Sätzen. Senden Sie (wenn möglich und soweit zutreffend) Zeitstempel, Logfiles und E-Mailheader mit. Senden Sie Mails bitte als TEXT Mail und nicht als HTML Mail (kein DOC, PDF oder Bild).
+**2\. Bitte beschreiben Sie Ihren Fall so genau wie möglich.** Beschreiben Sie das Problem in einigen Sätzen. Senden Sie (wenn möglich und soweit zutreffend) Zeitstempel, Logfiles und E-Mailheader mit. Senden Sie Mails bitte als TEXT Mail und nicht als HTML Mail (kein DOC, PDF oder Bild).
 
-3\. Wir werden Ihre Meldung auf jeden Fall bearbeiten. Das heißt jedoch nicht, dass wir bei einer Abusemeldung sofort handeln können. Wir unterliegen nicht nur den Richtlinien der ICANN und jeweiligen Registries, sondern auch der Europäischen und Deutschen Gesetzgebung, sowie Verträgen mit unseren Kunden. Insbesondere können wir keine Webseiteninhalte von Kunden verändern, oder Domains oder Webseiten aufgrund einer Abusemeldung löschen. Sperrungen von Domains oder Webseiten kommen nur bei eindeutig und auch für Laien erkennbaren Gesetzesverstößen in Frage. Wir müssen zunächst den Domaineigner kontaktieren und ihm ggf. die Chance einräumen, das Problem zu beheben.
+**3\. Wir werden Ihre Meldung auf jeden Fall bearbeiten.** Das heißt jedoch nicht, dass wir bei einer Abusemeldung sofort handeln können. Wir unterliegen nicht nur den Richtlinien der ICANN und jeweiligen Registries, sondern auch der Europäischen und Deutschen Gesetzgebung, sowie Verträgen mit unseren Kunden. Insbesondere können wir keine Webseiteninhalte von Kunden verändern, oder Domains oder Webseiten aufgrund einer Abusemeldung löschen. Sperrungen von Domains oder Webseiten kommen nur bei eindeutig und auch für Laien erkennbaren Gesetzesverstößen in Frage. Wir müssen zunächst den Domaineigner kontaktieren und ihm ggf. die Chance einräumen, das Problem zu beheben.
 
 Wir bitten Sie von Rückfragen abzusehen. Die Bearbeitungszeit wird dadurch nicht beeinflusst. Wir werden Sie über die von uns getroffenen Maßnahmen informieren, auch dann, wenn wir ggf. nichts unternehmen, in diesem Fall werden wir die Entscheidung auch begründen.
 
-4\. Wir dürfen weder Kundendaten, Logfiles oder Accountdaten herausgeben, noch selbst z.B. über angebliche Copyrightverletzungen urteilen. Es ist daher immer zu überlegen, ob ggf. eine Anzeige bzw. eine Kontaktaufnahme mit dem Domaininhaber schneller zum Erfolg führt. Dies gilt insbesondere bei z.B. Copyrightverstößen oder ähnlichen Fällen, die geistiges Eigentum betreffen.
+**4\. Wir dürfen weder Kundendaten, Logfiles oder Accountdaten herausgeben, noch selbst z.B. über angebliche Copyrightverletzungen urteilen.** Es ist daher immer zu überlegen, ob ggf. eine Anzeige bzw. eine Kontaktaufnahme mit dem Domaininhaber schneller zum Erfolg führt. Dies gilt insbesondere bei z.B. Copyrightverstößen oder ähnlichen Fällen, die geistiges Eigentum betreffen.
 
 Allgemeine Geschäftsbedingungen der STRATO GmbH für E-Mail-Marketing
 --------------------------------------------------------------------
@@ -948,7 +948,7 @@ applicable from 12.09.2025
 General
 -------
 
-Agreement
+**Agreement**
 
 1\. Customer and Provider agree that Provider will make available to Customer certain Services on and in accordance with the terms of this Agreement – consists of the following documents including any amendment thereof or supplement thereto, as well as all acts related to performance of the agreement(s), including without limitation its Annexes  (hereinafter collectively referred to as the ‘Agreement’):
 
@@ -956,15 +956,15 @@ Agreement
 
 3\. The agreement between Parties on the above supersedes and replaces any previous arrangement, understanding or agreement, whether written or oral, between the Parties with respect to the subject matter in the aforementioned documents. Any matters not covered by these Agreement will be governed by the general terms and any other applicable terms for the Client's services.
 
-Definitions
+**Definitions**
 
 4\. The definitions used and applicable in the Agreement are set forth in the Annex Definitions, hereunder.
 
-Miscellaneous
+**Miscellaneous**
 
 5\. In case of any conflict or other dispute between Parties under or related to this Agreement, Parties will discuss and aim to amicably settle the matter at hand in good faith in line with Article 27 Data Act but without prejudice to any rights and remedies each Party may have.
 
-Annex Definitions
+**Annex Definitions**
 
 The following definitions in this Agreement, will have the following meaning:
 
@@ -1027,7 +1027,7 @@ The following definitions in this Agreement, will have the following meaning:
 Switching and Exit
 ------------------
 
-1\. Information
+**1\. Information**
 
 1.1. Before placing the order for the Data Processing Services, the Provider has provided the Customer with clear information about:
 
@@ -1049,7 +1049,7 @@ Switching and Exit
 
 1.3. The Provider’s on-line register with data structures and formats, relevant standards and open interoperability specifications for Data is specified in Annex 1.
 
-2\. Initiation of the switching process
+**2\. Initiation of the switching process**
 
 2.1. The Customer must give the Provider a switching notice that it initiates the switching, observing the Notice Period. If the Customer wishes to switch only with regard to certain Services, Data or Digital Assets, it must specify that in the switching notice.
 
@@ -1061,7 +1061,7 @@ Switching and Exit
 
 2.3 The Customer's switching notice must be unambiguous for the Provider to initiate action and for any associated deadlines to commence.
 
-3\. Transitional Period
+**3\. Transitional Period**
 
 3.1. When the Provider cannot respect the agreed Transitional Period of 30 days because this is not technically feasible, the Provider undertakes to:
 
@@ -1073,7 +1073,7 @@ Switching and Exit
 
 3.2 The Customer may extend the Transitional Period once, for a period they consider more appropriate for their own purpose. In that case, the Customer must notify the Provider in writing of their intention until the end of the original Transitional Period and indicate the alternative Transitional Period.
 
-4\. Obligations of the Provider during the switching process
+**4\. Obligations of the Provider during the switching process**
 
 4.1. Within the scope of its obligations under the Data Act, Provider undertakes to provide reasonable assistance to the Customer and third parties authorised by the Customer once the switching process starts and throughout its duration so that the Customer can switch within the Mandatory Transitional Period. To this effect, the Provider must, in particular:
 
@@ -1081,7 +1081,7 @@ Switching and Exit
 
 4.1.2. Maintain a high level of security throughout the switching process, in particular for the security of the data during their transfer.
 
-5\. Customer’s obligations
+**5\. Customer’s obligations**
 
 5.1. The Customer undertakes to take all reasonable measures to achieve effective switching. The Customer undertakes to be responsible for the import and implementation of Data and Digital Assets in their own systems or in the systems of the Destination Provider.
 
@@ -1089,23 +1089,23 @@ Switching and Exit
 
 5.3. In the context of data transfer, the Provider's primary obligation is to extract and make the data available to the Customer. This process may necessitate specific activities and cooperation from the Customer. To enable the Provider to fulfill its obligations, the Customer's active collaboration is required in certain instances. This may include, but is not limited to, the Customer's responsibility to provide adequate storage, access credentials, and cryptographic keys necessary for downloading the data via self-service mechanisms. Further detailed procedures and requirements for customer cooperation are available on the website specified in Annex 1.
 
-6\. Data retrieval and erasure of data
+**6\. Data retrieval and erasure of data**
 
 6.1. The Customer could retrieve or erase their data during the Agreed Period of Data Retrieval,which is 30 days.
 
 6.2. At the end of the Agreed Retrieval Period, and if the switching process has been completed successfully, the Provider undertakes to erase all Exportable Data and Digital Assets generated by the Customer or related to the Customer directly, except for the Exportable Data which the Provider is obligated to store under mandatory EU or EU Member States laws.
 
-7\. Charges for the switching process and egress charges
+**7\. Charges for the switching process and egress charges**
 
 The Provider reserves the right to charge the Customer switching fees within the scope permitted by the Data Act.
 
-8\. Termination of the switching process
+**8\. Termination of the switching process**
 
 8.1. As soon as the Customer notifies the Provider that the switching process is successfully completed, the Provider undertakes to notify the Customer immediately of the contract’s termination. This corresponds to Clause 5.1 in the Part on Termination. If the Customer will not confirm successful switching within 30 working days from such request, it is deemed that the switching was not successful and the Agreement will not be terminated and will continue on its existing terms.
 
 8.2. If the Customer does not want to switch but rather to erase their Exportable Data and Digital Assets as per point 3.2.3 Initiation of the switching process above, at the end of the agreed Notice Period the Provider undertakes to notify the Customer of the termination of the contract.
 
-Annex 1  (referred to in Clause 1.2)
+**Annex 1  (referred to in Clause 1.2)**
 
 1\. Categories of Data and Digital assets that can be transferred including at a minimum all
 
@@ -1132,11 +1132,11 @@ Exportable Data: Customer’s content data (ex. document, images, videos, databa
 Termination
 -----------
 
-Definitions
+**Definitions**
 
 To understand the key terms used in these part of the Agreement, we recommend that you first consult the section on “Definitions”, which are applicable for the whole Agreement. The terms in this part of the Agreement starting with capital letter are defined in the section “Definitions”.
 
-Termination
+**Termination**
 
 1.1 The Agreement will be considered terminated between the parties when one of the following events has occurred in full:
 
@@ -1154,7 +1154,7 @@ In any case, the Customer should inform the Provider of its successful switching
 
 2.1. At its discretion, Customer will involve the Destination Provider on Customer’s behalf.
 
-Termination Process
+**Termination Process**
 
 3.1 Successful completion of the switching process set forth in Clause 1.1.1 can only occur and will be (deemed) completed, after:
 

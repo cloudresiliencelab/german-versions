@@ -152,7 +152,7 @@ Wir verwenden Ihre personenbezogenen Daten für Marketingzwecke, um Ihnen indivi
 
 Um zielgerichtet Werbung in Form von Anzeigen auf Portalen unserer Marketing-Partner oder unserer Verbundunternehmen zu übermitteln, verwenden wir auch Dienste wie Meta Custom Audiences, LinkedIn Matched Audiences, TikTok Custom Audiences, Reddit Custom Audiences sowie Google Customer Match. Wir übermitteln dabei Bestandsdaten (E-Mail-Adresse, Telefonnummer, Postleitzahl, Land) an unsere Marketing-Partner. Die Daten werden hierbei jedoch nicht im Klartext versendet, sondern vorab mittels SHA 256-Algorithmus gehasht und anschließend übermittelt. Daraufhin erfolgt durch den Marketing-Partner ein Abgleich mit eigenen, gleichen Daten, um daraufhin zielgerichtet personalisierte Werbung in Form von Anzeigen auf den Portalen des jeweiligen Marketing-Partners oder unserer Verbundunternehmen anzuzeigen.
 
-Art der Daten:
+**Art der Daten:**
 
 *   Bestandsdaten (z.B. Vertragsdaten wie E-Mail-Adresse, Telefonnummer)
 *   Informationen über Ihre Interaktionen mit unseren Dienstleistungen (z.B. besuchte Seiten, gekaufte Produkte)
@@ -160,7 +160,7 @@ Art der Daten:
 *   Ihre Präferenzen und Interessen
 *   Nutzungsdaten (Daten, die bei Verwendung von Webseiten, Dienstleistungen und Produkten anfallen, einschließlich Auswertung des Klick-Verhaltens)
 
-Verwendungszwecke:
+**Verwendungszwecke:**
 
 *   Versand von Newslettern und werblichen E-Mails
 *   Anzeige von personalisierten Werbeanzeigen auf unseren Websites und auf anderen Plattformen
@@ -170,11 +170,11 @@ Verwendungszwecke:
 *   Einsatz sowie Training von KI
 *   Datenübermittlung zwischen Verbundunternehmen
 
-Rechtsgrundlage:
+**Rechtsgrundlage:**
 
 Die Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten zu Marketingzwecken ist unser berechtigtes Interesse sowie die von Ihnen erteilte Einwilligung in ausgewählte Datenverarbeitungen.
 
-Widerspruchsrecht:
+**Widerspruchsrecht:**
 
 Sie haben das Recht, jederzeit Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten zu Marketingzwecken einzulegen. Sie können als Kunde Ihre Einstellungen für den Empfang von Newslettern, telefonischer Kontaktaufnahme und werblichen E-Mails jederzeit über Ihren Kundenbereich (Control-Panel) ändern oder Ihren Widerspruch unter: [datenschutz@strato.de](mailto:datenschutz@strato.de) geltend machen.
 
@@ -232,51 +232,51 @@ Weitergehende Informationen zu einzelfallbezogenen Aufbewahrungsfristen finden S
 
 ### Vertragserfüllung und rechtliche Verpflichtungen:
 
-Vertragsdaten: Gespeichert für die Dauer des Vertragsverhältnisses und darüber hinaus, sofern gesetzliche Aufbewahrungspflichten (z.B. 10 Jahre aufgrund steuerlicher und handelsrechtlicher Bestimmungen) bestehen.
+**Vertragsdaten:** Gespeichert für die Dauer des Vertragsverhältnisses und darüber hinaus, sofern gesetzliche Aufbewahrungspflichten (z.B. 10 Jahre aufgrund steuerlicher und handelsrechtlicher Bestimmungen) bestehen.
 
-Rechnungsdaten: Bis zur Beendigung des Vertrags und darüber hinaus, um gesetzlichen Verpflichtungen nachzukommen (bis zu 10 Jahre).
+**Rechnungsdaten:** Bis zur Beendigung des Vertrags und darüber hinaus, um gesetzlichen Verpflichtungen nachzukommen (bis zu 10 Jahre).
 
-Chat- und Kommunikationsdaten/Gesprächsaufzeichnungen: Chat- oder Gesprächsverläufe werden für 90 Tage gespeichert. Falls ein Chat oder ein Telefonanruf zu einem Vertragsschluss führt, wird der relevante Teil für die Vertragsdauer + erforderlichenfalls gesetzliche Frist gespeichert (bis zu 10 Jahre).
+**Chat- und Kommunikationsdaten/Gesprächsaufzeichnungen:** Chat- oder Gesprächsverläufe werden für 90 Tage gespeichert. Falls ein Chat oder ein Telefonanruf zu einem Vertragsschluss führt, wird der relevante Teil für die Vertragsdauer + erforderlichenfalls gesetzliche Frist gespeichert (bis zu 10 Jahre).
 
-Gewinnspiele: Daten, die im Rahmen von Gewinnspielen verarbeitet werden, werden in der Regel nach Beendigung des Gewinnspiels gelöscht, sofern keine weiteren Aufbewahrungsfristen bestehen oder der Weiterverwendung der Daten durch den Teilnehmer zugestimmt wurde.
+**Gewinnspiele:** Daten, die im Rahmen von Gewinnspielen verarbeitet werden, werden in der Regel nach Beendigung des Gewinnspiels gelöscht, sofern keine weiteren Aufbewahrungsfristen bestehen oder der Weiterverwendung der Daten durch den Teilnehmer zugestimmt wurde.
 
-Auskunftsersuchen: Sofern betroffene Personen uns gegenüber ihr Recht auf Auskunft geltend machen, speichern wir die Daten für die Dauer bis zur Erteilung der vollständigen Auskunft und darüber hinaus bis zu 3 Jahre.
+**Auskunftsersuchen:** Sofern betroffene Personen uns gegenüber ihr Recht auf Auskunft geltend machen, speichern wir die Daten für die Dauer bis zur Erteilung der vollständigen Auskunft und darüber hinaus bis zu 3 Jahre.
 
-Kontaktformulare/Kontaktstellen: Daten, die im Rahmen von Anfragen über Kontaktformulare oder Kontaktstellen verarbeitet werden, speichern wir in der Regel bis zur vollständigen Bearbeitung  der Anfrage, sofern keine darüber hinausgehenden gesetzlichen Aufbewahrungsfristen bestehen.
+**Kontaktformulare/Kontaktstellen:** Daten, die im Rahmen von Anfragen über Kontaktformulare oder Kontaktstellen verarbeitet werden, speichern wir in der Regel bis zur vollständigen Bearbeitung  der Anfrage, sofern keine darüber hinausgehenden gesetzlichen Aufbewahrungsfristen bestehen.
 
 ### Berechtigte Interessen:
 
-Analyse- und Trackingdaten: Daten, die zur Verbesserung von Diensten verwendet werden, werden in der Regel für eine kurze Zeit gespeichert, z.B. für die Dauer der Cookie-Lebenszeit.
+**Analyse- und Trackingdaten:** Daten, die zur Verbesserung von Diensten verwendet werden, werden in der Regel für eine kurze Zeit gespeichert, z.B. für die Dauer der Cookie-Lebenszeit.
 
-Sicherheits- und Betrugspräventionsdaten: In der Regel bis zu 6 Monate gespeichert. Längere Speicherdauern sind jedoch zweckbezogen möglich.
+**Sicherheits- und Betrugspräventionsdaten:** In der Regel bis zu 6 Monate gespeichert. Längere Speicherdauern sind jedoch zweckbezogen möglich.
 
-Friendly Captcha und reCAPTCHA Daten: Bis zur Erreichung des Zwecks (Sicherheitsprüfung) gespeichert.
+**Friendly Captcha und reCAPTCHA Daten:** Bis zur Erreichung des Zwecks (Sicherheitsprüfung) gespeichert.
 
-Marketingdaten: Werden in der Regel bis auf Widerspruch gespeichert.
+**Marketingdaten:** Werden in der Regel bis auf Widerspruch gespeichert.
 
-KI-basierte Daten: In der Regel handelt es sich um aggregierte Daten. Sofern der Personenbezug nicht ausgeschlossen werden kann, werden die Daten bis zur Zweckerreichung aufbewahrt und anschließend gelöscht.
+**KI-basierte Daten:** In der Regel handelt es sich um aggregierte Daten. Sofern der Personenbezug nicht ausgeschlossen werden kann, werden die Daten bis zur Zweckerreichung aufbewahrt und anschließend gelöscht.
 
 ### Einwilligungsbasierte Verarbeitung:
 
-Marketing- und Newsletter-Daten: Gespeichert bis zum Widerruf der Einwilligung oder Erfüllung des Zwecks.
+**Marketing- und Newsletter-Daten:** Gespeichert bis zum Widerruf der Einwilligung oder Erfüllung des Zwecks.
 
-Bewertungs- und Umfragedaten: Bis zur Beendigung des Vertrags oder Erfüllung des Zwecks, wie z.B. spätestens 24 Monate nach einer Umfrage für deren Verbesserung.
+**Bewertungs- und Umfragedaten:** Bis zur Beendigung des Vertrags oder Erfüllung des Zwecks, wie z.B. spätestens 24 Monate nach einer Umfrage für deren Verbesserung.
 
-Google Analytics und ähnliche Tracking-Dienste: Zeitlich begrenzt durch Cookie-Einstellungen oder bis der Widerruf erfolgt.
+**Google Analytics und ähnliche Tracking-Dienste:** Zeitlich begrenzt durch Cookie-Einstellungen oder bis der Widerruf erfolgt.
 
 ### Spezielle Produkt- und Dienstleistungen:
 
-Kommentare in Blogs: Kommentare verbleiben, bis der Blog gelöscht oder der Kommentar als rechtlich bedenklich eingestuft wird.
+**Kommentare in Blogs:** Kommentare verbleiben, bis der Blog gelöscht oder der Kommentar als rechtlich bedenklich eingestuft wird.
 
-Webinare und Demos/Produkttests: Daten werden bis zur Durchführung des Webinars/der Demo oder des Produkttests gespeichert und ggf. für Folgekommunikation verwendet.
+**Webinare und Demos/Produkttests:** Daten werden bis zur Durchführung des Webinars/der Demo oder des Produkttests gespeichert und ggf. für Folgekommunikation verwendet.
 
-Cloud-Daten und IT-Services: Speicherung bis zur Löschung durch den Nutzer oder bei Vertragsende.
+**Cloud-Daten und IT-Services:** Speicherung bis zur Löschung durch den Nutzer oder bei Vertragsende.
 
-CDN und Web-Dienste: Daten werden bis zur Beendigung des Dienstes oder durch Löschanforderung des Benutzers gespeichert.
+**CDN und Web-Dienste:** Daten werden bis zur Beendigung des Dienstes oder durch Löschanforderung des Benutzers gespeichert.
 
 ### Kurzzeitige Speicherung und Log-Daten:
 
-Logfiles und temporäre Speicherdaten: Häufig zwischen wenigen Tagen bis maximal 60-90 Tage, abhängig vom konkreten Sicherheits- oder Betriebsbedarf.
+**Logfiles und temporäre Speicherdaten:** Häufig zwischen wenigen Tagen bis maximal 60-90 Tage, abhängig vom konkreten Sicherheits- oder Betriebsbedarf.
 
 12\. Automatisierte Entscheidungsfindung/Profiling
 --------------------------------------------------

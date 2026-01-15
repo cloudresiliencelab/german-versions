@@ -1,7 +1,7 @@
 Datenschutzerklärung
 ====================
 
-Datenschutz hat in der ARD einen sehr hohen Stellenwert, und wir nehmen den Schutz Ihrer Daten daher sehr ernst. Wir möchten, dass Sie bei der Nutzung der Angebote von ARD Online immer sicher sind und genau wissen, warum welche Daten gespeichert und verwendet werden. Die folgende Datenschutzerklärung gilt für ARD.de (einschließlich der Seiten der ARD-Programmdirektion) sowie für die ARD Mediathek und die ARD Audiothek. Das ARD-Konto (accounts.ard.de) wird von ARD Mediathek, ARD Audiothek, tagesschau.de und sportschau.de genutzt und hat eine eigene Datenschutzerklärung.
+Datenschutz hat in der ARD einen sehr hohen Stellenwert, und wir nehmen den Schutz Ihrer Daten daher sehr ernst. Wir möchten, dass Sie bei der Nutzung der Angebote von ARD Online immer sicher sind und genau wissen, warum welche Daten gespeichert und verwendet werden. Die folgende Datenschutzerklärung gilt für ARD.de (einschließlich der Seiten der ARD-Programmdirektion) sowie für die ARD Mediathek und die ARD Audiothek. Das ARD-Konto (accounts.ard.de) für Anmeldung und Empfehlungen wird von ARD Mediathek, ARD Audiothek, tagesschau.de und sportschau.de genutzt und hat eine eigene Datenschutzerklärung.
 
 Wir beachten den Grundsatz der Datenvermeidung und der Datensparsamkeit. Grundlage sind insbesondere der Medienstaatsvertrag (MStV) der Bundesländer und die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union. Diese Datenschutzerklärung wird regelmäßig aktualisiert. Hier erfahren Sie, welche Daten wir erheben und wie wir sie verwenden.
 

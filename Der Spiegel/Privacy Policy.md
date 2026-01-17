@@ -381,16 +381,6 @@ Wir setzen für diese Zwecke die AdDefend-Technologie (AdDefend GmbH, Borselstra
 
 Sie erhalten eine Auskunft grundsätzlich von derjenigen Stelle, bei der Sie Ihre Rechte geltend gemacht haben, solange die Datenverarbeitung im Rahmen der gemeinsamen Verantwortlichkeit erfolgt. In allen anderen Fällen erhalten Sie die Auskunft selbstverständlich von uns.
 
-Outbrain Engage
-
-Auf unseren Webseiten verarbeiten wir zur Personalisierung von Werbeinhalten und der Empfehlung von relevantem Content Cookie-IDs, User-IDs und IP-Adressen in gekürzter Form. Die Rechtsgrundlage ist Ihre Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG. Wir nutzen für diese Zwecke das Targeting Verfahren unseres Werbepartners »Outbrain« (Outbrain Inc., 39 W 13th Street, New York, NY 10011, USA) in gemeinsamer Verantwortlichkeit nach Art. 26 DSGVO. Wir und Outbrain haben in einer gemeinsamen Vereinbarung die jeweiligen Zuständigkeiten geregelt und festgelegt, wer von uns welche gesetzlichen Pflichten erfüllt. Dies betrifft insbesondere die Wahrnehmung der Rechte der betroffenen Personen und die Erfüllung der Informationspflichten nach den Artikeln 13 und 14 DSGVO. Die datenschutzrechtlichen Verpflichtungen verteilen sich dabei grundsätzlich wie folgt:
-
-· Outbrain ist zuständig für die Personalisierung von Werbeempfehlungen und Content. Dies beinhaltet die Erstellung personalisierter Inhalts- und Werbeprofile, die Auswahl personalisierten Contents und die Performance-Messung. Darüber hinaus ist Outbrain zuständig für die Erfüllung der Betroffenenrechte nach Art. 12 ff. DSGVO.
-
-· Wir sind zuständig für die Schaffung der datenschutzrechtlichen Voraussetzungen, insb. das Einholen Ihrer Einwilligung als Rechtsgrundlage für diese Datenverarbeitungen.
-
-Sofern Sie nicht an diesem Targeting-Verfahren teilnehmen möchten, können Sie hier ihr Opt-out erklären: [https://my.outbrain.com/recommendations-settings/home](https://my.outbrain.com/recommendations-settings/home) 
-
 **B) Eigene personalisierte werbliche Verlagsangebote (Eigenwerbung)**
 
 Wir machen auf unseren Webseiten personalisierte Werbung für unsere eigenen und als solche gekennzeichneten Produkte (Verlagsangebote). Neben dem reinen Produktangebot versuchen wir, die Relevanz der Auswahl von Verlagsangeboten stetig zu verbessern, um Ihnen unsere Angebote auf Basis unseres verlagsspezifisches Angebotsprofil des von ihnen verwendeten Endgeräts respektive SPIEGEL-Login-Kontos zu unterbreiten. Dafür verwenden wir Nutzungsprofile, die auf Grundlage des Basistracking erstellt werden. Über das Setzen von Cookies verarbeiten wir für diese Zwecke Informationen über Ihr Endgerät und den von Ihnen verwendeten Browser, Ihre IP-Adresse, Ihre Interaktionen mit unseren Webseiten und – sofern Sie sich als registrierte(r) und angemeldete(r) Nutzer:in auf unseren Webseiten bewegen – auch eine Ihnen zugeordnete eindeutige Kennung, die Ihr Nutzungsverhalten mit Ihren Accountinformationen verknüpft. Die Rechtsgrundlage ist Ihre Einwilligung, Art. 6 Abs. 1 S. 1 lit. a DSGVO.  

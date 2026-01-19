@@ -1,10 +1,10 @@
-Das Portal [zeit.de](https://www.zeit.de/index) sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
+Das Portal [www.zeit.de](https://www.zeit.de/index) sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
 
 ZEIT ONLINE GmbH  
-vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enrique Tarragona  
+vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enrique Tarragona
 
 Postanschrift: ZEIT ONLINE GmbH  
-Helmut-Schmidt-Haus  
+Buceriusstraße, Eingang Speersort 1,  
 20095 Hamburg
 
 Telefon: (040) 3280-0  
@@ -13,14 +13,14 @@ E-Mail: kontakt(at)zeit.de
 Die folgenden Nutzungs- und Geschäftsbedingungen sind die rechtliche Grundlage für die Nutzung der von der ZEIT ONLINE GmbH angebotenen Portale und Dienste.
 
   
-**Allgemeine Nutzungsbedingungen**
+**Allgemeine Nutzungsbedingungen von ZEIT ONLINE**
 
 Diese Allgemeinen Nutzungsbedingungen gelten für alle Portale und Dienste der ZEIT ONLINE GmbH.
 
 **§ 1 Urheber- und Kennzeichenrechte**
 
 1.  
-Bitte beachten Sie, dass die auf den Portalen veröffentlichten Schriftwerke, Fotografien und Illustrationen, Videos und sonstige Inhalte urheberrechtlich geschützt sind und von Ihnen nur dann vervielfältigt oder anderweitig genutzt werden dürfen, wenn Ihnen dies im Einzelfall durch den Rechteinhaber oder die gesetzlichen Schranken des Urheberrechts gestattet ist. Diese Inhalte unterliegen keiner Creative Common Lizenz, es sei denn, eine solche ist ausdrücklich angegeben. Eine Verlinkung oder Zitierung ist ohne Genehmigung zulässig, soweit dies in den Grenzen Zitatrechts nach § 51 UrhG erfolgt. Zu den Möglichkeiten einer Lizenzierung von Nutzungsrechten, finden Sie [**hier**](http://www.zeitverlag.de/presse/rechte-und-lizenzen) weitere Informationen und Ansprechpartner.
+Bitte beachten Sie, dass die auf den Portalen der ZEIT ONLINE GmbH veröffentlichten Schriftwerke, Fotografien und Illustrationen, Videos und sonstige Inhalte urheberrechtlich geschützt sind und von Ihnen nur dann vervielfältigt oder anderweitig genutzt werden dürfen, wenn Ihnen dies im Einzelfall durch den Rechteinhaber oder die gesetzlichen Schranken des Urheberrechts gestattet ist. Diese Inhalte unterliegen keiner Creative Common Lizenz, es sei denn, eine solche ist ausdrücklich angegeben. Eine Verlinkung oder Zitierung ist ohne Genehmigung zulässig, soweit dies in den Grenzen Zitatrechts nach § 51 UrhG erfolgt. Zu den Möglichkeiten einer Lizenzierung von Nutzungsrechten, finden Sie [hier](https://www.zeit-verlagsgruppe.de/geschaeftskunden/nachdrucke-und-lizenzen/) weitere Informationen und Ansprechpartner.
 
 2.  
 Bitte beachten Sie auch, dass die Kennzeichen (Marken, Geschäftsbezeichnungen, Zeitschriften- und Rubrikentitel) der ZEIT ONLINE GmbH und der Zeitverlag Gerd Bucerius GmbH & Co. KG dem Schutz des Markengesetzes unterliegen.
@@ -34,12 +34,11 @@ Die ZEIT ONLINE GmbH übernimmt keine rechtliche Gewähr für die Richtigkeit, V
 Die ZEIT ONLINE GmbH wird sich bemühen, ihre Dienste stets zugänglich zu halten, sie übernimmt hierfür jedoch keine Haftung. Ein Anspruch auf ständige Verfügbarkeit besteht nicht. Die ZEIT ONLINE GmbH behält sich vor, ihr Angebot oder Teile des Angebots jederzeit zu beenden oder einzuschränken. Für kostenpflichtige Angebote gelten jeweils ergänzende Bestimmungen.
 
 3.  
-Eine Haftung für einen Datenverlust des Nutzers oder Schäden an Hard- oder Software des Nutzers übernimmt die ZEIT ONLINE GmbH nur für den Fall des Vorsatzes oder der groben Fahrlässigkeit oder der Verletzung von Kardinalpflichten. Die Haftung ist begrenzt auf denjenigen Schaden, welcher bei vertragsgemäßer privater Nutzung durch den Nutzer vernünftigerweise vorhersehbar ist.  
+Eine Haftung für einen Datenverlust des Nutzers oder Schäden an Hard- oder Software des Nutzers übernimmt die ZEIT ONLINE GmbH nur für den Fall des Vorsatzes oder der groben Fahrlässigkeit oder der Verletzung von Kardinalpflichten. Die Haftung ist begrenzt auf denjenigen Schaden, welcher bei vertragsgemäßer privater Nutzung durch den Nutzer vernünftigerweise vorhersehbar ist.
 
 4.  
-Voraussetzung für die einwandfreie Nutzung der angebotenen Dienste ist, dass Sie über einen Zugang zu elektronischen Medien verfügen, der dem jeweils aktuellen technischen Standard entspricht. Bitte informieren Sie sich vor Abschluss des Vertrages, ob die von Ihnen benutzte Hard- und Software die Nutzung der hier zur Verfügung gestellten Dienste ermöglicht. Für jedes Abonnement finden Sie in der jeweiligen Angebotsbeschreibung die technischen Details der angebotenen Dienste. Zudem können Sie mit Hilfe von Demoversionen testen, ob Ihre Hard- und Software die Nutzung der Angebote ermöglicht. Antworten auf häufig gestellte Fragen [finden Sie hier.](https://premium.zeit.de/faq)
+Voraussetzung für die einwandfreie Nutzung der von ZEIT ONLINE GmbH angebotenen Dienste ist, dass Sie über einen Zugang zu elektronischen Medien verfügen, der dem jeweils aktuellen technischen Standard entspricht. Bitte informieren Sie sich vor Abschluss des Vertrages, ob die von Ihnen benutzte Hard- und Software die Nutzung der hier zur Verfügung gestellten Dienste ermöglicht. Für jedes Abonnement finden Sie in der jeweiligen Angebotsbeschreibung die technischen Details der angebotenen Dienste. Zudem können Sie mit Hilfe von Demoversionen testen, ob Ihre Hard- und Software die Nutzung der Angebote ermöglicht. Antworten auf häufig gestellte Fragen [finden Sie hier.](https://premium.zeit.de/faq)
 
-  
 **§ 3 Sonstige Bestimmungen**
 
 1.  
@@ -57,59 +56,57 @@ Die ZEIT ONLINE GmbH behält sich vor, ihre Nutzungsbedingungen zukünftig zu ä
 **Nutzungsbedingungen für digitale Abonnements**
 
 **§ 1 Beschreibung der Dienste**  
-Das **Digital-Abo der ZEIT** bietet Ihnen während der Laufzeit des Abonnements Zugang zu den regulären Ausgaben der ZEIT sowie zu den bis zu 3 Sonderausgaben, die zu besonderen Anlässen erscheinen - als E-Paper sowie als EPUB und MOBI für Ihren E-Reader. Zudem können Sie mit ZEIT Audio wöchentlich redaktionell ausgewählte Artikel anhören. Mit Ihrer E-Mail-Adresse und Ihrem Passwort haben Sie zudem Zugang zu den ZEIT-Apps und zu allen Artikeln auf [zeit.de](https://www.zeit.de/index). Das **ZEIT WISSEN Digital-Abo** bietet Ihnen Zugang zum ZEIT WISSEN Magazin im PDF-Format und als App, sechsmal im Jahr. Mit dem **ZEIT Audio only**\-Abo erwarten Sie jede Woche ausgewählte Artikel der aktuellen ZEIT als Hörartikel.
+Das digitale Abo der ZEIT bietet Ihnen während der Laufzeit des Abonnements Zugang zu den regulären Ausgaben der ZEIT sowie zu den bis zu 3 Sonderausgaben, die zu besonderen Anlässen erscheinen – als E-Paper sowie als EPUB und MOBI für Ihren E-Reader. Zudem können Sie mit ZEIT Audio wöchentlich redaktionell ausgewählte Artikel anhören. Mit Ihrer E-Mail-Adresse und Ihrem Passwort haben Sie zudem Zugang zu den ZEIT-Apps und zu allen Artikeln auf [zeit.de](https://www.zeit.de/index). Das ZEIT WISSEN Digital-Abo bietet Ihnen Zugang zum ZEIT WISSEN Magazin im PDF-Format und als App, sechsmal im Jahr. Mit dem ZEIT Audio only-Abo erwarten Sie jede Woche ausgewählte Artikel der aktuellen ZEIT als Hörartikel.
 
-Diese Dienste sind registrierungs- und kostenpflichtig. Wenn Sie ein digitales Abonnement bestellen, speichern wir den Vertragstext und senden Ihnen die Bestellbestätigung per E-Mail zu. Ihre Bestelldaten sind aus Sicherheitsgründen nicht mehr über das Internet verfügbar. Unsere digitalen Abonnements sind jederzeit mit einer Frist von einem Monat kündbar. Nach Beendigung des digitalen Abonnements ist ein Zugriff auf kostenpflichtige digitale Publikationen nur möglich, wenn sie diese vorher auf Ihrem Gerät gespeichert haben.  
+Diese Dienste sind registrierungs- und kostenpflichtig. Wenn Sie ein digitales Abonnement bestellen, speichern wir den Vertragstext und senden Ihnen die Bestellbestätigung per E-Mail zu. Ihre Bestelldaten sind aus Sicherheitsgründen nicht mehr über das Internet verfügbar. Unsere digitalen Abonnements sind jederzeit mit einer Frist von einem Monat kündbar. Nach Beendigung des digitalen Abonnements ist ein Zugriff auf kostenpflichtige digitale Publikationen nur möglich, wenn sie diese vorher auf Ihrem Gerät gespeichert haben.
 
-Mit der Bestellung eines Abonnements erhalten Sie zusätzlich dazugehörige Newsletter (z.B. den ZEIT Brief, den Freunde der ZEIT-Newsletter, den ZEIT Digital Produkt Newsletter und den Z+ Newsletter).
+Mit der Bestellung eines Abonnements erhalten Sie zusätzlich dazugehörige Newsletter (z.B. ZEIT Brief-, Freunde der ZEIT-, Literatur-, Z+-, ZEIT Digital Produkt- oder ZEIT Leo-Newsletter), Informationen zu Ihrem Abonnement sowie ähnliche Angebote per E-Mail. Die Auswahl richtet sich nach dem gewählten Abonnement.
 
-Nähere Informationen zu unseren digitalen Abonnements, aktuelle Preise sowie technische Beschreibungen dieser Angebote [finden Sie hier](https://premium.zeit.de/zeit-apps). Wir behalten uns vor, den Bezugspreis unserer digitalen Abonnements anzupassen.  
+Newsletter und Angebots-E-Mails können Sie jederzeit über einen Abmeldelink in der jeweiligen E-Mail abbestellen. Ohne Ihren Widerspruch erhalten Sie diese E-Mails auch nach Ablauf Ihres Abonnements weiterhin
+
+Nähere Informationen zu unseren digitalen Abonnements, aktuelle Preise sowie technische Beschreibungen dieser Angebote [finden Sie hier](https://premium.zeit.de/zeit-apps).
 
 **§ 2 Vertragsabschluss**
 
 1.  
 Um alle oder einzelne digitale Abonnements zu nutzen, müssen Sie sich als Nutzer registrieren und Ihre gewünschten Bestelldaten eingeben. Durch Anklicken des in der Registrierungs-E-Mail vorgehaltenen Links oder durch Eingeben der vorgehaltenen Nutzerdaten, aktivieren Sie Ihren Zugang. Wir senden Ihnen umgehend eine Empfangsbestätigung mit Ihren Zugangs- und Vertragsdaten sowie Details zu Ihrem Widerrufsrecht per E-Mail zu. Der Vertrag kommt mit Zugang dieser E-Mail bei Ihnen zustande.
 
-Wenn Sie an mehreren Zugängen bzw. Lizenzen im Rahmen von z.B. Firmenabonnements interessiert sind, schreiben Sie uns gern eine E-Mail an digitalabo@zeit.de.
+Wenn Sie an mehreren Zugängen zur digitalen ZEIT bzw. Lizenzen im Rahmen von z.B. Firmenabonnements interessiert sind, schreiben Sie uns gern eine E-Mail an digitalabo(at)zeit.de.
 
-  
 2.  
-**Abonnenten der gedruckten Ausgabe der ZEIT** können das Digital-Paket der ZEIT für einen geringen Aufpreis pro Ausgabe hinzubestellen. Das Digital-Paket bietet Ihnen während der Laufzeit des digitalen Abonnements die Ausgaben der ZEIT als E-Paper sowie als EPUB und MOBI für Ihren E-Reader. Zudem können Sie mit ZEIT Audio wöchentlich redaktionell ausgewählte Artikel hören. Mit Ihrer E-Mail-Adresse und Ihrem Passwort haben Sie zudem Zugang zu den ZEIT-Apps und zu allen Artikeln auf [zeit.de](https://www.zeit.de/index). Dieses Abonnement ist registrierungs- und kostenpflichtig. Weitere Informationen und die Bestellmöglichkeit für Abonnenten der gedruckten Ausgabe [finden Sie hier](https://premium.zeit.de/bestellung/800146#start). Sie erhalten für die Abrechnung des Digital-Pakets eine Bestätigungsemail sowie eine gesonderte Ausweisung. Für unsere Printabonnenten gelten zusätzlich [die grundsätzlichen allgemeinen Geschäftsbedingungen](https://abo.zeit.de/agb/).  
-**  
-Urlaubsservice  
-**Den Abonnenten der gedruckten Ausgabe der ZEIT bieten wir unseren Urlaubsservice an. Für die Dauer Ihres Urlaubs können Sie die Belieferung mit der gedruckten Ausgabe der ZEIT unterbrechen und sich stattdessen für eine der folgenden Leistungen entscheiden:  
-\-      Wir bieten Ihnen die Möglichkeit während der Lieferunterbrechung das Digital-Abo zu nutzen und stellen für die Dauer Ihrer Urlaubsabwesenheit einen digitalen Zugang zur Verfügung.  
-\-      Wir bieten Ihnen die Möglichkeit, sich die gedruckte Ausgabe Ihrer ZEIT in den Urlaub nachsenden zu lassen. Für die Urlaubsnachsendung innerhalb Deutschlands, nach Österreich oder in die Schweiz fallen keine zusätzlichen Kosten an. Für eine Nachsendung ins restliche Ausland berechnen wir Ihnen die zusätzlichen Portokosten nach den zum Zeitpunkt Ihrer Urlaubsabwesenheit gültigen Gebührentabellen. Eine Kostenaufstellung erhalten Sie auf Anfrage.  
-\-       Wir bieten Ihnen die Möglichkeit, die ZEIT-Ausgaben, welche Sie sich während Ihrer Urlaubsabwesenheit nicht zusenden lassen, zu spenden.  
-Lassen Sie uns bei Mitteilung einer gewünschten Lieferunterbrechung gerne zwei Wochen im Voraus wissen, welche der von uns angebotenen Optionen Sie wählen, dann veranlassen wir die nötigen Schritte.  
+Abonnenten der gedruckten Zeitung erhalten als Bestandteil ihres Abonnements ohne zusätzliche Kosten vollumfänglichen Zugang zum Digital-Paket der ZEIT. Das Angebot gilt nur für Abonnenten mit (Wohn-)Sitz in Deutschland Österreich oder der Schweiz. Abonnements der gedruckten Zeitung, die nicht vom Zeitverlag als Vertragspartner angeboten werden, Freiabonnements sowie sog. Mengenabonnements (z.B. "DIE ZEIT im Klassensatz") sind vom Angebot ausgenommen. Die Nutzung des Digital-Pakets setzt eine einmalige Registrierung voraus. Weitere Informationen und die Möglichkeit zur Registrierung [finden Sie hier.](https://digitalfreischalten.zeit.de/) Für unsere Printabonnenten gelten zusätzlich die allgemeinen Geschäftsbedingungen der [Zeitverlag Gerd Bucerius GmbH & Co. KG.](https://abo.zeit.de/agb/)
 
 **Probeabonnement**  
 Die von der Zeitverlag Gerd Bucerius GmbH & Co. KG sowie der ZEIT ONLINE GmbH angebotenen Probe- und Testabonnements sollen Ihnen die Möglichkeit geben, unsere Produkte in aller Ruhe kennenzulernen. Entscheiden Sie sich für ein entsprechendes Angebot, schließen Sie ein Abonnement mit unbestimmter Laufzeit ab, wobei für die jeweils vereinbarte Anzahl an Ausgaben keine bzw. verringerte Kosten anfallen (zur Vertragsbeendigung vergleiche Ziff. 5). Die Zeitverlag Gerd Bucerius GmbH & Co. KG sowie ZEIT ONLINE GmbH behalten es sich ausdrücklich vor, Verbraucher, welche diese Angebote wiederholt abschließen, von diesen auszuschließen.
 
-3\. **Bei einer Unmöglichkeit der Lieferung aufgrund höherer Gewalt** (auch Streiks und Aussperrungen) ruht die Leistungspflicht von Besteller und Verkäufer für die Zeit der Lieferstörung. Nach Beendigung der Lieferstörung wird das Vertragsverhältnis wie gewohnt fortgesetzt.
+3.  
+**Bei einer Unmöglichkeit der Lieferung aufgrund höherer Gewalt** (auch Streiks und Aussperrungen) ruhen die Leistungspflicht von Besteller und Verkäufer für die Zeit der Lieferstörung. Nach Beendigung der Lieferstörung wird das Vertragsverhältnis wie gewohnt fortgesetzt.
 
-Bei Lieferstörungen, die lediglich das Digital-Abo oder die Printausgabe der ZEIT sowie der ZEIT-Magazine-Angebote betreffen, ist es uns gestattet, Ihnen für die Dauer der Lieferstörung die jeweils andere, inhaltlich gleichwertige Ausgabe als Ersatzausgabe zur Verfügung zu stellen.
+Bei Lieferstörungen, die lediglich die digitale oder die Printausgabe der ZEIT sowie der ZEIT-Magazine-Angebote betreffen, ist es uns gestattet, Ihnen für die Dauer der Lieferstörung die jeweils andere, inhaltlich gleichwertige Ausgabe als Ersatzausgabe zur Verfügung zu stellen.
 
-4\. **Betreuung und Abrechnung der Print- und Digital-Abonnements** erfolgen durch DPV Deutscher Pressevertrieb GmbH als leistendes Unternehmen.
+4.  
+**Betreuung und Abrechnung der Print- und Digital-Abonnements** erfolgen durch DPV Deutscher Pressevertrieb GmbH als leistender Unternehmer.
 
 **§ 3 Widerrufsrecht**  
 Sofern Sie den Vertrag als Verbraucher abschließen, steht Ihnen das folgende gesetzliche Widerrufsrecht zu:
 
-**1\. Widerrufsbelehrung**  
+**1.  
+Widerrufsbelehrung**
 
 **Widerrufsrecht**  
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen den Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (DIE ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Am Baumwall 11, 20459 Hamburg. E-Mail: digitalabo(at)zeit.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. 
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen den Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Koreastraße 7, 20457 Hamburg. E-Mail: digitalabo(at)zeit.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
-Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.  
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
 **Folgen des Widerrufs**  
 Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.**  
 Ende der Widerrufsbelehrung**
 
-**2\. Muster-Widerrufsformular**  
-Wenn Sie den Vertrag widerrufen wollen, [füllen Sie bitte dieses Formular aus](https://www.zeit.de/administratives/muster-widerrufsformular.pdf) und senden Sie es an:  
+**2.  
+Muster-Widerrufsformular**  
+Wenn Sie den Vertrag widerrufen wollen, [füllen Sie bitte dieses Formular aus](https://www.zeit.de/administratives/muster-widerrufsformular.pdf) und senden Sie es an:
 
-DIE ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Am Baumwall 11, 20459 Hamburg.   
+ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Koreastraße 7, 20457 Hamburg.  
 E-Mail: digitalabo(at)zeit.de.
 
 Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
@@ -126,31 +123,42 @@ Datum
 
 \------------
 
-(\*) Unzutreffendes streichen. 
+(\*) Unzutreffendes streichen.
 
-**3\. Rücksendekosten**  
-Im Falle des Widerrufrechts haben Sie die Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht. Bei Widerruf des gesamten Kaufvertrages belaufen sich die Kosten der Rücksendung über DHL bspw. auf € 4,99 (z.B. für die Rücksendung eines iPads im Rahmen des Digital-Abonnements mit iPad).
+**3.  
+Rücksendekosten**  
+Im Falle des Widerrufrechts haben Sie die Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht. Bei Widerruf des gesamten Kaufvertrages belaufen sich die Kosten der Rücksendung über DHL bspw. auf € 7,69 (z.B. für die Rücksendung eines Tolinos im Rahmen des Digital-Abonnements mit Tolino).
 
 **§ 4 Zahlung**  
-Das Entgelt ist vom Nutzer entsprechend der vereinbarten Bestelldaten wahlweise per Bankeinzug, Kreditkarte (VISA, MasterCard oder Diners Club) oder Rechnung zu zahlen. Sie kommen mit der Erfüllung dieser Forderung spätestens dann in Verzug, wenn Sie nicht innerhalb von 30 Tagen nach Zugang der Rechnung und Fälligkeit leisten.
+Das Entgelt ist vom Nutzer entsprechend der vereinbarten Bestelldaten wahlweise per Bankeinzug, Kreditkarte (VISA, MasterCard), Paypal oder Rechnung zu zahlen. Sie kommen mit der Erfüllung dieser Forderung spätestens dann in Verzug, wenn Sie nicht innerhalb von 30 Tagen nach Zugang der Rechnung und Fälligkeit leisten.
 
-**  
-§ 5 Vertragsbeendigung**
+**§ 5 Anpassung des Abonnementpreises**
 
 1.  
-Sofern nichts anders vereinbart ist, laufen die Abonnements für unbestimmte Zeit. Die Abrechnung erfolgt nach dem jeweils vereinbarten Abrechnungszyklus. Sie können Ihren Vertrag über ein digitales Abonnement jederzeit mit einer Frist von einem Monat kündigen. Falls Sie in Vorleistung getreten sind, werden Differenzbeträge erstattet. Die Kündigung muss schriftlich oder in Textform (z. B. E-Mail) erklärt werden. Senden Sie diese bitte an ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Am Baumwall 11, 20459 Hamburg. E-Mail: digitalabo(at)zeit.de.
+Die ZEIT ONLINE GmbH ist berechtigt, auch während der Vertragslaufzeit eine Anpassung des Bezugspreises nach billigem Ermessen vorzunehmen. Diese erfolgt als Reaktion aufgrund sich verändernder Kalkulationsfaktoren. Zu diesen zählen Produktions- und Beschaffungskosten, Lieferkosten, Kosten für die technische Bereitstellung des Kundendienstes, Kosten des Ein- und Verkaufs, allgemeine Verwaltungs- und Gemeinkosten (z. B. Personal, Miete, Dienstleister, IT-Systeme, Energie, Zinsen- und Finanzierungskosten) und staatlich auferlegte Gebühren (Beiträge, Steuern und Abgaben). Die Anpassung kann bei insgesamt gestiegenen Kosten in einer Erhöhung und wird bei insgesamt gesunkenen Kosten in einer Reduzierung des Preises erfolgen. Die Anpassung erfolgt hierbei im Verhältnis zur Veränderung der Kalkulationskosten. Die Steigerung eines Kostenfaktors darf nur in dem Umfang für eine Preiserhöhung herangezogen werden, in dem kein Ausgleich durch etwaige Senkung eines anderen Kostenfaktors erfolgt. Bei Kostensenkungen sind die Preise zu ermäßigen, soweit diese Kostensenkungen nicht durch Steigerungen in Bereichen ganz oder teilweise ausgeglichen werden. Der Zeitverlag wird bei der Ausübung seines billigen Ermessens die jeweiligen Zeitpunkte einer Preisänderung so wählen, dass Kostensenkungen nicht nach für den Kunden ungünstigeren Maßstäben Rechnung getragen werden als Kostenerhöhungen, also Kostensenkungen mindestens in gleichem Umfang preiswirksam werden wie Kostenerhöhungen.
+
+2.  
+Die Bekanntgabe der Preisanpassung erfolgt in den jeweils abonnierten Publikationen oder unter www.abo.zeit.de oder per Nachricht (E-Mail oder Brief). Bei einer Preisanpassung steht dem Abonnenten ab dem Zeitpunkt des Wirksamwerdens der Preisanpassung ein Sonderkündigungsrecht zu. Die Kündigung muss dem Zeitverlag innerhalb von 14 Tagen ab Bekanntgabe der Preisanpassung zugehen.
+
+3.  
+Bei Kunden, die ein Abonnement über eine feste Laufzeit abgeschlossen haben, wird die Preisanpassung grundsätzlich erst mit der nächsten Verlängerung der Laufzeit wirksam. Im Übrigen wird die Preisanpassung einen Monat nach Bekanntgabe wirksam.
+
+**§ 6 Vertragsbeendigung**
+
+1.  
+Sofern nichts anders vereinbart ist, laufen die Abonnements für unbestimmte Zeit. Die Abrechnung erfolgt nach dem jeweils vereinbarten Abrechnungszyklus. Sie können Ihren Vertrag über ein digitales Abonnement jederzeit mit einer Frist von einem Monat kündigen. Falls Sie in Vorleistung getreten sind, werden Differenzbeträge erstattet. Die Kündigung muss schriftlich oder in Textform (z. B. E-Mail) erklärt werden. Senden Sie diese bitte an ZEIT c/o DPV Deutscher Pressevertrieb GmbH, Koreastraße 7, 20457 Hamburg. E-Mail: digitalabo(at)zeit.de.
 
 2.  
 Wenn Sie **Abonnent der gedruckten Ausgabe der Wochenzeitung DIE ZEIT** sind, beachten Sie bitte, dass dieses Abonnement von einer Änderung oder Beendigung des digitalen Abonnements unberührt bleibt.
 
-**§ 6 Private Nutzung**  
+**§ 7 Private Nutzung**  
 1.  
 Als privater Nutzer dürfen Sie Inhalte des Digital-Angebots nur zum persönlichen, nicht-kommerziellen Gebrauch in Anspruch nehmen. Eine Nutzung für geschäftliche oder berufliche Zwecke in Ausübung oder im Zusammenhang mit einer unternehmerischen Tätigkeit oder eine Nutzung durch Unternehmen egal welcher privater oder öffentlicher Rechtsform, einschließlich Einzelunternehmen, Vereinen, Stiftungen, Körperschaften und Anstalten des öffentlichen Rechts, Behörden und Gerichte (im Folgenden: Unternehmen) über ein privates Nutzerkonto ist nicht gestattet.
 
 2.  
 Das Recht zur privaten Nutzung der Inhalte ist auf die Person des registrierten Nutzers beschränkt, der die Inhalte auf bis zu fünf Endgeräten verwenden darf.
 
-**§ 7 Geschäftliche Nutzung**
+**§ 8 Geschäftliche Nutzung**
 
 1.  
 Als nicht-privater Nutzer dürfen die Inhalte des Angebots nur für eigene berufliche und geschäftliche Zwecke in Anspruch genommen werden.
@@ -158,53 +166,49 @@ Als nicht-privater Nutzer dürfen die Inhalte des Angebots nur für eigene beruf
 2.  
 Das Recht zur geschäftlichen Nutzung der Inhalte ist auf den als Nutzer registrierten Betrieb eines Unternehmens beschränkt. Eine Nutzung durch andere Betriebe eines Unternehmens oder verbundene Unternehmen ist nicht gestattet. Inhalte dürfen auf bis zu fünf Endgeräten verwendet werden, wobei jedes Endgerät einem Mitarbeiter des Unternehmens dauerhaft zugeordnet sein muss. Eine Nutzung durch andere Personen ist nicht gestattet.
 
-Wenn Sie an mehreren Zugängen zur digitalen ZEIT bzw. Lizenzen im Rahmen von z.B. Firmenabonnements interessiert sind, schreiben Sie uns gern eine E-Mail an digitalabo@zeit.de.
+Wenn Sie an mehreren Zugängen zur digitalen ZEIT bzw. Lizenzen im Rahmen von z.B. Firmenabonnements interessiert sind, schreiben Sie uns gern eine E-Mail an digitalabo(at)zeit.de.
 
-  
+**§ 9 Weitergabe von Inhalten**
 
-**§ 8 Weitergabe von Inhalten**
+1\. Als Nutzer sind Sie ausgenommen der Rechte nach § 6 und § 7 nicht berechtigt, ohne Zustimmung von ZEIT ONLINE Inhalte ganz oder teilweise an Dritte weiterzugeben, zu digitalisieren oder unabhängig vom Trägermedium und der technischen Ausgestaltung in fremden Speichermedien abzulegen. Nicht gestattet sind die Vervielfältigung (z.B. Archivierung oder Ausrucke), die öffentliche Wiedergabe (z.B. öffentliche Vorführung, öffentliche Zugänglichmachung, Sendung und die körperliche Weitergabe) außerhalb des privaten Bereichs, gleich ob dies entgeltlich oder unentgeltlich geschieht.
 
-1\. Als Nutzer sind Sie ausgenommen der Rechte nach § 6 und § 7 nicht berechtigt, ohne Zustimmung Inhalte ganz oder teilweise an Dritte weiterzugeben, zu digitalisieren oder unabhängig vom Trägermedium und der technischen Ausgestaltung in fremden Speichermedien abzulegen. Nicht gestattet sind die Vervielfältigung (z.B. Archivierung oder Ausdrucke), die öffentliche Wiedergabe (z.B. öffentliche Vorführung, öffentliche Zugänglichmachung, Sendung und die körperliche Weitergabe) außerhalb des privaten Bereichs, gleich ob dies entgeltlich oder unentgeltlich geschieht.  
-
-**Nutzungsbedingungen für registrierungspflichtige Dienste wie Kommentieren, Leserartikel oder graue Z+-Artikel  
-**
+**Nutzungsbedingungen für registrierungspflichtige Dienste wie Kommentieren, Leserartikel oder graue Z+-Artikel**
 
 **§ 1 Beschreibung der Dienste**  
-Als registrierter Nutzer stehen Ihnen folgende Dienste zur Verfügung: Sie können Kommentare zu Artikeln sowie eigene Leserartikel verfassen, um sich mit der Redaktion sowie mit anderen Nutzern auszutauschen. **Kommentare** sind kürzere Textbeiträge, die Sie unter vorhandenen Artikeln, Videos, Fotostrecken oder anderen Multimedia-Inhalten abgeben können. **Leserartikel** sind von Ihnen verfasste Texte, die wir nach vorheriger Auswahl, Prüfung und eventuell redaktioneller Bearbeitung veröffentlichen. Durch Ihre Beiträge wollen wir die Inhalte um spannende Perspektiven und lebendige Diskussionen ergänzen. Zudem können Sie als registrierter Nutzer jede Woche eine Auswahl **registrierungspflichtiger Inhalte** lesen (markiert mit einem grauen Z+), bei unserem **Wissensquiz** ihren Spielstand speichern, eigene Quizze erstellen und das **Schach** spielen. 
+Als registrierter Nutzer stehen Ihnen folgende Dienste zur Verfügung: Sie können Kommentare zu Artikeln sowie eigene Leserartikel verfassen, um sich mit der Redaktion sowie mit anderen Nutzern auszutauschen. Kommentare sind kürzere Textbeiträge, die Sie unter vorhandenen Artikeln, Videos, Fotostrecken oder anderen Multimedia-Inhalten abgeben können. Leserartikel sind von Ihnen verfasste Texte, die wir nach vorheriger Auswahl, Prüfung und eventuell redaktioneller Bearbeitung auf ZEIT ONLINE veröffentlichen. Durch Ihre Beiträge wollen wir die Inhalte um spannende Perspektiven und lebendige Diskussionen ergänzen. Zudem können Sie als registrierter Nutzer jede Woche eine Auswahl registrierungspflichtiger Inhalte lesen (markiert mit einem grauen Z+), bei unserem Wissensquiz ihren Spielstand speichern, eigene Quizze erstellen und das Schach spielen.
 
-Es gelten die folgenden Nutzungsbedingungen.  
+Es gelten die folgenden Nutzungsbedingungen.
 
-  
 **§ 2 Registrierung**
 
 1.  
-Die Nutzung der registrierungspflichtigen Dienste setzt voraus, dass Sie sich unter Angabe Ihrer E-Mail-Adresse und eines frei wählbaren persönlichen Passwortes als Nutzer registrieren. Die ZEIT ONLINE GmbH sendet Ihnen eine Bestätigung der Registrierung mit einem Aktivierungslink per E-Mail zu. Erst nach Anklicken dieses Links ist die Registrierung abgeschlossen. Sie können Ihr persönliches Passwort [hier](https://meine.zeit.de/zuruecksetzen) jederzeit beliebig ändern.
+Die Nutzung der registrierungspflichtigen Dienste von ZEIT ONLINE setzt voraus, dass Sie sich unter Angabe Ihrer E-Mail-Adresse und eines frei wählbaren persönlichen Passwortes als Nutzer registrieren. Die ZEIT ONLINE GmbH sendet Ihnen eine Bestätigung der Registrierung mit einem Aktivierungslink per E-Mail zu. Erst nach Anklicken dieses Links ist die Registrierung abgeschlossen. Sie können Ihr persönliches Passwort [hier](https://meine.zeit.de/zuruecksetzen) jederzeit beliebig ändern.
 
 2.  
-Voraussetzung für die Veröffentlichung von **Leserartikeln** ist zudem die Angabe Ihres Vor- und Zunamens sowie Ihrer Postanschrift. Diese wird ausschließlich für eventuelle redaktionelle Rückfragen benötigt.
+Voraussetzung für die Veröffentlichung von Leserartikeln ist zudem die Angabe Ihres Vor- und Zunamens sowie Ihrer Postanschrift. Diese wird ausschließlich für eventuelle redaktionelle Rückfragen benötigt.
 
 3.  
 Im Rahmen der Registrierung wird ein Benutzerkonto für Sie angelegt. Darin können Sie selbst entscheiden, welche Informationen Sie anderen Nutzern offenlegen möchten. Sie können diese Informationen jederzeit ändern.
 
 4.  
-Sie sind verpflichtet, der ZEIT ONLINE GmbH relevante Änderungen Ihrer Angaben unverzüglich mitzuteilen. Nur so können wir vermeiden, dass Ihre Daten von anonymen Dritten missbräuchlich verwendet werden. Sie dürfen Ihr Passwort keinem Dritten offenlegen oder anderweitig einen Missbrauch Ihres Benutzerkontos durch Dritte ermöglichen. Sollten Sie Anlass zu der Annahme haben, dass Ihr Passwort Dritten offenbar geworden sein könnte, so teilen Sie dies der ZEIT ONLINE GmbH unverzüglich an kontakt(at)zeit.de mit.
+Sie sind verpflichtet, der ZEIT ONLINE GmbH relevante Änderungen Ihrer Angaben unverzüglich mitzuteilen. Nur so können wir vermeiden, dass Ihre Daten von anonymen Dritten missbräuchlich verwendet werden. Sie dürfen Ihr Passwort keinem Dritten offenlegen oder anderweitig einen Missbrauch ihres Benutzerkontos durch Dritte ermöglichen. Sollten Sie Anlass zu der Annahme haben, dass Ihr Passwort Dritten offenbar geworden sein könnte, so teilen Sie dies der ZEIT ONLINE GmbH unverzüglich an kontakt(at)zeit.de mit.
 
-5.   
-Sie verpflichten sich, die registrierungspflichtigen Dienste nicht zu geschäftlichen oder sonst gewerblichen Zwecken oder Versendung unerwünschter Werbung zu nutzen. Es ist Ihnen ferner untersagt, in Ihrem Benutzerprofil Inhalte oder Abbildungen einzustellen, die die Rechte Dritter verletzen und /oder gegen geltendesRecht verstoßen. Sie halten die ZEIT ONLINE GmbH und ihre Mitarbeiter von Ansprüchen Dritter einschließlich der Kosten der Rechtsverteidigung frei, die auf eine solche Rechtsverletzung gestützt werden sollten. Sie verpflichten sich, keine Daten zu übermitteln, die Viren, Trojaner oder sonstige Daten bzw. Programme enthalten, die geeignet sind, Schäden an Hard- oder Software der ZEIT ONLINE GmbH oder Dritter herbeizuführen.
+5.  
+Sie verpflichten sich, die registrierungspflichtigen Dienste nicht zu geschäftlichen oder sonstigen gewerblichen Zwecken oder Versendung unerwünschter Werbung zu nutzen. Es ist Ihnen ferner untersagt, in Ihrem Benutzerprofil Inhalte oder Abbildungen einzustellen, die die Rechte Dritter verletzen und /oder gegen geltendes Recht verstoßen. Sie halten die ZEIT ONLINE GmbH und ihre Mitarbeiter von Ansprüchen Dritter einschließlich der Kosten der Rechtsverteidigung frei, die auf eine solche Rechtsverletzung gestützt werden sollten. Sie verpflichten sich, keine Daten zu übermitteln, die Viren, Trojaner oder sonstige Daten bzw. Programme enthalten, die geeignet sind, Schäden an Hard- oder Software der ZEIT ONLINE GmbH oder Dritter herbeizuführen.
 
-6.   
+6.  
 Das Vertragsverhältnis zwischen Ihnen und der ZEIT ONLINE GmbH wird auf unbestimmte Zeit geschlossen und ist von beiden Parteien jederzeit fristlos kündbar. Die Kündigung des Nutzers muss schriftlich oder in Textform (Erklärung per E-Mail an community(at)zeit.de oder Brief) erfolgen. Im Falle der dauerhaften Einstellung eines registrierungspflichtigen Dienstes gilt der Vertrag auch ohne gesonderte Kündigungserklärung als beendet.
 
 **§ 3 Leserartikel und Leserkommentare**
 
 1.  
-Sie können als registrierter Nutzer auf [zeit.de](https://www.zeit.de/index) und über die anderen digitalen Angebote Leserartikel und Leserkommentare verfassen. Ihre Beiträge werden von der ZEIT ONLINE GmbH ggfls. überprüft, gekürzt und / oder bearbeitet, wie es auch bei Leserbriefen der Fall wäre. Sie räumen der ZEIT ONLINE GmbH das Recht zur Bearbeitung Ihres Beitrages unter Wahrung Ihres Urheberpersönlichkeitsrechtes ein. 
+Sie können als registrierter Nutzer auf www.zeit.de und über die anderen digitalen Angebote von ZEIT ONLINE Leserartikel und Leserkommentare verfassen. Ihre Beiträge werden von der ZEIT ONLINE GmbH ggfls. überprüft, gekürzt und / oder bearbeitet, wie es auch bei Leserbriefen der Fall wäre. Sie räumen der ZEIT ONLINE GmbH das Recht zur Bearbeitung Ihres Beitrages unter Wahrung Ihres Urheberpersönlichkeitsrechtes ein.
 
 2.  
-Im Falle der Veröffentlichung Ihres Leserartikels auf der Homepage oder in einem passenden Ressort werden Sie unter Ihrem Vor- und Zunamen als Verfasser benannt. Für die [Leser-Artikel-Seite](https://www.zeit.de/leserartikel) können auch Artikel unter Pseudonym eingereicht werden. Auch für Texte, die nur auf der Leserartikel-Seite und unter Ihrem Pseudonym veröffentlicht werden, müssen der Redaktion Vor- und Nachname sowie Ihre Kontaktdaten vorliegen. Weitere Informationen hierzu finden Sie in unseren [Leserartikel-FAQ](https://www.zeit.de/administratives/2011-04/faq-leserartikel/). Ein Anspruch auf Veröffentlichung Ihres Beitrags besteht nicht. Die ZEIT ONLINE GmbH ist jederzeit dazu berechtigt, Ihren Beitrag zu löschen. Ein Anspruch auf Löschung der von Ihnen eingestellten Beiträge besteht nicht, es sei denn, dass sich dieser aus dem Gesetz ergibt.
+Im Falle der Veröffentlichung Ihres Leserartikels auf der Homepage oder in einem passenden Ressort werden Sie unter Ihrem Vor- und Zunamen als Verfasser benannt. Für die [Leser-Artikel-Seite](https://www.zeit.de/leserartikel) können auch Artikel unter Pseudonym eingereicht werden. Auch für Texte, die ZEIT ONLINE nur auf der Leserartikel-Seite und unter Ihrem Pseudonym veröffentlicht, müssen der Redaktion Vor- und Nachname sowie Ihre Kontaktdaten vorliegen. Weitere Informationen hierzu finden Sie [hier](https://blog.zeit.de/zeit-der-leser/so-kommt-ihr-text-in-die-zeit-der-leser/). Anspruch auf Veröffentlichung Ihres Beitrags besteht nicht. Die ZEIT ONLINE GmbH ist jederzeit dazu berechtigt, Ihren Beitrag zu löschen. Ein Anspruch auf Löschung der von Ihnen eingestellten Beiträge besteht nicht, es sei denn, dass sich dieser aus dem Gesetz ergibt.
 
 3.  
-Sie räumen der ZEIT ONLINE GmbH an Ihrem Leserartikel / Beitrag / Kommentar mit dessen Übermittlung ein unentgeltliches, zeitlich und räumlich unbeschränktes und übertragbares Nutzungsrecht ein, diesen unter Nutzung jeder technischen Übertragungsmöglichkeit einschließlich mobilfunkgestützter Dienste öffentlich zugänglich zu machen oder öffentlich zugänglich machen zu lassen. Die ZEIT ONLINE GmbH ist befugt, Ihren Beitrag u.a. als Textdatei, über Apps und ähnliche Anwendungen, per API, als E-Paper, SMS, MMS, über Pushdienste, RSS-Feeds und Social-Media-Dienste (z. B. über unsere Kanäle bei Twitter und Facebook) oder mithilfe bisher unbekannter Übertragungs- und Nutzungsarten zu übermitteln. Diese Nutzungsrechte bleiben von der Beendigung des Nutzungsvertrages, der Löschung des Benutzerkontos oder der Löschung des Beitrages unberührt. Sie umfassen das Recht der Bearbeitung, insbesondere der Kürzung. Der gesetzliche Schutz Ihres Urheberpersönlichkeitsrechts bleibt unberührt.
+Sie räumen der ZEIT ONLINE GmbH an Ihrem Leserartikel / Beitrag / Kommentar mit dessen Übermittlung ein unentgeltliches, zeitlich und räumlich unbeschränktes und übertragbares Nutzungsrecht ein, diesen unter Nutzung jeder technischen Übertragungsmöglichkeit einschließlich mobilfunkgestützter Dienste öffentlich zugänglich zu machen oder öffentlich zugänglich machen zu lassen. ZEIT ONLINE GmbH ist befugt, ihren Beitrag u.a. als Textdatei, über Apps und ähnliche Anwendungen, per API, als E-Paper, SMS, MMS, über Pushdienste, RSS-Feeds und Social-Media-Dienste (z. B. über unsere Kanäle bei Twitter und Facebook) oder mithilfe bisher unbekannter Übertragungs- und Nutzungsarten zu übermitteln. Diese Nutzungsrechte bleiben von der Beendigung des Nutzungsvertrages, der Löschung des Benutzerkontos oder der Löschung des Beitrages unberührt. Sie umfassen das Recht der Bearbeitung, insbesondere der Kürzung. Der gesetzliche Schutz Ihres Urheberpersönlichkeitsrechts bleibt unberührt.
 
 4.  
 Die [**Netiquette**](https://www.zeit.de/administratives/2010-03/netiquette) ist Bestandteil dieser Nutzungsbedingungen. Diskriminierende, rassistische oder pornographische Beiträge werden auch dann nicht toleriert, wenn Sie im Einzelfall nicht gegen geltendes Recht verstoßen sollten.  
@@ -213,12 +217,10 @@ Sie sind dafür verantwortlich, dass Ihre Beiträge keine Rechte Dritter (insbes
 Im Falle eines Verstoßes gegen die o.g. Regelungen, ist die ZEIT ONLINE GmbH berechtigt, Ihr Benutzerkonto auch ohne vorherige Ankündigung zu sperren und / oder zu löschen.
 
 5.  
-Verfasser von Leserartikeln sind verpflichtet, uns darauf hinzuweisen, falls ihr Beitrag bereits zuvor vollständig oder in Teilen veröffentlicht worden sein sollte.
+Verfasser von Leserartikeln sind verpflichtet, ZEIT ONLINE darauf hinzuweisen, falls Ihr Beitrag bereits zuvor vollständig oder in Teilen veröffentlicht worden sein sollte.
 
-6.   
-Bei Fragen oder Anmerkungen zu diesen Nutzungsbedingungen oder zum Leserkommentar- und Leserartikelbereich, wenden Sie sich gern an community(at)zeit.de.
+6.  
+Bei Fragen oder Anmerkungen zu diesen Nutzungsbedingungen oder zum Leserkommentar- und Leserartikelbereich auf ZEIT ONLINE, wenden Sie sich gern an community(at)zeit.de.
 
-  
-**§ 4 Sonstige Bestimmungen**
-
-Bei den registrierungspflichtigen Diensten wie z.B. dem Angebot "Z+" handelt es sich um ein Angebot der ZEIT ONLINE GmbH in Kooperation mit der Zeitverlag Gerd Bucerius GmbH & Co. KG.
+**§ 4 Sonstige Bestimmungen**  
+Bei den registrierungspflichtigen Diensten wie z.B. dem Angebot "Z+" handelt es sich um ein Angebot der ZEIT ONLINE GmbH in Kooperation mit der Zeitverlag Gerd Bucerius GmbH & Co. KG. Sie erhalten von uns unter der von Ihnen bei der Registrierung angegebenen E-Mail-Adresse künftig auch ähnliche Angebote. Dem können Sie jederzeit widersprechen bspw. durch E-Mail an: email(at)zeit.de.

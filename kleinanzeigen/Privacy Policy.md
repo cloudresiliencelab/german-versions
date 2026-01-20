@@ -4,7 +4,7 @@ Datenschutzerklärung
   
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.  
   
-**Diese Datenschutzerklärung gilt ab dem 14.10.2025. [Hier](https://themen.kleinanzeigen.de/datenschutzerklaerung-bis-26-07-2025/) können Sie die vorherige Datenschutzerklärung einsehen.**
+**Diese Datenschutzerklärung gilt ab dem 20.01.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklaerung-bis-26-07-2025/) können Sie die vorherige Datenschutzerklärung einsehen.**
 
 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 --------------------------------------------------------------------
@@ -82,7 +82,8 @@ Wir erheben auch personenbezogene Daten über Sie aus anderen Quellen und von Dr
 
 *   Daten aus öffentlichen Quellen (z.B. demografische Angaben)
 *   Daten von Auskunfteien (z.B. Kreditprüfungsdaten und Identitätsbestätigungen)
-*   Daten von Datenanbietern (z.B. demografische Angaben, Daten im Zusammenhang mit interessenbasierter und Online-Werbung)  
+*   Daten von Datenanbietern (z.B. demografische Angaben, Daten im Zusammenhang mit interessenbasierter und Online-Werbung)
+*   Daten von der mobile.de GmbH (IP-Adressen zur Verhinderung, Erkennung, Eindämmung und Untersuchung von Betrug in Verbindung mit Anzeigen, die durch die kleinanzeigen.de GmbH auf der Plattform der mobile.de GmbH bereitgestellt wurden)  
       
     
 

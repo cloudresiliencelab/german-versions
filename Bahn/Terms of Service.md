@@ -83,10 +83,11 @@ Wir nehmen an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungss
 Weitere Bedingungen
 -------------------
 
-*   [Besondere Bedingungen für Buchungen auf Webseiten / in AppsBesondere Bedingungen für Buchungen auf Webseiten / in Apps](https://www.bahn.de/nutzungsbedingungen/besondere-nutzungsbedingungen-buchungen-webseiten-apps)
-*   [Besondere Nutzungsbedingungen für den DB Navigator Besondere Nutzungsbedingungen für den DB Navigator](https://www.bahn.de/nutzungsbedingungen/besondere-nutzungsbedingungen-db-navigator)
-*   [Besondere Nutzungsbedingungen für ein privates DB KundenkontoBesondere Nutzungsbedingungen für ein privates DB Kundenkonto](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
-*   [Besondere Nutzungsbedingungen für ein geschäftliches DB KundenkontoBesondere Nutzungsbedingungen für ein geschäftliches DB Kundenkonto](https://www.bahn.de/bahnbusiness/nutzungsbedingungen-geschaeftskunden)
+*   [Besondere Bedingungen für Buchungen auf Webseiten / in Apps](https://www.bahn.de/nutzungsbedingungen/besondere-nutzungsbedingungen-buchungen-webseiten-apps)
+*   [Besondere Nutzungsbedingungen für den DB Navigator](https://www.bahn.de/nutzungsbedingungen/besondere-nutzungsbedingungen-db-navigator)
+*   [Besondere Nutzungsbedingungen für ein privates DB Kundenkonto](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
+*   [Besondere Nutzungsbedingungen für ein geschäftliches DB Kundenkonto](https://www.bahn.de/bahnbusiness/nutzungsbedingungen-geschaeftskunden)
+*   [Besondere Nutzungsbedingungen für das Testen des KI-Chatbots DB Kiana](https://www.bahn.de/nutzungsbedingungen/besondere-nutzungsbedingungen-db-kiana)
 
 Stand der Nutzungsbedingungen
 -----------------------------

@@ -179,23 +179,33 @@ Die Nutzung der Utiq-Technologie zu Werbezwecken schließt die Weitergabe der We
 
 Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit über den am Seitenende vorgehaltenen Link „Widerruf Nutzerkennungen“ oder über das Datenschutzportal von Utiq ("[Utiq Consenthub](https://consenthub.utiq.com/)") widerrufen. Weitere Informationen darüber, wie die Utiq-Technologie funktioniert, über unsere Partnerschaft mit Utiq und über Ihre Rechte finden Sie auf den Seiten [Utiq verwalten](https://www.bild.de/sonstiges/corporate-site/einwilligung-zur-nutzung-verwalten-sie-die-utiq-technologie-66573a2eaad9b31829419956) und [Utiq FAQ](https://www.axelspringer.com/de/utiq-faq) sowie in der [Datenschutzerklärung](https://consenthub.utiq.com/pages/privacy-statement) von Utiq.
 
-**10\. Personalisierte Inhaltsempfehlungen**
+**9\. Personalisierte Inhaltsempfehlungen**
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Personalisierte Inhaltsempfehlungen“ erteilt, können Ihnen beim Besuch unseres Angebots personalisierte redaktionelle Inhaltsempfehlungen ausgespielt werden.
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen.
 
-**11\. Eigene Produkt- und Vertriebsentwicklung**
+**10\. Eigene Produkt- und Vertriebsentwicklung**
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Eigene Produkt- und Vertriebsentwicklungen“ erteilt, können Informationen über Ihre Aktivitäten auf unserem Angebot für die Weiterentwicklung unserer Produkte und des Vertriebs genutzt werden. Dies umfasst die Bewerbung von Verlagsangeboten wie BILD Plus, Reichweitenmessung sowie Nutzungsanalysen und erfolgt ausschließlich zu unseren eigenen Zwecken, um unsere Verlagsangebote zu bewerben und zu messen. Es erfolgt keine Datenweitergabe an Dritte.
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen.
 
-**12\. A/B Testing für Produktentwicklung**
+**11\. A/B Testing für Produktentwicklung**
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „A/B Testing für Produktentwicklung“ erteilt, können zur Weiterentwicklung und Verbesserung unserer Produkte A/B-Tests für die Produktentwicklung durchgeführt werden, um z.B. neue Funktionen und Gestaltungen zu testen.
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen.
+
+**12\. Verwendung von Werbekennungen auf Basis Ihrer E-Mail-Adresse**
+
+Soweit Sie in den Verarbeitungszweck „Verwendung von Werbekennungen auf Basis Ihrer E-Mail-Adresse“ eingewilligt haben und uns im Rahmen der Nutzung unseres Angebots Ihre E-Mail-Adresse bereitstellen (z. B. bei der Registrierung eines Benutzerkontos), können wir und Media Impact Vermarktungspartner Ihre E-Mail-Adresse in pseudonymisierter Form als Identifizierungsmerkmal für die oben aufgeführten Zwecke "Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“ nutzen. Die vorstehenden Zwecke umfassen auch die Einbindung ausgewählter Werbepartner. Konkret erfolgt dies durch Abgleich Ihrer pseudonymisierten E-Mail-Adresse mit Datensätzen dieser Werbepartner. Die ausgewählten Werbepartner können Sie hier einsehen.
+
+„In pseudonymisierter Form“ bedeutet, dass Ihre E-Mail-Adresse vor Verwendung in eine Zeichenkette umgewandelt wird, so dass sie Ihnen – ohne Zusatzinformationen – nicht mehr direkt zugeordnet werden kann. Es werden also keine E-Mail-Adressen im Klartext miteinander abgeglichen, weitergegeben oder zusammengeführt. Damit der Abgleich stattfinden kann, muss der jeweilige Werbepartner ebenfalls berechtigt sein, E-Mail-Adressen aus seinem Datenbestand in pseudonymisierter Form als Identifizierungsmerkmal zu nutzen. Der Abgleich wird durch einen Dienstleister durchgeführt, mit dem wir und der jeweilige Werbepartner eine Vereinbarung zur Auftragsverarbeitung (Art. 28 DSGVO) geschlossen haben. Dabei werden ausschließlich die speziell für diesen Abgleich generierten pseudonymen Datensätze verwendet. Wenn Sie Ihre E-Mail-Adresse sowohl uns als auch dem Werbepartner übermittelt haben, werden wir und Media Impact Vermarktungspartner über dieses „Matching“ informiert und können diese Information zur Ausspielung und/oder Optimierung entsprechend personalisierter Werbung nutzen. Nach vierzehn Tagen wird Ihre pseudonymisierte E-Mail-Adresse automatisch gelöscht.
+
+Soweit Ihre pseudonymisierte E-Mail-Adresse für die vorstehenden Werbezwecke verwendet wird, haben wir mit Media Impact Vermarktungspartner und dem jeweiligen Werbepartner eine Vereinbarung über die gemeinsame Verantwortung i.S.v. Art. 26 DSGVO geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß DSGVO festgelegt haben. Danach sind wir und der jeweilige Werbepartner verpflichtet, Ihnen die Erteilung und den Widerruf datenschutzrechtlicher Einwilligungen zu ermöglichen. Zudem sind wir die zentrale Anlaufstelle für Sie als betroffene Person. Wir leiten Betroffenenanfragen, die bei uns eingehen und die gemeinsame Verantwortung betreffen, unverzüglich an Media Impact Vermarktungspartner zur Beantwortung weiter. Dessen ungeachtet können Sie die Ihnen nach der DSGVO zustehenden Rechte als betroffene Person sowohl bei und gegenüber uns als auch bei und gegenüber jedem anderen Verantwortlichen geltend machen. Weitere Informationen zu Media Impact Vermarktungspartner finden Sie [hier](https://www.mediaimpact.de/ueber-unsere-werbung-3/).
+
+Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Ein Widerruf der vorstehenden Verarbeitung ist jederzeit über den Privacy-Manager sowie über den Link "Widerruf Tracking und Cookies" am Seitenende möglich.
 
 **13\. Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen**
 
@@ -215,8 +225,6 @@ Für die vorgenannten Zwecke bedienen wir uns auch der Dienste nachfolgend aufge
 *   **Xandr**  (Xandr Inc., 28 W. 23rd Street, New York, NY 10010, USA) [https://www.xandr.com/privacy/platform-privacy-policy/#choices](https://www.xandr.com/privacy/platform-privacy-policy/%22%20%5Cl%20%22choices)
 
 In dem Interesse und zu dem Zweck, die Anzeigen auf unserer Website in der richtigen Größe und in einem von Ihrem Gerät unterstützten Format ausspielen und Sie bei Anklicken der Anzeige auf die entsprechende Zielseite weiterleiten zu können, werden durch den jeweiligen Drittanbieter zudem Ihre IP-Adresse sowie Informationen zu Ihrem Gerätetyp verarbeitet. Hierbei handelt es sich um die Sonderkategorie „Bereitstellung und Anzeige von Werbung und Inhalten“. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO.
-
-Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO.
 
 **14\. Erstellung von Profilen für personalisierte Werbung**
 
@@ -646,15 +654,7 @@ Vereinzelt stellen wir auch Kontaktformulare von Anbietern bereit, zu dem Zweck 
 
 Sofern Sie an einem Gewinnspiel teilnehmen, können Sie die weiteren Informationen zur über die im Rahmen der Gewinnspielteilnahme stattfindende Datenverarbeitung dem Datenschutzhinweis des jeweiligen Gewinnspiels entnehmen.
 
-**12\. Pseudonymisiertes Matching mit Werbepartnern**
-
-Wenn Sie registrierter Nutzer sind, aber kein Pur-Abo abgeschlossen haben und uns hierfür Ihre gesonderte Einwilligung erteilt haben (z. B. im Rahmen der Teilnahme an einem Gewinnspiel), verwenden wir Ihre an uns übermittelte E-Mail-Adresse in pseudonymisierter Form als Identifizierungsmerkmal für personalisierte Werbung, also um Ihnen auf Basis Ihrer Interessen, Ihres Nutzungsverhaltens und demografischer Merkmale ausgewählte Werbeanzeigen ausspielen zu können. Dies schließt ein, dass wir diese Informationen in pseudonymisierter Form mit ausgewählten Werbepartnern abgleichen. „In pseudonymisierter Form“ bedeutet, dass die Informationen zuvor in eine Zeichenkette umgewandelt werden, so dass sie Ihnen – ohne Zusatzinformationen – nicht mehr direkt zugeordnet werden können. Es werden also keine Informationen direkt miteinander abgeglichen, weitergegeben oder zusammengeführt. Bei den ausgewählten Werbepartnern kann es sich um verbundene Unternehmen der Axel Springer Deutschland GmbH i.S.v. § 15 AktG oder um Werbekunden unseres Vermarkters Media Impact GmbH & Co. KG (Media Impact Vermarktungspartner) handeln.
-
-Damit der Abgleich stattfinden kann, muss der jeweilige Werbepartner ebenfalls berechtigt sein, E-Mail-Adressen aus seinem Datenbestand in pseudonymisierter Form als Identifizierungsmerkmal zu nutzen. Der Abgleich wird durch einen Dienstleister durchgeführt, mit dem wir und der jeweilige Werbepartner eine Vereinbarung zur Auftragsverarbeitung (Art. 28 DSGVO) geschlossen haben. Dabei werden ausschließlich die speziell für diesen Abgleich generierten pseudonymen Datensätze verwendet. Wenn Sie Ihre E-Mail-Adresse sowohl uns als auch dem Werbepartner übermittelt haben, werden wir über dieses „Matching“ informiert. Diese Information geben wir in pseudonymisierter Form mittels einer Axel Springer Nutzerkennung an Media Impact Vermarktungspartner weiter, welche diese Information zur Ausspielung und/oder Optimierung entsprechend personalisierter Werbung nutzt.
-
-Wir haben mit Media Impact Vermarktungspartner und dem jeweiligen Werbepartner eine Vereinbarung über die gemeinsame Verantwortung i.S.v. Art. 26 DSGVO geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß DSGVO festgelegt haben. Danach sind wir und der jeweilige Werbepartner verpflichtet, Ihnen die Erteilung und den Widerruf datenschutzrechtlicher Einwilligungen zu ermöglichen. Zudem sind wir die zentrale Anlaufstelle für Sie als betroffene Person. Wir leiten Betroffenenanfragen, die bei uns eingehen und die gemeinsame Verantwortung betreffen, unverzüglich an Media Impact Vermarktungspartner zur Beantwortung weiter. Dessen ungeachtet können Sie die Ihnen nach der DSGVO zustehenden Rechte als betroffene Person sowohl bei und gegenüber uns als auch bei und gegenüber jedem anderen Verantwortlichen geltend machen. Weitere Informationen zu Media Impact Vermarktungspartner finden Sie [hier](https://www.mediaimpact.de/de/ueber-unsere-werbung_bild_pur/). Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Ihre Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie im „Mein Konto“-Bereich unter „Kommunikationseinstellungen“ die Häkchen entfernen.“
-
-**13\. Hey\_**
+**12\. Hey\_**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von BILD.de mit Tracking und Cookies erteilt haben, bieten wir Ihnen die Möglichkeit, mit „Hey\_“ zu chatten. Hierbei handelt es sich um einen Dienst unter Verwendung der künstlichen Intelligenz GPT, die uns teils direkt von OpenAI Ireland Ltd („OpenAI“), teils von Microsoft Ireland Operations Limited (nachfolgend "Microsoft Azure") jeweils auf einer eigenen Instanz zur Verfügung gestellt wird. Beide haben wir datenschutzrechtlich als Auftragsverarbeiter verpflichtet (Art. 28 DSGVO). Microsoft Azure darf Ihre nachstehend genannten, im Rahmen der Nutzung von „Hey\_“ anfallenden, personenbezogenen Daten auch für eigene Zwecke der Produktverbesserung und -weiterentwicklung verwenden. Weitere Informationen zu Microsoft Azure und OpenAI finden Sie unter https://privacy.microsoft.com/de-de/privacystatement und unter https://openai.com/de-DE/policies/privacy-policy/.
 
@@ -670,7 +670,7 @@ Rechtsgrundlage der vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DS
 
 Wenn Sie im Privacy-Manager zusätzlich Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben, beachten Sie bitte unsere weiteren Informationen dazu in Ziffer 14.
 
-**14\. Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung**
+**13\. Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung**
 
 Wenn Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben und den Dienst "Hey\_" in Anspruch nehmen, werden Ihr Chat-Verlauf (Ihre Texteingaben in das „Hey\_“-Eingabefeld und die von „Hey\_“ generierten Antworten), Ihre IP-Adresse, eine pseudonyme Kennung sowie Ihr ungefährer Standort (Stadt, Region bzw. PLZ) gesondert erfasst, um Ihnen relevante Werbung auf unserem Angebot anzuzeigen. Mit Ihrer Einwilligung dürfen die vorstehenden Daten zudem zur Messung von Werbeleistung und der Performance von Inhalten und zur Zielgruppenforschung verarbeitet werden. Außerdem dürfen die vorstehenden Daten mit Ihrer Einwilligung zur Entwicklung und Verbesserung von Angeboten verarbeitet werden.
 
@@ -680,13 +680,13 @@ Wir bedienen uns der Dienste nachfolgend aufgeführter Dritter, die gemäß Art.
 
 Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO. Sie können die Datenverarbeitungen für die hier beschriebenen Nutzungszwecke jederzeit beenden, indem Sie Ihre Einstellungen im Privacy-Manager entsprechend anpassen oder indem Sie Ihre Einwilligung in die Nutzung von BILD.de mit Tracking und Cookies insgesamt widerrufen (Link „Widerruf Tracking und Cookies“ am Seitenende).
 
-**15\. BILD Service-Chat**
+**14\. BILD Service-Chat**
 
 Mit unserem BILD Service-Chat haben Sie die Möglichkeit, Ihre Anfrage schnell und einfach auf Grundlage von bestimmten Schlagwörtern automatisch durch unseren KI-Chatbot beantworten zu lassen. Technisch wird der KI-Chatbot durch die knowhere GmbH, Karolinenstraße 9, 20357 Hamburg, zur Verfügung gestellt, den wir datenschutzrechtlich verpflichtet haben und der personenbezogene Daten in unserem Auftrag und nach unserer Weisung verarbeitet (Art. 28 DSGVO). Verantwortlich für die Datenverarbeitung bleiben wir. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO.
 
 Neben den von Ihnen im Chat mitgeteilten Informationen sind dies Ihre IP-Adresse und Informationen zu dem von Ihnen eingesetzten Endgerät. Für die Nutzung des KI-Chatbots ist der Einsatz von Cookies und anderen Technologien (local StorageKeys) erforderlich. Rechtsgrundlage hierfür ist § 25 Abs. 2 TDDDG.
 
-**16\. Deutschland-Konferenz**
+**15\. Deutschland-Konferenz**
 
 Wenn Sie sich auf BILD.de registriert und ein BILDplus-Abonnement abgeschlossen haben, können Sie sich aktiv an der Deutschland-Konferenz beteiligen. Ihre Beiträge werden unter dem Benutzernamen veröffentlicht, der aus den im Bereich „Mein Konto“ hinterlegten Angaben erstellt wird. Sie haben außerdem die Möglichkeit, in Ihrem Profil ein Foto, sowie Angaben zu Ihrer Person (Profilbeschreibung) zu hinterlegen, was ebenfalls mit Ihrem Beitrag veröffentlicht wird. Wenn Sie hiervon keinen Gebrauch machen, wird lediglich ein von Ihnen gewählter Avatar neben Ihrem Beitrag veröffentlicht.
 
@@ -704,7 +704,7 @@ Die Beiträge werden vor einer Veröffentlichung auf mögliche Verstöße gegen 
 
 Zur Analyse von Beiträgen hinsichtlich der Einhaltung unserer Nutzungsregeln nutzen wir das Moderations-Tool Conversario der ferret go GmbH, Brauerstraße 14, 16321 Bernau bei Berlin (ferret go). Folgende Daten werden in unserem Auftrag (Art. 28 DSGVO) erfasst und verarbeitet: NutzerID / NutzerName / Nutzerbild / Beitrag / BeitragsID / Datum & Uhrzeit des Beitrags.
 
-**17\. Wissen Sie mehr?**
+**16\. Wissen Sie mehr?**
 
 Sie haben die Möglichkeit, unserer Redaktion Informationen zu Missständen oder bestimmten Themen zukommen zu lassen. Sie haben dabei auch die Möglichkeit, uns die Informationen anonym zukommen zu lassen, d.h. ohne Angabe Ihrer personenbezogenen Daten. Wenn Sie unseren Whistleblower-Kanal nutzen, klicken Sie hierfür den Button "Neue Meldung erstellen". Wenn Sie anschließend das Feld "Anonym melden" klicken, können Sie Ihre Meldung anonym übermitteln. Um Ihnen auch im Rahmen einer anonymen Meldung zu ermöglichen, sich Kenntnis vom Stand der der Bearbeitung Ihrer Meldung in unserer Redaktion zu verschaffen und ggf. weiterhin anonym mit unserer Redaktion in Kontakt zu treten und auf mögliche Rückfragen zu reagieren, erhalten Sie nach dem Absenden Ihrer Meldung ein Passwort. Mit diesem Passwort können Sie jederzeit über den Button "Bestehende Meldung weiterverfolgen" zu Ihrer Meldung gelangen, den Status ansehen und mit unserer Redaktion anonym kommunizieren.
 
@@ -716,4 +716,4 @@ Die in Ihrer Meldung von Ihnen bereitgestellten Informationen verarbeitet unsere
 
 Sofern Sie dies wünschen, schicken wir Ihnen diese Datenschutzerklärung selbstverständlich kostenfrei per Post zu. Bitte kontaktieren Sie uns hierzu unter Axel Springer Deutschland GmbH, Betrieblicher Datenschutz, Axel-Springer-Straße 65, 10888 Berlin.
 
-Stand 15.12.2025
+Stand 21.01.2026

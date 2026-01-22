@@ -3,7 +3,7 @@ PayPal-Nutzungsbedingungen
 
 PayPal-Nutzungsbedingungen
 
-Letzte Aktualisierung 15. April 2025
+Letzte Aktualisierung 22. Januar 2026
 
 PayPal nimmt einige Änderungen an den Bedingungen zum Käuferschutz in den Nutzungsbedingungen und im Käuferschutzprogramm vor. Diese Änderungen kommen den Verbrauchern zugute und werden im Folgenden aufgeführt. PayPal wendet diese Änderungen ab dem 15. April 2025 auf alle Neukunden an. Wenn Sie Bestandskunde sind und vor dem 15. April 2025 ein PayPal-Konto eröffnet haben, wendet PayPal diese Änderungen auch auf Sie mit sofortiger Wirkung an, auch wenn diese Änderungen erst am 17. Juli 2025 formell Bestandteil Ihres Vertrags mit PayPal werden.
 
@@ -705,10 +705,7 @@ Das PayPal Advertising-Programm ermöglicht es Ihnen, PayPal-Dienste zu bewerben
 | Sie müssen mit PayPal zusammenarbeiten, um die PayPal-Inhalte, die auf Ihren Websites oder in Ihrer Kommunikation angezeigt werden, manuell aktualisieren und den Code zu reparieren oder neu installieren, um zukünftige Updates zu vereinfachen. | PayPal-Inhalte anzeigen, die nicht aktuell sind. |
 | Die geltenden Gesetze, Vorschriften und Standards für Werbung einhalten, die von Behörden oder Selbstregulierungsgremien für Werbung erlassen wurden. |     |
 
-Wenn Sie die Nutzung der „Später bezahlen“-Angebote von PayPal auf Ihren Websites und der Kundenkommunikation über das PayPal Advertising-Programm bewerben, gibt es weitere Anforderungen, die [**gelten**](https://www.paypal.com/de/webapps/mpp/ua/pay-later-messaging-tnc?&locale.x=en_DE). Wenn Sie Kundenanfragen zu:
-
-*   PayPal Ratenzahlung erhalten, dann müssen Sie den Kunden an den PayPal-Kundenservice unter +49 (0)800-723 4721 oder online an den [**PayPal-Kundenservice**](https://www.paypal.com/de/smarthelp/contact-us?locale.x=en_DE) weiterleiten.
-*   Wenn Sie Kundenanfragen zu PayPal erhalten, müssen Sie den Kunden bitten, sich an den [**PayPal-Kundenservice**](https://www.paypal.com/de/smarthelp/contact-us?locale.x=en_DE) zu wenden.
+Wenn Sie die Nutzung der „Später bezahlen“-Angebote von PayPal auf Ihren Websites und der Kundenkommunikation über das PayPal Advertising-Programm bewerben, gibt es weitere Anforderungen, die [**gelten**](https://www.paypal.com/de/webapps/mpp/ua/pay-later-messaging-tnc?&locale.x=en_DE). Wenn Sie Kundenanfragen zu "Später bezahlen"-Angeboten von PayPal erhalten, müssen Sie den Kunden an den PayPal-Kundenservice unter +49 (0)800-723 4721 oder online an den [**PayPal-Kundenservice**](https://www.paypal.com/de/smarthelp/contact-us?locale.x=en_DE) weiterleiten.
 
 Sie sind verantwortlich für alle Schäden, die PayPal oder Dritten dadurch entstehen, dass Sie die Bestimmungen des PayPal Advertising-Programms nicht einhalten. Wenn Sie gegen diese Regeln verstoßen, kann PayPal die von Ihnen präsentierten PayPal-Inhalte ändern oder entfernen oder von Ihnen verlangen, sie sofort zu entfernen oder zu ändern. Wenn Sie diese Regeln nicht einhalten, können wir Ihr PayPal-Konto einschränken oder kündigen.
 
@@ -765,7 +762,7 @@ In Verbindung mit der Nutzung unserer Website, Ihres PayPal-Kontos, der PayPal-D
 *   PayPal durch Ihre Nutzung der PayPal-Dienste der Gefahr aussetzen, in Widerspruch zu unseren Verpflichtungen zur Bekämpfung der Terrorismusfinanzierung, Geldwäschepräventions- und ähnlichen regulatorischen Verpflichtungen zu geraten (dies gilt auch für den Fall, dass wir Ihre Identität nicht verifizieren können oder Sie die notwendigen Schritte zur Freigabe Ihres Sende-, Empfangs- oder Abbuchungslimits nicht vollständig ausführen oder in Fällen, in denen die Ausführung Ihrer Transaktion PayPal dem Risiko von Zwangsgeldern durch europäische, US-amerikanische oder andere Behörden aussetzen würde),
 *   PayPal-Dienste in Verbindung mit Angeboten nutzen, die an dem Ort, an dem Sie die PayPal-Dienste verwenden, verboten sind. Dies gilt insbesondere für bestimmte Online-Glücksspielangebote. Wenn Sie sich nicht sicher sind, ob ein bestimmtes Angebot an dem Ort, an dem Sie sich befinden, verboten ist, prüfen Sie die Rechtmäßigkeit des Angebots, bevor Sie die PayPal-Dienste im Zusammenhang mit diesem Angebot verwenden,
 *   PayPal-Dienste integrieren oder nutzen, ohne die Spezifikationen des entsprechenden Integrationsleitfadens oder sonstiger Richtlinien, die PayPal herausgibt, zu befolgen,
-*   Ihren Kunden gegenüber für PayPal Credit oder andere kreditbasierte Zahlungsinstrumente von PayPal werben, diese bewerben, vorstellen oder beschreiben, ohne: (1) Einholung der erforderlichen behördlichen Genehmigung im Voraus und (2) die vorherige schriftliche Genehmigung von PayPal und (wenn nicht PayPal) des Kreditkartenanbieters, dies zu tun,
+*   Wenn Sie ein Händler sind, Ihren Kunden gegenüber für die "Später bezahlen"-Angebote von PayPal oder ein auf Verbraucherkrediten basierendes Zahlungsinstrument von PayPal werben, diese vorstellen oder beschreiben, ohne: (1) über die erforderliche behördliche Erlaubnis, Registrierung oder Ausnahmegenehmigung zu verfügen; und (2) die Regeln des PayPal Advertising-Programms einzuhalten oder die vorherige schriftliche Genehmigung von PayPal einzuholen (einschließlich der Genehmigung des Inhalts durch PayPal, falls erforderlich).
 *   eine Sicherheitsverletzung Ihrer Website oder Systeme erleiden (oder uns Grund zu der berechtigten Feststellung geben, dass die Wahrscheinlichkeit besteht), die zu einer nicht autorisierten Weitergabe von Kundendaten führen könnte.
 
 Sie stimmen zu, dass die oben genannten verbotenen Aktivitäten den sicheren Zugang Ihrer oder unserer anderen Kunden und/oder die Nutzung Ihres Kontos und unserer Dienste im Allgemeinen verschlechtert.

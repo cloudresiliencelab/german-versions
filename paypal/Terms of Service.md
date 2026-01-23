@@ -1004,8 +1004,8 @@ Wir bemühen uns, schnellstmöglich auf Ihre Beschwerde zu reagieren. Wenn sich 
 
 Wenn das Ergebnis einer Beschwerde über unsere Dienstleistungen nach Abschluss des Beschwerdeprozesses nicht zu Ihrer Zufriedenheit ausfällt, können Sie diese eskalieren, indem Sie sich an eine der folgenden Stellen wenden:
 
-*   Europäisches Verbraucherzentrum (ECC-Net) (wenn Sie Verbraucher sind). Weitere Informationen zum ECC-Net und dazu, wie Sie es erreichen, finden Sie unter ([**https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net\_de**](https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net_en)) oder auf der Website zum Online-Konfliktlösungsverfahren der EU unter [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
-*   Commission de Surveillance du Secteur Financier (CSSF). Die CSSF ist die Behörde, die für die Aufsicht über Unternehmen des Finanzsektors (wie uns) in Luxemburg zuständig ist. Sie können die CSSF unter der Adresse 283 Route d’Arlon, 1150 Luxembourg, Luxemburg kontaktieren. Weitere Informationen und Kontaktdaten zur CSSF finden Sie unter [**http://www.cssf.lu**](http://www.cssf.lu/).
+*   Europäisches Verbraucherzentrum (ECC-Net), das Verbrauchern zur Verfügung steht, um Beratung zu Ihren Rechten als Verbraucher und Unterstützung bei der gütlichen Streitbeilegung zu bieten: [**https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net\_de**](https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net_en)
+*   Commission de Surveillance du Secteur Financier (CSSF). Die CSSF ist die Behörde, die für die Aufsicht über Unternehmen des Finanzsektors (wie uns) in Luxemburg zuständig ist. Sie können die CSSF unter der Adresse 283 Route d’Arlon, 1150 Luxembourg, Luxemburg kontaktieren. Weitere Informationen und Kontaktdaten zur CSSF finden Sie unter [**http://www.cssf.lu**](http://www.cssf.lu/) oder indem Sie die Online-Streitbeilegungsplattform der EU unter [**https://consumer-redress.ec.europa.eu**](https://consumer-redress.ec.europa.eu/).
 
 PayPal berechnet Ihnen keine Gebühr für die Eskalation Ihrer Beschwerde bezüglich der Bereitstellung von Zahlungsdiensten für die oben genannten unabhängigen Dienste.
 
@@ -1029,7 +1029,7 @@ So setzen Sie sich mit uns in Verbindung:
 *   Über unsere [Kontaktseite](https://www.paypal.com/de/cgi-bin/helpscr?cmd=_help&t=escalateTab&locale.x=en_GB). Hier können Sie:
     *   Auf „Schreiben Sie uns“ klicken, um uns online zu kontaktieren.
     *   Auf „Rufen Sie uns an“ klicken, um uns telefonisch zu kontaktieren.
-*   Senden Sie eine E-Mail an [enquiry@paypal.com](mailto:enquiry@paypal.com).
+*   Senden Sie eine E-Mail an [\[email protected\]](https://www.paypal.com/cdn-cgi/l/email-protection).
 
 Senden Sie uns rechtliche Mitteilungen im Zusammenhang mit diesen Nutzungsbedingungen auf dem Postweg.
 

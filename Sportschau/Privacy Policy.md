@@ -263,8 +263,8 @@ E-Mail: datenschutz@wdr.de
 
 *   [Sportschau](https://www.sportschau.de/)
 
-*   [Facebook Facebook](http://www.facebook.de/)
-*   [Whatsapp WhatsApp](http://www.whatsapp.com/)
+*   [facebook Facebook](http://www.facebook.de/)
+*   [WhatsApp WhatsApp](http://www.whatsapp.com/)
 *   Teilen Teilen
 *   [Mail Mail](mailto:?subject=Link-Tipp:%20Datenschutzbestimmungen%20sportschau.de%20\(sportschau.de\)&body=Link-Tipp:%20Datenschutzbestimmungen%20sportschau.de%20\(sportschau.de\)%0Ahttps://www.sportschau.de/datenschutz?at_medium%3Dsportschau%26at_campaign%3DMail%26at_content%3DSiteSharing%0A%0A)
 *   [Drucken Drucken](javascript:window.print\(\);)

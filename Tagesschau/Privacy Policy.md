@@ -366,8 +366,8 @@ Schließlich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten d
 
 *   [Datenschutz](https://www.tagesschau.de/thema/datenschutz)
 
-*   [Facebook Facebook](http://www.facebook.de/)
-*   [Whatsapp WhatsApp](http://www.whatsapp.com/)
+*   [facebook Facebook](http://www.facebook.de/)
+*   [WhatsApp WhatsApp](http://www.whatsapp.com/)
 *   Teilen Teilen
 *   [Mail Mail](mailto:?subject=Link-Tipp:%20Datenschutzerkl%C3%A4rung%20von%20tagesschau.de%20\(tagesschau.de\)&body=Link-Tipp:%20Datenschutzerkl%C3%A4rung%20von%20tagesschau.de%20\(tagesschau.de\)%0Ahttps://www.tagesschau.de/datenschutz?at_medium%3Dtagesschau%26at_campaign%3DMail%26at_content%3DSiteSharing%0A%0A)
 *   [Drucken Drucken](javascript:window.print\(\);)

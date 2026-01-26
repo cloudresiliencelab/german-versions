@@ -230,37 +230,9 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Sehen gesetzliche Vorschriften Aufbewahrungspflichten vor (z. B. sechs Jahre für empfangene Handelsbriefe, § 257 Abs. 4 HGB) erfolgt die Löschung nach Ablauf der entsprechenden Frist. 
 
-**5\. Datenübermittlung an die Creditreform Boniversum GmbH** 
+**5\. Datenübermittlung an die infoscore Consumer Data GmbH**
 
-Unser Unternehmen prüft regelmäßig bei Vertragsabschlüssen und in bestimmten Fällen, in denen ein berechtigtes Interesse vorliegt auch bei Bestandskunden Ihre Bonität. Dazu arbeiten wir mit der Creditreform Boniversum GmbH, Hellersbergstraße 11, 41460 Neuss zusammen, von der wir die dazu benötigten Daten erhalten. Im Auftrage von Creditreform Boniversum teilen wir Ihnen bereits vorab dazu folgende Informationen gem. Art. 14 EU-DSGVO mit: 
-
-Die Creditreform Boniversum GmbH ist eine Konsumentenauskunftei. Sie betreibt eine Datenbank, in der Bonitätsinformationen über Privatpersonen gespeichert werden. Auf dieser Basis erteilt Creditreform Boniversum Bonitätsauskünfte an ihre Kunden. Zu den Kunden gehören beispielsweise Kreditinstitute, Leasinggesellschaften, Versicherungen, Telekommunikationsunternehmen, Unternehmen des Forderungsmanagements, Versand-, Groß- und Einzelhandelsfirmen sowie andere Unternehmen, die Waren oder Dienstleistungen liefern bzw. erbringen. Im Rahmen der gesetzlichen Bestimmungen wird ein Teil der in der Auskunftsdatenbank vorhandenen Daten auch für die Belieferung anderer Firmendatenbanken, u. a. zur Verwendung für Adress-Handelszwecke genutzt. In der Datenbank der Creditreform Boniversum werden insbesondere Angaben gespeichert über den Namen, die Anschrift, das Geburtsdatum, ggf. die E-Mailadresse, das Zahlungsverhalten und die Beteiligungsverhältnisse von Personen. Zweck der Verarbeitung der gespeicherten Daten ist die Erteilung von Auskünften über die Kreditwürdigkeit der angefragten Person. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1f EU-DSGVO. Auskünfte über diese Daten dürfen danach nur erteilt werden, wenn ein Kunde ein berechtigtes Interesse an der Kenntnis dieser Informationen glaubhaft darlegt. Sofern Daten in Staaten außerhalb der EU übermittelt werden, erfolgt dies auf Basis der sog. „Standardvertragsklauseln“, die Sie unter folgendem Link: 
-
-[http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32001D0497&from=DE](http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32001D0497&from=DE) 
-
-einsehen oder sich von dort zusenden lassen können. 
-
-Die Daten werden solange gespeichert, wie ihre Kenntnis für die Erfüllung des Zwecks der Speicherung notwendig ist. Notwendig ist die Kenntnis in der Regel für eine Speicherdauer von zunächst drei Jahren. Nach Ablauf wird geprüft, ob eine Speicherung weiterhin notwendig ist, andernfalls werden die Daten taggenau gelöscht. Im Falle der Erledigung eines Sachverhalts werden die Daten drei Jahre nach Erledigung taggenau gelöscht. Eintragungen im Schuldnerverzeichnis werden gemäß § 882e ZPO nach Ablauf von drei Jahren seit dem Tag der Eintragungsanordnung taggenau gelöscht. 
-
-Berechtigte Interessen im Sinne des Art. 6 Abs. 1f EU-DSGVO können sein: Kreditentscheidung, Geschäftsanbahnung, Beteiligungsverhältnisse, Forderung, Bonitätsprüfung, Versicherungsvertrag, Vollstreckungsauskunft. 
-
-Sie haben gegenüber der Creditreform Boniversum GmbH ein Recht auf Auskunft über die dort zu Ihrer Person gespeicherten Daten. Soweit die über Sie gespeicherten Daten falsch sein sollten, haben Sie einen Anspruch auf Berichtigung oder Löschung. Kann nicht sofort festgestellt werden, ob die Daten falsch oder richtig sind, haben Sie bis zur Klärung einen Anspruch auf Sperrung der jeweiligen Daten. Sind Ihre Daten unvollständig, so können Sie deren Vervollständigung verlangen. 
-
-Sofern Sie Ihre Einwilligung zur Verarbeitung der bei Creditreform Boniversum gespeicherten Daten gegeben haben, haben Sie das Recht, diese Einwilligung jederzeit zu widerrufen. 
-
-Durch den Widerruf wird die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zu einem etwaigen Widerruf erfolgten Verarbeitung Ihrer Daten nicht berührt. 
-
-Sollten Sie Einwände, Wünsche oder Beschwerden zum Datenschutz haben, können Sie sich jederzeit an den Datenschutzbeauftragten der Creditreform Boniversum wenden. Dieser wird Ihnen schnell und vertrauensvoll in allen Fragen des Datenschutzes weiterhelfen. Sie können sich auch über die Verarbeitung der Daten durch Boniversum bei dem für Ihr Bundesland zuständigen Landesbeauftragten für Datenschutz beschweren. 
-
-Die Daten, die Creditreform Boniversum zu Ihnen gespeichert hat, stammen aus öffentlich zugänglichen Quellen, von Inkassounternehmen und von deren Kunden. Um Ihre Bonität zu beschreiben bildet Creditreform Boniversum zu Ihren Daten einen Scorewert. In den Scorewert fließen Daten zu Alter und Geschlecht, Adressdaten und teilweise Zahlungserfahrungsdaten ein. Diese Daten fließen mit unterschiedlicher Gewichtung in die Scorewertberechnung ein. Die Creditreform Boniversum Kunden nutzen die Scorewerte als Hilfsmittel bei der Durchführung eigener Kreditentscheidungen. 
-
-**Widerspruchsrecht:** 
-
-Die Verarbeitung der bei uns gespeicherten Daten erfolgt aus zwingenden schutzwürdigen Gründen des Gläubiger- und Kreditschutzes, die Ihre Interessen, Rechte und Freiheiten regelmäßig überwiegen oder dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. Nur bei Gründen, die sich aus einer bei Ihnen vorliegenden besonderen Situation ergeben und nachgewiesen werden müssen, können Sie der Verarbeitung Ihrer Daten widersprechen. Liegen solche besonderen Gründe nachweislich vor, werden die Daten nicht mehr verarbeitet. 
-
-Verantwortlich im Sinne des Art. 4 Nr. 7 EU-DSGVO ist die Creditreform Boniversum GmbH, Hellersbergstr. 11, 41460 Neuss. Ihr Ansprechpartner ist der Consumer Service, Tel.: 02131 36845560, Fax: 02131 36845570, E-Mail: [selbstauskunft@boniversum.de](mailto:selbstauskunft@boniversum.de). 
-
-Den Datenschutzbeauftragten erreichen Sie unter folgenden Kontaktdaten: Creditreform Boniversum GmbH, Datenschutzbeauftragter, Hellersbergstr. 11, 41460 Neuss, E-Mail: [datenschutz@boniversum.de](mailto:datenschutz@boniversum.de). 
+Zur Einschätzung Ihrer Kreditwürdigkeit, zur Berechnung von Wahrscheinlichkeitswerten (Scoring) und zur Prüfung der Zustellbarkeit Ihrer Adresse übermitteln wir Ihre personenbezogenen Daten (Name, Adresse und ggf. Geburtsdatum) an die infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden. Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) und Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse), insbesondere zur Risikobewertung und zur Vermeidung von Zahlungsausfällen. Weitere Informationen zur Datenverarbeitung durch die infoscore Consumer Data GmbH, zu Ihren Rechten (z. B. Auskunft, Berichtigung, Widerspruch) sowie zur Speicherdauer finden Sie unter: [https://www.experian.de/icd-infoblatt](https://www.experian.de/icd-infoblatt)
 
 ### VIII. Datenverarbeitung zu Werbezwecken ohne Einwilligung
 

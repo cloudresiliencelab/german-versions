@@ -43,7 +43,7 @@ Die beschriebene Datenverarbeitung ist zur Wahrung berechtigter Interessen erlau
 
 Die Logdaten werden gelöscht oder anonymisiert, sobald sie nicht mehr benötigt werden.
 
-[Zum Abschnittsanfang](#logfiles)
+[To the top of the section](#logfiles)
 
 ### Anfragen über die Website
 

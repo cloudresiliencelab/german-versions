@@ -31,11 +31,12 @@ Toggle Zustimmung/Widerspruch
 
 Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Sie Ihre Cookies im Browser, so erscheint beim nächsten Aufruf von zeit.de wieder die vorgeschaltete Seite, auf der Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen zeit.de werbefrei-Abo wählen können.
 
-![](//images.ctfassets.net/9q531vlek15f/3qTysYjyt4g3k3cf0CDh32/052dccf27f493c63019b536f8b69bce2/NutzungDerWebsite_v2.png)
+Nutzung der Website
+-------------------
 
 Websites haben unterschiedliche Funktionen und Interaktionsmöglichkeiten. Manchmal kann man sich Inhalte anschauen oder ein Online-Formular zur Kontaktaufnahme nutzen. Auf anderen Seiten ist es möglich, sich zu registrieren. Je nach Website ist die Datenverarbeitung unterschiedlich umfangreich.
 
-### Logdaten
+### Logfiles
 
 Wenn Sie eine Website besuchen, werden vorübergehend technische Nutzungsdaten (sogenannte Logdaten) verarbeitet. Diese werden von Ihrem Browser übermittelt und beinhalten unter anderem die IP-Adresse Ihres Computers, die Anfrage des Clients (Dateiname und URL), den HTTP-Antwort-Code und die Internetseite, von der Sie auf die Website gelangt sind.
 
@@ -52,6 +53,8 @@ Wir bieten unterschiedliche Möglichkeiten zur Kontaktaufnahme an (z.B. Online-K
 Die Datenverarbeitung im (vor)vertraglichen Kontext ist gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung Ihrer personenbezogenen Daten ist dabei erforderlich, um mit uns zu kommunizieren.
 
 Nach Abschluss der Kommunikation speichern wir Ihre Daten für die Dauer von 6 Monaten. Falls Sie sich bei uns registrieren oder es zu einer anderen Art des weiteren Kontakts kommt, werden Ihre Daten weiterhin gespeichert und erst nach Ablauf der geltenden gesetzlichen Aufbewahrungspflichten gelöscht.
+
+[To the top of the section](#Anfragen-über-die-Website)
 
 ### Registrierung
 
@@ -96,6 +99,8 @@ Um die Datenverarbeitung auf der Website datenschutzkonform steuern zu können, 
 Die auf Ihrem Endgerät stattfindende Datenverarbeitung ist zur Wahrung unserer berechtigten Interessen zulässig bzw. erforderlich, um unseren Dienst bereitzustellen (Art. 6 Abs. 1 f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Um unsere Seite datenschutzkonform betreiben zu können, müssen wir das Vorliegen von Einwilligungen bzw. deren Widerruf elektronisch dokumentieren. Andernfalls können wir im Zweifel nicht nachweisen, dass Sie bestimmten Verarbeitungen zugestimmt haben. Insofern ist die Datenverarbeitung erforderlich, um unsere Seite zu nutzen.
 
 Das Cookie wird bis zu Ihrem Widerruf gespeichert und spätestens nach 13 Monaten gelöscht.
+
+[To the top of the section](#Consent Management-Plattform)
 
 ### Werbefinanzierter Zugang
 
@@ -229,7 +234,8 @@ Die stattfindende Datenverarbeitung dient der Wahrung unserer berechtigten Unter
 
 Die anonymisierten Umfrageergebnisse speichern wir zeitlich unbegrenzt. Nicht-anonymisierbare Daten speichern wir für eine Dauer von 6 Monaten ab Erhebung. Kontaktdaten werden für die Dauer ihrer anschließenden Verwendung gespeichert.
 
-![](//images.ctfassets.net/9q531vlek15f/5YkIkwA9BUipAkDY3ALJ3X/8aa2c3987b1f65628bcc4eb454e86374/EventsSeminare_v2.png)
+Events und Seminare
+-------------------
 
 Wir veranstalten regelmäßig Events und Seminare zu verschiedenen Themen. Die Anmeldung erfolgt dabei meistens online und ist je nach Veranstaltung von der Angabe unterschiedlicher Daten abhängig.
 
@@ -241,6 +247,8 @@ Die im Rahmen der Veranstaltungsdurchführung stattfindende Datenverarbeitung is
 
 Wir speichern die Daten zu Ihrer Teilnahme mindestens für die Dauer der geltenden gesetzlichen Aufbewahrungspflichten. In der Regel sind dies 8 Jahre.
 
+[To the top of the section](#Präsenz-Veranstaltungen)
+
 ### Online-Veranstaltungen
 
 Wir führen unsere digitalen Veranstaltungen auf Online-Plattformen durch. Je nach Veranstaltung und Art der Nutzung durch die Teilnehmer werden dabei unterschiedliche personenbezogene Daten verarbeitet (z.B. Name, Video, Audio). Die Teilnahme setzt in der Regel nicht das Anlegen eines Accounts bei der genutzten Plattform voraus. Es ist in der Regel ausreichend, wenn Sie sich über die Weboberfläche mit den Zugangsdaten anmelden. Während der Teilnahme werden Metadaten (z.B. IP-Adresse, Geräte-/Hardware-Informationen), Verbindungsdaten (z.B. Rufnummer, Ländername, Start- und Endzeit) und – je nach Veranstaltung – auch Inhaltsdaten (z.B. Chatverlauf, Audio, Video) verarbeitet.
@@ -248,6 +256,8 @@ Wir führen unsere digitalen Veranstaltungen auf Online-Plattformen durch. Je na
 Die Zulässigkeit der Verarbeitung ergibt sich aus unserem berechtigten Interesse (Art. 6 Abs. 1 f) DSGVO). Digitale Veranstaltungen sind eine Alternative und Ergänzung zur klassischen Präsenzveranstaltung. Die interaktive Ausgestaltung und Durchführung von Veranstaltungen sind nur mit einer Software möglich, die entsprechende Funktionen und Kapazitäten bietet. Bei den Meta- und Verbindungsdaten handelt es sich um Informationen, die bei der Nutzung notwendigerweise anfallen. Andernfalls kann keine Verbindung zum verwendeten Endgerät hergestellt werden. Welche Inhaltsdaten verarbeitet werden, entscheiden Sie selbst. Sie können die Kamera oder das Mikrofon jederzeit abschalten und die Verarbeitung von Daten auf diese Weise unterbinden. Die Nutzung der anderen Funktionen ist ebenfalls freiwillig.
 
 Unsere digitalen Veranstaltungen werden in der Regel nicht aufgezeichnet.
+
+[To the top of the section](#Online-Veranstaltungen)
 
 ### Film- und Fotoaufnahmen
 
@@ -257,7 +267,10 @@ Die Verarbeitung von Film- und Fotoaufnahmen ist zur Wahrung berechtigter Intere
 
 Film- und Fotoaufnahmen werden grundsätzlich ohne zeitliche Begrenzung gespeichert. Soweit sie im Internet veröffentlicht werden, sind sie dort ebenfalls zeitlich unbegrenzt einsehbar.
 
-![](//images.ctfassets.net/9q531vlek15f/2u0foqdZxwP5UsDP2WlzBk/2b70c09b7b0024a21ef6a4012c13925c/Kommunikation_v2.jpg)
+[To the top of the section](#Film-undFotoaufnahmen)
+
+Kommunikation
+-------------
 
 Wir nutzen verschiedene Kommunikationskanäle, um mit Ihnen in Verbindung zu treten, Mitteilungen entgegenzunehmen oder Ihnen interessante Angebote und Informationen zukommen zu lassen. Werbliche Ansprache ist wichtig für unser Unternehmen, um wirtschaftlich erfolgreich zu sein. Sie können der Nutzung Ihrer personenbezogenen Daten zu werblichen Zwecken jederzeit widersprechen und / oder sich von unseren E-Mail-Newslettern über den Abmelde-Link am Ende jedes Newsletters austragen.
 
@@ -277,6 +290,8 @@ Die Nutzung Ihrer E-Mail-Adresse zum Versand unserer redaktionellen Newsletter i
 
 Ihre E-Mail-Adresse wird für die Dauer des Vorliegens Ihrer Einwilligung bzw. das Bestehen eines Vertrags in unserer Newsletter-Datenbank gespeichert.
 
+[To the top of the section](#Redaktionelle-Newsletter)
+
 ### Empfehlung von ähnlichen Angeboten
 
 Wir nutzen die von Ihnen im Rahmen einer Anmeldung, Registrierung, Bestellung oder Buchung angegebene E-Mail-Adresse zum Versand von Werbung für eigene ähnliche Angebote.
@@ -285,6 +300,8 @@ Die Nutzung von E-Mail-Adressen zur Übermittlung eigener ähnlicher Angebote is
 
 Wenn Sie der werblichen Nutzung widersprechen, werden Ihre Daten gelöscht oder mit einer Werbesperre versehen. Eine Löschung ist meistens nicht möglich, da wir die bei einer Anmeldung, Registrierung, Bestellung oder Buchung erhobenen Daten zur Einhaltung gesetzlicher Aufbewahrungspflichten weiterhin speichern müssen.
 
+[To the top of the section](#Empfehlung-von-ähnlichen-Angeboten)
+
 ### Newsletter-Erfolgsmessung
 
 Bei der Newsletter-Erfolgsmessung werden Öffnungs- und Klickraten verarbeitet sowie Empfängerprofile gebildet. Die entstehenden Daten verwenden wir, um den Newsletter zu verbessern und entsprechend Ihren Interessen sowie Lesegewohnheiten zu gestalten.
@@ -292,6 +309,8 @@ Bei der Newsletter-Erfolgsmessung werden Öffnungs- und Klickraten verarbeitet s
 Die Datenverarbeitung erfolgt zur Wahrung unserer berechtigten Interessen und ist damit gerechtfertigt (Art. 6 Abs. 1 f) DSGVO). Wir müssen nachvollziehen können, ob unsere werblichen Maßnahmen erfolgreich sind. Die Bereitstellung Ihrer Daten ist freiwillig. Sie können die Erfolgsmessung jederzeit separat deaktivieren.
 
 Die entstehenden Daten werden pseudonymisiert bzw. anonymisiert und zeitlich unbegrenzt gespeichert.
+
+[To the top of the section](#Newsletter-Erfolgsmessung)
 
 ### Werbung per Post
 
@@ -317,7 +336,8 @@ Die Verarbeitung erfolgt auf Basis einer Einwilligung (Art. 6 Abs. 1 a) DSGVO, �
 
 Die Aufbewahrung endet spätestens 7 Jahre nach Ende Ihres letzten aktiven Abonnements. Anschließend werden die Daten gelöscht.
 
-![](//images.ctfassets.net/9q531vlek15f/3yBYBUojSrWK5EChqDX3i3/24af60bdc0ff885de4fe6a15216e42c6/GemeinsameVerantwortlichkeit_v2.png)
+Gemeinsame Verantwortlichkeit
+-----------------------------
 
 ### ZEIT Verlagsgruppe
 
@@ -421,7 +441,8 @@ Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutze
 
 Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen und mit Nutzern zu interagieren. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
 
-![](//images.ctfassets.net/9q531vlek15f/4dmjIR3zIA2lMtruVGw9jH/81b9ad5ba55ff2410ff5d8edea15c899/EmpfaengerOrtVerarbeitung_v2.png)
+Empfänger und Ort der Verarbeitung
+----------------------------------
 
 Wir verarbeiten personenbezogene Daten in verschiedenen Systemen und übermitteln sie je nach Verarbeitungstätigkeit an andere Unternehmen, Behörden oder Einzelpersonen. Der Ort der Verarbeitung richtet sich nach unserem Unternehmenssitz sowie den Standorten unserer Dienstleister.
 
@@ -469,7 +490,8 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 
 Grundsätzlich findet die Datenverarbeitung in der Europäischen Union bzw. im Europäischen Wirtschaftsraum statt. Es werden jedoch auch Applikationen und Tools genutzt, bei denen eine Übermittlung von Daten in Drittländer nicht ausgeschlossen werden kann. Wir stellen in solchen Fällen das Vorliegen geeigneter Garantien sicher, um ein ausreichendes Datenschutzniveau in diesen Drittländern zu gewährleisten. In der Regel wurden mit den Anbietern die von der EU-Kommission bereitgestellten [Standardvertragsklauseln](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021D0914&from=EN "Standardvertragsklauseln") vereinbart oder es besteht eine Zertifizierung unter dem [Data Privacy Framework](https://www.dataprivacyframework.gov/ "Data Privacy Framework").
 
-![](//images.ctfassets.net/9q531vlek15f/3SuhfieSLQfpaMwz4QTOQ0/07727329754a8c8a1d55b97b5b133a94/BetroffenenrechteKontakt_v2.png)
+Betroffenenrechte und Kontakt
+-----------------------------
 
 Die DSGVO gewährt Betroffenen grundsätzlich eine Reihe von Rechten. Sie können diese jederzeit ausüben. Wir sind aber nicht immer verpflichtet, ein Recht auch zu gewähren. Ein Anspruch auf Löschung kann zum Beispiel wegen gesetzlicher Aufbewahrungspflichten abgelehnt werden. Sofern Datenverarbeitungen in gemeinsamer Verantwortung erfolgen, können Sie Ihre Rechte gegenüber jedem der beteiligten Unternehmen geltend machen.
 
@@ -491,7 +513,8 @@ Zur Geltendmachung von Datenschutzrechten sowie bei Fragen und Beschwerden zum D
 
 Unseren externen Datenschutzbeauftragten erreichen Sie postalisch bei der Herting Oberbeck Datenschutz GmbH, Hallerstr. 76, 20146 Hamburg oder unter der E-Mail-Adresse [dsb@zeit.de](mailto:dsb@zeit.de). Sie haben außerdem das Recht, sich jederzeit bei einer Datenschutzaufsichtsbehörde zu beschweren.
 
-![](//images.ctfassets.net/9q531vlek15f/5ePQe36yKHi7KFkV7iAV3w/aa79c2b0339c5662c18e4dbe326978cf/Social-Media-Profile_v2.png)
+Social-Media-Profile
+--------------------
 
 ### Anbieter von Social-Media-Plattformen
 

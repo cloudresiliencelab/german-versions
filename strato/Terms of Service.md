@@ -498,8 +498,9 @@ Hiervon abweichende Vereinbarungen müssen schriftlich erfolgen.
 | Service Level | Basis | Silber | Gold | Platin |
 | --- | --- | --- | --- | --- |
 | **Time to Repair** |     |     |     |     |
-| bei Tausch kompletter Server-Hardware | 12 Std. | 4 Std. | 2 Std. | 1 Std. |
-| bei Tausch von Hardwarekomponenten des Serversbei Tausch von Infrastrukturkomponenten | NBD + 12 Std.NBD + 6 Std. | 8 Std.4 Std. | 6 Std.2 Std. | 4 Std.1 Std. |
+| bei Tausch kompletter Hardware | 12 Std. | 4 Std. | 2 Std. | 1 Std. |
+| Bei Tausch von Hardwarekomponenten des Servers | NBD + 12 Std. | NBD + 12 Std. | NBD + 12 Std. | NBD + 12 Std. |
+| Bei Tausch von Infrastrukturkomponenten | NBD + 6 Std. | NBD + 4 Std. | NBD + 2 Std. | NBD + 1 Std. |
 
 NBD =Next Business Day, nächster Werktag; Samstage, Sonntage und gesetzl. Feiertage (Berlin) sind dabei ausgeschlossen
 

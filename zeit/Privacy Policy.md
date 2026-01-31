@@ -320,6 +320,8 @@ Die Nutzung von Daten zum Versand von Briefwerbung ist zur Wahrung berechtigter 
 
 Die Speicherdauer der Postanschriften richtet sich danach, ob Sie ein Kunde sind oder wir die Adresse zugekauft haben. Kundendaten müssen wir zur Wahrung gesetzlicher Aufbewahrungspflichten bis zu 8 Jahre speichern. Hinzugekaufte Daten werden für den werblichen Versand genutzt und danach gelöscht.
 
+[To the top of the section](#Werbung-per-Post)
+
 ### Werbung durch Marketingdienstleister
 
 Wir stellen die bei uns gespeicherten Postanschriften Unternehmen und Spendenorganisationen zur Verfügung, damit diese Ihnen Angebote und Informationen zusenden können.
@@ -336,6 +338,8 @@ Die Verarbeitung erfolgt auf Basis einer Einwilligung (Art. 6 Abs. 1 a) DSGVO, �
 
 Die Aufbewahrung endet spätestens 7 Jahre nach Ende Ihres letzten aktiven Abonnements. Anschließend werden die Daten gelöscht.
 
+[To the top of the section](#Werbliche-Anrufe)
+
 Gemeinsame Verantwortlichkeit
 -----------------------------
 
@@ -349,6 +353,8 @@ Die Unternehmen der ZEIT Verlagsgruppe nutzen eine gemeinsame Infrastruktur und 
 
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT DIGITAL GmbH, ZEIT Akademie GmbH, Studio ZX GmbH, ZEIT Sprachen GmbH, academics GmbH, ZEIT Online GmbH, ZEIT Weltkunst Verlag GmbH
 
+[To the top of the section](#Allgemeine-Infrastruktur-und-Kommunikation)
+
 ### Data Warehouse
 
 Zur Analyse, Kontrolle und Optimierung von Werbemaßnahmen verarbeiten wir personenbezogene Daten in einem von den Produktivsystemen getrennten Data Warehouse. Hier werden die Informationen pseudonymisiert und für spezielle Fragestellungen, zur Gruppen-Profilbildung sowie zur Erstellung von Engagement und Propensity Scores genutzt.
@@ -358,6 +364,8 @@ Die Auswertung und interne Bereitstellung der pseudonymisierten Daten erfolgt zu
 Die Dauer der pseudonymisierten Speicherung im Data Warehouse richtet sich nach der Speicherdauer in unseren anderen Systemen (z.B. Newsletter-Datenbank, Veranstaltungsdatenbank). Wenn die Daten dort gelöscht werden können, sind sie nicht mehr über das Data Warehouse abrufbar.
 
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Sprachen GmbH, academics GmbH, Studio ZX GmbH, ZEIT Akademie GmbH
+
+[To the top of the section](#Data-Warehouse)
 
 ### ZEIT Single-Sign-On-Account
 
@@ -404,6 +412,8 @@ Die beschriebene Verarbeitung erfolgt in gemeinsamer Verantwortlichkeit mit dem 
 Den Datenschutzbeauftragten der Criteo SA erreichen Sie unter [dpo@criteo.com](mailto:dpo@criteo.com). Die für das Unternehmen zuständige Datenschutzaufsichtsbehörde ist die [Commission Nationale de l’Informatique et des Libertés (CNIL)](https://www.cnil.fr/en/home "Commission Nationale de l’Informatique et des Libertés (CNIL)") in Frankreich.
 
 Weitere Informationen zur Datenverarbeitung finden Sie in der [Datenschutzerklärung der Criteo SA](https://www.criteo.com/de/privacy/ "Datenschutzerklärung der Criteo SA").
+
+[To the top of the section](#Criteo-SA)
 
 ### Outbrain UK Ltd.
 

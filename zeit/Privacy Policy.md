@@ -462,7 +462,7 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 
 ### Unternehmensliste
 
-*   Sourcepoint Technologies, Inc. (SaaS-Anbieter Consent-Banner)
+*   Sourcepoint Technologies, Inc. (SaaS-Anbieter Consent Management-Plattform)
 *   Webtrekk GmbH (SaaS-Anbieter Tracking-Tool)
 *   Mailjet GmbH (Newsletter-Tool)
 *   Google Ireland Ltd. (SaaS-Anbieter)
@@ -479,12 +479,14 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   MaxMind, Inc. (Geolokalisierung)
 *   Fastly, Inc. (Anbieter Content Delivery Network)
 *   StorifyMe GmbH (SaaS-Anbieter Social-Media-Stories)
-*   Amazon Web Services, Inc. (Hosting)
+*   Amazon Web Services, Inc. (Anbieter Hosting)
 *   Kilkaya AS (SaaS-Anbieter Analyse-Tool)
 *   SpeedCurve Ltd (SaaS-Anbieter Pagespeed Performance)
-*   7 Points Sp. z o.o. (SurveyLab Umfrage-Tool)
+*   7 Points Sp. z o.o. (SaaS-Anbieter Umfrage-Tool SurveyLab)
 *   Piano Software Norway (SaaS-Anbieter für Personalisierung und Nutzeransprache)
-*   Stripo Inc. (Newsletter-Templates)
+*   Stripo Inc. (SaaS-Anbieter Newsletter-Templates)
+
+[To the top of the section](#Unternehmensliste)
 
 ### Dritte
 
@@ -495,6 +497,8 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 *   MapTiler AG (visuelle Darstellung von Geoinformationen)
 *   Hola Org Ltd. (Spark Videovorschau)
 *   Meta Platforms Ireland Ltd. (Betreiber Social-Media-Plattform)
+
+[To the top of the section](#Unternehmensliste)
 
 ### Ort der Verarbeitung
 
@@ -509,19 +513,27 @@ Die DSGVO gewährt Betroffenen grundsätzlich eine Reihe von Rechten. Sie könne
 
 Sie haben ein Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO), Einschränkung der Verarbeitung (Art. 18 DSGVO) und Datenübertragung (Art. 20 DSGVO).
 
-### Widerspruchsmöglichkeit
+[To the top of the section](#Datenschutzrechte)
+
+### Widerspruchsrecht
 
 **Wir haben geprüft, ob wir Ihre personenbezogenen Daten verarbeiten dürfen. Das betrifft insbesondere alle Verarbeitungen zur Wahrung berechtigter Interessen (Art. 6 Abs. 1 f) DSGVO). Falls Sie bei einer bestimmten Verarbeitung der Meinung sind, dass diese nicht zulässig ist, können Sie uns das mitteilen. Falls wir in Ihrem persönlichen Einzelfall zu dem Ergebnis kommen, dass wir Ihre Daten tatsächlich nicht verarbeiten dürfen, werden wir es nicht mehr tun. Sofern sich Ihr Widerspruch gegen werbliche Nachrichten richtet, setzen wir diesen natürlich direkt um.**
 
-### Widerrufsmöglichkeit
+[To the top of the section](#Widerspruchsmöglichkeit)
+
+### Widerrufsrecht
 
 Manche Datenverarbeitungen basieren auf einer von Ihnen erteilten Einwilligung. Diese können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Das hat allerdings keine Auswirkung auf die Zulässigkeit der bis dahin erfolgten Datenverarbeitung.
+
+[To the top of the section](#Widerrufsrecht)
 
 ### Kontaktdaten
 
 Zur Geltendmachung von Datenschutzrechten sowie bei Fragen und Beschwerden zum Datenschutz nutzen Sie bitte ausschließlich die E-Mail-Adresse [datenschutz@zeit.de](mailto:datenschutz@zeit.de) oder unsere Postanschrift.
 
 Unseren externen Datenschutzbeauftragten erreichen Sie postalisch bei der Herting Oberbeck Datenschutz GmbH, Hallerstr. 76, 20146 Hamburg oder unter der E-Mail-Adresse [dsb@zeit.de](mailto:dsb@zeit.de). Sie haben außerdem das Recht, sich jederzeit bei einer Datenschutzaufsichtsbehörde zu beschweren.
+
+[To the top of the section](#Kontaktdaten)
 
 Social-Media-Profile
 --------------------
@@ -573,6 +585,8 @@ Bitte beachten Sie, dass im Falle eines Widerspruchs gegen die Verarbeitung von 
 Die Datenverarbeitung findet auf Servern der Meta Platforms Ireland Limited statt. Direktnachrichten werden von unseren Mitarbeitern gesehen und beantwortet. Alle sonstigen Aktionen sind öffentlich einsehbar.
 
 Unser Profil bei dem sozialen Netzwerk ist über das Internet auf der ganzen Welt abrufbar, sodass ein Zugriff auch aus Ländern ohne ausreichendes Datenschutzniveau möglich ist. Die Meta Platforms Ireland Limited hat [verschiedene Maßnahmen](https://www.facebook.com/privacy/policy?annotations%5b0%5d=9.ex.2-MechanismsWeUseFor&subpage=9.subpage.3-HowDoWeSafeguard "Maßnahmen der Meta Platforms Ireland Limited") ergriffen, um ein ausreichendes Datenschutzniveau zu gewährleisten.
+
+[To the top of the section](#Meta-Profile)
 
 ### TikTok-Profile
 
@@ -644,6 +658,8 @@ Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung. Informationen
 
 Bei den allgemeinen Einstellungen Ihres Accounts sowie unter dem Punkt "Datenschutz und Sicherheit" haben Sie die Möglichkeit, die Verarbeitung Ihrer Daten einzuschränken. Darüber hinaus können Sie auf Ihrem Mobilgerät den Zugriff von X auf Kontakt- und Kalenderdaten, Fotos und Standortdaten beschränken (abhängig vom genutzten Betriebssystem). Weitere Informationen zu diesen Punkten finden Sie beim Plattformanbieter.
 
+[To the top of the section](#X-Profile)
+
 ### WhatsApp-Kanäle
 
 **Verantwortlichkeit**
@@ -690,6 +706,8 @@ Bei der Nutzung von LinkedIn findet ein Datentransfer in Drittländer außerhalb
 **Speicherdauer**
 
 Wenn Sie einen Kommentar hinterlassen, wird dieser zeitlich unbegrenzt auf unserem Profil gespeichert (bis Sie ihn löschen). Das gleiche gilt für die Nutzung der Like-Funktion. Direktnachrichten an uns werden ebenfalls gespeichert, allerdings in einem regelmäßigen Turnus gelöscht.
+
+[To the top of the section](#LinkedIn-Profile)
 
 ![](//images.ctfassets.net/9q531vlek15f/3EWy3JIYxTEL5WvzI70ZjS/300f00338ec050134290f241de77c83e/Medienprivileg.jpg)
 

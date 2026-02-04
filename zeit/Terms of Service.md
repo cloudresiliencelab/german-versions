@@ -1,7 +1,7 @@
 Das Portal [www.zeit.de](https://www.zeit.de/index) sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
 
 ZEIT ONLINE GmbH  
-vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enrique Tarragona
+vertreten durch die Geschäftsführer Christian Röpke und Enrique Tarragona
 
 Postanschrift: ZEIT ONLINE GmbH  
 Buceriusstraße, Eingang Speersort 1,  

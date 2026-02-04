@@ -182,7 +182,10 @@ Die Datenverarbeitung ist zur Abwicklung des zustande kommenden Vertrags gesetzl
 
 Informationen zur Speicherdauer finden Sie auf der jeweiligen Drittplattform.
 
-![](//images.ctfassets.net/9q531vlek15f/6G0rpNXEUwODa1sbJ85waD/81146fe20345603acc46e6eb0eba29f8/AktionenVertraegeAbos_v2.png)
+![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
+
+Aktionen, Verträge und Abos
+---------------------------
 
 Die Unternehmen der ZEIT Verlagsgruppe bieten unterschiedliche Produkte und Leistungen an. Wenn Sie z.B. ein Abo abschließen, eine Reise buchen oder an einem Gewinnspiel teilnehmen, werden unterschiedliche personenbezogene Daten erhoben, genutzt und zur Vertragsabwicklung an andere Unternehmen weitergegeben.
 

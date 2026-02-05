@@ -452,7 +452,7 @@ Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutze
 
 ### Anbieter von Social-Media-Plattformen
 
-Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen und mit Nutzern zu interagieren. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
+Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen, mit Nutzern zu interagieren und unsere Produkte zu bewerben. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
 
 Empfänger und Ort der Verarbeitung
 ----------------------------------

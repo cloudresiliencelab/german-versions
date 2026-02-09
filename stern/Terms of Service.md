@@ -2,8 +2,10 @@
     ===
     
 
-AGB Allgemeine Geschäftsbedingungen
------------------------------------
+AGB
+
+Allgemeine Geschäftsbedingungen
+--------------------------------------
 
 Kopiere den aktuellen Link Zur Merkliste hinzufügen
 

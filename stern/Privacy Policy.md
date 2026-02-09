@@ -2,8 +2,10 @@
     =======================
     
 
-Ihre Daten Datenschutzhinweise
-------------------------------
+Ihre Daten
+
+Datenschutzhinweise
+---------------------------------
 
 Kopiere den aktuellen Link Zur Merkliste hinzufügen
 

@@ -101,7 +101,7 @@ Um die Angebote von ARD Online noch attraktiver und nutzerfreundlicher zu machen
 Newsletter
 ----------
 
-Über die folgenden Links können Sie den Newsletter der ARD Mediathek und den Newsletter der ARD Audiothek kostenfrei abonnieren.
+Über die folgenden Links können Sie den Newsletter der ARD Mediathek, den Newsletter der ARD Audiothek und den ARD Hörspiel Newsletter kostenfrei abonnieren.
 
 Die ARD Mediathek und die ARD Audiothek nutzen den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)), die ARD-Kommunikation den Dienst Rapidmail der Firma Rapidmail ([https://www.rapidmail.de/](https://www.rapidmail.de/)), um Ihnen den jeweiligen Newsletter schicken zu können. Diese Dienste ermöglichen es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland und von Rapidmail in Deutschland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
 
@@ -195,4 +195,4 @@ Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datensch
 
 Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-13.1.2026
+9.2.2026

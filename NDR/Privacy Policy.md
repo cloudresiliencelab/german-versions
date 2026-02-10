@@ -270,7 +270,15 @@ Im Rahmen unserer Möglichkeiten gehen wir mit größter Sorgfalt und Sensibilit
 9\. Ihre Rechte
 ---------------
 
-Sofern von Ihnen personenbezogene Daten verarbeitet werden, sind Sie sogenannte betroffene Person im Sinne der DSGVO. Als betroffene Person stehen Ihnen gegenüber dem Verantwortlichen (Ziffer 1) das Recht auf Auskunft gemäß Art. 15 DSGVO, auf Berichtigung nach Art. 16 DSGVO, auf Löschung nach Art. 17 DSGVO, auf Einschränkung der Verarbeitung nach Art. 18 DSGVO, auf Widerspruch aus Art. 21 DSGVO sowie das Recht auf Datenübertragbarkeit aus Art. 20 DSGVO zu. Darüber hinaus besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde gemäß Art. 77 DSGVO. Zuständige Aufsichtsbehörde ist der Datenschutzbeauftragte des NDR (Ziffer 2).
+Sie haben das Recht, vom NDR Auskunft über die Sie betreffenden personenbezogenen Daten zu verlangen sowie ggf. Berichtigung, Löschung und Einschränkung der Verarbeitung oder ggf. auch das Recht, einen Widerspruch geltend zu machen (Betroffenenrechte gem. Art. 15 ff. DSGVO). Unter den Voraussetzungen von Art. 20 DSGVO kann ein Recht auf Datenübertragung in Betracht kommen. Kontaktmöglichkeiten finden Sie in Ziffern 1 und 9. Schließlich haben Sie das Recht, sich bei einer Aufsichtsbehörde beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt. Die zuständige Aufsichtsbehörde ist:
+
+Der Rundfunkdatenschutzbeauftragte  
+Stephan Schwarze  
+Kantstraße 71-73  
+04275 Leipzig
+
+[Beschwerdeformular der Aufsichtsbehörde](https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html "Beschwerdeformular der Aufsichtsbehörde Der Rundfunkdatenschutzbeauftragte")  
+[www.rundfunkdatenschutz.de](https://www.rundfunkdatenschutz.de/ "Der Rundfunkdatenschutzbeauftragte")
 
 10\. Apps
 ---------

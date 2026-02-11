@@ -250,7 +250,7 @@ Großer Burstah 18-32
 
 20457 Hamburg
 
-Mail: [datenschutz.gala@funkemedien.de](mailto:datenschutz.gala@funkemedien.de)
+Mail: [datenschutz@gala.de](mailto:datenschutz@gala.de)
 
 Verantwortlicher und mit uns zusammen „gemeinsam Verantwortlicher“ i.S.v. Art 26 DSGVO im Hinblick auf unsere Angebote. Insoweit haben wir und die FUNKE Women, People & Family GmbH in einer gemeinsamen Vereinbarung geregelt, wer von uns welche Pflichten nach der DSGVO erfüllt. Dies betrifft insbesondere die Wahrnehmung der Rechte der betroffenen Personen und die Erfüllung der Informationspflichten gemäß den Artikeln 13 und 14 DSGVO. Auch wenn eine gemeinsame Verantwortlichkeit besteht, erfüllen die Parteien die datenschutzrechtlichen Pflichten entsprechend ihrer jeweiligen Zuständigkeiten wie folgt:
 

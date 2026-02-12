@@ -1,7 +1,7 @@
 Datenschutz Datenschutzerklärung von tagesschau.de
 ==================================================
 
-Stand: 07.01.2026 15:47 Uhr
+Stand: 11.02.2026 16:55 Uhr
 
 **Wir freuen uns über die Nutzung unseres Angebots. Tagesschau.de nimmt den Schutz Ihrer Daten sehr ernst. Hier erfahren Sie, welche Daten tagesschau.de bei der Nutzung der Webseiten erhebt und wie diese verwendet werden.**
 
@@ -30,8 +30,6 @@ Rothenbaumchaussee 132
 20149 Hamburg
 
 E-Mail: datenschutz@ndr.de
-
-Sie haben das Recht, sich bei der zuständigen Datenschutzaufsicht zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt.
 
 3\. Erhebung von Daten bei der Nutzung der tagesschau.de
 --------------------------------------------------------
@@ -362,7 +360,15 @@ Personenbezogene Daten, die wir in Wahrnehmung unserer Aufgaben im öffentlichen
 
 Sie haben das Recht, vom NDR Auskunft über die Sie betreffenden personenbezogenen Daten zu verlangen sowie ggf. Berichtigung, Löschung und Einschränkung der Verarbeitung oder ggf. auch das Recht, einen Widerspruch geltend zu machen (Betroffenenrechte gem. Art. 15 ff. DSGVO). Unter den Voraussetzungen von Art. 20 DSGVO kann ein Recht auf Datenübertragung in Betracht kommen. Kontaktmöglichkeiten finden Sie in Ziffern 1 und 8.
 
-Schließlich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten des NDR (s. Ziffer 2) zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt.
+Schließlich haben Sie das Recht, sich bei einer Aufsichtsbehörde zu beschweren, wenn nach Ihrer Ansicht ein Verstoß gegen das Datenschutzrecht vorliegt. Die zuständige Aufsichtsbehörde ist:
+
+Der Rundfunkdatenschutzbeauftragte  
+Stephan Schwarze  
+Kantstraße 71-73  
+04275 Leipzig
+
+[Beschwerdeformular der Aufsichtsbehörde](https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html "Beschwerden beim Rundfunkdatenschutzbeauftragten")  
+[www.rundfunkdatenschutz.de](https://www.rundfunkdatenschutz.de/ "Der Rundfunkdatenschutzbeauftragte")
 
 *   [Datenschutz](https://www.tagesschau.de/thema/datenschutz)
 

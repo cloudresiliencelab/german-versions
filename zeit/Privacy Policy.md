@@ -64,13 +64,17 @@ Rechtsgrundlage für die Datenverarbeitung ist das bei einer Registrierung entst
 
 Ihre Daten werden für die Dauer des Nutzungsverhältnisses und eventueller Aufbewahrungspflichten gespeichert.
 
-### Berufsorientierungsangebot (BOA)
+[To the top of the section](#Registrierung)
+
+### Berufsorientierungsangebot
 
 Als registrierter Nutzer können Sie unser Berufsorientierungsangebot (BOA) nutzen. Mit einem Persönlichkeitstest können Sie herausfinden, welcher Beruf wahrscheinlich zu Ihnen passt und wo Ihre Stärken liegen. Hierfür müssen Sie Fragen zu Interessen beantworten und Eigenschätzungen vornehmen. Basierend auf Ihrem Profil erhalten Sie dann Job-Vorschläge, für Sie passende Stellenanzeigen, Umfragen und Einladungen zu Recruiting Events.
 
 Die Zulässigkeit der stattfindenden Datenverarbeitung ergibt sich aus dem bei der Registrierung entstandenen Nutzungsverhältnis (Art. 6 Abs. 1 b) DSGVO). Für die Wahrnehmung des Berufsorientierungsangebots ist die Bereitstellung Ihrer Daten erforderlich, da ihr Profil ansonsten nicht mit passenden Stellenanzeigen und anderen relevanten Inhalten abgeglichen werden kann. Je mehr Angaben Sie machen, desto passgenauer wird das Berufsorientierungsangebot.
 
 Ihre Daten werden für die Dauer der Registrierung gespeichert. Sie können Ihr Profil jederzeit löschen.
+
+[To the top of the section](#Berufsorientierungsangebot)
 
 ### Hey Studium Interessenstest
 
@@ -79,6 +83,8 @@ Als registrierter Nutzer können Sie unseren Hey Studium Interessenstest machen 
 Die Datenverarbeitung zur Erbringung einer Leistung ist gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung Ihrer personenbezogenen Daten ist dabei erforderlich, um den Interessenstest zu absolvieren und ein Ergebnis zu erhalten.
 
 Wir speichern das Testergebnis für die Dauer Ihrer Registrierung. Wenn Sie Ihr Profil löschen, werden auch die dazugehörigen Daten gelöscht.
+
+[To the top of the section](#Hey-Studium-Interessenstest)
 
 Nutzung von zeit.de
 -------------------
@@ -92,6 +98,12 @@ Bevor Sie auf [www.zeit.de](http://www.zeit.de/) gelangen, können Sie sich akti
 
 ### Nutzungsmöglichkeiten
 
+Sie können zwischen den beiden Nutzungsmöglichkeiten wählen. Bevor Sie die Seite aufrufen können, wird Ihnen folgendes angezeigt:
+
+![ZON Consent-Banner](//images.ctfassets.net/9q531vlek15f/6JmLtqBJ0r5KJiQfEqN7I5/99eec7b0b6ec797a7f7f7a74d6ca3f71/ZON_Consent-Banner.png)
+
+[To the top of the section](#Nutzungsmöglichkeiten)
+
 ### Consent Management-Plattform
 
 Um die Datenverarbeitung auf der Website datenschutzkonform steuern zu können, verwenden wir das Transparency and Consent Framework des IAB Europe (TCF). Dieses Regelwerk stammt von einem Online-Marketing-Branchenverband, dem Interactive Advertising Bureau Europe (IAB Europe). Es definiert Zwecke und Rechtsgrundlagen der Verarbeitung und gibt technische Standards zur Einholung von Einwilligungen vor. Die Umsetzung erfolgt über die der Website vorgeschaltete Consent-Abfrage, die wir mit dem Tool Sourcepoint umsetzen (angeboten von der Sourcepoint Technologies, Inc., 228 Park Avenue South, #87903, New York, NY 10003 -1502, USA). Wir speichern die von Ihnen getroffenen Einstellungen durch das Setzen von Cookies.
@@ -100,7 +112,7 @@ Die auf Ihrem Endgerät stattfindende Datenverarbeitung ist zur Wahrung unserer 
 
 Das Cookie wird bis zu Ihrem Widerruf gespeichert und spätestens nach 13 Monaten gelöscht.
 
-[To the top of the section](#Consent Management-Plattform)
+[To the top of the section](#Consent-Management-Plattform)
 
 ### Werbefinanzierter Zugang
 
@@ -110,13 +122,17 @@ Die beschriebene Datenverarbeitung beruht auf Ihrer Einwilligung (Art. 6 Abs. 1 
 
 Die Speicherdauer der entstehenden Daten sowie der auf Ihrem Endgerät gesetzten Cookies sehen Sie im Privacy-Center.
 
+[To the top of the section](#Werbefinanzierter-Zugang)
+
 ### zeit.de werbefrei-Abo
 
-Als PUR-Abonnent können Sie das Angebot ohne Werbetracking und personalisierte Werbeanzeigen nutzen. Nicht personalisierte Werbung kann jedoch weiterhin angezeigt werden.
+Als zeit.de werbefrei-Abonnent können Sie das Angebot ohne Werbetracking und personalisierte Werbeanzeigen nutzen. Nicht personalisierte Werbung kann jedoch weiterhin angezeigt werden.
 
 Die Verarbeitung personenbezogener Daten bei der Nutzung unserer Seite mit einem zeit.de werbefrei-Abo ist zur Erfüllung des Nutzungsvertrags zulässig (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung der im Rahmen der kostenpflichtigen Registrierung abgefragten Daten ist erforderlich, um Ihnen Zugang zu gewähren und die Leistung abzurechnen.
 
 Wir speichern die entstehenden Vertragsdaten so lange, wie dies für die Erfüllung gesetzlicher Aufbewahrungspflichten erforderlich ist. Diese betragen je nach Datum und Dokument 6 oder 8 Jahre.
+
+[To the top of the section](#zeit.de-werbefrei-Abo)
 
 ### Inhalte aus sozialen Netzwerken
 
@@ -126,6 +142,8 @@ Die Dienste sind standardmäßig inaktiv und müssen von Ihnen aktiviert werden.
 
 Die Speicherdauer der entstehenden Daten sowie der auf Ihrem Endgerät gesetzten Cookies können Sie dem Privacy-Center entnehmen.
 
+[To the top of the section](#Inhalte-aus-sozialen-Netzwerken)
+
 ### Personalisierte redaktionelle Inhaltsempfehlungen
 
 Wir nutzen verschiedene Technologien, um ein verlagsspezifisches Leseprofil des von Ihnen verwendeten Endgeräts zu erstellen. Wir verwenden die dabei entstehenden Daten zu Ihrem Leseverhalten, um Ihnen an ausgewählten Stellen personalisierte redaktionelle Inhalte vorzuschlagen. Auf diese Weise sehen Sie vermehrt Inhalte, die zu Ihren konkreten Interessen passen.
@@ -133,6 +151,8 @@ Wir nutzen verschiedene Technologien, um ein verlagsspezifisches Leseprofil des 
 Rechtsgrundlage für die Verarbeitung im Rahmen der personalisierten Inhaltsempfehlungen ist Ihre Einwilligung (Art. 6 Abs. 1 a) DSGVO, § 25 Abs. 1 TDDDG). Die Bereitstellung Ihrer Daten ist nicht erforderlich. Sie können die Auswahl des redaktionellen Angebots auf [www.zeit.de](http://www.zeit.de/) auch nutzen, wenn Sie keine Einwilligung erteilen.
 
 Informationen zur Datenspeicherung und der Lebensdauer der auf Ihrem Endgerät gesetzten Cookies finden Sie im Privacy-Center.
+
+[To the top of the section](#Personalisierte redaktionelle Inhaltsempfehlungen)
 
 ### Messung der Nutzung
 
@@ -142,6 +162,8 @@ Die Zulässigkeit der stattfindenden Verarbeitung richtet sich nach unserem bere
 
 Angaben zur Speicherdauer können Sie dem Privacy-Center entnehmen.
 
+[To the top of the section](#Messung-der-Nutzung)
+
 ### Sicherer Betrieb der Seite
 
 Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils geltenden vertraglichen Vereinbarungen genutzt werden. Um eine missbräuchliche Nutzung zu erkennen und angemessen reagieren zu können, werden personenbezogene Daten (z.B. Login-Daten, Devices, Login-Häufigkeit, Datum und Uhrzeit) in unserer Datenbank zum Schutz unserer Rechte verarbeitet und ungewöhnliche Nutzungen identifiziert.
@@ -149,6 +171,8 @@ Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils g
 Rechtsgrundlage dieser Verarbeitungen ist das zustande gekommene Nutzungsverhältnis sowie unser berechtigtes Interesse (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Die Datenverarbeitung erfolgt automatisiert und kann nicht unterbunden werden.
 
 Eine separate Datenspeicherung für diesen Zweck findet nicht statt.
+
+[To the top of the section](#Sicherer-Betrieb-der-Seite)
 
 ### A/B-Testing
 
@@ -158,6 +182,8 @@ Rechtsgrundlage für die Durchführung von A/B-Testing ist Ihre Einwilligung (Ar
 
 Eine separate Speicherung von Daten findet bei dieser Verarbeitung nicht statt.
 
+[To the top of the section](#A/B-Testing)
+
 ### Online-Spiele
 
 Wir bieten verschiedene Online-Spiele an. Die Eingaben von eingeloggten Nutzern werden dabei in der Datenbank unter ihrem Nutzerkonto hinterlegt, um Spielstände wieder aufrufen zu können. Der Spielstand von nicht eingeloggten Nutzern wird in einem Session Cookie gespeichert. Teilweise besteht die Möglichkeit, einen selbst gewählten Nutzernamen für die Anzeige in einer High-Score-Tabelle zu wählen.
@@ -166,13 +192,17 @@ Die stattfindende Datenverarbeitung ist im Rahmen des Nutzungsverhältnisses und
 
 Die gesetzten Cookies laufen spätestens nach 10 Monaten ab.
 
-### Kommentarfunktion
+[To the top of the section](#Online-Spiele)
+
+### Kommentare
 
 Als registrierter Nutzer können Sie Kommentare zu unseren Beiträgen hinterlassen. Diese werden zusammen mit dem von Ihnen angegebenen Nutzernamen auf der Seite veröffentlicht. Wir empfehlen Ihnen bei der Wahl des Nutzernamens insoweit anstatt Ihres Klarnamens die Verwendung eines Pseudonyms. Zusätzlich können Sie auf Kommentare anderer Nutzer reagieren und diese z.B. mit "Gefällt mir" markieren.
 
 Wir möchten unseren Nutzern die Möglichkeit bieten, sich am Diskurs und der Meinungsbildung aktiv zu beteiligen. Hierbei ist es erforderlich, dass Kommentare und Reaktionen veröffentlicht und von anderen gelesen werden können. Als digitale Leserbriefe unterfallen die Kommentare dem Medienprivileg.
 
 Sie bleiben zeitlich unbegrenzt öffentlich einsehbar, selbst wenn ein Nutzerkonto gelöscht wird (der Nutzername ist dann ebenfalls nicht mehr vorhanden). Bei einem Verstoß gegen die [Netiquette](https://www.zeit.de/administratives/2010-03/netiquette "Netiquette") können Kommentare gelöscht oder von der Redaktion bearbeitet werden.
+
+[To the top of the section](#Kommentare)
 
 ### Podcast auf Drittplattformen
 
@@ -181,6 +211,8 @@ Sie können unser Z+ Podcast Angebot auch auf Drittplattformen (z.B. Apple Music
 Die Datenverarbeitung ist zur Abwicklung des zustande kommenden Vertrags gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Weitergabe der oben genannten personenbezogenen Daten ist erforderlich, um Ihnen die Möglichkeit zu bieten, Inhalte auf Drittplattformen nutzen zu können.
 
 Informationen zur Speicherdauer finden Sie auf der jeweiligen Drittplattform.
+
+[To the top of the section](#Podcast-auf-Drittplattformen)
 
 ![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
 

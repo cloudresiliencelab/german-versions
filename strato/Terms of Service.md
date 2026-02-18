@@ -26,7 +26,7 @@ Allgemeine Geschäftsbedingungen der STRATO GmbH
 
 1.3 Ergänzend zu diesen Allgemeinen Geschäftsbedingungen von STRATO gelten für einzelne Produkte zusätzlich spezielle Bedingungen, die unter [https://www.strato.de/agb/](https://www.strato.de/agb/) abrufbar sind. Diese zusätzlichen Bedingungen gelten auch, wenn das entsprechende Produkt lediglich Teil eines vom Kunden gebuchten Pakets ist, welches auch andere Leistungen enthält.
 
-Zu diesen speziellen Bedingungen gehören unter anderem die Domainbedingungen, welche unter [www.strato.de/agb/#domainbedingungenuebersicht](https://www.strato.de/agb/#domainbedingungenuebersicht) abrufbar sind, sowie das Microsoft Cloud Agreement, welches unter [https://docs.microsoft.com/en-us/partner-center/agreements/](https://docs.microsoft.com/en-us/partner-center/agreements/) abrufbar ist, und dem Sie durch Bestätigung der AGB zustimmen.
+Zu diesen speziellen Bedingungen gehören unter anderem die Domainbedingungen, welche unter [www.strato.de/agb/#domainbedingungenuebersicht](https://www.strato.de/agb/#content-area-2) abrufbar sind, sowie das Microsoft Cloud Agreement, welches unter [https://docs.microsoft.com/en-us/partner-center/agreements/](https://docs.microsoft.com/en-us/partner-center/agreements/) abrufbar ist, und dem Sie durch Bestätigung der AGB zustimmen.
 
 1.4 Wenn wir für Sie personenbezogene Daten als Auftragsverarbeiter nach Art. 28 DSGVO (Datenschutzgrundverordnung) verarbeiten, dann gilt neben diesen AGB auch eine Vereinbarung zur Auftragsdatenverarbeitung. Die Vereinbarung zur Auftragsdatenverarbeitung können Sie unter folgendem Link einsehen: [www.strato.de/agb/avv/](https://www.strato.de/agb/avv/)
 

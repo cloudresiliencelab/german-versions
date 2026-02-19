@@ -1,7 +1,7 @@
 Datenschutz Datenschutzerklärung von tagesschau.de
 ==================================================
 
-Stand: 11.02.2026 16:55 Uhr
+Stand: 11.02.2026 • 16:55 Uhr
 
 **Wir freuen uns über die Nutzung unseres Angebots. Tagesschau.de nimmt den Schutz Ihrer Daten sehr ernst. Hier erfahren Sie, welche Daten tagesschau.de bei der Nutzung der Webseiten erhebt und wie diese verwendet werden.**
 

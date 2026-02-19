@@ -3,7 +3,7 @@
 Datenschutzbestimmungen
 =======================
 
-Stand: 06.09.2024 15:48 Uhr
+Stand: 06.09.2024 • 15:48 Uhr
 
 **Wir freuen uns über Ihr Interesse an unserem Angebot. sportschau.de nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich beim Besuch unserer Webseiten sicher fühlen. Hier erfahren Sie, welche Daten wir erheben und wie wir sie verwenden. Rechtsgrundlage sind die EU Datenschutzgrundverordnung (DSGVO) und begleitende Landes- und Bundesgesetze zum Datenschutz.**
 

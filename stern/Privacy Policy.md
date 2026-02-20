@@ -166,7 +166,7 @@ Daneben gibt es nicht technisch erforderliche Cookies. Solche Cookies dienen gan
 
 In den folgenden Abschnitten geben wir Ihnen mehr Informationen zu den einzelnen Kategorien solcher willigungsbasierter Cookies. Welche dies genau sind und von welchem Dienstleister/Partner sie angeboten werden, können Sie sich in unseren Datenschutz Einstellungen ansehen: 
 
-**[Datenschutz-Einstellungen](javascript:window.gujService.consent.openModal\(\);)**
+**[Datenschutz-Einstellungen](javascript:document.querySelector\('ws-sourcepoint'\)?.openModal\(\);)**
 
 #### 2.10.1 Informationen auf einem Gerät speichern und/oder abrufen
 

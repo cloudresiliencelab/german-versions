@@ -48,6 +48,12 @@ Die nachfolgenden AGB gelten für jeden, der sich als Nutzer der auf der Interne
 
 Die Bedingungen gelten, sofern die als Anhang beigefügten ergänzenden
 
+Besonderen Nutzungsbedingungen für das "Gesundheitsportal“ 
+
+(nachfolgend zusammenfassend „Besondere Nutzungsbedingungen“) keine spezielleren Regeln enthalten.
+
+Die Plattform wird von der G+J Medien GmbH mit Sitz in Hamburg (nachfolgend „_stern_“) betrieben. [Das Impressum von _stern_ finden Sie hier.](https://www.stern.de/impressum-www-stern-de-3347228.html)
+
 Mehr zum Thema
 --------------
 
@@ -68,12 +74,6 @@ Zur Merkliste hinzufügen
 [### Messengerdienst Whatsapp hat neue Nutzungsbedingungen – das umstrittene Update im Überblick](https://www.stern.de/digital/whatsapp-hat-neue-nutzungsbedingungen---das-update-im-ueberblick-30528444.html)
 
 Zur Merkliste hinzufügen
-
-Besonderen Nutzungsbedingungen für das "Gesundheitsportal“ 
-
-(nachfolgend zusammenfassend „Besondere Nutzungsbedingungen“) keine spezielleren Regeln enthalten.
-
-Die Plattform wird von der G+J Medien GmbH mit Sitz in Hamburg (nachfolgend „_stern_“) betrieben. [Das Impressum von _stern_ finden Sie hier.](https://www.stern.de/impressum-www-stern-de-3347228.html)
 
 2\. Änderungen der AGB
 ----------------------

@@ -30,6 +30,8 @@ STERN und STERN.de bieten hochwertige, an journalistischen Standards orientierte
 
 Bevor Sie Zugang zu unserer Website erhalten, können Sie sich auf einer vorgeschalteten Auswahlseite für die von Ihnen präferierte Option entscheiden.
 
+Nur wenn Sie sich aktiv für den kostenlosen Zugang entschieden haben, speichern und nutzen wir Cookies, Geräte-IDs und ähnliche Tracking-Technologien auf Endgeräten, um die Erhebung von Nutzungsdaten und deren pseudonymisierte Verarbeitung zu Nutzungsprofilen zum Zwecke einer nutzungsbasierten Werbeausspielung zu ermöglichen ("Werbetracking"). Dies geschieht, weil wir in diesem Fall unser Angebot mit Ihrer Einwilligung durch weitere, mittels Werbetracking optimierte Werbung finanzieren. Rechtsgrundlage der Datenverarbeitung ist dann Art. 6 Abs. 1 lit. a DSGVO
+
 Mehr zum Thema
 --------------
 
@@ -50,8 +52,6 @@ Zur Merkliste hinzufügen
 [### "Rent a hitman" 21-Jähriger wollte sich im Internet als Auftragsmörder anbieten – und wird vom FBI verhaftet](https://www.stern.de/panorama/weltgeschehen/fbi-verhaftet-angehenden-auftragsmoerder---er-bewarb-sich-im-internet-33384856.html)
 
 Zur Merkliste hinzufügen
-
-Nur wenn Sie sich aktiv für den kostenlosen Zugang entschieden haben, speichern und nutzen wir Cookies, Geräte-IDs und ähnliche Tracking-Technologien auf Endgeräten, um die Erhebung von Nutzungsdaten und deren pseudonymisierte Verarbeitung zu Nutzungsprofilen zum Zwecke einer nutzungsbasierten Werbeausspielung zu ermöglichen ("Werbetracking"). Dies geschieht, weil wir in diesem Fall unser Angebot mit Ihrer Einwilligung durch weitere, mittels Werbetracking optimierte Werbung finanzieren. Rechtsgrundlage der Datenverarbeitung ist dann Art. 6 Abs. 1 lit. a DSGVO
 
 Im Rahmen des PUR Abo behalten wir uns vor, Cookies und Tracking Technologien nur für eigene Produktoptimierungen und allgemeine Nutzungsanalysen, insbesondere zur Reichweitenmessung und Funktionssicherung, einzusetzen. Es erfolgt keine Profilierung oder Weitergabe an Dritte zu Werbezwecken. Die Nutzungsanalyse und Reichweitenmessung sind für uns Wege, um für unsere Leser interessante Inhalte zu identifizieren, damit STERN und STERN.de auch weiterhin spannende Inhalte zu den Themen der Zeit bietet. Die Datenverarbeitung im Rahmen des PUR Abos erfolgt auf Basis von Art. 6 Abs. 1 lit. b DSGVO.
 

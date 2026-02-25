@@ -302,7 +302,7 @@ Für die Geltendmachung Ihrer Rechte verwenden Sie bitte die unter Punkt 2 hinte
 14\. Cookies und ähnliche Technologien
 --------------------------------------
 
-Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung auf unserer Website zu verbessern und zu personalisieren sowie Ihnen interessengerechte Werbung anzuzeigen. Weitere Informationen finden Sie in unserer [Cookie-Richtlinie](https://www.strato.de/cookies) .
+Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung auf unserer Website zu verbessern und zu personalisieren sowie Ihnen interessengerechte Werbung anzuzeigen. Weitere Informationen finden Sie in unserer [Cookie-Richtlinie](https://www.strato.de/cookies/) .
 
 15\. Änderungen dieser Datenschutzhinweise
 ------------------------------------------

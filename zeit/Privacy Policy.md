@@ -229,6 +229,8 @@ Die Datenverarbeitung ist zur Abwicklung des zustande kommenden Vertrags gesetzl
 
 Ihr Datensatz wird in unserer Kundendatenbank für die Dauer Ihres Abos gespeichert. Die darüber hinaus gehende Speicherung dient der Einhaltung der uns obliegenden gesetzlichen Aufbewahrungspflichten.
 
+[To the top of the section](#Abschluss-eines-Abos)
+
 ### Abschluss eines Probe-Abos
 
 Wir bieten regelmäßig den Abschluss eines Probe-Abos an, damit Sie unsere Angebote testen können. Je nach Produkt werden verschiedene Daten abgefragt und zur Bereitstellung verwendet.
@@ -236,6 +238,8 @@ Wir bieten regelmäßig den Abschluss eines Probe-Abos an, damit Sie unsere Ange
 Die Datenverarbeitung ist zur Erfüllung von zustande kommenden Verträgen sowie zur Wahrung unserer berechtigten Interessen zulässig (Art. 6 Abs. 1 b), f) DSGVO). Die Angabe Ihrer Daten ist freiwillig, für die Bereitstellung unseres Angebots aber erforderlich. Ist der Abschluss eines Probe-Abos Voraussetzung für die Teilnahme an einem Gewinnspiel, hat die Nichtbereitstellung Ihrer Daten zur Folge, dass Sie nicht teilnehmen können.
 
 Vertragsunterlagen beinhalten zwangsläufig steuerrechtlich relevante Handels- und Geschäftsbriefe, die einer gesetzlichen Aufbewahrungspflicht von bis zu 8 Jahren unterliegen. Um alle Vorgänge nachvollziehen und im Falle einer Behördenprüfung auskunftsfähig sein zu können, speichern wir alle Unterlagen und Daten für mindestens diesen Zeitraum.
+
+[To the top of the section](#Abschluss-eines-Probe-Abos)
 
 ### Shared Abo
 
@@ -245,6 +249,8 @@ Die Datenverarbeitung erfolgt zur Bereitstellung des Shared Abos und zur Wahrung
 
 Sofern die E-Mail-Adresse der eingeladenen Person nicht zu anderen Zwecken länger gespeichert werden darf, wird sie mit dem Verfall der Einladung nach 3 Monaten gelöscht oder bis zum Ablauf des Mitbenutzungsrechts gespeichert.
 
+[To the top of the section](#Shared-Abo)
+
 ### Bezahlung (Dienstleister)
 
 Wir setzen Zahlungsanbieter ein, um Ihnen möglichst viele Bezahlmethoden auf einen Klick anbieten zu können. Die Anbieter übernehmen dabei insbesondere die Weiterleitung der gezahlten Beträge an uns und kontrollieren die Zahlungsflüsse.
@@ -252,6 +258,8 @@ Wir setzen Zahlungsanbieter ein, um Ihnen möglichst viele Bezahlmethoden auf ei
 Die Einbindung von Zahlungsanbietern und die dabei stattfindende Weitergabe Ihrer Daten ist zur Wahrung unserer berechtigten Unternehmensinteressen erlaubt (Art. 6 Abs. 1 f) DSGVO). Wir selbst sind nicht in der Lage, die erforderlichen Prozesse rechtssicher abzubilden. Daher haben wir uns für externe Zahlungsdienstleister entschieden. Die Datenverarbeitung geschieht automatisch, wenn Sie eine der angebotenen Zahlungsmethoden auswählen und auf der Seite des Zahlungsanbieters bezahlen. Die Datenverarbeitung ist für die Bezahlung erforderlich.
 
 Wir speichern keine Bankdaten in unseren Systemen. Wir halten lediglich vor, welche Beträge zu zahlen sind und ob sie beglichen wurden.
+
+[To the top of the section](#Bezahlung-Dienstleister)
 
 ### Gewinnspiele
 
@@ -261,6 +269,8 @@ Die bei der Durchführung eines Gewinnspiels stattfindende Datenverarbeitung ist
 
 Ihre im Zusammenhang mit unseren Gewinnspielen erhobenen Daten werden bis zur vollständigen Abwicklung (Ermittlung und Benachrichtigung der Gewinner, Zusendung des Gewinns) gespeichert. Eine darüber hinausgehende Speicherung kann im Rahmen von verbundenen Verarbeitungen erfolgen (z.B. Abschluss eines Probe-Abos oder Anmeldung zu einem Newsletter, wenn dies die Voraussetzung für eine Gewinnspielteilnahme war). Etwaige Veröffentlichungen sind zeitlich unbeschränkt.
 
+[To the top of the section](#Gewinnspiele)
+
 ### Umfragen
 
 Wir führen Online-Umfragen durch, um die Qualität unserer Leistungen bewerten zu lassen oder um Interessen abzufragen. Erhoben werden Meinungen und Ansichten, die wir zur Verbesserung unserer Leistungen auswerten und verwenden. Sofern Gewinne unter den Umfrageteilnehmern verlost werden, fragen wir zusätzlich ohne Bezug zu den Umfrageergebnissen Kontaktdaten ab.
@@ -268,6 +278,8 @@ Wir führen Online-Umfragen durch, um die Qualität unserer Leistungen bewerten 
 Die stattfindende Datenverarbeitung dient der Wahrung unserer berechtigten Unternehmensinteressen (Art. 6 Abs. 1 f) DSGVO). Wir möchten die Meinung unserer Kunden bei der Weiterentwicklung unserer Leistungen berücksichtigen und benötigen hierfür möglichst aussagekräftige Daten. Die Teilnahme an unseren Umfragen ist freiwillig. Die Angabe von Kontaktdaten ist erforderlich, um bei der Verlosung eines Gewinns berücksichtigt werden zu können.
 
 Die anonymisierten Umfrageergebnisse speichern wir zeitlich unbegrenzt. Nicht-anonymisierbare Daten speichern wir für eine Dauer von 6 Monaten ab Erhebung. Kontaktdaten werden für die Dauer ihrer anschließenden Verwendung gespeichert.
+
+[To the top of the section](#Umfragen)
 
 Events und Seminare
 -------------------
@@ -365,6 +377,8 @@ Die Weitergabe zum Zweck der Werbung erfolgt zur Wahrung berechtigter Interessen
 
 Kundendaten müssen wir zur Wahrung gesetzlicher Aufbewahrungspflichten bis zu 8 Jahre speichern. Im Falle eines Widerspruchs werden wir Ihre Postanschrift jedoch nicht mehr zu werblichen Zwecken an Marketingdienstleister übermitteln.
 
+[To the top of the section](#Werbung-durch-Marketingdienstleister)
+
 ### Werbliche Anrufe
 
 Wir nutzen Ihre Telefonnummer, um Sie über Angebote und Neuigkeiten zu informieren.
@@ -412,6 +426,8 @@ Ihre Daten werden für die Dauer des Bestehens Ihres Accounts gespeichert.
 
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH
 
+[To the top of the section](#ZEIT-Single-Sign-On-Account)
+
 ### Kundenbetreuung und Servicecenter
 
 Zur Bearbeitung von Fragen und Reklamationen sowie zur Erbringung unseres Urlaubs- und Umzugsservice werden die personenbezogenen Daten von Abonnenten den zuständigen Mitarbeitern in einem zentralen System bereitgestellt. Wir nutzen Ihre Daten zur Kommunikation mit Ihnen sowie zur Einrichtung der von Ihnen gewünschten Serviceleistungen.
@@ -422,6 +438,8 @@ Die Speicherung Ihrer personenbezogenen Daten richtet sich bei einem bestehenden
 
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Akademie GmbH
 
+[To the top of the section](#Kundenbetreuung-und-Servicecenter)
+
 ### Abo-Verwaltung und Marketing
 
 Wir verarbeiten die personenbezogenen Daten unserer Abonnenten zur Anbahnung und Erfüllung von Abo-Verträgen sowie zur Durchführung verschiedener Marketingmaßnahmen. Dabei werden neben Personenstammdaten auch Angaben zu bezogenen Leistungen und zurückliegenden Vertragsverhältnisse verarbeitet. Bei unseren Marketingmaßnahmen berücksichtigen wir, was die Adressaten interessieren könnte und unterbreiten passende Angebote.
@@ -431,6 +449,8 @@ Die Verarbeitung im Rahmen der Abo-Verwaltung erfolgt zur Abwicklung eines Vertr
 Die zur Verwaltung Ihres Abos gespeicherten Daten unterliegen verschiedenen gesetzlichen Aufbewahrungspflichten. Wir speichern alle Vertragsdaten für einen Zeitraum von mindestens 8 Jahren. Bei einem Widerspruch zur werblichen Nutzung werden die Daten eingeschränkt verarbeitet und mit einer Werbesperre versehen.
 
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Akademie GmbH
+
+[To the top of the section](#Abo-Verwaltung-und-Marketing)
 
 ### Andere Unternehmen
 
@@ -482,6 +502,8 @@ Sie können Ihre nur für diese Webseite geltende Einwilligung auch [hier widerr
 
 Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement "Datenschutzerklärung von Utiq").
 
+[To the top of the section](#Utiq-SA/NV)
+
 ### Anbieter von Social-Media-Plattformen
 
 Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen, mit Nutzern zu interagieren und unsere Produkte zu bewerben. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
@@ -503,13 +525,13 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   Google Ireland Ltd. (SaaS-Anbieter)
 *   Brightcove, Inc. (Hosting und Videoplattform)
 *   DPV Deutscher Pressevertrieb GmbH (Abo-Abwicklung)
-*   Optimizely GmbH (Newsletter-Tool)
+*   Optimizely GmbH (SaaS-Anbieter Newsletter-Tool)
 *   ferret go GmbH (Kommentarprüfung)
 *   Tickaroo GmbH (Einbindung Live-Blog)
 *   Audio Ventures Inc. (SimpleCast Audiobereitstellung)
 *   Salesforce, Inc. (Heroku Webhosting)
 *   Snowplow Analytics Ltd. (SaaS-Anbieter Tracking-Tool)
-*   Freshworks Inc. (Ticketsystem)
+*   Freshworks Inc. (SaaS-Anbieter Ticketsystem)
 *   Meta Platforms Ireland Ltd. (Betreiber Social-Media-Plattform)
 *   MaxMind, Inc. (Geolokalisierung)
 *   Fastly, Inc. (Anbieter Content Delivery Network)
@@ -677,6 +699,8 @@ Die Datenverarbeitung findet auf Servern der TikTok-Unternehmen statt. Direktnac
 
 TikTok ist über das Internet auf der ganzen Welt abrufbar, sodass ein Zugriff auch aus Ländern ohne ausreichendes Datenschutzniveau möglich ist. Die Plattformbetreiber haben verschiedene Maßnahmen ergriffen, um ein ausreichendes Datenschutzniveau zu gewährleisten. Die in den [„Juristiction Specific Terms“](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Juristiction Specific Terms") enthaltenen Standardvertragsklauseln regeln den internationalen Datentransfer und stellen sicher, dass die an der Datenverarbeitung beteiligten Unternehmen datenschutzkonform agieren.
 
+[To the top of the section](#TikTok-Profile)
+
 ### X-Profile
 
 **Verantwortlichkeit**
@@ -711,6 +735,8 @@ Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung bei der Nutzun
 
 Sie haben die Möglichkeit, die Datenverarbeitung bei der Nutzung von WhatsApp anzupassen. Nutzen Sie dafür die [Datenschutzeinstellungen innerhalb der App](https://faq.whatsapp.com/3307102709559968/?locale=de_DE "Datenschutzeinstellungen innerhalb der App").
 
+[To the top of the section](#WhatsApp-Kanäle)
+
 ### LinkedIn-Profile
 
 **LinkedIn-Account und Kommunikation mit Nutzern**
@@ -744,7 +770,11 @@ Wenn Sie einen Kommentar hinterlassen, wird dieser zeitlich unbegrenzt auf unser
 
 [To the top of the section](#LinkedIn-Profile)
 
-![](//images.ctfassets.net/9q531vlek15f/3EWy3JIYxTEL5WvzI70ZjS/300f00338ec050134290f241de77c83e/Medienprivileg.jpg)
+Medienprivileg
+--------------
+
+Medienprivileg
+--------------
 
 Über unsere Website und andere Kanäle verarbeiten wir personenbezogene Daten auch zu journalistischen Zwecken. Dabei verfolgen wir das Ziel, Informationen, Meinungen und Ideen in der Öffentlichkeit zu verbreiten und objektiv einen Beitrag zur Meinungsbildung zu leisten.
 

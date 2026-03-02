@@ -5,7 +5,7 @@ Last Updated: 22.12.2025
 
 To see prior version, please click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). Please also review the [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25) and [Interest-Based Ads notice](https://www.amazon.de/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). Please also review the [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25) and [Interest-Based Ads notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
 
 *   [Controllers of Personal Information](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_59D17962BEAC4806A83E752ECC5FC54D)
 *   [What Personal Information About Customers Does Amazon Europe Collect?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_7C569F52615A45629A7A4922B1CFA46C)
@@ -109,7 +109,7 @@ You can access your information, including your name, address, payment options, 
 What Choices Do I Have?
 -----------------------
 
-If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/-/en/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
+If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
 
 *   As described above, you can choose not to provide certain information but then you might not be able to take advantage of many of the Amazon Services.
 *   You can add or update certain information on pages such as those referenced in the [Information You Can Access](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_8E8555298F744144B56A48C866F09067) section. When you update information, we usually keep a copy of the previous version for our records.
@@ -158,7 +158,7 @@ Related Practices & Information
 *   [Conditions of Use and Sale](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201909000)
 *   [Help Desk](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=508510)
 *   [Most Recent Purchases](https://www.amazon.de/-/en/gp/css/order-history)
-*   [Your Profile and Community Guidelines](https://www.amazon.de/gp/help/customer/display.html?nodeId=201929730)
+*   [Your Profile and Community Guidelines](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201929730)
 
 Examples of Information Collected
 ---------------------------------

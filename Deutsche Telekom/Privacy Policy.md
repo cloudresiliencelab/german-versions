@@ -261,7 +261,7 @@
     
 *   ### 6. Wer ist verantwortlich für die Datenverarbeitung? Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?
     
-    Datenverantwortliche ist die Telekom Deutschland GmbH, Landgrabenweg 149, 53327 Bonn. Bei Fragen können Sie sich an unseren Kundenservice wenden oder an unseren Datenschutzbeauftragten, Herrn Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, [datenschutz@telekom.de](mailto:datenschutz@telekom.de).
+    Datenverantwortliche ist die Telekom Deutschland GmbH, Landgrabenweg 149, 53327 Bonn. Bei Fragen können Sie sich an unseren Kundenservice wenden oder an unsere Datenschutzbeauftragte, Frau Susanne Eichhorn, Friedrich-Ebert-Allee 140, 53113 Bonn, [datenschutz@telekom.de](mailto:datenschutz@telekom.de).
     
 *   ### 7\. Welche Rechte habe ich?
     

@@ -5,7 +5,7 @@ Last Updated: 22.12.2025
 
 To see prior version, please click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). Please also review the [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25) and [Interest-Based Ads notice](https://www.amazon.de/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This privacy notice describes how we collect and use your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). Please also review the [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25) and [Interest-Based Ads notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
 
 *   [Controllers of Personal Information](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_59D17962BEAC4806A83E752ECC5FC54D)
 *   [What Personal Information About Customers Does Amazon Europe Collect?](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_7C569F52615A45629A7A4922B1CFA46C)
@@ -68,7 +68,7 @@ Here are the types of personal information we collect:
 What About Cookies and Other Identifiers?
 -----------------------------------------
 
-We use cookies and similar tools to enhance your shopping experience, provide Amazon Services, understand how customers use Amazon Services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. For more information about cookies and how we use them, please read our [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.de/-/en/privacyprefs/retail).
+We use cookies and similar tools to enhance your shopping experience, provide Amazon Services, understand how customers use Amazon Services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. For more information about cookies and how we use them, please read our [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.de/privacyprefs/retail).
 
 Does Amazon Europe Share Your Personal Information?
 ---------------------------------------------------
@@ -93,7 +93,7 @@ We design our systems and devices with your security and privacy in mind.
 *   We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
 *   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may ask to verify your identity before we disclose personal information to you.
 *   Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=200127470) for more information on how to manage the security settings of your device.
-*   It is important for you to protect against unauthorised access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not utilized for other online accounts. Be sure to sign off when you finish using a shared computer. For more information on how to sign off, [click here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C).
+*   It is important for you to protect against unauthorised access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not utilized for other online accounts. Be sure to sign off when you finish using a shared computer. For more information on how to sign off, [click here](https://www.amazon.de/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C).
 
 What About Advertising?
 -----------------------
@@ -158,7 +158,7 @@ Related Practices & Information
 *   [Conditions of Use and Sale](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201909000)
 *   [Help Desk](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=508510)
 *   [Most Recent Purchases](https://www.amazon.de/-/en/gp/css/order-history)
-*   [Your Profile and Community Guidelines](https://www.amazon.de/gp/help/customer/display.html?nodeId=201929730)
+*   [Your Profile and Community Guidelines](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201929730)
 
 Examples of Information Collected
 ---------------------------------

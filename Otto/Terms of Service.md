@@ -117,6 +117,6 @@ der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (\*) Unzutreffendes bitte streichen.
 
-[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20250901_AGB_OTTO.pdf)
+[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/AGB_OTTO_Marktplatz_20260301.pdf)
 
  Stand: 01.03.2026

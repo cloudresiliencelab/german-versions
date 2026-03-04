@@ -70,6 +70,16 @@ Hinweis: Hat ein Vertriebspartner Zugangsberechtigungen für unsere Bezahlangebo
 
 Bestimmte, teilweise exklusive, digitale Inhalte von BILD werden als BILDplus kostenpflichtig angeboten. BILD möchte dem Nutzer von BILDplus ein bestmögliches Erlebnis bieten und passt daher die Inhalte permanent an die persönlichen Interessen des Nutzers an. Über die dafür erforderliche Datenverarbeitung informiert BILD den Nutzer in der Datenschutzerklärung. BILDplus kann auch kostenlos zur Verfügung gestellt werden, etwa für Einführungsangebote mit bestimmten Laufzeiten oder über ein Sponsoring durch Dritte. Um BILDplus als Webanwendung nutzen zu können, haben Sie die Wahl, entweder der Datenverarbeitung zuzustimmen („alles akzeptieren“) oder – wenn Sie dies nicht möchten – ein BILD Pur-Abo dazu zu buchen. Mit dem BILD Pur-Abo nutzen Sie BILDplus ohne Tracking und ohne einwilligungspflichtige Datenverarbeitung, d.h. insbesondere nur mit unbedingt erforderlichen Cookies und ohne personalisierte Werbung, Ziffer 8. dieser AGB. BILDplus umfasst auch die Mitgliedschaft im BILD CLUB.
 
+**7a. BILD Wallet (Freischaltung einzelner Artikel)**
+
+Ergänzend zu den Abonnement-Modellen bietet BILD die Möglichkeit, einzelne BILDplus-Artikel über ein „BILD Wallet“ freizuschalten. Sie können dafür „Credits“ (digitale Verbrauchseinheiten) kaufen, die im „BILD Wallet“ gespeichert werden. Ein Credit berechtigt zur Freischaltung eines einzelnen BILDplus-Artikels. Jeder freigeschaltete Artikel kann ab dem Zeitpunkt der Freischaltung für die Dauer von 14 Tagen abgerufen werden.
+
+Das BILD Wallet ist kein Abonnement und begründet kein Dauerschuldverhältnis. Der konkrete Umfang des Angebots, insbesondere der Preis der Credits, die Anzahl der für einen Artikel erforderlichen Credits sowie die Verfügbarkeit bestimmter Inhalte im Wallet-Modell, kann variieren.
+
+Credits können innerhalb der gesetzlichen Verjährungsfrist von drei Jahren ab dem Schluss des Jahres eingelöst werden, in dem sie erworben wurden.
+
+BILD behält sich vor, das BILD Wallet jederzeit ganz oder teilweise einzustellen oder inhaltlich zu ändern. Bereits erworbene und noch nicht eingelöste Credits bleiben innerhalb ihrer gesetzlichen Verjährungsfrist nutzbar. Ist eine Nutzung aus von BILD zu vertretenden Gründen dauerhaft nicht mehr möglich, wird ein entsprechendes Restguthaben erstattet.
+
 **8\. BILD Pur**
 
 8.1. Mit dem BILD Pur-Abo bietet BILD die kostenpflichtige Nutzung der digitalen Angebote ohne Tracking, nur mit unbedingt erforderlichen Cookies und ohne personalisierte Werbung an.

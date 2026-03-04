@@ -14,7 +14,7 @@ In Protokolldateien (Logfiles) werden Ihre IP-Adresse, Gerätekennung und Domain
 
 ### Diagnosebericht
 
-Wenn Sie möchten, können Sie uns einen iOS-App-Diagnosebericht zusenden, damit wir konkrete Fehler analysieren können. Hierzu ist Ihre freiwillige Einwilligung notwendig, die Sie jederzeit widerrufen können. Der Diagnosebericht enthält applikationsspezifische Daten und Metadaten der zuletzt genutzten Beiträge. Falls Sie ein ARD-Konto verwenden, enthält der Bericht Ihre anonymisierte Kennung (Nutzer-ID), damit wir Fehler auch in unserer Datenbank analysieren können. Nachdem die Analyse abgeschlossen ist, werden die erhobenen Daten unverzüglich gelöscht.
+Wenn Sie möchten, können Sie uns einen iOS-App-Diagnosebericht zusenden, damit wir konkrete Fehler analysieren können. Hierzu ist Ihre freiwillige Einwilligung notwendig, die Sie jederzeit widerrufen können. Der Diagnosebericht enthält applikationsspezifische Daten und Metadaten der zuletzt genutzten Beiträge. Falls Sie ein ARD-Konto verwenden, enthält der Bericht Ihre anonymisierte Kennung (User-ID), damit wir Fehler auch in unserer Datenbank analysieren können. Nachdem die Analyse abgeschlossen ist, werden die erhobenen Daten unverzüglich gelöscht.
 
 Cookies
 -------
@@ -63,10 +63,6 @@ Wir nutzen den Apple Push Notifications der Firma Apple ([https://www.apple.com/
 
 Mit Hilfe des Dienstes Caplena der Firma Caplena ([https://caplena.com/de/](https://caplena.com/de/)) werden offene Texteingaben beispielsweise in Kontaktformularen durch eine künstliche Intelligenz (innerhalb eines abgeschlossenen Systems) teilautomatisiert ausgewertet. Sollten Sie an dieser Stelle freiwillig personenbezogene Angaben gemacht haben, werden diese in Caplena automatisch anonymisiert, so dass keinerlei Bezug zu Ihrer Person hergestellt werden kann. Caplana ermöglicht uns einen schnellen Überblick über die gemachten Angaben, damit wir die Erkenntnisse aus den Texteingaben den verantwortlichen Stellen zuleiten können. Weitere Informationen finden Sie in der Datenschutzerklärungen der Firma Caplena: [https://caplena.com/en/privacy-policy/](https://caplena.com/en/privacy-policy/)
 
-### Famium SAND
-
-Wir nutzen den Dienst Famium SAND des Fraunhofer-Instituts für offene Kommunikationssysteme (FOKUS, [https://www.fokus.fraunhofer.de/](https://www.fokus.fraunhofer.de/)), um die Möglichkeit bieten zu können, Audio- und Videodateien sowohl als Livestream als auch On Demand Videos abzurufen. Zur Sicherstellung der technischen Verfügbarkeit erheben wir dabei automatisiert technische Parameter zur Funktionalität und Qualität der Ausspielung. Diese sind im ISO-Standard ISO/IEC 23009-1 Annex D definiert und beinhalten z.B. Informationen zu ausgespielter Bandbreite und aufgetretenen Fehlern bei der Ausspielung. Diese Daten sind anonymisiert, haben keinen direkten Personenbezug und werden nicht an Dritte weitergegeben. Die Erhebung der Daten ist unbedingt erforderlich, um die technische Auslieferung und Wiedergabe der angeforderten Medieninhalte auf dem Endgerät sicherzustellen und die Zuverlässigkeit und Stabilität der Auslieferung zu gewährleisten. Zudem dienen die Daten der stetigen Optimierung der Streamauslieferung. Weitere Informationen finden Sie in der Datenschutzerklärung des Fraunhofer-Instituts für offene Kommunikationssysteme (FOKUS): [https://www.fokus.fraunhofer.de/datenschutz](https://www.fokus.fraunhofer.de/datenschutz)
-
 ### Google Cloud Platform und Cloud Messaging (nur App der ARD Audiothek) sowie Firebase Crashlytics und Chromecast
 
 Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), um die Leistungsfähigkeit und Verfügbarkeit unserer Online-Dienste sicherzustellen sowie Änderungen und Zugriffe im Rahmen von Sicherheits- und Compliance-Anforderungen zu protokollieren. Dies dient zugleich dem Schutz vor unbefugtem Zugriff, Angriffen oder technischen Störungen. Die Google Cloud Platform umfasst unter anderem den Einsatz von sogenannten Audit Logs, in deren Rahmen folgende Daten verarbeitet werden: IP-Adressen, Zeitstempel von Zugriffen oder Änderungen an unseren Systemen, Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen. Google agiert in diesem Zusammenhang als unser Auftragsverarbeiter gemäß Art. 28 DSGVO. Die verarbeiteten Daten dienen ausschließlich den oben genannten Zwecken und werden nicht zur Erstellung von Nutzerprofilen verwendet. Die in den Audit Logs gespeicherten Daten werden nur so lange aufbewahrt, wie dies für die jeweiligen Sicherheits- oder Nachverfolgbarkeitsanforderungen erforderlich ist. Die Speicherfristen richten sich nach unseren internen Richtlinien und gesetzlichen Vorgaben.
@@ -109,9 +105,9 @@ Für die Anmeldung zum Newsletter der ARD Mediathek und den ARD Hörspiel Newsle
 
 Für die Versendung des Newsletters der ARD Mediathek und des ARD Hörspiel Newsletters verwenden wir ein webbasiertes Tool der ARD. Die zum Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse und optional Name) werden auf Servern des Saarländischen Rundfunks (SR, Funkhaus Halberg, 66100 Saarbrücken) in Deutschland gespeichert. Zudem werden Daten zu den Öffnungsraten, Anzahl der Versendeten Newsletter und angeklickten Links gespeichert.
 
-Für den Newsletter der ARD Audiothek nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Die ARD-Kommunikation verwendet den Dienst Rapidmail der Firma Rapidmail ([https://www.rapidmail.de/](https://www.rapidmail.de/)), um Ihnen den jeweiligen Newsletter schicken zu können. Diese Dienste ermöglichen es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland und von Rapidmail in Deutschland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
+Für den Newsletter der ARD Audiothek nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
 
-Die Datenverarbeitung erfolgt auf Grundlage Ihrer freiwilligen Einwilligung. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Wenn Sie keine Analyse durch CleverReach bzw. Rapidmail wollen, müssen Sie den jeweiligen Newsletter abbestellen. Hierfür steht Ihnen in jedem Newsletter ein entsprechender Link zur Verfügung. Weitere Informationen finden Sie in der Datenschutzrichtlinie des jeweiligen Dienstleisters: [https://www.cleverreach.com/de/datenschutz/](https://www.cleverreach.com/de/datenschutz/) [https://www.rapidmail.de/datenschutz](https://www.rapidmail.de/datenschutz)
+Die Datenverarbeitung erfolgt auf Grundlage Ihrer freiwilligen Einwilligung. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Wenn Sie keine Analyse durch CleverReach wollen, müssen Sie den Newsletter abbestellen. Hierfür steht Ihnen in jedem Newsletter ein entsprechender Link zur Verfügung. Weitere Informationen finden Sie in der Datenschutzrichtlinie on CleverReach: [https://www.cleverreach.com/de/datenschutz/](https://www.cleverreach.com/de/datenschutz/)
 
 E-Mail und Kontaktformular
 --------------------------
@@ -125,47 +121,53 @@ Anfragen aller Art leiten wir ggf. innerhalb des ARD-Verbundes an Redaktionen de
 Nutzung des ARD-Kontos
 ----------------------
 
-ARD Mediathek und ARD Audiothek nutzen für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Für die Verarbeitung der dort hinterlegten Daten bleiben ARD Mediathek und ARD Audiothek mitverantwortlich. Informationen zu diesem übergreifenden ARD-Konto erhalten Sie auf der verlinkten Datenschutzerklärung und den Nutzungsbedingungen.
+Als Nutzerin und Nutzer haben Sie die Möglichkeit, sich für das ARD-Konto kostenlos zu registrieren. Dadurch können Sie auf unterschiedliche Komfortfunktionen wie Empfehlungen, Merklisten, geräteübergreifendes Weiterschauen oder Push‑Benachrichtigungen zugreifen.
 
 ARD Mediathek und ARD Audiothek können aber auch jederzeit ohne Registrierung und Anlegen eines Nutzerkontos genutzt werden.
 
-### Personalisierung
+Entschließen Sie sich für das ARD-Konto zu registrieren, bleibt ARD Online für die Verarbeitung der dort hinterlegten Daten mitverantwortlich. Alle Informationen zum übergreifenden ARD-Konto erhalten Sie auf der folgenden Datenschutzerklärung und den Nutzungsbedingungen.
 
-Sofern Sie das ARD-Konto nutzen, gibt es in der ARD Mediathek und ARD Audiothek personalisierte Flächen, um Ihnen auf Sie zugeschnittene Inhalte und Empfehlungen bereitzustellen. Um Ihnen diese Flächen anzubieten und ein verbessertes Nutzungserlebnis in unseren Produkten zu gewährleisten, verknüpfen und verarbeiten wir Ihre anonymisierte Kennung (Nutzer-ID) mit ausgewählten Tracking-Events des Anbieters Piano Software Inc. Zu den verarbeiteten Daten zählen die IDs ihrer zuletzt geschauten/gehörten Inhalte, der Anzahl Ihrer Abrufe pro Inhalt, die Abrufdauer pro Inhalt und der Abrufzeitpunkt pro Inhalt. Rechtsgrundlage für die Datenverarbeitung ist die von Ihnen erteilte Einwilligung zur Nutzung des ARD-Kontos gemäß Art. 6 Abs. 1 lit a) DSGVO. Als Nutzer haben Sie die Möglichkeit der Datenverarbeitung zu widersprechen, indem Sie das Tracking in den Einstellungen der ARD Mediathek und ARD Audiothek deaktivieren.
+Konzentrierte Informationen in Bezug auf die ARD Mediathek und ARD Audiothek erhalten Sie nachfolgend.
 
-ARD Online und das Zweite Deutsche Fernsehen (ZDF) arbeiten im Personalisierungsbereich technologisch zusammen. Diese Zusammenarbeit ist vertraglich geregelt gemäß Art. 28 Abs. 3 DSGVO. ARD Online gibt keine Nutzer- oder Nutzungsdaten an das ZDF oder sonstige Dritte weiter. Erhobene Daten werden bis zum Widerruf der Einwilligung bzw. zur Löschung des Kontos bei uns gespeichert.
+### User-ID zu funktionalen Zwecken (Personalisierung)
 
-### Empfehlungen
+In der ARD Mediathek und ARD Audiothek haben Sie über das ARD-Konto Zugriff auf bestimmte, personalisierte Funktionen (z.B. Merkliste oder personalisierte Empfehlungen). Diese Funktionen benötigen eine stabile, persönliche Kennung, damit unsere Systeme wissen, welche Daten zu welchem Konto gehören. Im ARD-Konto verarbeiten wir deshalb bestimmte Nutzungsvorgänge (z.B. welche Inhalte Sie wann geschaut haben) zusammen mit einer pseudonymisierten User-ID von Ihnen. Diese ID ist alleinstehend nicht auf Sie zurückführbar.
 
-In der ARD Mediathek bieten wir Ihnen personalisierte Empfehlungen ausschließlich mit Nutzung des ARD-Kontos an. Zur Empfehlungsgenerierung greifen wir auf ein cloudbasiertes Empfehlungssystem zurück, das wir gemeinsam mit dem Zweiten Deutschen Fernsehen (ZDF) unter Berücksichtigung getrennter Datenhaltung betreiben. Anforderungen zum Schutz Ihrer Daten wurden durch einen Auftragsverarbeitungsvertrag nach Art. 28 Abs. 3 DSGVO geregelt.
+Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
 
-Nutzen Sie das ARD-Konto in der ARD Mediathek, erhalten Sie über das Empfehlungsband "Empfehlungen für Sie" personalisierte Empfehlungen zu Inhalten, die ähnliche Nutzer wie Sie bereits konsumiert haben. Um Ihnen diese Empfehlungen anzubieten, verarbeiten wir folgende Daten von Ihnen: Anonymisierte Kennung (User-ID) Nutzungsdaten (Abrufe, Abrufdauer, Abrufzeitpunkt)
+### User-ID zu analytischen Zwecken
 
-Nutzen Sie das ARD-Konto in der ARD Audiothek, erhalten Sie je nach Nutzungsintensität personalisierte Empfehlungen über die Bänder "Podcast Empfehlungen für dich", "Spannende Podcast Folgen für dich" und "Spannende Themen für dich". Um Ihnen diese Empfehlungen zu ermöglichen, verarbeiten wir folgende Daten von Ihnen: Anonymisierte Kennung (User-ID) Nutzungsdaten (z.B. Abrufe, Abrufdauer, Abrufzeitpunkt) Geräteinformationen (z.B. Gerätetyp, Betriebssystem, Sprache, Zeitzone)
+Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten und die Funktionen des ARD-Kontos qualitativ weiterzuentwickeln. Die Verarbeitung Ihrer User-ID findet hierbei nur statt, wenn Sie die ARD Mediathek oder ARD Audiothek mit einem angemeldeten Konto nutzen.
 
-Grundlage für die Verarbeitung Ihrer Daten im angemeldeten Nutzungszustand ist Ihre Einwilligung zur Nutzung des ARD-Kontos nach Art. 6 Abs. 1 lit a) DSGVO.
+Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
 
-### "Weiterschauen"
+Kinderprofile
+-------------
 
-Wenn Sie die ARD Mediathek auf Streamingplattformen wie beispielsweise AndroidTV oder GoogleTV nutzen, werden Sie ggf. auf Videoinhalte hingewiesen, die Sie in der ARD Mediathek begonnen, aber noch nicht zu Ende gesehen haben. Über einen Direktlink gelangen Sie in die ARD Mediathek und können sich dort den Inhalt an der zuletzt besuchten Stelle weiteransehen.
+Mit Kinderprofilen des ARD-Kontos können Sie für Kinder die Nutzung von ARD Mediathek und ARD Audiothek auf Kinderinhalte beschränken. Wenn Sie ein Kinderprofil anlegen, erheben wir die Information, dass Nutzung zu einem Kinderprofil gehört und gegebenfalls die Altersgruppe. Wir tun dies, um die Zugriffe auf unsere Kinderangebote messen und unsere Angebote verbessern zu können (gemäß Medienstaatsvertrag § 31). Dies ist notwendig, weil Kinder unterschiedlicher Altersgruppen stark unterschiedliche Nutzungsverhalten haben können.
 
-Um die Funktion "Weiterschauen" zu nutzen, benötigen Sie ein angemeldetes Konto auf der entsprechenden Streamingplattform und in der ARD Mediathek. Die Streamingplattform erhält von der ARD Mediathek Auskunft über den Titel des zuletzt geschauten Inhalts und bis zu welcher Position Sie den Inhalt angesehen haben. Diese Daten werden für maximal 180 Tage gespeichert.
+Die Messung der Nutzung von Kinderprofilen erfolgt rein statistisch und pseudonym, ohne personenspezifische Daten zu erheben. Auch die anonymisierte Kennung (User-ID) des mit den Kinderprofilen verbundenen Nutzerkontos wird nicht verarbeitet.
+
+Die Funktionen "Merkliste" und "Weiterschauen" stehen wie für das Haupt-ARD-Konto auch für das Kinderprofil zur Verfügung. Das Kinderprofil kann mit einer optionalen Kinder-PIN abgesichert werden, um sicherzustellen, dass Kinder nur im Kinderbereich aktiv sind. Sobald das Kinderprofil bzw. das ARD-Konto von dem Nutzer oder der Nutzerin gelöscht wird, werden alle personenbezogenen Daten gelöscht.
+
+Ihre Steuerungsmöglichkeiten
+----------------------------
+
+Sie können im Rahmen der ARD‑Konto‑Nutzung folgende Aspekte selbst steuern: Analysezwecke: Die Übertragung Ihrer Nutzungsdaten und User-ID zur statistischen Analyse der angemeldeten Nutzung können Sie jederzeit in den allgemeinen Einstellungen deaktivieren. Bitte beachten Sie, dass hierdurch bestimmte Funktionen nur noch eingeschränkt funktionieren könnten. Altersangaben bei Kinderprofilen: In Ihrem Profil können Sie freiwillig die Altersgruppe des Kindes angeben, aber auch keine Angabe machen. Die Altersangabe dient dazu, altersgerechte Inhalte auszuspielen und ein entsprechendes Design zu gewährleisten. Suchhistorie löschen: Ihre gesamte Suchhistorie lässt sich in den ARD-Konto‑Einstellungen vollständig löschen. Einzelne Suchbegriffe entfernen: Einzelne Suchanfragen können Sie direkt im Suchbereich unserer App bzw. unseres Webangebots entfernen.
+
+ARD-ZDF Streaming Netzwerk
+--------------------------
+
+Transparenz ist uns besonders wichtig. Aus diesem Grund möchten wir sie darauf aufmerksam machen, dass ARD und ZDF im Rahmen des ARD-ZDF-Streaming-Netzwerks im Bereich algorithmischer Empfehlungen zusammenarbeiten. Diese Zusammenarbeit ist vertraglich geregelt. Es werden keine personenbezogenen Daten an das ZDF weitergegeben.
+
+Weiterschauen-Funktion auf Streamingplattformen
+-----------------------------------------------
+
+Wenn Sie die ARD Mediathek auf Streamingplattformen wie AndroidTV oder GoogleTV nutzen, werden Sie ggf. auf Videoinhalte hingewiesen, die Sie in der ARD Mediathek begonnen, aber noch nicht zu Ende gesehen haben. Über einen Direktlink gelangen Sie in die ARD Mediathek und können sich dort den Inhalt an der zuletzt besuchten Stelle weiteransehen.
+
+Um die Weiterschauen-Funktion zu nutzen, benötigen Sie ein angemeldetes Konto auf der entsprechenden Streamingplattform und in der ARD Mediathek. Die Streamingplattform erhält von der ARD Mediathek Auskunft über den Titel des zuletzt geschauten Inhalts und bis zu welcher Position Sie den Inhalt angesehen haben. Diese Daten werden für maximal 180 Tage gespeichert.
 
 Grundlage für die Verarbeitung Ihrer Daten im angemeldeten Nutzungszustand ist Ihre Einwilligung zur Nutzung des ARD-Kontos nach Art. 6 Abs. 1 S. 1 lit. a) DSGVO. Sie können Ihre Einwilligung in die Datenverarbeitung zur Nutzung der Funktion "Weiterschauen" jederzeit mit Wirkung für die Zukunft widerrufen. Rufen Sie dafür auf der jeweiligen Plattform die ARD Mediathek auf und deaktivieren Sie im Einstellungsmenü die Option "Weiterschauen".
-
-### Kinderprofile
-
-Sie haben im Rahmen eines ARD-Kontos auch die Möglichkeit, dort Kinderprofile anzulegen. Dadurch können Sie für Kinder die Nutzung von ARD Mediathek und ARD Audiothek auf Kinderinhalte beschränken. Dabei können Sie freiwillig die Altersgruppe des Kindes angeben, aber auch keine Angabe machen. Die Altersangabe dient dazu, eine altersgerechte Darstellung von Inhalten und ein entsprechendes Design zu gewährleisten.
-
-Im Rahmen von Kinderprofilen erheben wir die Information, dass Nutzung zu einem Kinderprofil gehört und gegebenfalls die Altersgruppe. Wir tun dies, um die Zugriffe auf unsere Kinderangebote messen und unsere Angebote verbessern zu können (gemäß Medienstaatsvertrag § 31). Dies ist notwendig, weil Kinder unterschiedlicher Altersgruppen stark unterschiedliche Nutzungsverhalten haben können.
-
-Die Messung der Nutzung von Kinderprofilen erfolgt rein statistisch und pseudonym, ohne personenspezifische Daten zu erheben. Auch die anonymisierte Kennung (Nutzer-ID) des mit den Kinderprofilen verbundenen Nutzerkontos wird nicht verarbeitet.
-
-Die Funktionen "Merkliste" und "Weiterschauen" stehen wie für das Haupt-ARD-Konto auch für das Kinderprofil zur Verfügung. Das Kinderprofil kann mit einer optionalen Kinder-PIN abgesichert werden, um sicherzustellen, dass Kinder nur im Kinderbereich aktiv sind. Sobald das Kinderprofil bzw. das ARD-Konto von dem Nutzer oder der Nutzerin gelöscht wird, werden alle personenbezogene Daten gelöscht.
-
-### Suchhistorie
-
-Die Suchhistorie wird für angemeldete Nutzerinnen und Nutzer im Profil gespeichert und kann jederzeit in den Einstellungen der ARD Mediathek und ARD Audiothek zurückgesetzt werden. Einzelne Suchbegriffe können direkt in der Suchmaske entfernt werden.
 
 Standortbasierte Funktionalitäten
 ---------------------------------
@@ -201,4 +203,4 @@ Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datensch
 
 Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-20.2.2026
+27.2.2026

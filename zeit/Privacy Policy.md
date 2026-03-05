@@ -408,7 +408,7 @@ Die Unternehmen der ZEIT Verlagsgruppe nutzen eine gemeinsame Infrastruktur und 
 
 Zur Analyse, Kontrolle und Optimierung von Werbemaßnahmen verarbeiten wir personenbezogene Daten in einem von den Produktivsystemen getrennten Data Warehouse. Hier werden die Informationen pseudonymisiert und für spezielle Fragestellungen, zur Gruppen-Profilbildung sowie zur Erstellung von Engagement und Propensity Scores genutzt.
 
-Die Auswertung und interne Bereitstellung der pseudonymisierten Daten erfolgt zur Wahrung unserer berechtigten Unternehmensinteressen (Art. 6 Abs. 1 f) DSGVO). Um wirtschaftlich sinnvolle Entscheidungen treffen und wettbewerbsfähig bleiben zu können, müssen wir die Anforderungen unserer Kunden kennen, Veränderungen erkennen und darauf reagieren können.
+Sofern wir für die Erhebung der Daten eine Einwilligung eingeholt haben, erfolgt auch die Weiterverarbeitung auf dieser Basis (Art. 6 Abs. a) DSGVO). Ansonsten erfolgt die Auswertung und interne Bereitstellung der pseudonymisierten Daten zur Wahrung unserer berechtigten Unternehmensinteressen (Art. 6 Abs. 1 f) DSGVO). Um wirtschaftlich sinnvolle Entscheidungen treffen und wettbewerbsfähig bleiben zu können, müssen wir die Anforderungen unserer Kunden kennen, Veränderungen erkennen und darauf reagieren können.
 
 Die Dauer der pseudonymisierten Speicherung im Data Warehouse richtet sich nach der Speicherdauer in unseren anderen Systemen (z.B. Newsletter-Datenbank, Veranstaltungsdatenbank). Wenn die Daten dort gelöscht werden können, sind sie nicht mehr über das Data Warehouse abrufbar.
 
@@ -532,7 +532,7 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   Salesforce, Inc. (Heroku Webhosting)
 *   Snowplow Analytics Ltd. (SaaS-Anbieter Tracking-Tool)
 *   Freshworks Inc. (SaaS-Anbieter Ticketsystem)
-*   Meta Platforms Ireland Ltd. (Betreiber Social-Media-Plattform)
+*   Meta Platforms Ireland Ltd. (Social-Media-Plattform)
 *   MaxMind, Inc. (Geolokalisierung)
 *   Fastly, Inc. (Anbieter Content Delivery Network)
 *   StorifyMe GmbH (SaaS-Anbieter Social-Media-Stories)
@@ -553,7 +553,7 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 
 *   MapTiler AG (visuelle Darstellung von Geoinformationen)
 *   Hola Org Ltd. (Spark Videovorschau)
-*   Meta Platforms Ireland Ltd. (Betreiber Social-Media-Plattform)
+*   Meta Platforms Ireland Ltd. (Social-Media-Plattform)
 
 [To the top of the section](#Unternehmensliste)
 

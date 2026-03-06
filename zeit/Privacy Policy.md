@@ -671,15 +671,15 @@ Je nachdem, welche Aktionen wir über ein Profil ausführen und welche Funktiona
 
 | Zweck | Datenkategorien | Verantwortlichkeit |
 | --- | --- | --- |
-| Erhebung und Übermittlung von Entwicklerdaten und / oder Ereignisdaten durch (und an) TikTok | Entwicklerdaten und / oder Ereignisdaten | Gemeinsame Verantwortlichkeit |
-| Messung und Instight-Berichterstattung | Ereignisdaten | Gemeinsame Verantwortlichkeit |
-| Zielgruppenerstellung und Anzeigenausrichtung | Ereignisdaten | Getrennte Verantwortlichkeit |
-| Verbessern, Optimieren und Personalisieren von Anzeigen | Ereignisdaten | Getrennte Verantwortlichkeit |
-| Sicherheit, Schutz, Betrugsbekämpfung und Entwicklung | Entwicklerdaten und / oder Ereignisdaten | Getrennte Verantwortlichkeit |
+| Erhebung und Übermittlung von Entwicklerdaten und / oder [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") durch (und an) TikTok | Entwicklerdaten und / oder [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") | Gemeinsame Verantwortlichkeit |
+| Messung und Instight-Berichterstattung | [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") | Gemeinsame Verantwortlichkeit |
+| Zielgruppenerstellung und Anzeigenausrichtung | [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") | Getrennte Verantwortlichkeit |
+| Verbessern, Optimieren und Personalisieren von Anzeigen | [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") | Getrennte Verantwortlichkeit |
+| Sicherheit, Schutz, Betrugsbekämpfung und Entwicklung | Entwicklerdaten und / oder [Ereignisdaten](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en "Ereignisdaten") | Getrennte Verantwortlichkeit |
 | Kontaktdetails Abgleich | Kontaktdaten | Auftragsverarbeitung |
 | Funktionalität des Entwicklerwerkeugs | Entwicklerdaten | Auftragsverarbeitung |
 | Benutzerdefinierte Zielgruppen (Kundendatei) Produkt | Kontaktdaten | Auftragsverarbeitung |
-| Lead Generation Produkt | Lead-Generierungsdaten (wie in den Lead-Generierungsbedingungen definiert) | Auftragsverarbeitung |
+| Lead Generation Produkt | Lead-Generierungsdaten (wie in den [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms "Lead Generation Terms") definiert) | Auftragsverarbeitung |
 
 Wir sind gemäß den [„Juristiction Specific Terms“](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Juristiction Specific Terms") dazu verpflichtet, Nutzer über das Vorliegen einer gemeinsamen Verantwortlichkeit mit den TikTok-Unternehmen sowie die wesentlichen Regelungen des Vertrags nach Art. 26 DSGVO zu informieren.
 

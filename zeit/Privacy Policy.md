@@ -31,6 +31,8 @@ Toggle Zustimmung/Widerspruch
 
 Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Sie Ihre Cookies im Browser, so erscheint beim nächsten Aufruf von zeit.de wieder die vorgeschaltete Seite, auf der Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen zeit.de werbefrei-Abo wählen können.
 
+![](//images.ctfassets.net/9q531vlek15f/2BwUs4LYnMqRwsa8SpAMVv/a8d90f7a99f2377ee18540e79f37b0a2/Nutzung_der_Website.png)
+
 Nutzung der Website
 -------------------
 
@@ -85,6 +87,8 @@ Die Datenverarbeitung zur Erbringung einer Leistung ist gesetzlich erlaubt (Art.
 Wir speichern das Testergebnis für die Dauer Ihrer Registrierung. Wenn Sie Ihr Profil löschen, werden auch die dazugehörigen Daten gelöscht.
 
 [To the top of the section](#Hey-Studium-Interessenstest)
+
+![](//images.ctfassets.net/9q531vlek15f/7JafnzzJcw4YxTuZSzqaUr/3b01f95cf3ae0c39ae42351e8c7c37a3/Nutzung_von_zeit.de.png)
 
 Nutzung von zeit.de
 -------------------
@@ -281,6 +285,8 @@ Die anonymisierten Umfrageergebnisse speichern wir zeitlich unbegrenzt. Nicht-an
 
 [To the top of the section](#Umfragen)
 
+![](//images.ctfassets.net/9q531vlek15f/10FECIvuTzyRAy52yyUrRy/97c3fd77550edb3178eaccac5b8e3d9c/Events_und_Seminare.png)
+
 Events und Seminare
 -------------------
 
@@ -315,6 +321,8 @@ Die Verarbeitung von Film- und Fotoaufnahmen ist zur Wahrung berechtigter Intere
 Film- und Fotoaufnahmen werden grundsätzlich ohne zeitliche Begrenzung gespeichert. Soweit sie im Internet veröffentlicht werden, sind sie dort ebenfalls zeitlich unbegrenzt einsehbar.
 
 [To the top of the section](#Film-undFotoaufnahmen)
+
+![](//images.ctfassets.net/9q531vlek15f/5pbLOwprDGyN67Jy9pW0Xf/c213008d931eef84e4d614dc5e74097d/Kommunikation.png)
 
 Kommunikation
 -------------
@@ -388,6 +396,8 @@ Die Verarbeitung erfolgt auf Basis einer Einwilligung (Art. 6 Abs. 1 a) DSGVO, �
 Die Aufbewahrung endet spätestens 7 Jahre nach Ende Ihres letzten aktiven Abonnements. Anschließend werden die Daten gelöscht.
 
 [To the top of the section](#Werbliche-Anrufe)
+
+![](//images.ctfassets.net/9q531vlek15f/6Wpwy7Dj0mmt87odEb7pXD/c07ac2fa8061b867a7cf2e85a696f6af/Gemeinsame_Verantwortlichkeit.png)
 
 Gemeinsame Verantwortlichkeit
 -----------------------------
@@ -508,6 +518,8 @@ Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutze
 
 Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen, mit Nutzern zu interagieren und unsere Produkte zu bewerben. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
 
+![](//images.ctfassets.net/9q531vlek15f/6DYJREgCXtUiW9sMz2nLSe/ceffd70ed481ee1b3ae89b6af2e243c7/Empfaenger_und_Ort_der_Verarbeitung.png)
+
 Empfänger und Ort der Verarbeitung
 ----------------------------------
 
@@ -561,6 +573,8 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 
 Grundsätzlich findet die Datenverarbeitung in der Europäischen Union bzw. im Europäischen Wirtschaftsraum statt. Es werden jedoch auch Applikationen und Tools genutzt, bei denen eine Übermittlung von Daten in Drittländer nicht ausgeschlossen werden kann. Wir stellen in solchen Fällen das Vorliegen geeigneter Garantien sicher, um ein ausreichendes Datenschutzniveau in diesen Drittländern zu gewährleisten. In der Regel wurden mit den Anbietern die von der EU-Kommission bereitgestellten [Standardvertragsklauseln](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021D0914&from=EN "Standardvertragsklauseln") vereinbart oder es besteht eine Zertifizierung unter dem [Data Privacy Framework](https://www.dataprivacyframework.gov/ "Data Privacy Framework").
 
+![](//images.ctfassets.net/9q531vlek15f/3KHRV2RSDnkEZ7Dsab2LLc/a46783415a1a10a1cfaa86d85eb66e25/Betroffenenrechte_und_Kontakt.png)
+
 Betroffenenrechte und Kontakt
 -----------------------------
 
@@ -591,6 +605,8 @@ Zur Geltendmachung von Datenschutzrechten sowie bei Fragen und Beschwerden zum D
 Unseren externen Datenschutzbeauftragten erreichen Sie postalisch bei der Herting Oberbeck Datenschutz GmbH, Hallerstr. 76, 20146 Hamburg oder unter der E-Mail-Adresse [dsb@zeit.de](mailto:dsb@zeit.de). Sie haben außerdem das Recht, sich jederzeit bei einer Datenschutzaufsichtsbehörde zu beschweren.
 
 [To the top of the section](#Kontaktdaten)
+
+![](//images.ctfassets.net/9q531vlek15f/CBqAslBDfUsYuDnEKyhE2/51f1384e645dac04efaf8845828d4a47/Social-Media-Profile.png)
 
 Social-Media-Profile
 --------------------
@@ -769,6 +785,8 @@ Bei der Nutzung von LinkedIn findet ein Datentransfer in Drittländer außerhalb
 Wenn Sie einen Kommentar hinterlassen, wird dieser zeitlich unbegrenzt auf unserem Profil gespeichert (bis Sie ihn löschen). Das gleiche gilt für die Nutzung der Like-Funktion. Direktnachrichten an uns werden ebenfalls gespeichert, allerdings in einem regelmäßigen Turnus gelöscht.
 
 [To the top of the section](#LinkedIn-Profile)
+
+![](//images.ctfassets.net/9q531vlek15f/2BNe7hg0ItTEUacAi4BYbm/e245a3cdf9cacfa3ec8dd23ab2f828e6/Medienprivileg.png)
 
 Medienprivileg
 --------------

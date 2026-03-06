@@ -1,7 +1,7 @@
 Cookies
 =======
 
-Last updated: 28 October 2024
+Last updated: 5 March 2026
 
 We use cookies and similar tools (collectively, "cookies") for the purposes described below.
 
@@ -9,7 +9,7 @@ We use cookies and similar tools (collectively, "cookies") for the purposes desc
 
 *   Recognising you when you sign-in to use our services.
 *   Recognising if you are a Prime member and providing other customised features and services.
-*   Displaying features, products, and services which might be of interest to you, including ads on our services if they are for products and services available on Amazon.
+*   Displaying features, products, and services which might be of interest to you.
 *   Keeping track of items stored in your shopping basket.
 *   Preventing fraudulent activity.
 *   Improving security.

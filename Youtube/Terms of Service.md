@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-#### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms?hl=en&override_hl=1) and [Deutsch](https://www.youtube.com/t/terms?hl=de&override_hl=1)
+#### De Servicevoorwaarden in een andere taal tonen: [English](https://www.youtube.com/t/terms?hl=en&override_hl=1) en [Deutsch](https://www.youtube.com/t/terms?hl=de&override_hl=1)
 
 **What’s in these Terms?**
 ==========================
@@ -455,4 +455,4 @@ Vatican City        800599102
 
 Wallis & Futuna        +33185149665
 
-#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
+#### Ingangsdatum: January 5, 2022 ([eerdere versie bekijken](https://www.youtube.com/t/terms?archive=20210601))

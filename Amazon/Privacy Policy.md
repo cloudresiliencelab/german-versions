@@ -109,7 +109,7 @@ You can access your information, including your name, address, payment options, 
 What Choices Do I Have?
 -----------------------
 
-If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
+If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/-/en/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
 
 *   As described above, you can choose not to provide certain information but then you might not be able to take advantage of many of the Amazon Services.
 *   You can add or update certain information on pages such as those referenced in the [Information You Can Access](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_8E8555298F744144B56A48C866F09067) section. When you update information, we usually keep a copy of the previous version for our records.

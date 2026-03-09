@@ -93,8 +93,7 @@ Wir speichern das Testergebnis für die Dauer Ihrer Registrierung. Wenn Sie Ihr 
 Nutzung von zeit.de
 -------------------
 
-Auf [www.zeit.de](http://www.zeit.de/) finden Sie eine Auswahl von redaktionellen Angeboten der ZEIT Redaktion und des ZEIT Verlags, Spiele, Videos sowie Podcasts. Um die Bereitstellung dieser Inhalte finanzieren zu können, bieten wir unseren Anzeigenkunden Flächen für nutzungsbasierte Werbung an. Hierbei werden die beim Aufruf der Seite entstehenden Daten verwendet, um ein Nutzerprofil zu bilden und Ihnen möglichst passende Werbeanzeigen auszuspielen. Bei der Steuerung unserer Werbepartner arbeiten wir mit der iq digital media marketing GmbH zusammen.  
-Dieser spezialisierte Dienstleister vermarktet die Werbeflächen für uns und kümmert sich um die Einbindung der Werbetreibenden auf unseren Seiten.
+Auf [www.zeit.de](http://www.zeit.de/) finden Sie eine Auswahl von redaktionellen Angeboten der ZEIT Redaktion und des ZEIT Verlags, Spiele, Videos sowie Podcasts. Um die Bereitstellung dieser Inhalte finanzieren zu können, bieten wir unseren Anzeigenkunden Flächen für nutzungsbasierte Werbung an. Hierbei werden die beim Aufruf der Seite entstehenden Daten verwendet, um ein Nutzerprofil zu bilden und Ihnen möglichst passende Werbeanzeigen auszuspielen.
 
 Wenn Sie keine personalisierten Werbeanzeigen sehen und das Werbetracking unterbinden möchten, können Sie alternativ unser kostenpflichtiges zeit.de werbefrei-Abo nutzen. Dieses ermöglicht Ihnen den Zugang zu denselben Inhalten, allerdings ohne personalisiertes Werbetracking und die Ausspielung nutzungsbasierter Werbung.
 

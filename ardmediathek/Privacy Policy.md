@@ -1,92 +1,108 @@
 Datenschutzerklärung
 ====================
 
-Datenschutz hat in der ARD einen sehr hohen Stellenwert, und wir nehmen den Schutz Ihrer Daten daher sehr ernst. Wir möchten, dass Sie bei der Nutzung der Angebote von ARD Online immer sicher sind und genau wissen, warum welche Daten gespeichert und verwendet werden. Die folgende Datenschutzerklärung gilt für ARD.de (einschließlich der Seiten der ARD-Programmdirektion) sowie für die ARD Mediathek und die ARD Audiothek. Das ARD-Konto (accounts.ard.de) für Anmeldung und Empfehlungen wird von ARD Mediathek, ARD Audiothek, tagesschau.de und sportschau.de genutzt und hat eine eigene Datenschutzerklärung.
+ARD Online nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich bei der Nutzung unserer Angebote stets sicher fühlen. Hier informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten. Diese Datenschutzerklärung gilt für folgende Angebote: ARD.de, ARD Mediathek und ARD Sounds (früher ARD Audiothek).
 
-Wir beachten den Grundsatz der Datenvermeidung und der Datensparsamkeit. Grundlage sind insbesondere der Medienstaatsvertrag (MStV) der Bundesländer und die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union. Diese Datenschutzerklärung wird regelmäßig aktualisiert. Hier erfahren Sie, welche Daten wir erheben und wie wir sie verwenden.
+Bitte beachten Sie: Wenn Sie unsere Angebote angemeldet über das ARD-Konto nutzen, gelten gegebenfalls gesonderte Datenschutzrichtlinien. Diese können Sie über die Datenschutzerklärung zum ARD-Konto einsehen.
 
-Datenerhebung und Datenprotokollierung
---------------------------------------
+Die Datenschutzerklärung auf dieser Seite wird regelmäßig aktualisiert. Wir erklären Ihnen nun, welche Daten wir erheben und wie wir sie verwenden.
 
-Jeder Zugriff auf unsere Angebote und jeder Abruf von Dateien wird für statistische Zwecke protokolliert. Außerdem hilft es, die Stabilität und Sicherheit des Systems zu gewährleisten und es erleichtert den Schutz gegen mögliche Angriffe von außen.
+Protokoll- und Diagnosedaten
+----------------------------
 
-In Protokolldateien (Logfiles) werden Ihre IP-Adresse, Gerätekennung und Domain, der Name der abgerufenen Datei, Datum und Uhrzeit des Abrufs, die übertragene Datenmenge sowie der erfolgreiche Abruf festgehalten. Diese Daten haben keinen direkten Personenbezug, sie dienen ausschließlich internen Zwecken und werden nicht an Dritte weitergegeben. Die technische Administration der Webseiten und anonyme statistische Erhebungen ermöglichen eine Auswertung der Zugriffe auf unsere Internet-Angebote und werden zu ihrer Optimierung herangezogen.
+Wenn Sie unsere Angebote aufrufen, protokollieren wir zu statistischen Zwecken jeden Zugriff darauf. Dies hilft uns, die Stabilität und Sicherheit unserer Systeme zu gewährleisten und erleichtert den Schutz gegen mögliche Angriffe von außen.
 
-### Diagnosebericht
+In sogenannten Logfiles halten wir Ihre IP-Adresse, Ihre Gerätekennung, die besuchte Domain, der Name der abgerufenen Datei, das Datum und die Uhrzeit des Abrufs, die übertragene Datenmenge sowie der erfolgreiche Abruf fest. Diese Daten haben keinen direkten Personenbezug und dienen ausschließlich internen Zwecken. Wir geben diese Daten nicht an Dritte weiter.
 
-Wenn Sie möchten, können Sie uns einen iOS-App-Diagnosebericht zusenden, damit wir konkrete Fehler analysieren können. Hierzu ist Ihre freiwillige Einwilligung notwendig, die Sie jederzeit widerrufen können. Der Diagnosebericht enthält applikationsspezifische Daten und Metadaten der zuletzt genutzten Beiträge. Falls Sie ein ARD-Konto verwenden, enthält der Bericht Ihre anonymisierte Kennung (User-ID), damit wir Fehler auch in unserer Datenbank analysieren können. Nachdem die Analyse abgeschlossen ist, werden die erhobenen Daten unverzüglich gelöscht.
+Nutzen Sie unsere iOS-Apps, haben Sie die Möglichkeit, einen App-Diagnosebericht an uns zu senden. Dieser hilft uns, Fehler analysieren zu können. Hierzu ist Ihre freiwillige Einwilligung notwendig, die Sie jederzeit widerrufen können. Der Diagnosebericht enthält applikationsspezifische Daten der zuletzt genutzten Beiträge. Falls Sie ein ARD-Konto verwenden, enthält der Bericht Ihre User-ID, damit wir Fehler auch in unserer Datenbank analysieren können. Nachdem die Analyse abgeschlossen ist, löschen wir unverzüglich Ihre Daten.
 
 Cookies
 -------
 
-Bei ARD Online werden aus technischen Gründen sogenannte Cookies eingesetzt, um Ihnen einen komfortableren Zugriff auf unsere Angebote zu ermöglichen. Cookies sind kleine Dateien, die vorübergehend auf Ihrer Festplatte abgelegt werden. Wir setzen sie zum Beispiel ein, damit Sie in Formularen Ihre persönlichen Daten nicht immer wieder neu eingeben müssen. In der ARD Audiothek verwenden wir Cookies für nicht angemeldete Nutzerinnen und Nutzer, um ihnen die Regionenauswahl bei Radiosendern ein- bzw. auszublenden.
+Wir nutzen Cookies und ähnliche Technologien, um Ihnen einen komfortableren Zugriff auf unsere Angebote zu ermöglichen. Cookies sind kleine Textdateien, die vorübergehend lokal bei Ihnen gespeichert werden. Es gibt verschiedene Arten von Cookies: Funktionale Cookies setzen wir zum Beispiel ein, damit Sie in Formularen Ihre persönlichen Daten nicht immer wieder neu eingeben müssen, oder um Ihnen die Regionen-Auswahl bei Radiosendern ein- bzw. auszublenden. Statistische Cookies verwenden wir, um unsere Angebote und Reichweiten auswerten zu können. Unsere statistischen Cookies haben eine Lebensdauer von 12 Monaten.
 
-Wenn Sie nicht möchten, dass wir Ihr Gerät (wie Computer oder Smartphone) wiedererkennen, können Sie in Ihrem Browser das Speichern von Cookies deaktivieren. Auf vielen TV-Geräten können die Cookies im Einstellungsmenü des Herstellers deaktiviert werden. Unsere Angebote können auch ohne Cookies genutzt werden.
+Wenn Sie nicht möchten, dass wir Cookies allgemein auf Ihrem Gerät setzen, können Sie das Speichern von Cookies deaktivieren. Besuchen Sie hierfür die Einstellungen Ihres Browsers oder Endgeräts.
 
-Auch für die von ARD Online eingesetzten Messverfahren werden Cookies mit zwölf Monaten Lebensdauer gesetzt. Wenn Sie dem Einsatz dieser Messverfahren widersprechen, wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern. Mehr dazu erfahren Sie im folgenden Absatz über Zählpixel.
+Nutzungsmessung
+---------------
 
-Zählpixel
----------
+Um Ihnen ein relevantes journalistisches Angebot zu präsentieren, führen wir statistische Nutzungsmessungen durch, welche es uns erlauben, unsere Angebote hinsichtlich Nutzung und Reichweite auszuwerten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag. Im unangemeldeten Zustand messen wir Ihre Nutzung vollständig anonym, da Ihre IP-Adresse unmittelbar mit Erfassung Ihrer Daten gehashed, d.h. verfremdet wird. Hierdurch ist eine Rückverfolgbarkeit zu Ihnen als betroffene Person ausgeschlossen. Angemeldet ist die Messung Ihrer Nutzung pseudoanonymisiert. Das bedeutet, dass sich Ihre Daten zwar zuordnen lassen, wir Ihre Daten aber nur über eine zufällig generierte ID erheben, wodurch Sie als betroffene Person ohne Hinzuziehung zusätzlicher Informationen nicht mehr identifiziert werden können. Wir führen Ihre Daten nicht mit Daten Dritter oder anderer interner Datensätze zusammen. Eine Nutzung zu kommerziellen Zwecken findet ebenfalls nicht statt.
 
-Bei ARD Online werden für statistische Zwecke sogenannte Zählpixel eingesetzt, um die Zugriffe auf unsere Angebote messen und unsere Angebote verbessern zu können. Die Messung wurde unter Beachtung des Datenschutzes entwickelt und findet in anonymisierter Form statt. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
+Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten, erhalten Sie auf den nachfolgend verlinkten Webseiten weitere Informationen hierzu: Nutzungsmessung durch Piano Analytics Digitale Messung durch Nielsen AGF/GfK-Streaming-Messung
 
-In älteren Versionen der ARD Mediathek und der ARD Audiothek nutzen wir das "Skalierbare Zentrale Messverfahren" (SZM) der Firma INFOnline (\*.ioam.de, Datenschutzinformationen unter [https://www.infonline.de](https://www.infonline.de/)). Bei der SZM-Reichweitenmessung werden IP-Adressen nicht gespeichert, sondern nur in anonymisierter Form verarbeitet. Für die Ermittlung der anonymen statistischen Kennwerte werden außerdem Messelemente der Firma AT Internet (\*.xiti.com) verwendet (Datenschutzinformationen unter [https://www.atinternet.com/de](https://www.atinternet.com/de)) und das sogenannte AGF-Zählpixel der Firma Nielsen (\*.nmrodam.com) eingesetzt (Datenschutzgrundsätze unter [https://www.nielsen.com/de/](https://www.nielsen.com/de/)).
+Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1.
 
-Zur Weiterleitung der Daten an AT Internet wird der Google Tag Manager der Firma Google ([https://about.google/](https://about.google/)) verwendet (gilt nicht für TV-Geräte). Dabei werden die Daten durch den Google Tag Manager nur weitergeleitet, jedoch nicht erhoben oder gespeichert. Der Tag Manager selbst setzt keine Cookies und verarbeitet keine Nutzer-Daten.
+Ihre Widerspruchsmöglichkeit
 
-Im Zusammenhang mit dem AGF-Zählpixel der Firma Nielsen nutzen wir die AGF-Single-Source-Messung der Firma NielsenIQ ([https://nielseniq.com/global/de/](https://nielseniq.com/global/de/)), um die Informationen der AGF-Zählpixel zu sammeln und zu speichern. Diese Messung erfolgt vollständig anonym und ohne Cookies zu setzen, sofern nicht eine Nutzerin oder ein Nutzer Mitglied des von NielsenIQ für die AGF betriebenen Fernsehforschungspanels ist. Nur deren Nutzung kann identifiziert und den Panelmitgliedern zugeordnet werden. Diese haben im Rahmen ihrer Panelteilnahme in die Verarbeitung ihrer personenbezogenen Daten eingewilligt. Rechtsgrundlage ist insoweit hinsichtlich der Panelteilnehmer Art. 6 (1) a) DSGVO. Alle anderen gemessenen Nutzungen bleiben vollständig anonym.
-
-Die GfK setzt hierzu ein als sensic bezeichnetes Verfahren ein, welches über die GfK-Domain sensic.net betrieben wird. Dieses Verfahren wird fälschlicherweise gelegentlich von Browser-Add-Ons, welche ein Tracking von Usern ermitteln oder verhindern sollen, als Werbetracker eingestuft. Es handelt sich hierbei aber um ein Messverfahren der statistischen Nutzungsmessung und nicht um Werbetracking.
-
-Sie haben jederzeit die Möglichkeit, auch der anonymen Erfassung Ihrer Nutzungsvorgänge zu widersprechen (Opt-Out). In den Apps und auf Ihrem TV-Gerät deaktivieren Sie dazu im Einstellungsmenü der ARD Mediathek die Option "Anonyme Nutzungsstatistiken übertragen".
+Wenn Sie der Erfassung statistischer Nutzungsdaten widersprechen möchten, können Sie dies jederzeit ohne etwaige Nachteile tun. Gehen Sie hierfür in unsere Einstellungen und deaktivieren Sie die Option „Anonyme Nutzungsstatistiken überartragen“. Hierdurch wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern.
 
 Externe Dienste
 ---------------
 
-Bei ARD Online werden teilweise externe technische Dienste eingesetzt, um die Zugriffe auf unsere Angebote messen und unsere Angebote verbessern zu können oder um zusätzliche Funktionen (wie Umfragen) anbieten zu können. TV-Geräte nutzen keine externen Dienste.
+Wir setzen für bestimmte Verarbeitungstätigkeiten externe Dienstleister ein. Diese verarbeiten personenbezogene Daten ausschließlich nach unseren Weisungen und unter Beachtung der geltenden Datenschutzvorgaben. Hierzu schließen wir mit allen Dienstleistern vertragliche Vereinbarungen, die ein angemessenes Datenschutzniveau gewährleisten.
 
-Der Südwestrundfunk als Betreiber von ARD Online und unserer Angebote hat mit allen externen technischen Dienstleistern Vereinbarungen zur Auftragsverarbeitung abgeschlossen und setzt so u.a. die strengen Vorgaben der deutschen Datenschutzbehörden und der EU-Datenschutzgrundverordnung (DSGVO) um.
+Sofern personenbezogene Daten in Staaten außerhalb der EU/des EWR verarbeitet werden, stellen wir durch geeignete Garantien – insbesondere EU‑Standardvertragsklauseln – sicher, dass der Schutz Ihrer Daten den Anforderungen der DSGVO entspricht.
 
-Sie haben jederzeit die Möglichkeit, der anonymen Erfassung Ihrer Nutzungsvorgänge durch diese externen Dienste zu widersprechen: Deaktivieren Sie dazu in den Einstellungen der App die Option "Anonyme Nutzungsstatistiken übertragen". Weitere Informationen zur Nutzungsmessung finden Sie im Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1.
+Im Folgenden erhalten Sie eine Übersicht, welche Dienste wir in unseren Angeboten verwenden:
 
-Bei diesen externen Diensten handelt es sich um:
+Apple Push Notification Service
 
-### Adjust (nur Apps von ARD Mediathek und ARD Audiothek)
+In ARD Sounds nutzen wir den Apple Push Notification Service der Firma Apple ([https://www.apple.com/de/](https://www.apple.com/de/)), um Ihnen Push-Benachrichtigungen in unserer iOS-App senden zu können. Bei der ersten Installation unserer App können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Weitere Push-Benachrichtigungen für weitere Services sind optional möglich. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden.
 
-In älteren Versionen unserer Apps nutzen wir den Dienst Adjust der Firma Adjust ([https://www.adjust.com](https://www.adjust.com/)), um den Erfolg unserer Werbekampagnen im Internet und insbesondere in sozialen Netzwerken wie Facebook zu messen. Mit Adjust können Informationen über die Nutzung bestimmter Funktionen unserer Apps gewonnen werden. Weitere Informationen finden Sie in der Datenschutzerklärung der Firma Adjust: [https://www.adjust.com/terms/privacy-policy/](https://www.adjust.com/terms/privacy-policy/)
+Apple erzeugt einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Apple-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Apple dient ausschließlich als Übermittler.
 
-### Apple Push Notifications (nur App der ARD Audiothek)
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Apple.
 
-Wir nutzen den Apple Push Notifications der Firma Apple ([https://www.apple.com/de/](https://www.apple.com/de/)), um Ihnen Push-Benachrichtigungen senden zu können. Bei der ersten Installation der ARD Audiothek-App unter iOS können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Weitere Push-Benachrichtigungen für weitere Services sind optional möglich. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden. Dabei erzeugt Apple einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Apple-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Apple dient ausschließlich als Übermittler. Weitere Informationen finden Sie in der Datenschutzerklärungen der Firma Apple: [https://www.apple.com/de/legal/privacy/de-ww/](https://www.apple.com/de/legal/privacy/de-ww/)
+Caplena
 
-### Caplena
+Wir nutzen den Dienst Caplena der Firma Caplena ([https://caplena.com/de/](https://caplena.com/de/)) um offene Texteingaben beispielsweise in Kontaktformularen durch eine künstliche Intelligenz teilautomatisiert auszuwerten. Sollten Sie in unseren Kontaktformularen freiwillig personenbezogene Angaben gemacht haben, werden diese in Caplena automatisch anonymisiert, so dass keinerlei Bezug zu Ihrer Person hergestellt werden kann.
 
-Mit Hilfe des Dienstes Caplena der Firma Caplena ([https://caplena.com/de/](https://caplena.com/de/)) werden offene Texteingaben beispielsweise in Kontaktformularen durch eine künstliche Intelligenz (innerhalb eines abgeschlossenen Systems) teilautomatisiert ausgewertet. Sollten Sie an dieser Stelle freiwillig personenbezogene Angaben gemacht haben, werden diese in Caplena automatisch anonymisiert, so dass keinerlei Bezug zu Ihrer Person hergestellt werden kann. Caplana ermöglicht uns einen schnellen Überblick über die gemachten Angaben, damit wir die Erkenntnisse aus den Texteingaben den verantwortlichen Stellen zuleiten können. Weitere Informationen finden Sie in der Datenschutzerklärungen der Firma Caplena: [https://caplena.com/en/privacy-policy/](https://caplena.com/en/privacy-policy/)
+Caplena ermöglicht uns einen schnellen Überblick über die gemachten Angaben, damit wir die Erkenntnisse aus den Texteingaben den verantwortlichen Stellen zuleiten können.
 
-### Google Cloud Platform und Cloud Messaging (nur App der ARD Audiothek) sowie Firebase Crashlytics und Chromecast
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena.
 
-Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), um die Leistungsfähigkeit und Verfügbarkeit unserer Online-Dienste sicherzustellen sowie Änderungen und Zugriffe im Rahmen von Sicherheits- und Compliance-Anforderungen zu protokollieren. Dies dient zugleich dem Schutz vor unbefugtem Zugriff, Angriffen oder technischen Störungen. Die Google Cloud Platform umfasst unter anderem den Einsatz von sogenannten Audit Logs, in deren Rahmen folgende Daten verarbeitet werden: IP-Adressen, Zeitstempel von Zugriffen oder Änderungen an unseren Systemen, Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen. Google agiert in diesem Zusammenhang als unser Auftragsverarbeiter gemäß Art. 28 DSGVO. Die verarbeiteten Daten dienen ausschließlich den oben genannten Zwecken und werden nicht zur Erstellung von Nutzerprofilen verwendet. Die in den Audit Logs gespeicherten Daten werden nur so lange aufbewahrt, wie dies für die jeweiligen Sicherheits- oder Nachverfolgbarkeitsanforderungen erforderlich ist. Die Speicherfristen richten sich nach unseren internen Richtlinien und gesetzlichen Vorgaben.
+Chromecast
 
-Außerdem nutzen wir den Dienst Cloud Messaging der Firma Google ([https://about.google/](https://about.google/)), um Ihnen Push-Benachrichtigungen senden zu können. Bei der ersten Installation der ARD Audiothek-App unter Android können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Weitere Push-Benachrichtigungen für weitere Services sind optional möglich. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden. Dabei erzeugt Google einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Google-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Google dient ausschließlich als Übermittler.
+Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), damit Sie Videos von unserer Website auf ein Chromecast-Gerät übertragen können. Google kann im Rahmen der Cast Funktion System- und Nutzungsdaten verarbeiten, die notwendigen Geräteinformationen enthalten können. Eine Datenverarbeitung findet nur statt, wenn Sie Google Chrome als Browser verwenden, da nur hier die Cast-Funktionalität unterstützt wird.
 
-Darüber hinaus nutzen wir die Dienste Firebase Crashlytics und Cloud Firestore der Firma Google ([https://about.google/](https://about.google/)), um unsere Angebote zu optimieren. Diese Dienste sind integraler Bestandteil unseres Angebots und können nicht deaktiviert werden. Zur Funktionserweiterung unseres Video-Players nutzen wir auch den Dienst Chromecast der Firma Google. Unser Video-Player baut hierfür eine Verbindung über "\*gstatic.com" auf, damit Nutzer, Videos von unserer Website auf ein Chromecast-Gerät übertragen können. Die Verbindung wird nur mit Hilfe der Zusatzanwendung (Add-on) "ardplayer-addon-chromecast" aufgebaut, wenn der Nutzer Google Chrome verwendet, da nur in diesem Browser die Cast-Funktionalität unterstützt wird. Daten, die wir über Firebase Crashlytics, Cloud Firestore und Chromecast erheben, werden anonym und nicht personenbezogen an Google übermittelt. Weitere Informationen finden Sie in der Datenschutzerklärungen der Firma Google: [https://policies.google.com/privacy](https://policies.google.com/privacy) [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) [https://support.google.com/chromecast/answer/6076570?hl=de](https://support.google.com/chromecast/answer/6076570?hl=de)
+Mehr erfahren Sie in der Datenschutzerklärung zu Google Chromecast.
 
-### Scribble Live
+Google Cloud Platform (GCP)
 
-Wir nutzen den Dienst Scribble Live der Firma Rock Content ([https://en.rockcontent.com/](https://en.rockcontent.com/)), um Liveblogs in unsere Webseiten einbinden zu können. Wenn Sie eine Seite mit Live-Blog aufrufen, baut Ihr Browser eine direkte Verbindung mit dem Server des Dienstleisters auf. Ihre IP-Adresse und weitere gerätebezogene Informationen werden übertragen. Der Dienstleister hat sich und mögliche Subunternehmer zur Einhaltung der europäischen Datenschutzgesetze verpflichtet. Die Liveblog-Seite setzt zudem temporäre Cookies auf Ihrer Festplatte. Dies dient dem Zweck, dass Sie die interaktiven Features des Live-Blogs nutzen können. Tracking-Cookies, die eine Bildung von Benutzerprofilen zulassen, kommen bei der Einbindung von Scribble Live in Angebote von ARD Online nicht zum Einsatz. Weitere Informationen finden Sie in der Datenschutzerklärung der Firma Rock Content: [https://en.rockcontent.com/legal/privacy-policy/](https://en.rockcontent.com/legal/privacy-policy/)
+Wir nutzen verschiedene Dienste der Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)):
 
-### SurveyMonkey (nur ARD Mediathek und ARD Audiothek)
+Cloud Logging: Wir nutzen Cloud Logging, um die Leistungsfähigkeit und Verfügbarkeit unserer Online-Dienste sicherzustellen sowie Änderungen und Zugriffe im Rahmen von Sicherheits- und Compliance-Anforderungen zu protokollieren. In Audit Logs werden hierbei folgende Daten verarbeitet: IP-Adressen, Zeitstempel von Zugriffen oder Änderungen an unseren Systemen, Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen.
 
-Wir nutzen den Dienst SurveyMonkey der Firma SurveyMonkey ([https://www.surveymonkey.de](https://www.surveymonkey.de/)), um Umfragen durchzuführen. SurveyMonkey erhebt und verwendet die in der Anmeldemaske erhobenen Daten. Weitere Informationen finden Sie in der Datenschutzerklärung der Firma SurveyMonkey: [https://de.surveymonkey.com/mp/legal/privacy/](https://de.surveymonkey.com/mp/legal/privacy/)
+Die gespeicherten Daten werden nur so lange aufbewahrt, wie es für die jeweiligen Sicherheits- oder Nachverfolgbarkeitsanforderungen erforderlich ist. Die Speicherfristen richten sich nach unseren internen Richtlinien und gesetzlichen Vorgaben.
 
-### Zlyde
+Firebase Cloud Messaging: Wir nutzen Firebase Cloud Messaging (FCM), um Ihnen Push-Benachrichtigungen in der ARD Sounds Android-App senden zu können. Bei der ersten Installation der App können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden. Firebase Cloud Messaging erzeugt einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Google-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Google dient ausschließlich als Übermittler.
 
-Wir nutzen den Dienst Zlyde der Firma Zlyde ([https://www.zlyde.com](https://www.zlyde.com/)), um unsere Angebote zu optimieren. Weitere Informationen finden Sie in der Datenschutzerklärung der Firma Zlyde: [https://www.zlyde.com/privacy/](https://www.zlyde.com/privacy/) 
+Firebase Crashlytics und Cloud Firestore: Wir nutzen Firebase Crashlytics und Cloud Firestore, um unsere Angebote zu optimieren. Diese Dienste sind integraler Bestandteil unserer Angebote und können nicht deaktiviert werden.
+
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Google.
+
+Nielsen Digital Measurement
+
+Wir nutzen die digitale Messung der Firma Nielsen ([https://www.nielsen.com/](https://www.nielsen.com/)), um zu analysieren, wie unsere Angebote genutzt werden. Die Ergebnisse helfen uns, Inhalte und Angebote zu verbessern.
+
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen.
+
+Piano Analytics
+
+Wir nutzen Piano Analytics der Firma Piano Software ([https://www.piano.io/](https://www.piano.io/)), um anonyme Nutzungsdaten für statistische Zwecke zu erfassen. Die Verarbeitung erfolgt datenschutzkonform innerhalb der EU.
+
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics.
+
+Zlyde
+
+Wir nutzen den Audience Flow Manager der Firma Zlyde ([https://www.zlyde.com](https://www.zlyde.com/)), um unsere Angebote zu optimieren.
+
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Zlyde.
 
 Soziale Netzwerke
 -----------------
 
-ARD Online ist auf sozialen Netzwerken wie Facebook und Instagram präsent, um seine Angebote einem breiten Publikum in der bestmöglichen Form anbieten zu können. Die Onlineangebote von ARD Online können aber auch jederzeit ohne eine Anmeldung bei sozialen Netzwerken genutzt werden. Sie können direkt und ohne Umweg die entsprechenden Webangebote unter [https://www.ARD.de](https://www.ard.de/), [https://www.ARDmediathek.de](https://www.ardmediathek.de/) oder [https://www.ARDaudiothek.de](https://www.ardaudiothek.de/) nutzen.
+ARD Online ist auf sozialen Netzwerken wie Facebook und Instagram präsent, um seine Angebote einem breiten Publikum in der bestmöglichen Form anbieten zu können. Die Onlineangebote von ARD Online können aber auch jederzeit ohne eine Anmeldung bei sozialen Netzwerken genutzt werden. Sie können direkt und ohne Umweg die entsprechenden Webangebote unter [https://www.ARD.de](https://www.ard.de/), [https://www.ARDmediathek.de](https://www.ardmediathek.de/) oder [https://www.ARDsounds.de](https://www.ardsounds.de/) nutzen.
 
 Wenn Sie sich bei sozialen Netzwerken anmelden und deren Funktionen nutzen, um mit den dortigen Auftritten von ARD Online zu interagieren (zum Beispiel durch Kommentare, Mitteilungen, Likes oder Teilen), hinterlassen Sie dabei Daten. Es ist möglich, dass diese Daten vom Anbieter gespeichert, ausgewertet und weiterverarbeitet werden, beispielsweise um Ihr Nutzungsverhalten zu analysieren.
 
@@ -97,7 +113,7 @@ Um die Angebote von ARD Online noch attraktiver und nutzerfreundlicher zu machen
 Newsletter
 ----------
 
-Über die folgenden Links können Sie den Newsletter der ARD Mediathek, den Newsletter der ARD Audiothek und den ARD Hörspiel Newsletter kostenfrei abonnieren.
+Über die folgenden Links können Sie den Newsletter der ARD Mediathek, den Newsletter von ARD Sounds und den ARD Hörspiel Newsletter kostenfrei abonnieren.
 
 Dabei wird bei der Anmeldung zum Newsletter der ARD Mediathek und zum ARD Hörspiel Newsletter Ihre E-Mail-Adresse und optional Ihr Name aus der Eingabemaske übermittelt. Zudem werden Datum und Uhrzeit der Registrierung bei der Anmeldung erhoben. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen. Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletter durch Sie ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs.1 lit. a) DSGVO. Die Erhebung Ihrer E-Mail-Adresse dient dazu, den Newsletter zuzustellen.
 
@@ -105,7 +121,7 @@ Für die Anmeldung zum Newsletter der ARD Mediathek und den ARD Hörspiel Newsle
 
 Für die Versendung des Newsletters der ARD Mediathek und des ARD Hörspiel Newsletters verwenden wir ein webbasiertes Tool der ARD. Die zum Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse und optional Name) werden auf Servern des Saarländischen Rundfunks (SR, Funkhaus Halberg, 66100 Saarbrücken) in Deutschland gespeichert. Zudem werden Daten zu den Öffnungsraten, Anzahl der Versendeten Newsletter und angeklickten Links gespeichert.
 
-Für den Newsletter der ARD Audiothek nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
+Für den Newsletter der ARD Sounds nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
 
 Die Datenverarbeitung erfolgt auf Grundlage Ihrer freiwilligen Einwilligung. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Wenn Sie keine Analyse durch CleverReach wollen, müssen Sie den Newsletter abbestellen. Hierfür steht Ihnen in jedem Newsletter ein entsprechender Link zur Verfügung. Weitere Informationen finden Sie in der Datenschutzrichtlinie on CleverReach: [https://www.cleverreach.com/de/datenschutz/](https://www.cleverreach.com/de/datenschutz/)
 
@@ -121,67 +137,40 @@ Anfragen aller Art leiten wir ggf. innerhalb des ARD-Verbundes an Redaktionen de
 Nutzung des ARD-Kontos
 ----------------------
 
-Als Nutzerin und Nutzer haben Sie die Möglichkeit, sich für das ARD-Konto kostenlos zu registrieren. Dadurch können Sie auf unterschiedliche Komfortfunktionen wie Empfehlungen, Merklisten, geräteübergreifendes Weiterschauen oder Push‑Benachrichtigungen zugreifen.
+Über das ARD-Konto können Sie unsere Angebote mit Komfortfunktionen personalisiert und geräteübergreifend nutzen. Für die Verarbeitung der dort hinterlegten Daten bleiben wir mitverantwortlich.
 
-ARD Mediathek und ARD Audiothek können aber auch jederzeit ohne Registrierung und Anlegen eines Nutzerkontos genutzt werden.
+Wenn Sie unsere Angebote gemeinsam mit dem ARD-Konto nutzen, verarbeiten wir von Ihnen bestimmte Nutzungsvorgänge (z.B. welche Inhalte Sie wann geschaut haben) zusammen mit einer zufällig generierten ID. Diese User-ID ist technisch erforderlich und ohne Hinzunahme weiterer Informationen nicht auf Sie zurückführbar.
 
-Entschließen Sie sich für das ARD-Konto zu registrieren, bleibt ARD Online für die Verarbeitung der dort hinterlegten Daten mitverantwortlich. Alle Informationen zum übergreifenden ARD-Konto erhalten Sie auf der folgenden Datenschutzerklärung und den Nutzungsbedingungen.
+Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
-Konzentrierte Informationen in Bezug auf die ARD Mediathek und ARD Audiothek erhalten Sie nachfolgend.
-
-### User-ID zu funktionalen Zwecken (Personalisierung)
-
-In der ARD Mediathek und ARD Audiothek haben Sie über das ARD-Konto Zugriff auf bestimmte, personalisierte Funktionen (z.B. Merkliste oder personalisierte Empfehlungen). Diese Funktionen benötigen eine stabile, persönliche Kennung, damit unsere Systeme wissen, welche Daten zu welchem Konto gehören. Im ARD-Konto verarbeiten wir deshalb bestimmte Nutzungsvorgänge (z.B. welche Inhalte Sie wann geschaut haben) zusammen mit einer pseudonymisierten User-ID von Ihnen. Diese ID ist alleinstehend nicht auf Sie zurückführbar.
-
-Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
-
-### User-ID zu analytischen Zwecken
-
-Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten und die Funktionen des ARD-Kontos qualitativ weiterzuentwickeln. Die Verarbeitung Ihrer User-ID findet hierbei nur statt, wenn Sie die ARD Mediathek oder ARD Audiothek mit einem angemeldeten Konto nutzen.
+Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten. Die Verarbeitung der User-ID findet in diesem Fall nur statt, wenn Sie unsere Angebote mit einem angemeldeten ARD-Konto nutzen.
 
 Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
 
-Kinderprofile
--------------
+Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung zum ARD-Konto und den Nutzungsbedingungen.
 
-Mit Kinderprofilen des ARD-Kontos können Sie für Kinder die Nutzung von ARD Mediathek und ARD Audiothek auf Kinderinhalte beschränken. Wenn Sie ein Kinderprofil anlegen, erheben wir die Information, dass Nutzung zu einem Kinderprofil gehört und gegebenfalls die Altersgruppe. Wir tun dies, um die Zugriffe auf unsere Kinderangebote messen und unsere Angebote verbessern zu können (gemäß Medienstaatsvertrag § 31). Dies ist notwendig, weil Kinder unterschiedlicher Altersgruppen stark unterschiedliche Nutzungsverhalten haben können.
+Weiterschauen-Funktion auf TV-Streaming-Plattformen
+---------------------------------------------------
 
-Die Messung der Nutzung von Kinderprofilen erfolgt rein statistisch und pseudonym, ohne personenspezifische Daten zu erheben. Auch die anonymisierte Kennung (User-ID) des mit den Kinderprofilen verbundenen Nutzerkontos wird nicht verarbeitet.
+Wenn Sie die ARD Mediathek auf TV-Streaming-Plattformen wie Android TV oder Google TV nutzen, werden Sie ggf. auf Videoinhalte hingewiesen, die Sie in der ARD Mediathek begonnen, aber noch nicht zu Ende gesehen haben. Über die Oberfläche der Plattform gelangen Sie direkt in die ARD Mediathek und können sich dort den Inhalt an der zuletzt besuchten Stelle weiteransehen.
 
-Die Funktionen "Merkliste" und "Weiterschauen" stehen wie für das Haupt-ARD-Konto auch für das Kinderprofil zur Verfügung. Das Kinderprofil kann mit einer optionalen Kinder-PIN abgesichert werden, um sicherzustellen, dass Kinder nur im Kinderbereich aktiv sind. Sobald das Kinderprofil bzw. das ARD-Konto von dem Nutzer oder der Nutzerin gelöscht wird, werden alle personenbezogenen Daten gelöscht.
+Um diese Weiterschauen-Funktion zu nutzen, benötigen Sie ein angemeldetes Konto auf der entsprechenden Streamingplattform und in der ARD Mediathek. Die Streamingplattform erhält von der ARD Mediathek Auskunft über den Titel des zuletzt geschauten Inhalts und bis zu welcher Position Sie den Inhalt angesehen haben. Diese Daten werden für maximal 180 Tage gespeichert.
 
-Ihre Steuerungsmöglichkeiten
-----------------------------
-
-Sie können im Rahmen der ARD‑Konto‑Nutzung folgende Aspekte selbst steuern: Analysezwecke: Die Übertragung Ihrer Nutzungsdaten und User-ID zur statistischen Analyse der angemeldeten Nutzung können Sie jederzeit in den allgemeinen Einstellungen deaktivieren. Bitte beachten Sie, dass hierdurch bestimmte Funktionen nur noch eingeschränkt funktionieren könnten. Altersangaben bei Kinderprofilen: In Ihrem Profil können Sie freiwillig die Altersgruppe des Kindes angeben, aber auch keine Angabe machen. Die Altersangabe dient dazu, altersgerechte Inhalte auszuspielen und ein entsprechendes Design zu gewährleisten. Suchhistorie löschen: Ihre gesamte Suchhistorie lässt sich in den ARD-Konto‑Einstellungen vollständig löschen. Einzelne Suchbegriffe entfernen: Einzelne Suchanfragen können Sie direkt im Suchbereich unserer App bzw. unseres Webangebots entfernen.
-
-ARD-ZDF Streaming Netzwerk
---------------------------
-
-Transparenz ist uns besonders wichtig. Aus diesem Grund möchten wir sie darauf aufmerksam machen, dass ARD und ZDF im Rahmen des ARD-ZDF-Streaming-Netzwerks im Bereich algorithmischer Empfehlungen zusammenarbeiten. Diese Zusammenarbeit ist vertraglich geregelt. Es werden keine personenbezogenen Daten an das ZDF weitergegeben.
-
-Weiterschauen-Funktion auf Streamingplattformen
------------------------------------------------
-
-Wenn Sie die ARD Mediathek auf Streamingplattformen wie AndroidTV oder GoogleTV nutzen, werden Sie ggf. auf Videoinhalte hingewiesen, die Sie in der ARD Mediathek begonnen, aber noch nicht zu Ende gesehen haben. Über einen Direktlink gelangen Sie in die ARD Mediathek und können sich dort den Inhalt an der zuletzt besuchten Stelle weiteransehen.
-
-Um die Weiterschauen-Funktion zu nutzen, benötigen Sie ein angemeldetes Konto auf der entsprechenden Streamingplattform und in der ARD Mediathek. Die Streamingplattform erhält von der ARD Mediathek Auskunft über den Titel des zuletzt geschauten Inhalts und bis zu welcher Position Sie den Inhalt angesehen haben. Diese Daten werden für maximal 180 Tage gespeichert.
-
-Grundlage für die Verarbeitung Ihrer Daten im angemeldeten Nutzungszustand ist Ihre Einwilligung zur Nutzung des ARD-Kontos nach Art. 6 Abs. 1 S. 1 lit. a) DSGVO. Sie können Ihre Einwilligung in die Datenverarbeitung zur Nutzung der Funktion "Weiterschauen" jederzeit mit Wirkung für die Zukunft widerrufen. Rufen Sie dafür auf der jeweiligen Plattform die ARD Mediathek auf und deaktivieren Sie im Einstellungsmenü die Option "Weiterschauen".
+Grundlage für die Verarbeitung Ihrer Daten ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a) DSGVO. Sie können Ihre Einwilligung in die Datenverarbeitung jederzeit mit Wirkung für die Zukunft widerrufen. Rufen Sie dafür auf der jeweiligen Plattform die ARD Mediathek auf und deaktivieren Sie im Einstellungsmenü die Option "Weiterschauen".
 
 Standortbasierte Funktionalitäten
 ---------------------------------
 
-In der ARD Audiothek für Android Automotive bieten wir Ihnen mit der Funktion "ARD Audiothek unterwegs" die Möglichkeit, geobasierte Audiobeiträge aus dem Archiv bei Autobahnfahrten in Süddeutschland zu hören, um mehr über die Region zu erfahren. Sobald Sie an einer braunen Hinweistafel vorbeifahren, die auf einen "Point of Interest" hinweist, wird Ihnen ein dazu passendes Audio abgespielt.
+Auf Android Automotive bieten wir Ihnen in ARD Sounds die Möglichkeit, geobasierte Audiobeiträge aus dem Archiv bei Autobahnfahrten in Süddeutschland zu hören, um mehr über die Region zu erfahren. Sobald Sie an einer braunen Hinweistafel vorbeifahren, die auf einen "Point of Interest" hinweist, wird Ihnen ein dazu passendes Audio abgespielt.
 
-Damit diese Funktionalität seitens der App unterstützt wird, müssen Sie der App genehmigen, dass sie auf den aktuellen Standort des Geräts zugreifen darf. Über eine entsprechende Audio-Anleitung, die Sie über die ARD Audiothek in Android Automotive starten können, erfahren Sie, wie Sie die Standort-Berechtigung aktivieren. Damit die App den Standort auf Android Automotive abrufen kann, wird der Standortzugriff auch im Hintergrund benötigt.
+Damit diese Funktionalität seitens der App unterstützt wird, müssen Sie der App genehmigen, dass sie auf den aktuellen Standort des Geräts zugreifen darf. Über eine entsprechende Audio-Anleitung, die Sie in der App starten können, erfahren Sie, wie Sie die Standort-Berechtigung aktivieren. Damit die App den Standort auf Android Automotive abrufen kann, wird der Standortzugriff auch im Hintergrund benötigt.
 
-Die Standortdaten werden dabei ausschließlich lokal auf dem Gerät verwendet, um festzustellen, auf welcher Autobahn Sie sich befinden und wann Sie ein entsprechendes Schild erreichen. Durch die Entfernung zu Hilfspunkten entlang der Wegstrecke kann die Position und Fahrtrichtung bestimmt werden. Die Standort-Daten werden von ARD Online nicht gespeichert. Über das Einstellungsmenü können Sie die Standortfreigabe jederzeit wieder zurückziehen.
+Die Standortdaten werden dabei ausschließlich lokal auf dem Gerät verwendet, um festzustellen, auf welcher Autobahn Sie sich befinden und wann Sie ein entsprechendes Schild erreichen. Durch die Entfernung zu Hilfspunkten entlang der Wegstrecke kann die Position und Fahrtrichtung bestimmt werden. Die Standort-Daten werden von uns nicht gespeichert. Über das Einstellungsmenü können Sie die Standortfreigabe jederzeit wieder zurückziehen.
 
-Datenschutzrechtliche Formalien / Ihre Rechte
----------------------------------------------
+Datenschutzrechtliche Formalien
+-------------------------------
 
-Verantwortlicher im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der: Südwestrundfunk (SWR) Anstalt des öffentlichen Rechts vertreten durch den Intendanten Prof. Dr. Kai Gniffke Neckarstraße 230 70190 Stuttgart 
+ARD Online ist eine Gemeinschaftseinrichtung der ARD. Verantwortlicher im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der: Südwestrundfunk (SWR) Anstalt des öffentlichen Rechts vertreten durch den Intendanten Prof. Dr. Kai Gniffke Neckarstraße 230 70190 Stuttgart 
 
 Sofern personenbezogene Daten verarbeitet werden, bestehen die in der Europäischen Datenschutzgrundverordnung (EU-DSGVO) genannten Rechte, insbesondere auf Auskunft, Berichtigung und Löschung. Eine erklärte Einwilligung zur Verarbeitung von Daten kann jederzeit widerrufen werden. Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten durch ARD Online in Ihren schutzwürdigen Interessen verletzt sind, können Sie sich an den zuständigen Datenschutzbeauftragten wenden. Das ist für ARD Online der Datenschutzbeauftragte des SWR: [https://www.swr.de/datenschutz](https://www.swr.de/datenschutz)
 
@@ -203,4 +192,4 @@ Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datensch
 
 Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-27.2.2026
+9.3.2026

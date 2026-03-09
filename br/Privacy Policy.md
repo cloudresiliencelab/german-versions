@@ -17,7 +17,7 @@ Wir möchten, dass Sie sich beim Besuch unserer Websites und Apps sicher fühlen
 
 Die nachfolgenden allgemeinen Informationen gelten für alle Websites und Apps des Bayerischen Rundfunks.
 
-**Ausführliche Informationen zu Datenverarbeitungstätigkeiten im Zusammenhang mit einzelnen Angeboten finden Sie unter den** [**Kacheln**](https://www.br.de/unternehmen/service/datenschutz/index.html "zur Übersicht")**.**
+**Ausführliche Informationen zu Datenverarbeitungstätigkeiten im Zusammenhang mit einzelnen Angeboten finden Sie unter den** [**Kacheln**](https://www.br.de/unternehmen/service/impressum/datenschutz-br-102.html "zur Übersicht | Impressum")**.**
 
 [1\. Wer ist für die Datenverarbeitung verantwortlich?](#)
 ----------------------------------------------------------

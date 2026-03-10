@@ -176,12 +176,12 @@ Sofern personenbezogene Daten verarbeitet werden, bestehen die in der Europäisc
 
 Datenschutzbeauftragter des SWR Neckarstraße 230 70190 Stuttgart [datenschutz@swr.de](mailto:datenschutz@swr.de) Des Weiteren steht Ihnen ein Beschwerderecht bei der datenschutzrechtlichen Aufsichtsbehörde nach DSGVO zu: Der Rundfunkdatenschutzbeauftragte Stephan Schwarze Kantstraße 71 – 73 04275 Leipzig Beschwerdeformular der Aufsichtsbehörde: [https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html](https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html) [https://www.rundfunkdatenschutz.de](https://www.rundfunkdatenschutz.de/)
 
-Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten übermittelt haben. Der Datenschutzbeauftragte steht Ihnen auch für weitere Fragen zur Verarbeitung ihrer persönlichen Daten durch ARD.de, die ARD Mediathek oder die ARD Audiothek, zum Datenschutz im Bereich des Rundfunks, einschließlich des Datenschutzes des Rundfunkbeitrags und des Beitragsservice zur Verfügung.
+Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten übermittelt haben. Der Datenschutzbeauftragte steht Ihnen auch für weitere Fragen zur Verarbeitung ihrer persönlichen Daten durch ARD.de, die ARD Mediathek oder ARD Sounds, zum Datenschutz im Bereich des Rundfunks, einschließlich des Datenschutzes des Rundfunkbeitrags und des Beitragsservice zur Verfügung.
 
-Videos und Audios in ARD Mediathek und ARD Audiothek
-----------------------------------------------------
+Datenschutzerklärungen der Rundfunkanstalten, Gemeinschaftseinrichtungen und kooperierten Angebote
+--------------------------------------------------------------------------------------------------
 
-Für die Video-Inhalte der ARD Mediathek und die Audio-Inhalte der ARD Audiothek gelten die Datenschutzerklärungen der Rundfunkanstalten. Über den Hinweis, der bei jedem Video bzw. Audio auf der Playerseite steht, ist erkennbar, welche Datenschutzerklärung jeweils zusätzlich maßgeblich ist.
+Für die Videoinhalte der ARD Mediathek und die Audioinhalte in ARD Sounds gelten die Datenschutzbestimmungen der Rundfunkanstalten. Über den Hinweis, der bei jedem Video bzw. Audio auf der Playerseite steht, ist erkennbar, welche Datenschutzerklärung jeweils zusätzlich maßgeblich ist.
 
 Datenschutzerklärungen der Rundfunkanstalten
 --------------------------------------------

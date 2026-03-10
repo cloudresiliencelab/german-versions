@@ -322,9 +322,13 @@ BILD etwaig darüberhinausgehend zustehende Schadensersatzansprüche bleiben unb
 
 26.3 Für die Generierung der Antworten greift „Hey\_“ auf verschiedene Informationsquellen wie den LLMs von OpenAI (z.B. GPT4o), dem BILD-Archiv oder dem Internet zu. Soweit BILD den Chatbot selbst trainiert, ändert dies nichts an der auf Wahrscheinlichkeiten basierenden Funktionsweise des KI-Modells.
 
-26.4 Manche Themenvorschläge bei „Hey\_“ sind als Anzeige gekennzeichnet. In diesen Fällen handelt es sich um bezahlte Chatverläufe, die durch im Hintergrund mitgelieferte Anweisungen, oder durch andere Trainingsmethoden passend zum jeweiligen Werbepartner gesteuert sein können.
+26.4    Für die Erbringung des Chatbot-Dienstes ist es erforderlich, die Chatverläufe zu speichern. Bei eingeloggten Nutzern erfolgt die Speicherung im Benutzerkonto. Bei nicht eingeloggten Nutzern wird der Chatverlauf einer zufällig generierten ID zugeordnet, die auf dem Endgerät in einem Cookie gespeichert ist, welcher binnen Monatsfrist gelöscht wird. Sämtliche Chatverläufe werden spätestens ein Jahr nach ihrer Erstellung automatisch gelöscht. Eingeloggte Nutzer können zudem jeden Chatverlauf selbst löschen, indem sie auf das Papierkorb-Symbol rechts neben dem Chatverlauf klicken.
 
-26.5 Es ist nicht gestattet, mit Hilfe von „Hey\_“ Inhalte zu generieren, die durch Gesetze, Vorschriften, behördliche Anordnungen oder Verfügungen verboten sind, wie etwa gewaltverherrlichende, diskriminierende, pornografische oder die Rechte anderer verletzende Inhalte. Unzulässig ist es außerdem,
+26.5    Zur Ermöglichung personalisierter Gesprächserlebnisse speichern wir nur bei eingeloggten Nutzern relevante Informationen aus den Chatverläufen wie Nutzerpräferenzen und wiederkehrende Themen als Erinnerungen. Mit Hilfe dieser Erinnerungen werden ausschließlich personalisierte Begrüßungen und Antworten ermöglicht. In den „Hey\_“-Einstellungen (erreichbar durch Klick auf den Nutzernamen unterhalb der Chatverläufe) kann die Personalisierung jederzeit vollständig deaktiviert werden. Dort können außerdem gespeicherte Erinnerungen eingesehen sowie einzeln oder insgesamt gelöscht werden.
+
+26.6 Manche Themenvorschläge bei „Hey\_“ sind als Anzeige gekennzeichnet. In diesen Fällen handelt es sich um bezahlte Chatverläufe, die durch im Hintergrund mitgelieferte Anweisungen, oder durch andere Trainingsmethoden passend zum jeweiligen Werbepartner gesteuert sein können.
+
+26.7 Es ist nicht gestattet, mit Hilfe von „Hey\_“ Inhalte zu generieren, die durch Gesetze, Vorschriften, behördliche Anordnungen oder Verfügungen verboten sind, wie etwa gewaltverherrlichende, diskriminierende, pornografische oder die Rechte anderer verletzende Inhalte. Unzulässig ist es außerdem,
 
 *   es zu versuchen, unbefugten Zugriff auf Dienste, Geräte, Daten, Konten oder Netzwerke zu erhalten oder diese zu stören;
 *   Spam oder Malware zu verbreiten;
@@ -333,11 +337,11 @@ BILD etwaig darüberhinausgehend zustehende Schadensersatzansprüche bleiben unb
 
 Es ist außerdem untersagt, jemanden zu unterstützen oder zu ermutigen, gegen eines der in dieser Ziffer enthaltenen Verbote zu verstoßen.
 
-26.6 Es ist nicht zulässig, personenbezogene Daten Dritter bei „Hey\_“ einzugeben. Unzulässig ist ferner, besondere Kategorien personenbezogener Daten im Sinne von Art. 9 Abs. 1 DSGVO – wie etwa Gesundheitsdaten, Daten zur ethnischen Herkunft, politischen Meinung, religiösen Überzeugung oder sexuellen Orientierung – bei „Hey\_“ einzugeben.
+26.8 Es ist nicht zulässig, personenbezogene Daten Dritter bei „Hey\_“ einzugeben. Unzulässig ist ferner, besondere Kategorien personenbezogener Daten im Sinne von Art. 9 Abs. 1 DSGVO – wie etwa Gesundheitsdaten, Daten zur ethnischen Herkunft, politischen Meinung, religiösen Überzeugung oder sexuellen Orientierung – bei „Hey\_“ einzugeben.
 
-26.7 Die Antworten des Chatbots unterliegen keiner redaktionellen Kontrolle. Sie können fehlerhaft, veraltet oder missverständlich sein. Sie sollten die erhaltenen Informationen stets kritisch hinterfragen und nicht ungeprüft übernehmen.
+26.9 Die Antworten des Chatbots unterliegen keiner redaktionellen Kontrolle. Sie können fehlerhaft, veraltet oder missverständlich sein. Sie sollten die erhaltenen Informationen stets kritisch hinterfragen und nicht ungeprüft übernehmen.
 
-26.8 BILD übernimmt keine Haftung für Schäden, die durch die Nutzung von „Hey\_“ entstehen könnten.
+26.10 BILD übernimmt keine Haftung für Schäden, die durch die Nutzung von „Hey\_“ entstehen könnten.
 
 **27\. Datenschutz**
 

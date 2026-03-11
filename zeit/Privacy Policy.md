@@ -624,6 +624,7 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   7 Points Sp. z o.o. (SaaS-Anbieter Umfrage-Tool SurveyLab)
 *   Piano Software Norway (SaaS-Anbieter für Personalisierung und Nutzeransprache)
 *   Stripo Inc. (SaaS-Anbieter Newsletter-Templates)
+*   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot Lösung)
 
 [To the top of the section](#Unternehmensliste)
 

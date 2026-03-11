@@ -3,7 +3,7 @@ Datenschutzerklärung
 
 ARD Online nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich bei der Nutzung unserer Angebote stets sicher fühlen. Hier informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten. Diese Datenschutzerklärung gilt für folgende Angebote: ARD.de, ARD Mediathek und ARD Sounds (früher ARD Audiothek).
 
-Bitte beachten Sie: Wenn Sie unsere Angebote angemeldet über das ARD-Konto nutzen, gelten gegebenfalls gesonderte Datenschutzrichtlinien. Diese können Sie über die Datenschutzerklärung zum ARD-Konto einsehen.
+Bitte beachten Sie: Wenn Sie unsere Angebote angemeldet über das ARD-Konto nutzen, gelten gegebenenfalls gesonderte Datenschutzrichtlinien. Diese können Sie über die Datenschutzerklärung zum ARD-Konto einsehen.
 
 Die Datenschutzerklärung auf dieser Seite wird regelmäßig aktualisiert. Wir erklären Ihnen nun, welche Daten wir erheben und wie wir sie verwenden.
 
@@ -26,7 +26,7 @@ Wenn Sie nicht möchten, dass wir Cookies allgemein auf Ihrem Gerät setzen, kö
 Nutzungsmessung
 ---------------
 
-Um Ihnen ein relevantes journalistisches Angebot zu präsentieren, führen wir statistische Nutzungsmessungen durch, welche es uns erlauben, unsere Angebote hinsichtlich Nutzung und Reichweite auszuwerten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag. Im unangemeldeten Zustand messen wir Ihre Nutzung vollständig anonym, da Ihre IP-Adresse unmittelbar mit Erfassung Ihrer Daten gehashed, d.h. verfremdet wird. Hierdurch ist eine Rückverfolgbarkeit zu Ihnen als betroffene Person ausgeschlossen. Angemeldet ist die Messung Ihrer Nutzung pseudoanonymisiert. Das bedeutet, dass sich Ihre Daten zwar zuordnen lassen, wir Ihre Daten aber nur über eine zufällig generierte ID erheben, wodurch Sie als betroffene Person ohne Hinzuziehung zusätzlicher Informationen nicht mehr identifiziert werden können. Wir führen Ihre Daten nicht mit Daten Dritter oder anderer interner Datensätze zusammen. Eine Nutzung zu kommerziellen Zwecken findet ebenfalls nicht statt.
+Um Ihnen ein relevantes journalistisches Angebot zu präsentieren, führen wir statistische Nutzungsmessungen durch, welche es uns erlauben, unsere Angebote hinsichtlich Nutzung und Reichweite auszuwerten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag. Im unangemeldeten Zustand messen wir Ihre Nutzung vollständig anonym, da Ihre IP-Adresse unmittelbar mit Erfassung Ihrer Daten gehasht, d.h. verfremdet wird. Hierdurch ist eine Rückverfolgbarkeit zu Ihnen als betroffene Person ausgeschlossen. Angemeldet ist die Messung Ihrer Nutzung pseudoanonymisiert. Das bedeutet, dass sich Ihre Daten zwar zuordnen lassen, wir Ihre Daten aber nur über eine zufällig generierte ID erheben, wodurch Sie als betroffene Person ohne Hinzuziehung zusätzlicher Informationen nicht mehr identifiziert werden können. Wir führen Ihre Daten nicht mit Daten Dritter oder anderer interner Datensätze zusammen. Eine Nutzung zu kommerziellen Zwecken findet ebenfalls nicht statt.
 
 Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten, erhalten Sie auf den nachfolgend verlinkten Webseiten weitere Informationen hierzu: Nutzungsmessung durch Piano Analytics Digitale Messung durch Nielsen AGF/GfK-Streaming-Messung
 
@@ -34,7 +34,7 @@ Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuelle
 
 Ihre Widerspruchsmöglichkeit
 
-Wenn Sie der Erfassung statistischer Nutzungsdaten widersprechen möchten, können Sie dies jederzeit ohne etwaige Nachteile tun. Gehen Sie hierfür in unsere Einstellungen und deaktivieren Sie die Option „Anonyme Nutzungsstatistiken überartragen“. Hierdurch wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern.
+Wenn Sie der Erfassung statistischer Nutzungsdaten widersprechen möchten, können Sie dies jederzeit ohne etwaige Nachteile tun. Gehen Sie hierfür in unsere Einstellungen und deaktivieren Sie die Option "Anonyme Nutzungsstatistiken übertragen". Hierdurch wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern.
 
 Externe Dienste
 ---------------
@@ -89,7 +89,7 @@ Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen.
 
 Piano Analytics
 
-Wir nutzen Piano Analytics der Firma Piano Software ([https://www.piano.io/](https://www.piano.io/)), um anonyme Nutzungsdaten für statistische Zwecke zu erfassen. Die Verarbeitung erfolgt datenschutzkonform innerhalb der EU.
+Wir nutzen Piano Analytics der Firma Piano Software/AT Internet ([https://www.piano.io/](https://www.piano.io/)), um anonyme Nutzungsdaten für statistische Zwecke zu erfassen. Die Verarbeitung erfolgt datenschutzkonform innerhalb der EU.
 
 Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics.
 
@@ -192,4 +192,4 @@ Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datensch
 
 Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-9.3.2026
+11.3.2026

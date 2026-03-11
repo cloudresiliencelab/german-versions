@@ -504,14 +504,85 @@ Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als 
 *   holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse;
 *   stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten;
 *   stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/ "Consenthub")) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
-*   Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
 
-Über das Utiq-Datenschutzportal ([consenthub](https://consenthub.utiq.com/ "Consenthub")) können Sie alle von Ihnen erteilten Einwilligungen zur Nutzung der Utiq-Technologie auf allen an Utiq beteiligten Webseiten einsehen und widerrufen.  
+Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
+
+Über das Utiq-Datenschutzportal ([consenthub](https://consenthub.utiq.com/ "Consenthub")) können Sie alle von Ihnen erteilten Einwilligungen zur Nutzung der Utiq-Technologie auf allen an Utiq beteiligten Webseiten einsehen und widerrufen.
+
 Sie können Ihre nur für diese Webseite geltende Einwilligung auch [hier widerrufen](https://www.zeit.de/utiq-verwalten "Hier widerrufen").
 
 Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement "Datenschutzerklärung von Utiq").
 
 [To the top of the section](#Utiq-SA/NV)
+
+### iq digital media marketing GmbH
+
+Bei der Steuerung unserer Werbepartner auf zeit.de arbeiten wir mit der iq digital media marketing GmbH zusammen. Dieser spezialisierte Dienstleister vermarktet die Werbeflächen für uns und kümmert sich um die Einbindung der Werbetreibenden auf unseren Seiten. Hierbei verarbeitet die iq digital media marketing GmbH personenbezogene Daten, die auf zeit.de erhoben werden. Das geschieht wiederum über weitere Beteiligte, insbesondere die Anbieter von Marketing-Tools, Agenturen und Werbetreibende. Je nach ihrer konkreten Rolle und je nach Zweck der Datenverarbeitung handeln diese Beteiligten als gemeinsam Verantwortliche im Sinne von Art. 26 DSGVO.
+
+Die von uns und der iq digital media marketing GmbH gemeinsam verarbeiteten personenbezogenen Daten sind Cookie-IDs, IP-Adressen, MAC-Adressen, Geräte-IDs, verwendeter Browser und Daten aus dem Browser (z.B. Auflösung oder Spracheinstellung), verwendetes Betriebssystem und Daten über das Betriebssystem (z.B. Versionsnummer, Bildschirmauflösung), verwendetes Endgerät, Verhalten des Nutzers auf zeit.de bzw. Bewegungsdaten (welche Artikel wurden gelesen, welche Angebote wurden besucht, welche Links wurden geklickt etc.), Referrer-URL, Datum und Uhrzeit des Besuches sowie Verweildauer auf zeit.de, geografischer Standort, Nutzerdaten (E-Mail-Adressen, Mobilfunknummern, aber auch IP-Adressen und andere Online-Kennungen) und pofilidentifizierende Kennungen, die auf Grundlage von partnerspezifischen IDs oder Identifiern generiert wurden. Es werden nicht immer all diese Daten verarbeitet. Es kommt darauf an, welche Marketing-Tools im Einzelfall aktiv waren.
+
+Wir und die iq digital media marketing GmbH haben uns verpflichtet, uns den jeweils aktuellen Regeln des [IAB TCF](https://iabeurope.eu/transparency-consent-framework/ "IAB TCF") zu unterwerfen. Dort ist präzise definiert, welche personenbezogenen Daten im konkreten Einzelfall von den beteiligten Anbietern von Marketing-Tools, Agenturen und Werbetreibenden verarbeitet werden.
+
+Beim Aufruf von zeit.de erhalten Sie die Möglichkeit, die Reichweite der Verarbeitung personenbezogener Daten und den Zugriff auf bzw. das Speichern von Informationen auf Ihrem Endgerät durch entsprechende Einstellungen im Consent-Banner zu bestimmen. Sie haben jederzeit die Möglichkeit, Ihre Einwilligung zu widerrufen. Entsprechend den Einstellungen werden den an der Verarbeitung Beteiligten technische Signale über das Vorliegen der Rechtsgrundlage übermittelt. Die iq digital media marketing GmbH übernimmt die Vermarktung von zeit.de auf dieser Grundlage.
+
+Folgende Verarbeitungen unterfallen einer gemeinsamen Verantwortlichkeit:
+
+*   Ein personalisiertes Anzeigen-Profil erstellen
+*   Personalisierte Anzeigen auswählen
+*   Ein personalisiertes Inhalts-Profil (Content-Profile) erstellen
+*   Personalisierte Inhalte (Content) auswählen
+*   Anzeigen-Leistung messen
+*   Inhalte-Leistung (Content Performance) messen
+*   Marktforschung einsetzen, um Erkenntnisse über Zielgruppe zu gewinnen
+*   Produkte entwickeln und verbessern
+*   Informationen auf einem Gerät speichern und/oder abrufen (falls im [IAB TCF](https://iabeurope.eu/transparency-consent-framework/ "IAB TCF") festgelegt)
+*   Auslieferung und Präsentation von Anzeigen und Inhalt (Sonderzweck 2)
+
+Wir haben mit der iq digital media marketing GmbH vereinbart, dass wir uns um die Melde- und Benachrichtigungspflicht nach Art. 33, 34 DSGVO sowie die Einhaltung der Informationspflicht aus Art. 13 DSGVO kümmern.
+
+[To the top of the section](#iq-digital-media-marketing-GmbH)
+
+### Meta Platforms Ireland Ltd.
+
+**Verantwortlichkeiten**
+
+Wir verwenden Meta‑Business‑Tools, um die Nutzung unserer Website besser zu verstehen, Werbemaßnahmen auf Facebook und Instagram zu optimieren und um deren Erfolg zu messen. Zu den Meta‑Business‑Tools gehören unter anderem das Facebook‑Pixel, die Meta Conversions API, Social Plugins sowie Funktionen zum Anmelden oder Teilen über Meta‑Dienste.
+
+Die Meta-Business-Tools werden von der Meta Platforms Ireland Ltd., Block J, Serpentine Avenue, Dublin 4, Irland bereitgestellt. Den Datenschutzbeauftragten erreichen Sie über ein [Online-Formular](https://www.facebook.com/help/contact/540977946302970 "Online-Formular").
+
+Je nachdem, welches der Meta-Business-Tools wir verwenden und welche Datenverarbeitungen wir durchführen, werden unterschiedliche Daten von Nutzern verarbeitet. Die Verantwortlichkeit für die Verarbeitung variiert dabei. Ein Teil erfolgt in gemeinsamer Verantwortlichkeit zwischen uns und der Meta Platforms Ireland Ltd. Wir haben aus diesem Grund einen [Vertrag nach Art. 26 DSGVO](https://www.facebook.com/legal/controller_addendum "Vertrag nach Art. 26 DSGVO") geschlossen, in dem vor allem die Erfüllung von Betroffenenrechten geregelt wird. Bei der Nutzung mancher Funktionen handelt das soziale Netzwerk wiederum in unserem Auftrag und auf unsere Weisung hin. Bei diesen Konstellationen handelt es sich um eine [Auftragsverarbeitung nach Art. 28 DSGVO](https://www.facebook.com/legal/terms/dataprocessing "Auftragsverarbeitung nach Art. 28 DSGVO"), die wir besonders vertraglich geregelt haben. Manchmal findet die Verarbeitung auch in getrennter Verantwortlichkeit statt, sodass wir und die Meta Platforms Ireland Ltd. jeweils selbst die Einhaltung der DSGVO sicherstellen müssen. Wann welches Unternehmen wie verantwortlich ist, ergibt sich aus der nachfolgenden Tabelle.
+
+| Zweck | Datenkategorien | Verantwortlichkeit |
+| --- | --- | --- |
+| Abgleich mit Nutzer-IDs und Kombination mit Event-Daten | Kontaktinformationen | Auftragsverarbeitung |
+| Ausschluss von Nutzern von ausgespielten Anzeigen, Erstellung von Custom Audiences, Erstellung von Berichten über die Auswirkungen von Werbekampagnen und anderer Inhalte, Erstellung von Analysen und Erkenntnissen über Personen und deren Nutzung von Apps, Websites und Produkten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten") | Auftragsverarbeitung |
+| Ausrichtung von Werbekampagnen auf Personen, die mit uns interagieren, Erstellung von Custom Audiences | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Zustellung kommerzieller und transaktionsbezogener Nachrichten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Verbesserung der Anzeigenauslieferung, zur Personalisierung von Funktionen und Inhalten sowie zur Verbesserung, Bereitstellung und Sicherung der Produkte der Meta-Unternehmen | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Lead-Generierung | Individuell per Lead-Formular erhobene Daten | Getrennte Verantwortlichkeit |
+
+**Verarbeitete Daten**
+
+Mit Meta-Business-Tools werden personenbezogene Daten verarbeitet. Die Meta Platforms Ireland Ltd. gibt dabei vor, wie diese Daten insgesamt bezeichnet werden. Die Unterscheidung ist relevant für das Verständnis der in der Tabelle dargestellten Verarbeitungssituationen.  
+Kontaktinformationen sind Informationen, mit denen Einzelpersonen identifiziert werden können. Dabei handelt es sich z.B. um Namen, E-Mail-Adressen und Telefonnummern. Event-Daten sind sonstige Informationen, die Nutzer durch ihre Aktionen im Internet generieren. Dazu gehören z.B. Besuche auf Websites, Installationen von Apps und Käufe in einem Online-Shop. Noch detailliertere Informationen finden sich in den [Nutzungsbedingungen für Meta-Business-Tools](https://www.facebook.com/legal/technology_terms "Nutzungsbedingungen für Meta-Business-Tools").
+
+**Custom Audiences**
+
+Ein wichtiger Bestandteil der Meta-Business-Tools sind die Custom Audiences. Das sind Zielgruppen, die auf verschiedenen Daten beruhen und die wir dazu nutzen, gezielt Angebote auszuspielen. Die Meta-Business-Tool unterscheiden zwischen mehreren Custom Audiences:
+
+*   Website Custom Audiences (Personen, die die Website besucht haben)
+*   App Activity Custom Audiences (Personen, die eine App genutzt haben)
+*   Customer List Custom Audiences (Personen, deren Kontaktdaten wir hochgeladen haben)
+*   Engagement Custom Audiences (Personen, die mit Beiträgen oder Anzeigen interagiert haben)
+*   Shopping Custom Audiences (Personen, die einen Onlineshop oder Produktkatalog angesehen haben)
+
+Die Custom Audiences sind für uns nicht unmittelbar personenbezogen. Wir können nicht sehen oder herausfinden, ob bestimmte Personen in einer Zielgruppe sind oder nicht.
+
+**Rechtsgrundlage**
+
+Die Verarbeitungen in gemeinsamer und getrennter Verantwortlichkeit erfolgen auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 a) DSGVO, § 25 Abs. 1 TDDDG). Wir holen diese Einwilligung über eine Consent-Management-Plattform ein. Die Verarbeitungen, bei denen wir die Meta Platforms Ireland Ltd. als Auftragsverarbeiter einsetzen, stützen wir auf unser berechtigtes Interesse (Art. 6 Abs. 1 f) DSGVO). Wenn wir Kampagnen über Meta-Plattformen ausspielen, soll das besonders effizient und kostensparend sein. Um aktive Abonnenten von diesen Kampagnen auszuschließen, machen wir einen Abgleich zwischen den Daten von Abonnenten und Nutzern von Meta-Diensten (Name und E-Mail-Adresse).
+
+[To the top of the section](#Meta-Platforms-Ireland-Ltd)
 
 ### Anbieter von Social-Media-Plattformen
 
@@ -784,6 +855,19 @@ Bei der Nutzung von LinkedIn findet ein Datentransfer in Drittländer außerhalb
 Wenn Sie einen Kommentar hinterlassen, wird dieser zeitlich unbegrenzt auf unserem Profil gespeichert (bis Sie ihn löschen). Das gleiche gilt für die Nutzung der Like-Funktion. Direktnachrichten an uns werden ebenfalls gespeichert, allerdings in einem regelmäßigen Turnus gelöscht.
 
 [To the top of the section](#LinkedIn-Profile)
+
+### SnapChat-Profile
+
+**Verantwortlichkeit**
+
+Die Social-Media-Plattform SnapChat wird angeboten und betrieben von der Snap Inc., with its address at 3000 31st Street, Santa Monica, California 90405, USA. Die datenschutzrechtliche Verantwortlichkeit liegt allein dort.
+
+**Nutzung von SnapChat**
+
+Wir verwenden SnapChat und die darüber bereitgestellten Funktionen zum Teilen von Informationen und zur Kommunikation mit anderen Nutzerinnen und Nutzern. Dabei halten wir uns an die Nutzungsbedingungen, denen wir bei der Anlage unseres Profils zugestimmt haben.  
+Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung. Informationen dazu finden Sie in der [Datenschutzerklärung von SnapChat](https://values.snap.com/privacy/privacy-policy?lang=de-DE "Datenschutzerklärung von SnapChat"). Sie nutzen die Social-Media-Plattform in eigener Verantwortung und müssen selbst entscheiden, ob Sie mit der Datenverarbeitung durch die Snap Inc einverstanden sind. Dies gilt insbesondere für die Nutzung der Funktionen (z.B. Reactions, Stories, Chatten, SnapMap) und die Datenverarbeitung in Ländern außerhalb der EU und des EWR.
+
+[To the top of the section](#SnapChat)
 
 ![](//images.ctfassets.net/9q531vlek15f/2BNe7hg0ItTEUacAi4BYbm/e245a3cdf9cacfa3ec8dd23ab2f828e6/Medienprivileg.png)
 

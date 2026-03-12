@@ -68,7 +68,7 @@ Here are the types of personal information we collect:
 What About Cookies and Other Identifiers?
 -----------------------------------------
 
-We use cookies and similar tools to enhance your shopping experience, provide Amazon Services, understand how customers use Amazon Services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. For more information about cookies and how we use them, please read our [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.de/-/en/privacyprefs/retail).
+We use cookies and similar tools to enhance your shopping experience, provide Amazon Services, understand how customers use Amazon Services so we can make improvements, and display ads. Approved third parties also use these tools in connection with our display of ads. For more information about cookies and how we use them, please read our [Cookies notice](https://www.amazon.de/-/en/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). You can manage your cookie preferences [here](https://www.amazon.de/privacyprefs/retail).
 
 Does Amazon Europe Share Your Personal Information?
 ---------------------------------------------------
@@ -93,7 +93,7 @@ We design our systems and devices with your security and privacy in mind.
 *   We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
 *   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may ask to verify your identity before we disclose personal information to you.
 *   Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=200127470) for more information on how to manage the security settings of your device.
-*   It is important for you to protect against unauthorised access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not utilized for other online accounts. Be sure to sign off when you finish using a shared computer. For more information on how to sign off, [click here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C).
+*   It is important for you to protect against unauthorised access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not utilized for other online accounts. Be sure to sign off when you finish using a shared computer. For more information on how to sign off, [click here](https://www.amazon.de/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C).
 
 What About Advertising?
 -----------------------
@@ -109,7 +109,7 @@ You can access your information, including your name, address, payment options, 
 What Choices Do I Have?
 -----------------------
 
-If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
+If you have any question or objection as to how we collect and process your personal information, please contact our [Customer Service](https://www.amazon.de/-/en/gp/aw/contact-us). Many Amazon Services also include settings that provide you with options as to how your personal information is being used.
 
 *   As described above, you can choose not to provide certain information but then you might not be able to take advantage of many of the Amazon Services.
 *   You can add or update certain information on pages such as those referenced in the [Information You Can Access](#GUID-9DFA0CFF-9E83-4207-8EE5-5B1B8CFC3F4A__SECTION_8E8555298F744144B56A48C866F09067) section. When you update information, we usually keep a copy of the previous version for our records.

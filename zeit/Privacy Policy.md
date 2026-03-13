@@ -217,6 +217,16 @@ Informationen zur Speicherdauer finden Sie auf der jeweiligen Drittplattform.
 
 [To the top of the section](#Podcast-auf-Drittplattformen)
 
+### Kontakt zwischen Nutzern
+
+Über ein Online-Kontaktformular können Sie direkt Nachrichten an andere Nutzer senden. Dabei wird die eingegebene Nachricht übermittelt und der empfangende Nutzer sieht Ihre E‑Mail‑Adresse, um antworten zu können. Weitere technisch notwendige Daten können bei der Formularübermittlung anfallen (z.B. Zeitstempel). Sie werden vor dem Absenden einer Nachricht ausdrücklich darauf hingewiesen, dass Ihre E-Mail-Adresse gegenüber dem Empfänger offengelegt wird.
+
+Rechtsgrundlage ist das Nutzungsverhältnis nach Art. 6 Abs. 1 b) DSGVO. Die Bereitstellung der E‑Mail‑Adresse und der Nachricht ist erforderlich, um die Funktion nutzen zu können. Ohne diese Angaben ist eine Zustellung an den anderen Nutzer nicht möglich.
+
+Nachrichten werden nicht auf zeit.de gespeichert. Sie liegen ausschließlich bei den jeweiligen Empfängern in deren Postfächern.
+
+[To the top of the section](#Kontakt-zwischen-Nutzern)
+
 ![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
 
 Aktionen, Verträge und Abos
@@ -682,8 +692,6 @@ Unseren externen Datenschutzbeauftragten erreichen Sie postalisch bei der Hertin
 Social-Media-Profile
 --------------------
 
-### Anbieter von Social-Media-Plattformen
-
 Wir haben Profile bei sozialen Netzwerken, um unsere Inhalte zu veröffentlichen und mit Nutzern in Kontakt zu treten. Wie Sie auch haben wir dafür einen Account angelegt und den Nutzungsbedingungen des jeweiligen sozialen Netzwerks zugestimmt.
 
 Die Verantwortlichkeiten für die Datenverarbeitung sind von Netzwerk zu Netzwerk unterschiedlich. Es kann sich um eine eigene oder gemeinsame Verantwortlichkeit nach Art. 26 DSGVO und in manchen Fällen sogar um eine Auftragsverarbeitung nach Art. 28 DSGVO handeln. Die Bewertung ergibt sich aus den Nutzungsbedingungen und integrierten Verträgen der Plattformanbieter, die wir als Grundlage für unsere Informationen nutzen (müssen).
@@ -871,9 +879,6 @@ Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung. Informationen
 [To the top of the section](#SnapChat)
 
 ![](//images.ctfassets.net/9q531vlek15f/2BNe7hg0ItTEUacAi4BYbm/e245a3cdf9cacfa3ec8dd23ab2f828e6/Medienprivileg.png)
-
-Medienprivileg
---------------
 
 Medienprivileg
 --------------

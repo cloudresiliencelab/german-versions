@@ -195,7 +195,9 @@ OV bietet allen Kunden die Möglichkeit, die Dienste im Falle einer Registrierun
 
 ### 6.2. Single-Sign-On
 
-OV nutzt das Single Sign-On (kurz SSO) Verfahren. SSO Verfahren bedeutet, dass jeder Nutzer nach einer einmaligen Registrierung mit seinen Zugangsdaten verschiedene Angebote und Dienste dienstübergreifend nutzen kann, ohne sich erneut registrieren und anmelden zu müssen. Dies erspart dem Nutzer die wiederholte manuelle Eingabe von Daten.
+OV nutzt das Single Sign-On (kurz SSO) Verfahren. SSO Verfahren bedeutet, dass jeder Nutzer nach einer einmaligen Registrierung mit seinen Zugangsdaten verschiedene Angebote und Dienste, , insbesondere kicker-Managerspiel, kicker-Tippspiel, Newsletter, Kicker+ und E-Magazine, kicker-Community und Kommentarfunktion, Vereinsheim, Kicker Shop, Mein Kicker sowie weitere personalisierte Inhalte, dienstübergreifend nutzen kann, ohne sich erneut registrieren und anmelden zu müssen. Dies erspart dem Nutzer die wiederholte manuelle Eingabe von Daten.
+
+Um diesen Dienst zur Verfügung stellen zu können, speichern und verarbeiten wir Ihre KickerID, um Sie über die oben genannten Angebote und Dienste hinweg wiederzuerkennen. Näheres hierzu finden Sie in den jeweiligen Nutzungsbedingungen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 ### 6.3. Newsletter
 

@@ -50,11 +50,11 @@ Die Logdaten werden gelöscht oder anonymisiert, sobald sie nicht mehr benötigt
 
 ### Anfragen über die Website
 
-Wir bieten unterschiedliche Möglichkeiten zur Kontaktaufnahme an (z.B. Online-Kontaktformular, E-Mail-Adresse). Die von Ihnen übermittelten Daten verarbeiten wir zur Beantwortung Ihrer Anfrage.
+Wir bieten unterschiedliche Möglichkeiten zur Kontaktaufnahme an (z.B. Online-Kontaktformular, E-Mail-Kontaktadresse, Feedback-Formular). Die von Ihnen übermittelten Daten und Informationen verarbeiten wir zur Beantwortung Ihrer Anfrage. Feedback zu unseren Produkten oder Hinweise auf Fehler nutzen wir zur Verbesserung und Fehlerbeseitigung.
 
-Die Datenverarbeitung im (vor)vertraglichen Kontext ist gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung Ihrer personenbezogenen Daten ist dabei erforderlich, um mit uns zu kommunizieren.
+Die Datenverarbeitung im (vor)vertraglichen Kontext, zur Kommunikation und zur Fehlerbeseitigung ist gesetzlich erlaubt (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 TDDDG). Die Bereitstellung Ihrer personenbezogenen Daten ist dabei erforderlich, um mit uns zu kommunizieren und im Falle von Feedback die Fehlerbeseitigung zu ermöglichen.
 
-Nach Abschluss der Kommunikation speichern wir Ihre Daten für die Dauer von 6 Monaten. Falls Sie sich bei uns registrieren oder es zu einer anderen Art des weiteren Kontakts kommt, werden Ihre Daten weiterhin gespeichert und erst nach Ablauf der geltenden gesetzlichen Aufbewahrungspflichten gelöscht.
+Wir speichern die Daten für die Dauer von 6 Monaten. Falls Sie sich bei uns registrieren oder es zu einer anderen Art des weiteren Kontakts kommt, werden Ihre Daten weiterhin gespeichert und erst nach Ablauf der geltenden gesetzlichen Aufbewahrungspflichten gelöscht.
 
 [To the top of the section](#Anfragen-über-die-Website)
 

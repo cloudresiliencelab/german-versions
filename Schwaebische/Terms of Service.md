@@ -1,22 +1,6 @@
 Allgemeine Geschäftsbedingungen
 ===============================
 
-#### Inhaltsverzeichnis
-
-Allgemeine Geschäftsbedingungen
-
-*   [Anzeigen, Fremdbeilagen und digitale Werbemittel](https://www.schwaebische.de/agb#1)
-*   [1\. Allgemeine Geschäftsbedingungen für Anzeigen, Fremdbeilagen und digitale Werbemittel](https://www.schwaebische.de/agb#2)
-*   [2\. Allgemeine Geschäftsbedingungen für Online-Werbung](https://www.schwaebische.de/agb#3)
-*   [3\. Allgemeine Geschäftsbedingungen für die Nutzung von trauer.schwaebische.de](https://www.schwaebische.de/agb#4)
-*   [4\. Allgemeine Geschäftsbedingungen zur Schaltung von Werbemitteln bei schwäbische.de und verwandten Webseiten durch Verbraucher](https://www.schwaebische.de/agb#5)
-*   [Abonnements](https://www.schwaebische.de/agb#6)
-*   [1\. Allgemeine Geschäftsbeziehungen über den Bezug der Printausgabe der Schwäbischen Zeitung](https://www.schwaebische.de/agb#7)
-*   [2\. Allgemeine Geschäftsbedingungen für Digitalabonnements](https://www.schwaebische.de/agb#8)
-*   [3\. Zusätzliche Allgemeine Geschäftsbedingungen für Digitalabonnements mit Endgerät](https://www.schwaebische.de/agb#9)
-*   [Sonstiges](https://www.schwaebische.de/agb#10)
-*   [1\. Allgemeine Geschäftsbedingungen für Schwäbische Tickets](https://www.schwaebische.de/agb#11)
-
 Anzeigen, Fremdbeilagen und digitale Werbemittel
 ------------------------------------------------
 

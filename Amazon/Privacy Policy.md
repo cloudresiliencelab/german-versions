@@ -246,7 +246,7 @@ What Rights Do I Have?
 
 Subject to applicable law and in certain instances, you have the following rights:
 
-**Access and portability.** To access your personal information, log into your Amazon account and go to [Request Your Personal Information](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=TP1zlemejtTn6pwYKS). We will provide you with a copy of your personal information, which you can download and also share in a machine-readable format to enable portability.
+**Access and portability.** To access your personal information, log into your Amazon account and go to [Request Your Personal Information](https://www.amazon.de/gp/help/customer/display.html?nodeId=TP1zlemejtTn6pwYKS). We will provide you with a copy of your personal information, which you can download and also share in a machine-readable format to enable portability.
 
 **Deletion.** To delete your personal information, log into your Amazon account and go to Request the Closure of Your Account and the Deletion of Your Personal Information by going [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GDK92DNLSGWTV6MP).
 

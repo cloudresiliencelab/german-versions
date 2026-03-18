@@ -1,22 +1,6 @@
 Datenschutzerklärung für die Website und die Applikationen Schwäbischer Verlag GmbH & Co. KG Drexler, Gessler (Stand 18.12.2025).
 =================================================================================================================================
 
-#### Inhaltsverzeichnis
-
-Datenschutzerklärung für die Website und die Applikationen
-
-*   [1\. Datenschutz auf einen Blick](https://www.schwaebische.de/datenschutz#1)
-*   [2\. Hosting und Content Delivery Networks (CDN)](https://www.schwaebische.de/datenschutz#2)
-*   [3\. Allgemeine Hinweise und Pflichtinformationen](https://www.schwaebische.de/datenschutz#3)
-*   [4\. Datenerfassung auf dieser Website](https://www.schwaebische.de/datenschutz#4)
-*   [5\. Soziale Medien](https://www.schwaebische.de/datenschutz#5)
-*   [6\. Analyse-Tools und Werbung](https://www.schwaebische.de/datenschutz#6)
-*   [7\. Newsletter und Postwerbung](https://www.schwaebische.de/datenschutz#7)
-*   [8\. Plugins und Tools](https://www.schwaebische.de/datenschutz#8)
-*   [9\. eCommerce und Zahlungsanbieter](https://www.schwaebische.de/datenschutz#9)
-*   [10\. Google Firebase](https://www.schwaebische.de/datenschutz#10)
-*   [11\. Gewinnspiele & Rätsel](https://www.schwaebische.de/datenschutz#11)
-
 1\. Datenschutz auf einen Blick
 -------------------------------
 

@@ -8,21 +8,23 @@ Bereich Inhaltsverzeichnis aufklappen
     
 2.  [Möglichkeiten zur Nutzung unserer Webseite: "Werbefrei-lesen-Option"](#werbefreilesen)
     
-3.  [Funktionsfähigkeit des Angebots](#funktionsfaehigkeitdesangebots)
+3.  [Adobe-basiertes Nutzungs- und Marketing-Kampagnen-Tracking (auch: Werbe-Tracking)](#adobe)
     
-4.  [Vertragsbeziehungen](#vertragsbeziehungen)
+4.  [Funktionsfähigkeit des Angebots](#funktionsfaehigkeitdesangebots)
     
-5.  [Werbe-Tracking](#werbetracking)
+5.  [Vertragsbeziehungen](#vertragsbeziehungen)
     
-6.  [Eigene Produkt- und Vertriebsentwicklung](#eigeneproduktundvertriebsentwicklung)
+6.  [Werbe-Tracking](#werbetracking)
     
-7.  [Einbinden von Drittinhalten](#einbindenvondrittinhalten)
+7.  [Eigene Produkt- und Vertriebsentwicklung](#eigeneproduktundvertriebsentwicklung)
     
-8.  [Verlagsspezifische Verarbeitungen](#verlagsspezifischeverarbeitungen)
+8.  [Einbinden von Drittinhalten](#einbindenvondrittinhalten)
     
-9.  [Ihre Rechte](#iIhrerechte)
+9.  [Verlagsspezifische Verarbeitungen](#verlagsspezifischeverarbeitungen)
     
-10.  [Anforderungen des Data Act](#dataact)
+10.  [Ihre Rechte](#ihrerechte)
+     
+11.  [Anforderungen des Data Act](#dataact)
      
 
 * * *
@@ -65,7 +67,19 @@ Die Werbefrei-lesen-Option ist keine Bezahlschranke für exklusive Inhalte, sond
 
 * * *
 
-Bereich 3. Funktionsfähigkeit des Angebots aufklappen
+Bereich 3. Adobe-basiertes Nutzungs- und Marketing-Kampagnen-Tracking (auch: Werbe-Tracking) aufklappen
+
+Wir nutzen auf unseren Angeboten Technologien für nutzungs- und kampagnenbezogene Messung und Aussteuerung ("Nutzungs-Tracking, "Webtracking", "Kampagnentracking") die auf Lösungen von »Adobe« (Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Saggart, Dublin 24, Ireland) basieren. Damit können wir nachvollziehen, ob und wie Nutzer:innen mit unseren Inhalten und Werbemitteln für eigene Verlagsangebote interagieren (z.B. Aufrufe, Klicks, Conversion-/Erfolgsmessung), Reichweiten und Kampagnenleistungen auswerten sowie Werbung für Verlagsangebote zielgruppenorientiert ausspielen und die Werbeauslieferung steuern.
+
+Hierzu werden – abhängig von der konkreten Ausgestaltung – Informationen auf Ihrem Endgerät gespeichert und ausgelesen (z.B. Cookies, anderer Browser-Storage, Online-Kennungen) und mit Nutzungsdaten verarbeitet. Dabei können insbesondere technische Informationen (z.B. Geräte-/ Browserdaten, IP-Adresse), Interaktions- und Ereignisdaten (z.B. Seitenaufrufe, Klickpfade, Zeitstempel, Leseverhalten), grobe Standortinformationen sowie Werbe- und Kampagnendaten unserer Verlagsangebote verarbeitet und zu pseudonymen Nutzungsprofilen zusammengeführt werden.
+
+Ein unmittelbarer Personenbezug kann dabei grds. nur dann hergestellt werden, wenn ein Nutzerkonto besteht und Sie sich in unserem Angebot einloggen; nur in diesem Fall können ggf. Informationen aus dem Nutzerkontext berücksichtigt werden. Ohne Login liegen uns keine Klardaten zu Ihrer Person vor, eine Zusammenführung von Nutzungsdaten aus dem Webtracking mit den Daten aus dem Nutzerkontext Ihres Kontos kann bei Verwendung desselben Endgerätes auch noch nach dem Logout geschehen. Die IP-Adresse wird durch Kürzung anonymisiert, sodass hieraus regelmäßig kein unmittelbarer Personenbezug ableitbar ist. Eine Zusammenführung mit Daten, die Sie unmittelbar identifizieren, erfolgt nur, sofern dies ausdrücklich beschrieben ist und die datenschutzrechtlichen Voraussetzungen vorliegen.
+
+Wichtig: Das Adobe-basierte Nutzungs- und Marketing-Kampagnen-Tracking (Werbe-Tracking) setzen wir nicht "pauschal" ein, sondern ausschließlich in Bezug auf konkrete Einzelzwecke, über die wir Sie in dieser Datenschutzerklärung umfassend informieren. In diesem Zusammenhang holen wir – soweit rechtlich erforderlich – auch Ihre datenschutzrechtliche Einwilligung (einschließlich ggf. der Einwilligung in das Speichern/Auslesen von Informationen auf Ihrem Endgerät) über unsere Consent Management Plattform ein; dort finden Sie auch Informationen zu Widerruf bzw. Änderungsmöglichkeiten Ihrer Auswahl.
+
+* * *
+
+Bereich 4. Funktionsfähigkeit des Angebots aufklappen
 
 Webseiten generell und Telemedien mit ihren dafür erforderlichen technischen Funktionalitäten im Besonderen können nicht ohne Verarbeitung personenbezogener bzw. personenbeziehbarer Daten angeboten werden. Nachfolgend möchten wir Ihnen erläutern, welche Verarbeitungen unbedingt für die technische Funktionsfähigkeit unseres Angebots durchgeführt werden müssen und auch bei der Nutzung der "Werbefrei-lesen-Option" eingesetzt werden.
 
@@ -100,11 +114,13 @@ Technische Funktions- und Zugangssicherung / Authentifizierung
 
 Für die Authentifizierung verarbeiten wir Ihre IP-Adresse und Metadaten in Zusammenhang mit dem Setzen dafür erforderlicher Cookies. Die Authentifizierung beinhaltet Informationen, die es uns ermöglichen, Endgeräte unabhängig von Nutzerkonten zu identifizieren und zu überprüfen, ob für diese eine Einwilligung zur kostenlosen Nutzung mit Werbung und Tracking vorliegt oder nicht. Auf Grundlage dessen wird die Ausspielung unserer Webseite entsprechend gestaltet. Die Rechtsgrundlage ist unser berechtigtes Interesse an einer möglichst individuellen Ausspielung unseres Angebots, Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG.
 
+Schutz vor automatisiertem Missbrauch
+
+Um kritische Endpunkte auf unserer Webseite vor automatisiertem Missbrauch zu schützen, verarbeiten wir die IP-Adresse des verwendeten Endgeräts, Erkennungsdaten des verwendeten Browser- und Betriebssystem-Typ sowie Datum und Dauer des Besuchs. Die Verarbeitung ist erforderlich, um zu prüfen, ob Eingaben durch natürliche Personen oder missbräuchlich durch maschinelle und automatisierte Verarbeitung erfolgen, sowie um Spam und DDoS-Attacken oder ähnliche automatisierte Schadzugriffe zu blockieren. Rechtsgrundlage ist unser berechtigtes Interesse an der Feststellung der individuellen Eigenverantwortung im Internet und der Vermeidung von Missbrauch und Spam, Art. 6 Abs. 1 S. 1 lit. f DSGVO. Wir verwenden für diesen Zweck den Dienst »reCAPTCHA« der Google Ireland Limited (Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland), mit der wir einen Auftragsverarbeitungsvertrag geschlossen haben, der den Anforderungen von Art. 28 Abs. 3 DSGVO entspricht. Mögliche Drittlandsübermittlungen basieren auf den Standardvertragsklauseln der EU-Kommission, welche die Einhaltung des europäischen Datenschutzniveaus sicherstellen sollen (Art. 46 Abs. 2 lit. c DSGVO). Wir verarbeiten Ihre personenbezogenen Daten in Zusammenhang mit einem Local Storage Eintrag in Ihrem Webbrowser. Wenn Sie diesen Eintrag löschen möchten, können Sie dies über die Einstellungen des von Ihnen verwendeten Browsers tun ("Browserdaten / Cookies & Websitedaten löschen").
+
 Analysen zu funktionalen Zwecken: Basistracking - Reichweitenmessung
 
-Wir erfassen und analysieren Nutzungsdaten zur Ermittlung statistischer Kennwerte über die Nutzung unseres Digital-Angebots, um die Anzahl der Besuche auf unserer Webseite, die Anzahl der Webseitenbesucher und deren Surfverhalten – auf Basis eines einheitlichen Standardverfahrens – zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Wir verarbeiten die Nutzungsdaten zur Sicherstellung des Betriebs, für die Bewertung der Relevanz von Inhalten bei der redaktionellen Arbeit, um die Nutzung unserer Webseiten und Angebote zu untersuchen, um einzelne Funktionen und Angebote sowie das Nutzungserlebnis fortlaufend optimieren zu können und zur Identifikation fehlerhafter Nutzungspfade. Im Rahmen dessen verarbeiten wir personenbeziehbare Merkmale über den sogenannten »Data Feed«, der browserbezogene \[die mit einer Cookie-ID vergleichbare Experience Cloud Visitor-ID (EC-ID), mit deren Hilfe der Browser Ihres Endgeräts identifiziert werden kann\] und nutzerkontobezogene (SSO-ID) Identifizierungsmerkmale enthält, über die Surfverhalten und Navigation auf unserer Seite nachvollziehbar werden. Wir bezeichnen diese Art der Möglichkeit, das Nutzerverhalten nachzuvollziehen nachfolgend als »Basistracking«. Das Basistracking erfolgt pseudonymisiert, das heißt, wir können aus den Informationen, die wir erhalten, keinen unmittelbaren Rückschluss auf Sie als Person ziehen, es sei denn, Sie sind mit einem Nutzerkonto bei uns registriert und angemeldet und haben im Rahmen der Registrierung in die Verknüpfung eingewilligt. In diesem Fall erfassen wir die Nutzungsdaten auch in einem geräteübergreifenden Profil. Diese Profilidentifizierung ermöglicht es uns, das Verhaltens- und Leseprofil des geräteübergreifend verwendeten Login-Kontos ganzheitlich zu erfassen und die Nutzererfahrung über alle Endgeräte hinweg zu verbinden. Die Rechtsgrundlage ist unser berechtigtes Interesse an der Optimierung der Nutzererfahrung und der technischen Stabilität der Webseite, gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG. Für die Verarbeitung der Informationen im Rahmen des Basistracking arbeiten wir mit dem Anbieter »Adobe« (Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Saggart, Dublin 24, Ireland) zusammen, mit dem wir für diese Zwecke einen Vertrag über die Auftragsdatenverarbeitung gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Nähere Informationen erhalten Sie in unserem [Privacy-Center](#sp_privacy_manager). Sie können das Basistracking jederzeit für die Zukunft unterbinden (»Opt-out«) bzw. durch eine Datenlöschung die Nutzung der Informationen im Data Feed einschränken. Rufen Sie für das Opt-out den nachfolgenden Link auf:
-
-[https://sams.spiegel.de/optout.html?popup=1&locale=de\_DE](https://sams.spiegel.de/optout.html?popup=1&locale=de_DE)
+Wir erfassen und analysieren Nutzungsdaten zur Ermittlung statistischer Kennwerte über die Nutzung unseres Digital-Angebots, um die Anzahl der Besuche auf unserer Webseite, die Anzahl der Webseitenbesucher und deren Surfverhalten – auf Basis eines einheitlichen Standardverfahrens – zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Wir verarbeiten die Nutzungsdaten zur Sicherstellung des Betriebs, für die Bewertung der Relevanz von Inhalten bei der redaktionellen Arbeit, um die Nutzung unserer Webseiten und Angebote zu untersuchen, um einzelne Funktionen und Angebote sowie das Nutzungserlebnis fortlaufend optimieren zu können und zur Identifikation fehlerhafter Nutzungspfade. Im Rahmen dessen verarbeiten wir – ebenso wie für das Adobe-basierte Werbe-Tracking – personenbeziehbare Merkmale über den sogenannten »Data Feed«, der browserbezogene \[die mit einer Cookie-ID vergleichbare Experience Cloud Visitor-ID (EC-ID), mit deren Hilfe der Browser Ihres Endgeräts identifiziert werden kann\] und nutzerkontobezogene (SSO-ID) Identifizierungsmerkmale enthält, über die Surfverhalten und Navigation auf unserer Seite nachvollziehbar werden. Wir bezeichnen diese Art der Möglichkeit, das Nutzerverhalten nachzuvollziehen nachfolgend als »Basistracking«. Das Basistracking erfolgt – ebenso wie das Werbe-Tracking – pseudonymisiert, das heißt, wir können aus den Informationen, die wir erhalten, keinen unmittelbaren Rückschluss auf Sie als Person ziehen, es sei denn, Sie sind mit einem Nutzerkonto bei uns registriert und angemeldet und haben im Rahmen der Registrierung in die Verknüpfung eingewilligt. In diesem Fall erfassen wir die Nutzungsdaten auch in einem geräteübergreifenden Profil. Diese Profilidentifizierung ermöglicht es uns, das Verhaltens- und Leseprofil des geräteübergreifend verwendeten Login-Kontos ganzheitlich zu erfassen und die Nutzererfahrung über alle Endgeräte hinweg zu verbinden. Die Rechtsgrundlage ist unser berechtigtes Interesse an der Optimierung der Nutzererfahrung und der technischen Stabilität der Webseite, gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG. Für die Verarbeitung der Informationen im Rahmen des Basistracking arbeiten wir mit dem Anbieter »Adobe« (Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Saggart, Dublin 24, Ireland) zusammen, mit dem wir für diese Zwecke einen Vertrag über die Auftragsdatenverarbeitung gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Nähere Informationen erhalten Sie in unserem [Privacy-Center](https://dev.www.spiegel.de/datenschutz-spiegel#sp_privacy_manager).
 
 Die Unterbindung erfolgt über das Setzen eines Cookies auf dem von Ihnen verwendeten Endgerät. Wenn Sie das Cookie löschen, ein anderes Endgerät oder einen anderen Webbrowser verwenden, muss das Opt-out erneut eingerichtet werden. Hinsichtlich unserer mobilen Apps muss die Unterbindung in den jeweiligen App-Einstellungen vorgenommen werden.
 
@@ -144,7 +160,7 @@ Wir nutzen für die genannten Zwecke das Musik-Vertriebs-Analyse-Tool des Anbiet
 
 * * *
 
-Bereich 4. Vertragsbeziehungen aufklappen
+Bereich 5. Vertragsbeziehungen aufklappen
 
 **A) Nutzerkonto**
 
@@ -164,7 +180,7 @@ Für die Optimierung unseres Kundenservice verwenden wir die Informationen über
 
 Persönliche Zugangssicherung, Missbrauchsprävention und -aufklärung
 
-Unsere digitalen Angebote und insbesondere Abonnements dürfen nur entsprechend der jeweils geltenden Nutzungsbedingungen und vertraglichen Vereinbarungen genutzt werden. Für Zwecke der Missbrauchsprävention im Rahmen der persönlichen Zugangssicherung zu unseren digitalen Angeboten verarbeiten wir Informationen über die durch Ihren Account erfolgte Nutzung, wie identifizierende Merkmale im Rahmen des Basistracking (EC-ID, SSO-ID), die Anzahl von Nutzeraufrufen (Unique Users), Besuche, Seitenaufrufe, verwendete Browsertypen, genutzte Endgeräte, Zahlungsinformationen, sowie die Namens- und Kontaktdaten aus Ihrem Abonnement. Die Datenverarbeitung ist für die Analyse von missbrauchsauffälligen Nutzeraccounts erforderlich. Für die Aufklärung von missbräuchlichem Verhalten verarbeiten wir außerdem eine Sie identifizierende ID (Backoffice-ID), um bei PDF-Downloads von Artikeln und deren widerrechtlicher Veröffentlichung Rückschlüsse auf den Verursacher ziehen zu können. Die Veröffentlichung von geschützten Inhalten widerspricht unseren Nutzungsbedingungen und macht die Datenverarbeitung erforderlich. Die Verarbeitungen für Zwecke der Missbrauchsprävention und der Aufklärung von missbräuchlichem Verhalten erfolgt auf Basis des zwischen Ihnen und uns geschlossenen Vertrages, die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Der Einsatz von Cookies und ähnlichen Technologien ist für diese Zwecke ohne Ihre Einwilligung möglich nach § 25 Abs. 2 Nr. 2 TDDDG.
+Unsere digitalen Angebote und insbesondere Abonnements dürfen nur entsprechend der jeweils geltenden Nutzungsbedingungen und vertraglichen Vereinbarungen genutzt werden. Für Zwecke der Missbrauchsprävention im Rahmen der persönlichen Zugangssicherung zu unseren digitalen Angeboten verarbeiten wir Informationen über die durch Ihren Account erfolgte Nutzung, wie identifizierende Merkmale im Rahmen des Basistracking (EC-ID, SSO-ID), die Anzahl von Nutzeraufrufen (Unique Users), Besuche, Seitenaufrufe, verwendete Browsertypen, genutzte Endgeräte, Zahlungsinformationen, sowie die Namens- und Kontaktdaten aus Ihrem Abonnement. Die Datenverarbeitung ist für die Analyse von missbrauchsauffälligen Nutzeraccounts erforderlich. Für die Aufklärung von missbräuchlichem Verhalten verarbeiten wir außerdem eine Sie identifizierende ID (Backoffice-ID), um bei PDF-Downloads von Artikeln und deren widerrechtlicher Veröffentlichung Rückschlüsse auf den Verursacher ziehen zu können. Die Veröffentlichung von geschützten Inhalten widerspricht unseren Nutzungsbedingungen und macht die Datenverarbeitung erforderlich. Die Verarbeitungen für Zwecke der Missbrauchsprävention und der Aufklärung von missbräuchlichem Verhalten erfolgt auf Basis des zwischen Ihnen und uns geschlossenen Vertrages, die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Der Einsatz von Cookies und ähnlichen Technologien ist für diese Zwecke ohne Ihre Einwilligung möglich nach § 25 Abs. 2 Nr. 2 TDDDG. Für einige Zwecke in diesem Zusammenhang setzen wir den Dienstleister »frisbii« \[Frisbii Media GmbH, Königstr. 4, 87435 Kempten, Deutschland, [www.frisbii.com](http://www.frisbii.com/) \] ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt.
 
 Ihre Daten werden für die Dauer der bestehenden Registrierung gespeichert und erst dann gelöscht, wenn Sie Ihr Nutzerkonto schließen, sofern nicht gesetzliche Aufbewahrungspflichten einer Löschung entgegenstehen. Die Löschung können Sie selbstständig in Ihrem Nutzerkonto anstoßen.
 
@@ -180,7 +196,7 @@ Bei Abschluss eines Probe-Abonnements behalten wir uns vor, die Voraussetzungen 
 
 Abonnementspezifische Verarbeitungen beim U-30-Abo
 
-Für die erforderlichenfalls gebotene Altersverifikation im Rahmen des U-30-Abos verarbeiten wir eine 7-stellige Prüfnummer Ihres Personalausweises oder Reisepasses, aus dem sich Ihr Geburtsdatum und damit der Nachweis für das Bestehen des Rabattgrundes aufgrund Ihres Alters ergibt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Für die Altersverifikation setzen wir den Dienstleister »Plenigo« \[plenigo GmbH, Königstr. 4, 87435 Kempten, Deutschland, [www.plenigo.com](http://www.plenigo.com/) \] ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt. Die Prüfnummer wird nach Überprüfung Ihres Alters direkt gelöscht. In unserem Kundenverwaltungssystem wird lediglich das Ablaufdatum des Rabattgrundes hinterlegt, um Ihr Abo mit Ihrem 30. Geburtstag ohne Rabattierung fortzuführen.
+Für die erforderlichenfalls gebotene Altersverifikation im Rahmen des U-30-Abos verarbeiten wir eine 7-stellige Prüfnummer Ihres Personalausweises oder Reisepasses, aus dem sich Ihr Geburtsdatum und damit der Nachweis für das Bestehen des Rabattgrundes aufgrund Ihres Alters ergibt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Für die Altersverifikation setzen wir den Dienstleister »frisbii« \[Frisbii Media GmbH, Königstr. 4, 87435 Kempten, Deutschland, [www.frisbii.com](http://www.frisbii.com/) \] ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt. Die Prüfnummer wird nach Überprüfung Ihres Alters direkt gelöscht. In unserem Kundenverwaltungssystem wird lediglich das Ablaufdatum des Rabattgrundes hinterlegt, um Ihr Abo mit Ihrem 30. Geburtstag ohne Rabattierung fortzuführen.
 
 Abonnementspezifische Verarbeitungen beim Duo-Abo
 
@@ -320,7 +336,7 @@ Ihre Kontaktdaten werden auf Basis des zwischen Ihnen und uns bestehenden Vertra
 
 * * *
 
-Bereich 5. Werbe-Tracking aufklappen
+Bereich 6. Werbe-Tracking aufklappen
 
 **A) Vermarktung von Werbeplätzen auf unseren Webseiten**
 
@@ -328,7 +344,7 @@ Sofern Sie sich nicht entschlossen haben, die Werbefrei-lesen-Option zu buchen, 
 
 iqd, ID5
 
-Wir verarbeiten für Zwecke des beschriebenen Werbe-Tracking Ihre Nutzungsdaten (Cookie-IDs, IP-Adresse, MAC-Adresse, Geräte-IDs, Informationen über den verwendeten Browser und Daten wie Auflösung oder Spracheinstellung, Informationen über das Betriebssystem, das verwendete Endgerät, das Verhalten während Ihres Besuchs auf unseren Webangeboten (einzelne Klicks, besuchte Unterseiten, wahrgenommene Werbebanner etc), die Referrer-URL, Datum und Uhrzeit des Besuchs, die Verweildauer und Ihren geografischen Standort), um Ihnen interessengerechte Werbeanzeigen präsentieren zu können. Damit Anzeigen auch dort auf Sie oder Ihr Endgerät zugeschnitten werden können, wo Cookies nicht optimal funktionieren, zum Beispiel in Apps auf Smartphones, werden unter Umständen Cookie-ähnliche Techniken und Quellen wie Gerätedaten eingesetzt. Um dies zu unterbinden, gehen Sie auf Android-Smartphones in die App »Google-Einstellungen« oder scrollen in der allgemeinen Einstellungs-App nach unten zu »Google«, tippen auf »Anzeigen« und deaktivieren dort das Kästchen neben »Interessenbezogene Werbung«. Auf iOS-Geräten, wo wir den Advertising Identifier von Apple nutzen, gehen Sie in die Einstellungs-App, dann auf »Datenschutz«, schließlich auf »Werbung« und nehmen Ihre konkreten Einstellungen vor.
+Wir verarbeiten für Zwecke des beschriebenen Werbe-Tracking Ihre Nutzungsdaten (Cookie-IDs, IP-Adresse, MAC-Adresse, Geräte-IDs, Informationen über den verwendeten Browser und Daten wie Auflösung oder Spracheinstellung, Informationen über das Betriebssystem, das verwendete Endgerät, das Verhalten während Ihres Besuchs auf unseren Webangeboten (einzelne Klicks, besuchte Unterseiten, wahrgenommene Werbebanner etc), die Referrer-URL, Datum und Uhrzeit des Besuchs, die Verweildauer und Ihren geografischen Standort), um Ihnen interessengerechte Werbeanzeigen präsentieren zu können. Damit Anzeigen auch dort auf Sie oder Ihr Endgerät zugeschnitten werden können, wo Cookies nicht optimal funktionieren, zum Beispiel in Apps auf Smartphones, werden unter Umständen Cookie-ähnliche Techniken und Quellen wie Gerätedaten eingesetzt. Um dies zu unterbinden, gehen Sie auf Android-Smartphones in die App »Google-Einstellungen« oder scrollen in der allgemeinen Einstellungs-App nach unten zu »Google«, tippen auf »Anzeigen« und deaktivieren dort das Kästchen neben »Interessenbezogene Werbung«. Auf iOS-Geräten, wo wir den Advertising Identifier von Apple nutzen, gehen Sie in die Einstellungs-App, dann auf »Datenschutz«, schließlich auf »Werbung« und nehmen Ihre konkreten Einstellungen vor. Von diesen Maßnahmen zur Unterbindung des Werbe-Trackings ausgenommen sind Werbeanzeigen, die in Zusammenhang mit der von uns eingesetzten AdDefend-Technologie ausgespielt werden (vgl. Erläuterungen zu AdDefend in dieser Ziffer 6. A).
 
 Die auf dem Werbe-Tracking basierende Erstellung von Nutzungsprofilen erfolgt pseudonymisiert, das bedeutet, die Sie unmittelbar persönlich kennzeichnenden Merkmale werden aus den Profilen herausgelöst. Die Rechtsgrundlage ist Ihre Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG, die jeweils obligatorisch ist, sofern Sie nicht die Werbefrei-lesen-Option gebucht haben. Unsere Werbepartner verarbeiten darüber hinaus personenbezogene Daten für eigene funktionale Zwecke, insbesondere die Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebungen auf Basis Ihres berechtigten Interesses gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO. Bei der Vermarktung von Werbeplätzen und für die Verarbeitung zu funktionalen Zwecken kommt es auch zu Datenverarbeitungen durch Anbieter aus Drittstaaten, insbesondere den USA. In diesen Fällen werden Ihre Rechte entsprechend Art. 45 ff. DSGVO geschützt (Angemessenheitsbeschluss, Zertifizierung, Standardvertragsklauseln), Details zu den einzelnen Anbietern erfahren Sie in unserem [Privacy-Center](#sp_privacy_manager). Im Privacy-Center finden Sie auch eine Übersicht zu den für das kostenlose Angebot zugelassenen und aktuell genutzten Anzeigendienstleistern, den so genannten »Third-Party-Trackern«. Die Art und Funktionsweise dieser Dienste verändert sich nicht, es können aber von Zeit zu Zeit einzelne Dienste und / oder Cookies hinzukommen oder wegfallen.
 
@@ -383,11 +399,11 @@ Sie erhalten eine Auskunft grundsätzlich von derjenigen Stelle, bei der Sie Ihr
 
 **B) Eigene personalisierte werbliche Verlagsangebote (Eigenwerbung)**
 
-Wir machen auf unseren Webseiten personalisierte Werbung für unsere eigenen und als solche gekennzeichneten Produkte (Verlagsangebote). Neben dem reinen Produktangebot versuchen wir, die Relevanz der Auswahl von Verlagsangeboten stetig zu verbessern, um Ihnen unsere Angebote auf Basis unseres verlagsspezifisches Angebotsprofil des von ihnen verwendeten Endgeräts respektive SPIEGEL-Login-Kontos zu unterbreiten. Dafür verwenden wir Nutzungsprofile, die auf Grundlage des Basistracking erstellt werden. Über das Setzen von Cookies verarbeiten wir für diese Zwecke Informationen über Ihr Endgerät und den von Ihnen verwendeten Browser, Ihre IP-Adresse, Ihre Interaktionen mit unseren Webseiten und – sofern Sie sich als registrierte(r) und angemeldete(r) Nutzer:in auf unseren Webseiten bewegen – auch eine Ihnen zugeordnete eindeutige Kennung, die Ihr Nutzungsverhalten mit Ihren Accountinformationen verknüpft. Die Rechtsgrundlage ist Ihre Einwilligung, Art. 6 Abs. 1 S. 1 lit. a DSGVO.  
+Wir machen auf unseren Webseiten personalisierte Werbung für unsere eigenen und als solche gekennzeichneten Produkte (Verlagsangebote). Neben dem reinen Produktangebot versuchen wir, die Relevanz der Auswahl von Verlagsangeboten stetig zu verbessern, um Ihnen unsere Angebote auf Basis unseres verlagsspezifisches Angebotsprofil des von ihnen verwendeten Endgeräts respektive SPIEGEL-Login-Kontos zu unterbreiten. Dafür verwenden wir Nutzungsprofile, die auf Grundlage des Adobe-basierten Werbe-Trackings erstellt werden. Über das Setzen von Cookies verarbeiten wir für diese Zwecke Informationen über Ihr Endgerät und den von Ihnen verwendeten Browser, Ihre IP-Adresse, Ihre Interaktionen mit unseren Webseiten und – sofern Sie sich als registrierte(r) und angemeldete(r) Nutzer:in auf unseren Webseiten bewegen – auch eine Ihnen zugeordnete eindeutige Kennung, die Ihr Nutzungsverhalten mit Ihren Accountinformationen verknüpft. Die Rechtsgrundlage ist Ihre Einwilligung, Art. 6 Abs. 1 S. 1 lit. a DSGVO.  
   
 **C) Politische Werbung**
 
-Für Zwecke der Ausspielung personalisierter politischer Werbung verarbeiten wir die Sie betreffenden Informationen aus dem Basistracking (vgl. Ziffer 4. A) und verwenden Sie iRd. Werbe-Trackings (vgl. Ziffer 6. A). Diese Verarbeitung basiert auf Ihrer freiwilligen Einwilligung gem. Art. 18 Abs. 1 lit. b der Verordnung über die Transparenz und das Targeting politischer Werbung (TTPW-VO) iVm. Art. 6 Abs. 1 S. 1 lit. a, Art. 7 DSGVO.
+Für Zwecke der Ausspielung personalisierter politischer Werbung verarbeiten wir die Sie betreffenden Informationen aus dem Adobe-basierten Werbe-Tracking (vgl. Ziffer 3.) und verwenden Sie iRd. Werbe-Trackings (vgl. Ziffer 6. A). Diese Verarbeitung basiert auf Ihrer freiwilligen Einwilligung gem. Art. 18 Abs. 1 lit. b der Verordnung über die Transparenz und das Targeting politischer Werbung (TTPW-VO) iVm. Art. 6 Abs. 1 S. 1 lit. a, Art. 7 DSGVO.
 
 **D) Marketing (Affiliate Marketing und Remarketing)**
 
@@ -449,13 +465,13 @@ Wir haben in unseren Angeboten, wo passend, Retargeting-Pixel des sozialen Netzw
 
 * * *
 
-Bereich 6. Eigene Produkt- und Vertriebsentwicklung aufklappen
+Bereich 7. Eigene Produkt- und Vertriebsentwicklung aufklappen
 
 Im Rahmen unserer eigenen Produkt- und Vertriebsentwicklung arbeiten wir kontinuierlich daran, unsere Angebote zu verbessern und an die Bedürfnisse unserer Leser:innen anzupassen. Dies umfasst die Analyse von Marktrends, die Optimierung unserer Produktpalette sowie die Weiterentwicklung unserer Vertriebsstrategien. Ziel ist es, Ihnen als Leser:in stets hochwertige und bedarfsgerechte Lösungen anbieten zu können. Um diesen Prozess zu unterstützen, können bestimmte Daten zu festgelegten Zwecken, wie im Folgenden beschrieben, verwendet werden.
 
 On-site-Kampagnen und Testings
 
-Um unsere Webseite und Dienste kontinuierlich zu verbessern, spielen wir regelmäßig On-site-Kampagnen (darunter A/B/n-Tests, Verlagsangebote und ähnliche Verfahren zur Produktentwicklung) aus. Dabei werden u.a. verschiedene Versionen unserer Webseite oder einzelner Elemente einer begrenzten Anzahl von Nutzer:innen gezeigt, um deren Wirksamkeit zu testen. Die Testergebnisse dienen der Optimierung der Benutzerfreundlichkeit unserer Webseite, der Verbesserung unserer Produkte und Dienstleistungen und der Analyse des Nutzerverhaltens zur Weiterentwicklung unseres nutzungsorientierten Angebots. Wir verarbeiten für diese Zwecke die Unter dem Stichwort Basistracking zusammengefassten Daten (vgl. Ziffer 3.A. dieser Erklärung) erhobenen Daten. Die Verarbeitung erfolgt auf Grundlage Ihrer freiwillig erklärten Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO.
+Um unsere Webseite und Dienste kontinuierlich zu verbessern, spielen wir regelmäßig On-site-Kampagnen (darunter A/B/n-Tests, Verlagsangebote und ähnliche Verfahren zur Produktentwicklung) aus. Dabei werden u.a. verschiedene Versionen unserer Webseite oder einzelner Elemente einer begrenzten Anzahl von Nutzer:innen gezeigt, um deren Wirksamkeit zu testen. Die Testergebnisse dienen der Optimierung der Benutzerfreundlichkeit unserer Webseite, der Verbesserung unserer Produkte und Dienstleistungen und der Analyse des Nutzerverhaltens zur Weiterentwicklung unseres nutzungsorientierten Angebots. Wir verarbeiten für diese Zwecke die unter dem Stichwort "Adobe-basiertes Werbe-Tracking" zusammengefassten Daten (vgl. Ziffer 3. dieser Datenschutzerklärung) erhobenen Daten, ggf. auch unter Einsatz von KI-Systemen in Einzelfall. Die Verarbeitung erfolgt auf Grundlage Ihrer freiwillig erklärten Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
 Profilbezogene Ansprache
 
@@ -469,7 +485,7 @@ Sofern Sie unser Kontaktformular (Ziffer 4. G) nutzen verarbeiten wir den Grund 
 
 * * *
 
-Bereich 7. Einbinden von Drittinhalten aufklappen
+Bereich 8. Einbinden von Drittinhalten aufklappen
 
 **A) Redaktionelle Kooperationsangebote (Rechner)**
 
@@ -524,7 +540,7 @@ Die Daten werden umgehend gelöscht, soweit keine Verstöße festgestellt werden
 
 * * *
 
-Bereich 8. Verlagsspezifische Verarbeitungen aufklappen
+Bereich 9. Verlagsspezifische Verarbeitungen aufklappen
 
 **A) [spiegel.de](http://spiegel.de/)**
 
@@ -574,7 +590,7 @@ Für die Bereitstellung unseres Spieleangebots (Online-Spiel: ´Box to Box\`) un
 
 * * *
 
-Bereich 9. Ihre Rechte aufklappen
+Bereich 10. Ihre Rechte aufklappen
 
 **Auskunftsrecht (Art. 15 DSGVO)**  
 Sie haben uns gegenüber das Recht, Auskunft darüber zu erhalten, welche Daten wir zu Ihrer Person verarbeiten.
@@ -610,7 +626,7 @@ E-Mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de)�
 
 * * *
 
-Bereich 10. Anforderungen des Data Act aufklappen
+Bereich 11. Anforderungen des Data Act aufklappen
 
 Im Rahmen der Nutzung unserer Produkte und Dienste werden bestimmte Daten automatisch durch die Webseite generiert, die Sie verwenden. Diese sogenannten maschinell generierten Daten können Informationen über die Funktionalität und Nutzung unserer Produkte enthalten und fallen unter die Regelungen des Data Act (Verordnung 2022/868). Mit dieser Information möchten wir Ihnen als Nutzer:in gegenüber Transparenz zeigen und Ihnen die gesetzlich verlangte Kontrolle über diese Daten ermöglichen.
 
@@ -652,4 +668,4 @@ Für Fragen zur Verarbeitung Ihrer Nutzungsdaten oder zur Wahrnehmung Ihrer Rech
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 6.9
+Versionsnummer: 7.0

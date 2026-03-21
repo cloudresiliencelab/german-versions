@@ -472,7 +472,7 @@ Stand: 1.0 (12.08.2022)
 
 [Zur Startseite](https://www.tagesspiegel.de/)
 
-*   [Datenschutz](https://www.tagesspiegel.de/gesellschaft/medien/themen/datenschutz)
+*   [Apps](https://www.tagesspiegel.de/gesellschaft/themen/apps)
 *   [Facebook](https://www.tagesspiegel.de/wirtschaft/themen/facebook)
 *   [Frankreich](https://www.tagesspiegel.de/wissen/themen/frankreich)
 *   [Hamburg](https://www.tagesspiegel.de/gesellschaft/panorama/themen/hamburg)
@@ -480,6 +480,7 @@ Stand: 1.0 (12.08.2022)
 *   [Irland](https://www.tagesspiegel.de/wissen/themen/irland)
 *   [Kanada](https://www.tagesspiegel.de/politik/themen/kanada)
 *   [Meta](https://www.tagesspiegel.de/wirtschaft/themen/meta)
+*   [USA](https://www.tagesspiegel.de/internationales/themen/usa)
 *   [YouTube](https://www.tagesspiegel.de/gesellschaft/themen/youtube)
 
 showPaywall:

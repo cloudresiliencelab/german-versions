@@ -535,7 +535,7 @@ Die Erstellung dieser E-Mails und der Versand erfolgen nicht durch OTTO, selbst 
 **Unser Tipp und Service für Sie:** Sollten Sie einmal unsicher sein, nutzen Sie einfach unseren kostenlosen Rückruf-Service oder schreiben Sie uns eine E-Mail an: service@otto.de 
 
 **7\. Kontaktaufnahme mit OTTO / mit Partnern  
-**Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon, per Chat oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten, die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können. In diesem Kontext kann es auch zur Verwendung von künstlicher Intelligenz (z.B. im Rahmen des Chatbots Clara) kommen.
+**Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon, per Chat oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten, die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können. In diesem Kontext kann es auch zur Verwendung von künstlicher Intelligenz (z.B. im Rahmen des OTTO KI-Assistenten im Rahmen des Kundenservice oder der Produktberatung) kommen.
 
 Zur Verbesserung unserer Services verwenden wir Ihre Daten nur, wenn Sie der Verwendung zu Optimierungszwecken zugestimmt haben (z.B. am Telefon oder bei Nutzung des Chatbots Ally).
 

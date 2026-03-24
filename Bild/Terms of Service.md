@@ -363,4 +363,4 @@ Sämtliche Informationen zur Erhebung, Verarbeitung und Nutzung von personenbezo
 
 29.3 Vertragstext und Vertragssprache: Der Vertrag zwischen Nutzer und BILD wird grundsätzlich nicht in einem gesonderten Vertragstext zur Person des Nutzers niedergelegt, auf den der Nutzer dann später als solchen zugreifen könnte. Der Inhalt des Vertrages ergibt sich aber aus diesen AGB und dem Gegenstand des geschlossenen Vertrages. Für den Vertragsschluss steht nur die deutsche Sprache zur Verfügung.
 
-Stand: Mail 2025
+Stand: März 2026

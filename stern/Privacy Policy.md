@@ -366,7 +366,7 @@ Wir, die G+J Medien GmbH, Chefkoch GmbH, RTL interactive GmbH, ntv Nachrichtenfe
 
 *   holen wir die Einwilligung in Bezug auf die Utiq Technologie ein, auch für die Verarbeitung durch Utiq und Ihren Telekommunikationsanbieter;
 *   stellen wir Ihnen einen speziellen Link am Ende unserer Webseite zur Verfügung („Utiq verwalten“), über den Sie Informationen über die Technologie und deren Verwaltung erhalten;
-*   stellt Ihnen Utiq ein Datenschutzportal (“[consenthub](https://consenthub.utiq.com/)”) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Utiq Einwilligungen zu ermöglichen; zu jeder Zeit, an einem Ort; 
+*   stellt Ihnen Utiq ein Datenschutzportal (“[consenthub](https://consenthub.utiq.com/)”) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Utiq Einwilligungen zu ermöglichen; zu jeder Zeit, an einem Ort;
 *   können Sie Ihre Rechte gegenüber jedem der für die Verarbeitung Verantwortlichen ausüben; allerdings fungiert Utiq als gemeinsame Anlaufstelle für alle Fragen oder Anfragen, die Sie in Bezug auf die Utiq Technologie haben.
 
 Sie können die Einwilligung für Utiq\* auf folgende Weise widerrufen:
@@ -404,7 +404,7 @@ Ihre Datenschutzrechte können Sie sowohl bei uns wie unter Ziffer 6 näher besc
 
 Ausschließlich die Nutzungsdaten der Panellisten können anhand einer Zuordnung der dynamisch erzeugten Zufallskennung zur ihrer Teilnehmerkennung einer bestimmten Person zugeordnet werden. Panellisten haben zu diesem Zweck eine spezielle Software auf ihrem Endgerät installiert und mit dem Betreiber des Messsystems, der Nielsen Media Germany GmbH, eine Vereinbarung geschlossen. Dieser Teil der Verarbeitung geschieht auf Rechtsgrundlage eines Vertrags gemäß Art. 6 Abs. A lit. b) DSGVO. Wir, sowie die RTL Deutschland GmbH, haben keinen Zugriff auf die Daten der Studienteilnehmer oder deren Zuordnung zu Nutzungsdaten. Panellisten finden die zu dieser Verarbeitung gehörende Datenschutzerklärung in ihrem Teilnehmerportal.
 
-### 2.13 Events
+### 2.14 Events
 
 Wir veranstalten eine Reihe spannender Events, unter anderem "Die-Boss-Masterclasses”. Bei diesem einzigartigen Format haben Sie die Möglichkeit in persönlicher Atmosphäre Neues zu den Themen Weiterbildung, Entrepreneurship, Privatleben und vielem mehr zu lernen. Hierfür müssen Sie sich anmelden und wir brauchen dann zweierlei Daten von Ihnen (siehe unten 2. lit. j) zu dreierlei Zwecken:
 
@@ -414,14 +414,25 @@ Wir veranstalten eine Reihe spannender Events, unter anderem "Die-Boss-Mastercla
 
 Da die Masterclasses ein Gesamtpaket sind, verarbeiten wir Ihre Daten zu den vorgenannten Zwecken alle auf Basis des Vertrages mit Ihnen gem. Art. 6 (1) b DSGVO. Alles Beleg- und Abrechnungsrelevante, was in diesem Zusammenhang anfällt, müssen wir aufgrund von Steuer- und Handelsrecht für die Dauer von 19 Jahren aufbewahren. Während dieser Zeit liegen Ihre Informationen aber gesperrt vor und werden nur in diesen Fällen gegenüber den zuständigen Behörden verwendet.
 
-### 2.14 STERN Wettbewerb "STERN Stipendium"
+### 2.15 STERN Wettbewerb "STERN Stipendium"
 
 Die Redaktion des STERN vergibt jedes Jahr ein Stipendium an eine herausragende Fotojournalistin oder einen herausragenden Fotojournalisten mit einem abgeschlossenen Studium im visuellen Bereich. Das Foto-Stipendium beinhaltet einen Jahresvertrag beim STERN, innerhalb dessen der Stipendiat oder die Stipendiatin als festes Redaktionsmitglied in der Hamburger Redaktion arbeitet. Das Nachwuchstalent erhält die Chance, seine Werke zu veröffentlichen und Arbeitserfahrungen zu sammeln. 
 
 Für die Gewinner:innenermittlung verarbeiten wir zunächst die Teilnahmedaten (Ziffer 3.11 unten), um einerseits die Zugangsvoraussetzungen zu prüfen und andererseits die eingereichten Arbeiten zu vergleichen und zu bewerten. Über den/die Gewinner:in werden im Rahmen einer kleinen Berichterstattung weitere Daten verwendet (Veröffentlichungsdaten, siehe Ziffer 3.11 unten). Die Teilnahme am Wettbewerb und die Akzeptanz des Gewinns schließen ausdrücklich das Einverständnis zur Verarbeitung der Veröffentlichungsdaten ein. Die Daten derjenigen, die leider nicht gewonnen haben, werden nach 12 Monaten gelöscht.
 
-Die Verwendung personenbezogener Daten bei der Durchführung des Wettbewerbs „STERN Stipendium“ erfolgt im Geltungsbereich der Teilnahmebedingungen und dieser Datenschutzhinweise gem. Art. 6 Abs. 1 lit. b DSGVO.  
- 
+Die Verwendung personenbezogener Daten bei der Durchführung des Wettbewerbs „STERN Stipendium“ erfolgt im Geltungsbereich der Teilnahmebedingungen und dieser Datenschutzhinweise gem. Art. 6 Abs. 1 lit. b DSGVO.
+
+### 2.16 Werbe-Specials
+
+Gruner + Jahr experimentiert gelegentlich mit innovativen Werbeformen und -formaten. Hierzu arbeiten wir mit der Ad Alliance GmbH Köln zusammen und verwenden, sofern Sie uns hierfür Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) erteilt haben, Bild- und Tonaufnahmen von Ihnen, um mit Mitteln der künstlichen Intelligenz Ihre Interaktionsmöglichkeiten mit Werbemitteln zu erweitern. Dazu werden diese Aufnahmen analysiert und abhängig vom jeweiligen Werbemittel daraus abgeleitet:
+
+*   Anhand von Bildaufnahmen Ihre augenblickliche Stimmung, um Ihnen abhängig davon ein der jeweiligen Stimmung angepasstes Werbemittel zu präsentieren.
+*   Anhand von Bildaufnahmen Ihre Hand- oder Augenbewegungen, um diese zur Steuerung und Interaktion mit dem präsentierten Werbemittel zu verwenden.
+*   Anhand von Tonaufnahmen von Ihnen gesprochene Benutzerbefehle, um diese zur Steuerung und Interaktion mit dem präsentierten Werbemittel zu verwenden.
+
+Die erhobenen Daten (siehe Ziffer 3.15) und die Analyseergebnisse werden nach der Interaktion mit einem jeweiligen Werbemittel und Aufruf einer neuen Seite gelöscht. Rechtsgrundlage für diese Verarbeitung ist Ihre vor dem Aufruf bzw. dem Ausspielen des ersten Werbemittels abgegebene informierte, eindeutige und freiwillige Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Vor jeder Verarbeitung wird diese erneut eingeholt und sie erlischt mit dem Laden einer neuen Seite (was einem sofortigen Widerruf entspricht).
+
+Ihre Daten werden nicht an Dritte, welche diese zu eigenen Zwecken nutzen, weitergegeben. Empfänger der Daten sind neben der Ad Alliance GmbH ausschließlich Auftragsverarbeiter, welche Ihre Daten nur nach unseren Weisungen verarbeiten dürfen. 
 
 3. Welche Daten verwenden wir von Ihnen (Datenarten)?
 -----------------------------------------------------
@@ -439,7 +450,7 @@ Konkret werden als Web-Daten folgende Daten verwendet:
 *   (Unter-)Seitenaufrufe
 *   Audio- und Videowiedergaben
 
-**Messung der Inhalte-Leistung mit NPAW**  
+**3.11 Messung der Inhalte-Leistung mit NPAW**  
   
 Für das Hosting, die Ausspielung sowie den Kopierschutz von Videos nutzen wir Dienste der Firma RTL Technology GmbH, Picassoplatz 1, 50679 Köln. RTL Technology stellt auch den Video-Player bereit, der auf unserer Website eingebunden ist. Hierbei kommen Dienste der Firma NicePeopleAtWork S.L.,Roc Boronat 23, 08005, Barcelona, Spanien („NPAW“) zum Einsatz, um die Inhalte-Leistung zu messen.  
  
@@ -523,8 +534,7 @@ Zusätzlich zu diesen Pflichtangaben können Sie uns auch noch Ihre Telefonnumme
 
 Für die Einbindung externer Inhalte ist technisch Ihre IP-Adresse erforderlich. Nur wenn diese an die externe Partei weitergegeben wird, ist eine Ausspielung der jeweiligen Inhalte möglich.
 
-Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt haben, ist es darüber hinaus möglich, dass die Fremdinhalte auch eigene Technologien einsetzen, auf die wir keinen Einfluss nehmen können. Hierbei können insbesondere eine eindeutige ID (z.B. Cookie-ID) von Ihnen/über Sie gespeichert und verarbeitet werden, durch die dem Drittanbieter die Möglichkeit zu weiteren Datenverarbeitungen – auf die wir keinen Einfluss haben können und daher auch keine Verantwortung übernehmen – geben.  
- 
+Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt haben, ist es darüber hinaus möglich, dass die Fremdinhalte auch eigene Technologien einsetzen, auf die wir keinen Einfluss nehmen können. Hierbei können insbesondere eine eindeutige ID (z.B. Cookie-ID) von Ihnen/über Sie gespeichert und verarbeitet werden, durch die dem Drittanbieter die Möglichkeit zu weiteren Datenverarbeitungen – auf die wir keinen Einfluss haben können und daher auch keine Verantwortung übernehmen – geben. 
 
 ### 3.10 Event-Daten
 
@@ -537,10 +547,20 @@ Im Zusammenhang mit Events werden drei Arten von Daten verarbeitet:
 
 ### 3.11 Verwendete Daten bei Durchführung des Wettbewerbs „STERN Stipendium“
 
-Zur Gewinner:innenermittlung verwenden wir entsprechend der oben dargestellten Zwecke (siehe Ziffer 2.13): Namen, Alter, Adresse, E-Mail Adresse, Telefonnummer, eingereichte fotografische Arbeiten, Homepage, Hochschule, Abschluss, Fachrichtung, Sprachkenntnisse, Information über PKW-Führerschein, Anschreiben, Lebenslauf, relevante Abschlusszeugnisse. 
+Zur Gewinner:innenermittlung verwenden wir entsprechend der oben dargestellten Zwecke (siehe Ziffer 2.13): Namen, Alter, Adresse, E-Mail-Adresse, Telefonnummer, eingereichte fotografische Arbeiten, Homepage, Hochschule, Abschluss, Fachrichtung, Sprachkenntnisse, Information über PKW-Führerschein, Anschreiben, Lebenslauf, relevante Abschlusszeugnisse. 
 
-Über den/die Gewinner:in verwenden wir im Rahmen einer Berichterstattung darüber hinaus folgende Daten: Name, Vorname, Geburtstort, Geburtsjahr, Name der Hochschule, Fachrichtung, Abschluss, Fotografische Arbeiten, Homepage.  
- 
+Über den/die Gewinner:in verwenden wir im Rahmen einer Berichterstattung darüber hinaus folgende Daten: Name, Vorname, Geburtsort, Geburtsjahr, Name der Hochschule, Fachrichtung, Abschluss, Fotografische Arbeiten, Homepage.
+
+### 3.12 Daten bei digitalen Sonderwerbeformen
+
+Sofern Sie uns Ihre Einwilligung erteilt haben, verarbeiten wir zur Ausspielung von digitalen Sonderwerbeformen, wie in Ziffer 2.15 beschrieben, folgende Daten von Ihnen:  
+
+1.  Webdaten (siehe Ziffer 3.1 oben) werden verwendet, um die Werbeinhalte technisch auszuspielen. Sie werden auch verwendet, um das Werbemittel anzupassen bzw. auf Ihr Endgerät zu optimieren (z. B. indem auf Ihrem Smartphone eine andere Auflösung oder Schriftgröße ausgespielt wird als auf einem stationären Endgerät).  
+2.  Bildaufnahmen von Ihrem Gesicht, Ihrer Mimik und ähnlichen Reaktionen, aus denen mithilfe künstlicher Intelligenz Stimmungen abgeleitet werden.  
+3.  Bildaufnahmen von Hand- oder Augenbewegungen, aus denen zum Beispiel abgeleitet werden kann, welche Bildschirmbereiche oder Gestaltungen eines Werbemittels bestimmte Reaktionen auslösen.  
+4.  Ton- und Audioaufnahmen von Ihnen, die Sie zur Steuerung und Interaktion mit dem präsentierten Werbemittel verwenden.  
+      
+     
 
 4. Wer bekommt meine Daten?
 ---------------------------

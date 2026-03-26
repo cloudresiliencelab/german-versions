@@ -15,7 +15,7 @@ Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihn
 
 Um ihr Widerrufsrecht auszuüben, können Sie den entsprechenden OTTO-Artikel oder den Artikel eines anderen Verkäufers zur Rücksendung unter [Mein Konto](https://www.otto.de/myaccount/dashboard) anmelden. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z.B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.
 
-Sie können uns (Otto GmbH & Co. KGaA, 20088 Hamburg, Tel.: 040 - 3603 3603, E-Mail-Adresse: widerruf@otto.de) (hinsichtlich eines OTTO-Artikels) oder einen anderen Verkäufer (hinsichtlich eines Artikels eines anderen Verkäufers) auch mittels einer eindeutigen Erklärung (z.B. über „Verkäufer kontaktieren“ unter [Mein Konto](https://www.otto.de/myaccount/dashboard) oder per E-Mail) über Ihren Entschluss, den Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+Sie können uns (Otto GmbH & Co. KGaA, 20088 Hamburg, Tel.: 040 - 3603 3603, E-Mail-Adresse: widerruf@info.otto.de) (hinsichtlich eines OTTO-Artikels) oder einen anderen Verkäufer (hinsichtlich eines Artikels eines anderen Verkäufers) auch mittels einer eindeutigen Erklärung (z.B. über „Verkäufer kontaktieren“ unter [Mein Konto](https://www.otto.de/myaccount/dashboard) oder per E-Mail) über Ihren Entschluss, den Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
@@ -98,7 +98,7 @@ Weitere Informationen zur Zahlung finden Sie auf [www.otto.de/bezahlung](https:/
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
-— An Otto GmbH & Co. KGaA, 20088 Hamburg, E-Mail: widerruf@otto.de
+— An Otto GmbH & Co. KGaA, 20088 Hamburg, E-Mail: widerruf@info.otto.de
 
 — Hiermit widerrufen ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf
 

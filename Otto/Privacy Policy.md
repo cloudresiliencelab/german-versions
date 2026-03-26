@@ -17,7 +17,7 @@
 **Bitte lesen Sie sich die nachfolgenden Datenschutzinformationen aufmerksam durch. Diese sind in einzelne Unterpunkte gegliedert. Den ausführlichen Darstellungen zu den in den einzelnen Unterpunkten behandelten Themen ist zum Teil eine Kurzzusammenfassung vorangestellt. Diese Kurzzusammenfassung dient dem Zweck, Ihnen einen Überblick zu dem jeweiligen Thema zu geben. Insofern Sie weitere Informationen zu diesem benötigen, finden Sie diese in den detaillierten Ausführungen im Anschluss an die Kurzzusammenfassung.
 
 **Datenbeauskunftung gemäß Art. 15 DSGVO  
-**Möchten Sie als datenschutzrechtlich Verantwortliche eine Auskunft über Ihre bei OTTO gespeicherten personenbezogenen Informationen (ohne Bonitätsinformationen) erhalten, so können Sie dies über Ihr [Kundenkonto > Meine persönlichen Daten > Datenauskunft anfragen](https://www.otto.de/privacy-personal-data/personal-data-access) anfordern. Sie haben kein Online-Kundenkonto? Dann hilft Ihnen unsere Kundenbetreuung. Hierfür schicken Sie bitte unter Angabe Ihres Auskunftswunsches (Datenbeauskunftung), Ihres vollständigen Namens und Ihrer Adresse, sowie falls vorhanden Ihrer Kundennummer eine formlose E-Mail an [datenschutzauskunft@otto.de](mailto:datenschutzauskunft@otto.de) oder falls gewünscht gerne einen Brief an:
+**Möchten Sie als datenschutzrechtlich Verantwortliche eine Auskunft über Ihre bei OTTO gespeicherten personenbezogenen Informationen (ohne Bonitätsinformationen) erhalten, so können Sie dies über Ihr [Kundenkonto > Meine persönlichen Daten > Datenauskunft anfragen](https://www.otto.de/privacy-personal-data/personal-data-access) anfordern. Sie haben kein Online-Kundenkonto? Dann hilft Ihnen unsere Kundenbetreuung. Hierfür schicken Sie bitte unter Angabe Ihres Auskunftswunsches (Datenbeauskunftung), Ihres vollständigen Namens und Ihrer Adresse, sowie falls vorhanden Ihrer Kundennummer eine formlose E-Mail an [datenschutzauskunft@info.otto.de](mailto:datenschutzauskunft@info.otto.de) oder falls gewünscht gerne einen Brief an:
 
 OTTO  
 Kundenbetreuung  
@@ -164,12 +164,11 @@ Otto GmbH & Co. KGaA
 Werner-Otto-Straße 1-7  
 22179 Hamburg Deutschland  
 Telefon: 040 - 3603 3603   
-E-Mail-Adresse: service@otto.de
+E-Mail-Adresse: impressum@info.otto.de
 
 **vertreten durch:  
 **Petra Scharner-Wolff (Vorstandsvorsitzende)  
 Dr. Marcus Ackermann  
-Sergio Bucher  
 Katy Roewer  
 Kay Schiebur
 
@@ -354,7 +353,7 @@ OTTO ist außerdem dazu berechtigt, den genannten Daten weitere über Sie unter 
 Nicht zu Marketingzwecken durch OTTO werden solche Daten genutzt, für deren Verarbeitung andere Händler auf der Plattform otto.de datenschutzrechtlich verantwortlich sind. Hierbei handelt es sich z.B. um Daten, die im Rahmen der Abwicklung von Käufen bei Partnern von OTTO auf der Plattform anfallen.  
   
 **Hinweis auf das Widerspruchsrecht  
-**Sie können der Nutzung Ihrer personenbezogenen Daten zu vorgenannten Marketingzwecken jederzeit kostenfrei mit Wirkung für die Zukunft im Kundenkonto unter der Rubrik „Mein Profil“ und dort unter „Benachrichtigungen“ oder unter service@otto.de widersprechen.
+**Sie können der Nutzung Ihrer personenbezogenen Daten zu vorgenannten Marketingzwecken jederzeit kostenfrei mit Wirkung für die Zukunft im Kundenkonto unter der Rubrik „Mein Profil“ und dort unter „Benachrichtigungen“ oder unter datenschutzauskunft@info.otto.de widersprechen.
 
 Soweit Sie Widerspruch einlegen, werden Ihre Daten – insofern eine Fortsetzung der Speicherung der Daten zu anderen Zwecken als der Nutzung zum Zweck des Marketing weiterhin erforderlich ist – für die weitere werbliche Datenverarbeitung gesperrt. Wir weisen darauf hin, dass es in Ausnahmefällen auch noch nach Eingang Ihres Widerspruchs vorübergehend noch zu einem Versand von Werbematerial kommen kann. Dies ist technisch durch die nötige Vorlaufzeit im Rahmen der Selektion bedingt und bedeutet nicht, dass wir Ihren Widerspruch nicht umgesetzt haben.
 
@@ -532,7 +531,7 @@ Die Erstellung dieser E-Mails und der Versand erfolgen nicht durch OTTO, selbst 
 • Falls Sie dennoch versehentlich auf Links in der E-Mail geklickt haben, ändern Sie sofort Ihr OTTO-Passwort unter Mein Konto. Wir empfehlen Ihnen darüber hinaus einen Virenscan auf Ihrem Computer durchzuführen.  
 • Falls ungewöhnliche oder verdächtige Informationen über Bestellungen oder Ihre Kundendaten in der E-Mail enthalten sind, melden Sie sich unter Mein Konto an. Dort sind alle tatsächlich von Ihnen getätigten Bestellungen aufgeführt und Sie können den Bestellstatus und die jeweiligen Rechnungsnummern prüfen. Geben Sie dafür die Adresse www.otto.de manuell in der Adresszeile Ihres Browsers ein. So verhindern Sie, dass Sie über einen Link in der E-Mail auf betrügerische Webseiten geführt werden.
 
-**Unser Tipp und Service für Sie:** Sollten Sie einmal unsicher sein, nutzen Sie einfach unseren kostenlosen Rückruf-Service oder schreiben Sie uns eine E-Mail an: service@otto.de 
+**Unser Tipp und Service für Sie:** Sollten Sie einmal unsicher sein, nutzen Sie einfach unseren kostenlosen Rückruf-Service oder schreiben Sie uns eine E-Mail an: impressum@info.otto.de 
 
 **7\. Kontaktaufnahme mit OTTO / mit Partnern  
 **Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon, per Chat oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten, die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können. In diesem Kontext kann es auch zur Verwendung von künstlicher Intelligenz (z.B. im Rahmen des OTTO KI-Assistenten im Rahmen des Kundenservice oder der Produktberatung) kommen.
@@ -588,7 +587,7 @@ Rechtsgrundlage für diese Datenverarbeitung(en) ist Artikel 6 Absatz 1 Buchstab
 
 •  **das Recht auf Beschwerde bei einer Aufsichtsbehörde**. In der Regel können Sie sich hierfür an die Aufsichtsbehörde ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Unternehmenssitzes wenden.
 
-Die zuvor genannten, Ihrerseits gegenüber OTTO zustehenden Rechte, können Sie unter [datenschutzauskunft@otto.de](mailto:datenschutzauskunft@otto.de) geltend machen. Das Recht auf Auskunft und Datenübertragbarkeit können Sie in Ihrem [Kundenkonto](https://www.otto.de/myaccount/dashboard) geltend machen.
+Die zuvor genannten, Ihrerseits gegenüber OTTO zustehenden Rechte, können Sie unter [datenschutzauskunft@info.otto.de](mailto:datenschutzauskunft@info.otto.de) geltend machen. Das Recht auf Auskunft und Datenübertragbarkeit können Sie in Ihrem [Kundenkonto](https://www.otto.de/myaccount/dashboard) geltend machen.
 
 Sofern Sie über die Plattform otto.de Waren von Partnern erwerben, gelten die vorgenannten Rechte gegenüber unseren Partnern entsprechend. Wenn Sie die vorgenannten Rechte gegenüber unseren Partnern geltend machen wollen, wenden Sie sich einfach direkt an den jeweiligen Partner. Jeder Partner wurde durch OTTO vertraglich dazu verpflichtet, auf otto.de Hinweise zum Datenschutz, die aus gesetzlichen Gründen auch Hinweise zu den Ihnen gegenüber dem jeweiligen Partner zustehenden Betroffenenrechten beinhalten müssen, zum Abruf bereitzustellen.
 

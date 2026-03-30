@@ -20,7 +20,7 @@ Unternehmen der ZEIT Verlagsgruppe
 
 Der ZEIT Verlagsgruppe gehören die nachstehenden Firmen an: Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Digital GmbH, ZEIT Sprachen GmbH, ZEIT Akademie GmbH, Studio ZX GmbH, ZEIT Weltkunst Verlag GmbH, academics GmbH, Good Jobs GmbH und e-fellows.net GmbH & Co. KG.
 
-Angeboten werden z.B. journalistische Inhalte, Reisen, Produkte, Seminare, Veranstaltungen und Vorteilsangebote für Abonnenten.
+Angeboten werden z.B. Abonnements zu verschiedenen journalistischen Inhalten, Reisen, Produkte, Seminare, Job-Portale, Veranstaltungen und Vorteilsangebote für Abonnenten.
 
 Privacy-Einstellungen
 ---------------------

@@ -10,6 +10,7 @@
 *   [Abuse](#content-area-10)
 *   [E-Mail-Marketing](#content-area-11)
 *   [Data Act](#content-area-12)
+*   [Smart-Telefonassistent](#content-area-13)
 
 Allgemeine Geschäftsbedingungen der STRATO GmbH
 -----------------------------------------------
@@ -1176,3 +1177,78 @@ In any case, the Customer should inform the Provider of its successful switching
 4.2.2. the Customer has unconditionally and clearly asked the Provider to execute the Data Erasure, and in response the Data has been successfully erased.
 
 4.2.3. At the end of the Agreed Notice Period the Provider undertakes to notify the Customer of the termination of the contract.
+
+Besondere Geschäftsbedingungen für den Smart-Telefonassistenten
+---------------------------------------------------------------
+
+### 1\. Geltungsbereich und Rangfolge
+
+**1.1** Diese besonderen Geschäftsbedingungen (Sonder-AGB) gelten ergänzend zu den [Allgemeinen Geschäftsbedingungen](https://www.strato.de/agb/) von STRATO für die Nutzung des Smart-Telefonassistent (nachfolgend: "Dienst") durch den Endkunden. Im Falle von Widersprüchen gehen diese Sonder-AGB den AGB von STRATO vor.
+
+**1.2** STRATO erbringt die Leistungen als Reseller. Die technische Leistungserbringung erfolgt durch von STRATO eingesetzte Unterauftragnehmer gemäß Ziffer 6.
+
+### 2\. Leistungsbeschreibung und Rollen
+
+**2.1** Der Dienst ermöglicht KI-gestützte Sprachinteraktionen im Telefonieumfeld (z. B. Anrufannahme, Dialogführung, Weiterleitung, Protokollierung).
+
+**2.2** STRATO schuldet die Bereitstellung des Dienstes gemäß den vertraglichen Spezifikationen. Der Unterauftragnehmer erbringt hierfür technische Teil- oder Gesamtleistungen im Auftrag von STRATO.
+
+**2.3** Der Endkunde ist eigenständig für den Einsatz, die Konfiguration und die rechtmäßige Verwendung des Dienstes einschließlich sämtlicher Inhalte und angebundener Systeme verantwortlich.
+
+### 3\. Zulässige Nutzung, Verbote und Pflichten des Endkunden
+
+**3.1** Rechtswidrige Nutzung: Der Endkunde darf den Dienst nicht zu rechtswidrigen Zwecken verwenden und hat alle anwendbaren Gesetze und behördlichen Vorgaben einzuhalten (u. a. Datenschutzrecht, Telekommunikationsrecht, Urheber‑, Marken- und Wettbewerbsrecht).
+
+**3.2** Kennzeichnung und Transparenz: Der Endkunde stellt sicher, dass Gesprächspartner vor oder zu Beginn der Interaktion klar und verständlich darüber informiert werden, dass sie mit einem KI‑System interagieren. Soweit Aufzeichnungen, Transkriptionen, Analysen oder Auswertungen erfolgen, holt der Endkunde erforderliche Einwilligungen ein bzw. stützt die Verarbeitung auf eine geeignete Rechtsgrundlage und informiert gemäß den gesetzlichen Transparenzpflichten.
+
+**3.3** Verbotene und Hochrisiko‑Einsätze: Der Dienst darf nicht für nach der KI‑Verordnung (KI‑VO/EU) verbotene Praktiken genutzt werden. Der Einsatz in Anwendungsfällen, die als Hochrisiko‑KI im Sinne der KI‑VO einzustufen sind (z. B. gemäß Art. 6 i. V. m. Anhang III KI‑VO), ist untersagt. Der Endkunde hat eigenverantwortlich zu prüfen, dass sein Einsatzbereich nicht als Hochrisiko einzustufen ist; im Zweifel unterlässt er den Einsatz.
+
+**3.4** Urheber- und Nutzungsrechte: Der Endkunde wird den Dienst nicht nutzen, um Urheberrechte, verwandte Schutzrechte oder sonstige Schutzrechte Dritter zu verletzen. Er gewährleistet, dass er für sämtliche vom Dienst verarbeiteten Inhalte und Daten (einschließlich Prompts, Gesprächsinhalte, Trainings-/Wissensdaten, Audio/Sprachinhalte) die erforderlichen Rechte und Berechtigungen besitzt und keine unzulässigen Inhalte bereitstellt.
+
+**3.5** Datenschutz und Persönlichkeitsrechte: Der Endkunde ist Verantwortlicher im datenschutzrechtlichen Sinne für die Verarbeitung personenbezogener Daten im Rahmen seiner Nutzung. Er stellt die Rechtmäßigkeit der Verarbeitung, die Erfüllung von Informationspflichten, die Wahrung von Betroffenenrechten, Speicherbegrenzung und Datensicherheit sicher. Die Verarbeitung besonderer Kategorien personenbezogener Daten unterbleibt, sofern keine geeignete Rechtsgrundlage besteht.
+
+**3.6** Geschäftsgeheimnisse und Vertraulichkeit: Der Endkunde wahrt Geschäftsgeheimnisse sowie sonstige vertrauliche Informationen Dritter und übermittelt diese nur, soweit eine rechtliche Berechtigung besteht. Er trifft angemessene technische und organisatorische Maßnahmen, um eine unbefugte Kenntnisnahme zu verhindern.
+
+**3.7** Missbrauchsverbot: Der Endkunde unterlässt jede Nutzung, die den Dienst, Netzwerke oder Dritte beeinträchtigt (z. B. Umgehung von Sicherheitsmechanismen, unzulässiges Monitoring, Manipulation, Spam, Betrug, Identitätstäuschung).
+
+**3.8** Besondere Telefonieanforderungen: Soweit nationale oder internationale Vorschriften für Anrufaufzeichnung, ‑weiterleitung, Number Presentation/CLIP/CLIR, Notrufzugang, Werbeanrufe, Double-Opt‑In oder Branchenspezifika gelten, erfüllt der Endkunde diese eigenverantwortlich.
+
+### 4\. Verantwortung des Endkunden für Konfiguration, Inhalte und Drittsysteme
+
+**4.1** Der Endkunde ist allein verantwortlich für: die Konfiguration des Dienstes (z. B. Dialogdesign, Prompts, Wissensbasen, Workflows, Schwellenwerte), sämtliche durch den Dienst generierten oder verarbeiteten Inhalte sowie die Auswahl, Einbindung, Konfiguration und Sicherheit angebundener Drittsysteme, Schnittstellen und Datenquellen (z. B. CRM, Ticketing, Payment, Kalender, Telefonanlagen).
+
+**4.2** Der Endkunde stellt sicher, dass angebundene Drittsysteme rechtmäßig genutzt werden, die jeweiligen Lizenz‑/Nutzungsbedingungen eingehalten werden und keine schädlichen Inhalte/Daten eingespeist werden. Er hält geeignete Zugriffskontrollen, Rechtekonzepte, Protokollierung und Tests vor.
+
+**4.3** Der Endkunde überwacht Ergebnisse und Interaktionen des Dienstes, implementiert angemessene Kontroll- und Eskalationsmechanismen (z. B. Übergabe an menschliche Agenten) sowie Qualitätssicherungsprozesse.
+
+### 5\. KI‑Ausgaben; keine Mangelhaftigkeit bei inhaltlichen Abweichungen
+
+**5.1** KI‑generierte Inhalte können unzutreffend, unvollständig, mehrdeutig, kontextfremd oder zeitlich veraltet sein. Der Endkunde bleibt für die Bewertung und Verwendung der Ausgaben verantwortlich.
+
+**5.2** Rein inhaltliche Abweichungen oder Fehler von KI‑Ausgaben (einschließlich sogenannter „Halluzinationen") stellen für sich genommen keinen technischen Mangel der Leistung dar.
+
+**5.3** Gewährleistungs- und Haftungsansprüche wegen technischer Störungen richten sich nach den vertraglichen Haftungsregelungen der [Allgemeinen Geschäftsbedingungen](https://www.strato.de/agb/) . Weitergehende Ansprüche wegen inhaltlicher KI-Abweichungen sind ausgeschlossen, soweit nicht zwingendes Recht entgegensteht.
+
+### 6\. Einsatz von technischen Unterauftragnehmern
+
+**6.1** Der Endkunde erklärt sich damit einverstanden, dass STRATO technische Unterauftragnehmer zur Erbringung des Dienstes einsetzt. Der Unterauftragnehmer kann zur Leistungserbringung wiederum geeignete Subunternehmer einsetzen, sofern die gesetzlichen und vertraglichen Anforderungen eingehalten werden.
+
+### 7\. Compliance, Audits und Nachweise
+
+**7.1** Der Endkunde führt angemessene Risikoanalysen für seinen konkreten Einsatz durch, dokumentiert die Einhaltung der Kennzeichnungs‑, Informations‑ und Einwilligungspflichten und hält entsprechende Nachweise vor.
+
+**7.2** Auf begründete Anfrage weist der Endkunde die Einhaltung der Pflichten aus diesen Sonder-AGB nach.
+
+### 8\. Sperrung, Kündigung und Freistellung
+
+**8.1** Bei Verstößen gegen diese Sonder-AGB oder begründetem Verdacht hierauf dürfen STRATO und/oder Unterauftragnehmer Leistungen ganz oder teilweise vorläufig sperren, soweit erforderlich, um Rechtsverletzungen oder Risiken abzuwenden. Der Endkunde wird hierüber informiert, sofern dadurch keine behördlichen Ermittlungen gefährdet werden.
+
+**8.2** STRATO ist zur außerordentlichen Kündigung berechtigt, wenn der Endkunde trotz Abmahnung fortgesetzt oder schwerwiegend gegen diese Sonder-AGB verstößt oder wenn der Einsatz des Dienstes aufgrund gesetzlicher/behördlicher Vorgaben unzumutbar wird.
+
+**8.3** Der Endkunde stellt STRATO und den Unterauftragnehmer von sämtlichen Ansprüchen Dritter frei, die aus einer rechts- oder vertragswidrigen Nutzung des Dienstes durch den Endkunden resultieren, einschließlich angemessener Rechtsverfolgungskosten.
+
+### 9\. Sonstiges
+
+**9.1** Änderungen gesetzlicher oder regulatorischer Anforderungen (insbesondere der KI‑VO) können eine Anpassung des Dienstes oder dieser Sonder-AGB erforderlich machen. STRATO wird den Endkunden hierüber informieren; dem Endkunden stehen insoweit die vertraglich vorgesehenen Rechte zu.
+
+**9.2** Sollte eine Bestimmung dieser Sonder-AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. Anstelle der unwirksamen Bestimmung gilt diejenige wirksame Regelung als vereinbart, die dem wirtschaftlichen Zweck am nächsten kommt.

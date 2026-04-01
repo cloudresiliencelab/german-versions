@@ -169,6 +169,7 @@ E-Mail-Adresse: impressum@info.otto.de
 **vertreten durch:  
 **Petra Scharner-Wolff (Vorstandsvorsitzende)  
 Dr. Marcus Ackermann  
+Dr. Philipp Andrée  
 Katy Roewer  
 Kay Schiebur
 

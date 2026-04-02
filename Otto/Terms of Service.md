@@ -92,7 +92,7 @@ Weitere Informationen zur Zahlung finden Sie auf [www.otto.de/bezahlung](https:/
 
 **15\.** Anwendbares Recht: Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Wenn Sie Verbraucher mit Wohnsitz außerhalb der Bundesrepublik Deutschland sind, kann ggf. auch das Recht desjenigen Landes, in dem Sie Ihren Wohnsitz haben, zur Anwendung kommen, wenn es sich um zwingende Bestimmungen handelt.
 
-**Otto GmbH & Co. KGaA, Werner-Otto-Straße 1-7, 22179 Hamburg, Deutschland, AG Hamburg HR B 188 101, persönlich haftend: Otto Verwaltungsgesellschaft mbH, Werner-Otto-Straße 1-7, 22179 Hamburg, Deutschland, AG Hamburg HR B 119 264, vertreten durch: Petra Scharner-Wolff (Vorstandsvorsitzende), Dr. Marcus Ackermann,** **Dr. Philipp Andrée,** **Katy Roewer, Kay Schiebur; Aufsichtsrat: Alexander Birken (Aufsichtsratsvorsitzender); Ehrenvorsitzender des Aufsichtsrats: Prof. Dr. Michael Otto; Gesellschafterrat: Benjamin Otto (Vorsitzender)**
+**Otto GmbH & Co. KGaA, Werner-Otto-Straße 1-7, 22179 Hamburg, Deutschland, AG Hamburg HR B 188 101, persönlich haftend: Otto Verwaltungsgesellschaft mbH, Werner-Otto-Straße 1-7, 22179 Hamburg, Deutschland, AG Hamburg HR B 119 264, vertreten durch: Petra Scharner-Wolff (Vorstandsvorsitzende), Dr. Marcus Ackermann, Dr. Philipp Andrée, Katy Roewer, Kay Schiebur; Aufsichtsrat: Alexander Birken (Aufsichtsratsvorsitzender); Ehrenvorsitzender des Aufsichtsrats: Prof. Dr. Michael Otto; Gesellschafterrat: Benjamin Otto (Vorsitzender)**
 
 **Muster-Widerrufsformular**
 
@@ -117,6 +117,6 @@ der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (\*) Unzutreffendes bitte streichen.
 
-[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/AGB_OTTO_Marktplatz_20260301.pdf)
+[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/AGB_OTTO_Marktplatz_20260401.pdf)
 
  Stand: 01.04.2026

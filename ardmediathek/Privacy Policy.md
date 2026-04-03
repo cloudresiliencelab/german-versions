@@ -1,7 +1,7 @@
 Datenschutzerklärung
 ====================
 
-ARD Online nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich bei der Nutzung unserer Angebote stets sicher fühlen. Hier informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten. Diese Datenschutzerklärung gilt für folgende Angebote: ARD.de, ARD Mediathek und ARD Sounds (früher ARD Audiothek).
+ARD Online nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich bei der Nutzung unserer Angebote stets sicher fühlen. Hier informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten. Diese Datenschutzerklärung gilt für folgende Angebote: ARD.de, ARD Mediathek, ARD Sounds (früher ARD Audiothek) und KiKA HbbTV.
 
 Bitte beachten Sie: Wenn Sie unsere Angebote angemeldet über das ARD-Konto nutzen, gelten gegebenenfalls gesonderte Datenschutzrichtlinien. Diese können Sie über die Datenschutzerklärung zum ARD-Konto einsehen.
 
@@ -158,15 +158,6 @@ Um diese Weiterschauen-Funktion zu nutzen, benötigen Sie ein angemeldetes Konto
 
 Grundlage für die Verarbeitung Ihrer Daten ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a) DSGVO. Sie können Ihre Einwilligung in die Datenverarbeitung jederzeit mit Wirkung für die Zukunft widerrufen. Rufen Sie dafür auf der jeweiligen Plattform die ARD Mediathek auf und deaktivieren Sie im Einstellungsmenü die Option "Weiterschauen".
 
-Standortbasierte Funktionalitäten
----------------------------------
-
-Auf Android Automotive bieten wir Ihnen in ARD Sounds die Möglichkeit, geobasierte Audiobeiträge aus dem Archiv bei Autobahnfahrten in Süddeutschland zu hören, um mehr über die Region zu erfahren. Sobald Sie an einer braunen Hinweistafel vorbeifahren, die auf einen "Point of Interest" hinweist, wird Ihnen ein dazu passendes Audio abgespielt.
-
-Damit diese Funktionalität seitens der App unterstützt wird, müssen Sie der App genehmigen, dass sie auf den aktuellen Standort des Geräts zugreifen darf. Über eine entsprechende Audio-Anleitung, die Sie in der App starten können, erfahren Sie, wie Sie die Standort-Berechtigung aktivieren. Damit die App den Standort auf Android Automotive abrufen kann, wird der Standortzugriff auch im Hintergrund benötigt.
-
-Die Standortdaten werden dabei ausschließlich lokal auf dem Gerät verwendet, um festzustellen, auf welcher Autobahn Sie sich befinden und wann Sie ein entsprechendes Schild erreichen. Durch die Entfernung zu Hilfspunkten entlang der Wegstrecke kann die Position und Fahrtrichtung bestimmt werden. Die Standort-Daten werden von uns nicht gespeichert. Über das Einstellungsmenü können Sie die Standortfreigabe jederzeit wieder zurückziehen.
-
 Datenschutzrechtliche Formalien
 -------------------------------
 
@@ -192,4 +183,4 @@ Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datensch
 
 Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-11.3.2026
+2.4.2026

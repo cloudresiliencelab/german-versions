@@ -234,4 +234,4 @@ Weiterlesen
 
 [### Fragen der Zeit: Die aktuelle ZEIT ab sofort auch immer auf ZEIT ONLINE](https://www.zeit.de/fragen-der-zeit/2017/03/z-die-gedruckte-zeit-im-internet)
 
-[### Z+ (registrierungspflichtiger Inhalt); : Impressum-27](https://www.zeit.de/2008/27/Impressum-27)
+[### Z+ (registrierungspflichtiger Inhalt); : Impressum-51](https://www.zeit.de/2008/51/Impressum-51)

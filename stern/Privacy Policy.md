@@ -32,27 +32,6 @@ Bevor Sie Zugang zu unserer Website erhalten, können Sie sich auf einer vorgesc
 
 Nur wenn Sie sich aktiv für den kostenlosen Zugang entschieden haben, speichern und nutzen wir Cookies, Geräte-IDs und ähnliche Tracking-Technologien auf Endgeräten, um die Erhebung von Nutzungsdaten und deren pseudonymisierte Verarbeitung zu Nutzungsprofilen zum Zwecke einer nutzungsbasierten Werbeausspielung zu ermöglichen ("Werbetracking"). Dies geschieht, weil wir in diesem Fall unser Angebot mit Ihrer Einwilligung durch weitere, mittels Werbetracking optimierte Werbung finanzieren. Rechtsgrundlage der Datenverarbeitung ist dann Art. 6 Abs. 1 lit. a DSGVO
 
-Mehr zum Thema
---------------
-
-14\. Juli 2025,12:33
-
-[### Krawalle in Spanien Ultarechte rufen zur "Jagd auf Migranten" auf – mehrere Verletzte](https://www.stern.de/panorama/aufruf-zur--jagd-auf-migranten---mehrere-verletzte-bei-krawallen-in-spanien--35891634.html)
-
-1 Min. Zur Merkliste hinzufügen
-
-28\. Oktober 2024,15:19
-
-[### In eigener Sache Es war einmal das Cockpit](https://www.stern.de/digital/online/wie-sich-stern-de-im-laufe-der-jahre-veraendert-hat-35177728.html)
-
-Zur Merkliste hinzufügen
-
-18\. April 2023,14:48
-
-[### "Rent a hitman" 21-Jähriger wollte sich im Internet als Auftragsmörder anbieten – und wird vom FBI verhaftet](https://www.stern.de/panorama/weltgeschehen/fbi-verhaftet-angehenden-auftragsmoerder---er-bewarb-sich-im-internet-33384856.html)
-
-Zur Merkliste hinzufügen
-
 Im Rahmen des PUR Abo behalten wir uns vor, Cookies und Tracking Technologien nur für eigene Produktoptimierungen und allgemeine Nutzungsanalysen, insbesondere zur Reichweitenmessung und Funktionssicherung, einzusetzen. Es erfolgt keine Profilierung oder Weitergabe an Dritte zu Werbezwecken. Die Nutzungsanalyse und Reichweitenmessung sind für uns Wege, um für unsere Leser interessante Inhalte zu identifizieren, damit STERN und STERN.de auch weiterhin spannende Inhalte zu den Themen der Zeit bietet. Die Datenverarbeitung im Rahmen des PUR Abos erfolgt auf Basis von Art. 6 Abs. 1 lit. b DSGVO.
 
 ### Zustimmung widerrufen

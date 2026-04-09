@@ -230,8 +230,8 @@ Weiterlesen
 [Mehr Artikel](https://www.zeit.de/thema/index)
 -----------------------------------------------
 
+[### Angebot: Was bietet ZEIT online?](https://www.zeit.de/media/zeitonline_angebot)
+
 [### : Impressum](https://www.zeit.de/impressum/index)
 
 [### Fragen der Zeit: Die aktuelle ZEIT ab sofort auch immer auf ZEIT ONLINE](https://www.zeit.de/fragen-der-zeit/2017/03/z-die-gedruckte-zeit-im-internet)
-
-[### Z+ (registrierungspflichtiger Inhalt); : Impressum-51](https://www.zeit.de/2008/51/Impressum-51)

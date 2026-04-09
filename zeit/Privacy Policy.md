@@ -386,15 +386,15 @@ Die Speicherdauer der Postanschriften richtet sich danach, ob Sie ein Kunde sind
 
 [To the top of the section](#Werbung-per-Post)
 
-### Werbung durch Marketingdienstleister
+### Werbung durch Dritte
 
 Wir stellen die bei uns gespeicherten Postanschriften Unternehmen und Spendenorganisationen zur Verfügung, damit diese Ihnen Angebote und Informationen zusenden können.
 
-Die Weitergabe zum Zweck der Werbung erfolgt zur Wahrung berechtigter Interessen (Art. 6 Abs. 1 f) DSGVO). Alle beteiligten Unternehmen sind wirtschaftlich darauf angewiesen, neue Kunden zu gewinnen und Bestandskunden zu halten. Sie können der Übermittlung Ihrer Postanschrift an Marketingdienstleister jederzeit widersprechen, ohne dass dies Einfluss auf ein etwa bestehendes Vertragsverhältnis hat.
+Die Weitergabe zum Zweck der Werbung erfolgt zur Wahrung berechtigter Interessen (Art. 6 Abs. 1 f) DSGVO). Alle beteiligten Unternehmen sind wirtschaftlich darauf angewiesen, neue Kunden zu gewinnen und Bestandskunden zu halten. Sie können der Übermittlung Ihrer Postanschrift an Dritte jederzeit widersprechen, ohne dass dies Einfluss auf ein etwa bestehendes Vertragsverhältnis hat.
 
-Kundendaten müssen wir zur Wahrung gesetzlicher Aufbewahrungspflichten bis zu 8 Jahre speichern. Im Falle eines Widerspruchs werden wir Ihre Postanschrift jedoch nicht mehr zu werblichen Zwecken an Marketingdienstleister übermitteln.
+Kundendaten müssen wir zur Wahrung gesetzlicher Aufbewahrungspflichten bis zu 8 Jahre speichern. Im Falle eines Widerspruchs werden wir Ihre Postanschrift jedoch nicht mehr zu werblichen Zwecken an Dritte übermitteln.
 
-[To the top of the section](#Werbung-durch-Marketingdienstleister)
+[To the top of the section](#Werbung-durch-Dritte)
 
 ### Werbliche Anrufe
 

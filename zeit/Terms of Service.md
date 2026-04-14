@@ -224,14 +224,3 @@ Bei Fragen oder Anmerkungen zu diesen Nutzungsbedingungen oder zum Leserkommenta
 
 **§ 4 Sonstige Bestimmungen**  
 Bei den registrierungspflichtigen Diensten wie z.B. dem Angebot "Z+" handelt es sich um ein Angebot der ZEIT ONLINE GmbH in Kooperation mit der Zeitverlag Gerd Bucerius GmbH & Co. KG. Sie erhalten von uns unter der von Ihnen bei der Registrierung angegebenen E-Mail-Adresse künftig auch ähnliche Angebote. Dem können Sie jederzeit widersprechen bspw. durch E-Mail an: email(at)zeit.de.
-
-Weiterlesen
-
-[Mehr Artikel](https://www.zeit.de/thema/index)
------------------------------------------------
-
-[### Angebot: Was bietet ZEIT online?](https://www.zeit.de/media/zeitonline_angebot)
-
-[### : Impressum](https://www.zeit.de/impressum/index)
-
-[### Fragen der Zeit: Die aktuelle ZEIT ab sofort auch immer auf ZEIT ONLINE](https://www.zeit.de/fragen-der-zeit/2017/03/z-die-gedruckte-zeit-im-internet)

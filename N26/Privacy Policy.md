@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.1., Datum: 10.02.2026)
+(Version 13.2., Datum: 13.04.2026)
 
 
 
@@ -424,11 +424,13 @@ Damit du N26 Aktien \& ETFs (Exchange-Traded Funds), einschließlich ETCs (Excha
 
 
 
-Upvest ist für die Verarbeitung deiner personenbezogenen Daten zur Ausführung der von dir über die N26 Apperteilten Aufträge und Transaktionen verantwortlich (einschließlich der Abonnement von Sofort-Fonds). Es
+Upvest ist für die Verarbeitung deiner personenbezogenen Daten zur Ausführung der von dir über die N26 Apperteilten Aufträge und Transaktionen verantwortlich (einschließlich dem Abonnement von verschiedenen Arten
 
-gelten die Allgemeinen Geschäftsbedingungen von Upvest und die Datenschutzhinweise von Upvest. In diesem
+von Fonds). Es gelten die Allgemeinen Geschäftsbedingungen von Upvest und die Datenschutzhinweise von
 
-Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als Auftragsverarbeiter von Upvestim Sinne des Art. 28 DSGVO für die folgenden Zwecke:
+Upvest. In diesem Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als
+
+Auftragsverarbeiter von Upvest im Sinne des Art. 28 DSGVO für die folgenden Zwecke:
 
 
 
@@ -442,7 +444,7 @@ Zusammenhang verarbeitet N26 die folgenden personenbezogenen Daten als Auftragsv
 
 
 
-● Ausführung deiner Aufträge und Transaktionen durch Upvest: Verarbeitung der erforderlichenInformationen im Zusammenhang mit deinen Aufträgen und Transaktionen, d. h. Betrag, Art undHäufigkeit (insbesondere im Fall von Investitionsplänen) der von Ihnen erteilten Aufträge undTransaktionen. Dies schließt auch alle Sofort-Fonds ein, auf die du abonniert hast.
+● Ausführung deiner Aufträge und Transaktionen durch Upvest: Verarbeitung der erforderlichenInformationen im Zusammenhang mit deinen Aufträgen und Transaktionen, d. h. Betrag, Art undHäufigkeit (insbesondere im Fall von Investitionsplänen) der von Ihnen erteilten Aufträge undTransaktionen. Dies schließt auch alle verschiedenen Arten von Fonds ein, auf die du abonniert hast.
 
 
 

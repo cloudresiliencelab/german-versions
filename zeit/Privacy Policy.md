@@ -1,9 +1,9 @@
-![Logo zeit.de](//images.ctfassets.net/9q531vlek15f/6OXqIfs6YWBNFf1a2GBR0S/35165f6b3f755a008cf814a01dc502ee/logo_zeit.svg)
+![Logo ZEIT Verlag](//images.ctfassets.net/9q531vlek15f/6OXqIfs6YWBNFf1a2GBR0S/35165f6b3f755a008cf814a01dc502ee/logo_zeit.svg)
 
 Datenschutzerklärung
 ====================
 
-01.03.2026
+20.04.2026
 
 Beim Aufruf einer Website, der Registrierung für einen Dienst, der Abwicklung von Verträgen und anderen Interaktionen werden personenbezogene Daten verarbeitet. Das geschieht sowohl automatisch (z.B. bei der IP-Adresse) als auch durch die aktive Eingabe von Daten (z.B. bei einer Bestellung). Die Datenschutz-Grundverordnung (DSGVO) verpflichtet uns dazu, Sie über diese Verarbeitung zu informieren. Sie sollen z.B. wissen, welche Zwecke wir verfolgen, wie lange Ihre Informationen gespeichert werden, auf welcher Rechtsgrundlage die Verarbeitung basiert und welche Empfänger von Daten es geben kann. Darum geht es in dieser Datenschutzerklärung.
 
@@ -13,7 +13,7 @@ Verantwortlich für die Datenverarbeitung ist grundsätzlich die ZEIT Online Gmb
 
 Bei Fragen zu Ihrem Abo, Kündigungen und bei einem Widerruf wenden Sie sich bitte ausschließlich an unseren [Kundenservice](https://abo.zeit.de/ "Kundenservice DIE ZEIT").
 
-[als PDF speichern](https://datenschutz.zeit.de/zon/1.5/zon.pdf)
+[als PDF speichern](https://datenschutz.zeit.de/zon/1.6/zon.pdf)
 
 Unternehmen der ZEIT Verlagsgruppe
 ----------------------------------
@@ -25,11 +25,9 @@ Angeboten werden z.B. Abonnements zu verschiedenen journalistischen Inhalten, Re
 Privacy-Einstellungen
 ---------------------
 
-Um Ihre Privacy Einstellungen zu ändern, klicken Sie bitte auf den Button.
+So ändern Sie Ihre Privacy-Einstellungen: klicken Sie auf "Zustimmung widerrufen" oder löschen Sie die Cookies in Ihrem Browser. Beim nächsten Aufruf von zeit.de erscheint dann wieder das Consent-Banner, in dem Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen zeit.de werbefrei-Abo wählen können.
 
 Toggle Zustimmung/Widerspruch
-
-Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Sie Ihre Cookies im Browser, so erscheint beim nächsten Aufruf von zeit.de wieder die vorgeschaltete Seite, auf der Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen zeit.de werbefrei-Abo wählen können.
 
 ![](//images.ctfassets.net/9q531vlek15f/2BwUs4LYnMqRwsa8SpAMVv/a8d90f7a99f2377ee18540e79f37b0a2/Nutzung_der_Website.png)
 
@@ -227,6 +225,16 @@ Nachrichten werden nicht auf zeit.de gespeichert. Sie liegen ausschließlich bei
 
 [To the top of the section](#Kontakt-zwischen-Nutzern)
 
+### ZEIT Single-Sign-On-Account
+
+Es gibt Dienste, für die Sie einen sogenannten Single-Sign-On-Account benötigen. Erforderlich sind eine E-Mail-Adresse sowie ein selbst gewähltes Passwort. Mit diesem Account haben Sie die Möglichkeit, auf verschiedene Angebote zuzugreifen.
+
+Die Datenverarbeitung im Rahmen des entstehenden Nutzungsverhältnisses ist gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung der abgefragten Daten ist für die Registrierung erforderlich.
+
+Ihre Daten werden für die Dauer des Bestehens Ihres Accounts gespeichert.
+
+[To the top of the section](#ZEIT-Single-Sign-On-Account)
+
 ![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
 
 Aktionen, Verträge und Abos
@@ -419,7 +427,7 @@ Aufgrund der engen Zusammenarbeit innerhalb der ZEIT Verlagsgruppe sind ein gege
 
 Die Unternehmen der ZEIT Verlagsgruppe nutzen eine gemeinsame Infrastruktur und kommunizieren über zentral verwaltete Geräte. Die Zeitverlag Gerd Bucerius GmbH & Co. KG stellt dabei die wesentlichen Telekommunikationsdienste und Applikationen zur Verfügung und ist zusammen mit den anderen Unternehmen gemeinsam verantwortlich für die stattfindende Datenverarbeitung.
 
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT DIGITAL GmbH, ZEIT Akademie GmbH, Studio ZX GmbH, ZEIT Sprachen GmbH, academics GmbH, ZEIT Online GmbH, ZEIT Weltkunst Verlag GmbH
+**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Akademie GmbH, Studio ZX GmbH, ZEIT Sprachen GmbH, academics GmbH, ZEIT Weltkunst Verlag GmbH
 
 [To the top of the section](#Allgemeine-Infrastruktur-und-Kommunikation)
 
@@ -431,21 +439,9 @@ Sofern wir für die Erhebung der Daten eine Einwilligung eingeholt haben, erfolg
 
 Die Dauer der pseudonymisierten Speicherung im Data Warehouse richtet sich nach der Speicherdauer in unseren anderen Systemen (z.B. Newsletter-Datenbank, Veranstaltungsdatenbank). Wenn die Daten dort gelöscht werden können, sind sie nicht mehr über das Data Warehouse abrufbar.
 
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Sprachen GmbH, academics GmbH, Studio ZX GmbH, ZEIT Akademie GmbH
+**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Sprachen GmbH, academics GmbH, Studio ZX GmbH, ZEIT Akademie GmbH
 
 [To the top of the section](#Data-Warehouse)
-
-### ZEIT Single-Sign-On-Account
-
-Es gibt Dienste, für die Sie einen sogenannten Single-Sign-On-Account benötigen. Erforderlich sind eine E-Mail-Adresse sowie ein selbst gewähltes Passwort. Mit diesem Account haben Sie die Möglichkeit, auf verschiedene Angebote zuzugreifen.
-
-Die Datenverarbeitung im Rahmen des entstehenden Nutzungsverhältnisses ist gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung der abgefragten Daten ist für die Registrierung erforderlich.
-
-Ihre Daten werden für die Dauer des Bestehens Ihres Accounts gespeichert.
-
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH
-
-[To the top of the section](#ZEIT-Single-Sign-On-Account)
 
 ### Kundenbetreuung und Servicecenter
 
@@ -455,7 +451,7 @@ Die Verarbeitung erfolgt im Rahmen eines Vertragsverhältnisses und ist daher ge
 
 Die Speicherung Ihrer personenbezogenen Daten richtet sich bei einem bestehenden oder früheren Abo nach den gesetzlich vorgeschriebenen Aufbewahrungszeiträumen zur Einhaltung von steuer- und handelsrechtlichen Pflichten. Die bei der Kundenbetreuung und Inanspruchnahme unserer Services anfallenden Daten unterliegen derselben Speicherdauer.
 
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Akademie GmbH
+**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Akademie GmbH
 
 [To the top of the section](#Kundenbetreuung-und-Servicecenter)
 
@@ -467,7 +463,7 @@ Die Verarbeitung im Rahmen der Abo-Verwaltung erfolgt zur Abwicklung eines Vertr
 
 Die zur Verwaltung Ihres Abos gespeicherten Daten unterliegen verschiedenen gesetzlichen Aufbewahrungspflichten. Wir speichern alle Vertragsdaten für einen Zeitraum von mindestens 8 Jahren. Bei einem Widerspruch zur werblichen Nutzung werden die Daten eingeschränkt verarbeitet und mit einer Werbesperre versehen.
 
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Online GmbH, ZEIT Akademie GmbH
+**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Akademie GmbH
 
 [To the top of the section](#Abo-Verwaltung-und-Marketing)
 

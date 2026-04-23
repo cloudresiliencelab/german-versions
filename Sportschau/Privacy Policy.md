@@ -82,14 +82,6 @@ Sportschau.de nutzt für die Personalisierung des eigenen Angebots das von ARD O
 Datenschutzerklärung ARD Konto: [https://accounts.ard.de/datenschutz?hasBackButton=true](https://accounts.ard.de/datenschutz?hasBackButton=true "Datenschutzerklärung ARD Login")  
 Nutzungsbedingungen ARD Konto: [https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true](https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true "Nutzungsbedingungen ARD Login")
 
-Famium SAND
------------
-
-Im vielfältigen Angebot der Sportschau bieten wir unter anderem die Möglichkeit, Audio und Videodateien sowohl als Livestream als auch On Demand Videos abzurufen. Zur Sicherstellung der technischen Verfügbarkeit erhebt die ARD dabei automatisiert technische Parameter zur Funktionalität und Qualität der Ausspielung. Diese sind im ISO Standard ISO/IEC 23009-1 Annex D definiert und beinhalten z.B. Informationen zu ausgespielter Bandbreite und aufgetretenen Fehlern bei der Ausspielung. Diese Daten sind anonymisiert, haben keinen direkten Personenbezug und werden nicht an Dritte weitergegeben.
-
-Die Erhebung der Daten ist unbedingt erforderlich, um die technische Auslieferung und Wiedergabe der angeforderten Medieninhalte auf dem Endgerät sicherzustellen und die Zuverlässigkeit und Stabilität der Auslieferung zu gewährleisten. Zudem dienen die Daten der stetigen Optimierung der Streamauslieferung.  
-Weitere Informationen finden Sie in der Datenschutzerklärung des Fraunhofer-Instituts für offene Kommunikationssysteme (FOKUS): [https://www.fokus.fraunhofer.de/datenschutz](https://www.fokus.fraunhofer.de/datenschutz "Fraunhofer Datenschutz")
-
 Content Delivery Network (CDN)
 ------------------------------
 
@@ -175,7 +167,7 @@ Sie haben das Recht ihre uns erteilte Einwilligung jederzeit zu widerrufen. Ein 
 
 Sie haben das Recht, Auskunft darüber zu verlangen, welche Daten (z.B. Name, Anschrift etc.) über Sie bei sportschau.de gespeichert sind. Bitte reichen Sie Ihre Anfrage schriftlich beim Datenschutzbeauftragten der Rundfunkanstalt Ihres Sendegebietes ein und nennen Sie das jeweilige Thema, zu dem Sie Ihre Daten übermittelt haben. Die Datenschutzbeauftragten der Landesrundfunkanstalten stehen Ihnen auch für weitere Fragen zur Verarbeitung ihrer persönlichen Daten bei sportschau.de, zum Datenschutz im Bereich des Rundfunks, einschließlich des Rundfunkbeitrags und des Beitragsservice zur Verfügung.
 
-Sie haben darüber hinaus, nach Maßgabe der gesetzlichen Bestimmungen, ein Recht auf Berichtigung und Löschung ihrer personenbezogenen Daten.  Ein entsprechendes Begehren ist über die auf dieser [Website](https://www1.wdr.de/unternehmen/der-wdr/profil/organisation/datenschutz154.html "Der Rundfunkdatenschutzbeauftragte des WDR") genannten Kontaktdaten möglich.
+Sie haben darüber hinaus, nach Maßgabe der gesetzlichen Bestimmungen, ein Recht auf Berichtigung und Löschung ihrer personenbezogenen Daten. Ein entsprechendes Begehren ist über die auf dieser [Website](https://www1.wdr.de/unternehmen/der-wdr/profil/organisation/datenschutz154.html "Der Rundfunkdatenschutzbeauftragte des WDR") genannten Kontaktdaten möglich.
 
 Der Datenschutz bei Onlinepräsenzen von sportschau in sozialen Medien wie Facebook, X/Twitter, Youtube und Instagram
 --------------------------------------------------------------------------------------------------------------------
@@ -199,7 +191,7 @@ Firmensitz: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Du
 **Google / YouTube**  
 Firmensitz: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA  
 
-*   Datenschutzerklärung:  https://policies.google.com/privacy
+*   Datenschutzerklärung: https://policies.google.com/privacy
 *   Opt-Out: https://adssettings.google.com/authenticated
 
 **Instagram**  
@@ -230,6 +222,12 @@ Firmensitz: X Corp., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA
 Firmensitz: WhatsApp Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland  
 
 *   Datenschutzerklärung: https://www.whatsapp.com/legal/?lang=de#privacy-policy
+
+**Bluesky  
+**Firmensitz: Bluesky PBLLC, 113 Cherry St, #24821, Seattle, WA, 98104-2205, USA  
+  
+
+*   Datenschutzerklärung: https://bsky.social/about/support/privacy-policy
 
 Kontaktdaten des Verantwortlichen im Sinne der DSGVO
 ----------------------------------------------------

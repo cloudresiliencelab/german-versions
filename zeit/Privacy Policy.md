@@ -27,6 +27,8 @@ Privacy-Einstellungen
 
 So ändern Sie Ihre Privacy-Einstellungen: klicken Sie auf "Zustimmung widerrufen" oder löschen Sie die Cookies in Ihrem Browser. Beim nächsten Aufruf von zeit.de erscheint dann wieder das Consent-Banner, in dem Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen zeit.de werbefrei-Abo wählen können.
 
+Widerrufsbutton
+
 ![](//images.ctfassets.net/9q531vlek15f/2BwUs4LYnMqRwsa8SpAMVv/a8d90f7a99f2377ee18540e79f37b0a2/Nutzung_der_Website.png)
 
 Nutzung der Website

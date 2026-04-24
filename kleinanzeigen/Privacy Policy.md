@@ -4,7 +4,7 @@ Datenschutzerklärung
   
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.  
   
-**Diese Datenschutzerklärung gilt ab dem 09.03.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-08-03-2026/) können Sie die vorherige Datenschutzerklärung einsehen.**
+**Diese Datenschutzerklärung gilt ab dem 24.04.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-24042026/) können Sie die vorherige Datenschutzerklärung einsehen.**
 
 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 --------------------------------------------------------------------
@@ -70,9 +70,10 @@ Wir verwenden Cookies, Web-Beacons und ähnliche Technologien zur Erhebung von D
 *   Daten zu den Seiten, die Sie aufrufen, zu Zeitpunkt, Häufigkeit und Dauer der Aufrufe, zu den Links, auf die Sie klicken, und zu anderen Aktionen, die Sie im Rahmen Ihrer Nutzung unserer Services und in Werbe- und E-Mail-Inhalten vornehmen.
 *   Daten zu Ihren Aktivtäten und Interaktionen in Hinblick auf unsere Werbepartner einschließlich Daten darüber, welche Anzeigen Ihnen gezeigt wurden, wie oft sie gezeigt wurden, wann und wo sie gezeigt wurden und ob Sie eine Handlung ausgeführt haben, wie etwa auf eine Anzeige geklickt oder eine Transaktion durchgeführt haben.
 *   Ihre Zugehörigkeit zu einem oder mehreren Nutzersegmenten bzw. Nutzerkategorien, wie z.B. männlich, 20-49 Jahre, an Kfz interessiert.
-*   Modell bzw. Gerätetyp, Betriebssystem und Version, Typ und Einstellungen des Browsers, Geräte-ID oder individuelle Geräte-Kennung, ID für Werbeanzeigen, individuelles Geräte-Token, und Daten betreffend Cookies (z. B. Cookie-ID).
+*   Modell bzw. Gerätetyp, Betriebssystem und Version, Typ und Einstellungen des Browsers, Sprache, Geräte-ID oder individuelle Geräte-Kennung, ID für Werbeanzeigen, individuelles Geräte-Token, und Daten betreffend Cookies (z. B. Cookie-ID).
 *   Die IP-Adresse, von der aus Ihr Endgerät auf die Services zugreift.
-*   Standortdaten, einschließlich des ungefähren Standorts (z.B. Region, die sich aus der IP-Adresse ergibt) und des genauen Standorts Ihres Mobilgeräts. Bitte beachten Sie, dass Sie bei den meisten Mobilgeräten die Verwendung von Standortdiensten für alle Anwendungen im Einstellungsmenü Ihres Mobilgeräts festlegen oder deaktivieren können.  
+*   Standortdaten und Land, einschließlich des ungefähren Standorts (z.B. Region, die sich aus der IP-Adresse ergibt) und des genauen Standorts Ihres Mobilgeräts. Bitte beachten Sie, dass Sie bei den meisten Mobilgeräten die Verwendung von Standortdiensten für alle Anwendungen im Einstellungsmenü Ihres Mobilgeräts festlegen oder deaktivieren können.
+*   E-Mail-Adresse und Telefonnummer (soweit hinterlegt).  
       
     
 
@@ -252,6 +253,7 @@ Informationen zu Ihrem Widerspruchsrecht gegen die Verarbeitung auf Basis unsere
   
 
 *   Personalisierung, Messung und Verbesserung unserer Werbeanzeigen und Werbeanzeigen Dritter in unseren Online-Angeboten, Online-Angeboten anderer Mitglieder unserer Unternehmensgruppe oder Dritter.
+*   Erstellung von Nutzersegmenten zur Personalisierung, Messung und Verbesserung unserer Werbeanzeigen und Werbeanzeigen Dritter in unseren Online-Angeboten, Online-Angeboten anderer Mitglieder unserer Unternehmensgruppe oder Dritter.
 *   Werbung per Telefon oder elektronischer Post (wie E-Mail oder SMS), sofern dies nicht bereits ohne Ihre ausdrückliche Einwilligung zulässig ist, einschließlich Werbung für Produkte anderer Mitglieder unserer Unternehmensgruppe oder von Dritten.
 *   Analyse des Nutzerverhaltens zur Verbesserung unserer Services mit Hilfe von eigenen Tools sowie Tools von Drittanbietern, auch im Rahmen der Produktentwicklung, soweit die Datenverarbeitung zu diesen Zwecken nicht auf eine andere Rechtsgrundlage (insbes. berechtigte Interessen) gestützt wird.
 *   Verarbeitung Ihrer exakten Standortdaten, um standortbezogene Dienstleistungen bereitstellen zu können.

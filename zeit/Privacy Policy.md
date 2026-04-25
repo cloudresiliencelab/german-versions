@@ -7,7 +7,7 @@ Datenschutzerklärung
 
 Beim Aufruf einer Website, der Registrierung für einen Dienst, der Abwicklung von Verträgen und anderen Interaktionen werden personenbezogene Daten verarbeitet. Das geschieht sowohl automatisch (z.B. bei der IP-Adresse) als auch durch die aktive Eingabe von Daten (z.B. bei einer Bestellung). Die Datenschutz-Grundverordnung (DSGVO) verpflichtet uns dazu, Sie über diese Verarbeitung zu informieren. Sie sollen z.B. wissen, welche Zwecke wir verfolgen, wie lange Ihre Informationen gespeichert werden, auf welcher Rechtsgrundlage die Verarbeitung basiert und welche Empfänger von Daten es geben kann. Darum geht es in dieser Datenschutzerklärung.
 
-Verantwortlich für die Datenverarbeitung ist grundsätzlich die ZEIT Online GmbH, Buceriusstraße, Eingang Speersort 1, 20095 Hamburg. Weitere Angaben zum Unternehmen sowie Kontaktmöglichkeiten finden Sie am Ende der Datenschutzerklärung.
+Verantwortlich für die Datenverarbeitung ist grundsätzlich die Zeitverlag Gerd Bucerius GmbH & Co. KG, Buceriusstraße, Eingang Speersort 1, 20095 Hamburg. Weitere Angaben zum Unternehmen sowie Kontaktmöglichkeiten finden Sie am Ende der Datenschutzerklärung.
 
 **Kundenservice DIE ZEIT**
 
@@ -65,16 +65,6 @@ Rechtsgrundlage für die Datenverarbeitung ist das bei einer Registrierung entst
 Ihre Daten werden für die Dauer des Nutzungsverhältnisses und eventueller Aufbewahrungspflichten gespeichert.
 
 [To the top of the section](#Registrierung)
-
-### Berufsorientierungsangebot
-
-Als registrierter Nutzer können Sie unser Berufsorientierungsangebot (BOA) nutzen. Mit einem Persönlichkeitstest können Sie herausfinden, welcher Beruf wahrscheinlich zu Ihnen passt und wo Ihre Stärken liegen. Hierfür müssen Sie Fragen zu Interessen beantworten und Eigenschätzungen vornehmen. Basierend auf Ihrem Profil erhalten Sie dann Job-Vorschläge, für Sie passende Stellenanzeigen, Umfragen und Einladungen zu Recruiting Events.
-
-Die Zulässigkeit der stattfindenden Datenverarbeitung ergibt sich aus dem bei der Registrierung entstandenen Nutzungsverhältnis (Art. 6 Abs. 1 b) DSGVO). Für die Wahrnehmung des Berufsorientierungsangebots ist die Bereitstellung Ihrer Daten erforderlich, da ihr Profil ansonsten nicht mit passenden Stellenanzeigen und anderen relevanten Inhalten abgeglichen werden kann. Je mehr Angaben Sie machen, desto passgenauer wird das Berufsorientierungsangebot.
-
-Ihre Daten werden für die Dauer der Registrierung gespeichert. Sie können Ihr Profil jederzeit löschen.
-
-[To the top of the section](#Berufsorientierungsangebot)
 
 ### Hey Studium Interessenstest
 
@@ -234,6 +224,16 @@ Die Datenverarbeitung im Rahmen des entstehenden Nutzungsverhältnisses ist gese
 Ihre Daten werden für die Dauer des Bestehens Ihres Accounts gespeichert.
 
 [To the top of the section](#ZEIT-Single-Sign-On-Account)
+
+### HeyStudium KI-ChatBot
+
+Wir stellen einen KI-gestützten Chatbot bereit, über den sich Nutzer zu Studiengängen und Universitäten beraten lassen und direkt interagieren können. Dabei werden die eingegebenen Inhalte sowie zur Sitzungssteuerung erforderliche Nutzungsdaten verarbeitet, um passende Antworten zu generieren und die Beratung bereitzustellen.
+
+Rechtsgrundlage für diese Verarbeitung ist die Durchführung des Nutzungsverhältnisses (Art. 6 Abs. 1 b) DSGVO) auf zeit.de. Die Bereitstellung der im Chat eingegebenen Daten ist erforderlich, um Ihre Anfrage zu verstehen und zu beantworten. Ohne diese Angaben kann der ChatBot nicht genutzt werden.
+
+Wir speichern Chatverläufe für 6 Monate und löschen sie anschließend.
+
+[To the top of the section](#HeyStudium-KI-ChatBot)
 
 ![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
 

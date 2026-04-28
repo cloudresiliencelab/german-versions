@@ -1,11 +1,13 @@
-Datenschutzerklärung
-====================
+Datenschutzerklärung von ARD Online
+===================================
 
-ARD Online nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich bei der Nutzung unserer Angebote stets sicher fühlen. Hier informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten. Diese Datenschutzerklärung gilt für folgende Angebote: ARD.de, ARD Mediathek, ARD Sounds (früher ARD Audiothek) und KiKA HbbTV.
+Die ARD nimmt den Schutz Ihrer Daten sehr ernst. Diese Datenschutzerklärung informiert über die Verarbeitung Ihrer personenbezogenen Daten bei der Nutzung der folgenden Angebote: ARD.de, ARD Mediathek, ARD Sounds (früher ARD Audiothek) und KiKA HbbTV.
 
-Bitte beachten Sie: Wenn Sie unsere Angebote angemeldet über das ARD-Konto nutzen, gelten gegebenenfalls gesonderte Datenschutzrichtlinien. Diese können Sie über die Datenschutzerklärung zum ARD-Konto einsehen.
+ARD Mediathek und ARD Sounds können Sie mit oder ohne ARD-Konto nutzen. Wenn Sie diese Angebote angemeldet mit einem ARD-Konto nutzen, gelten zusätzlich die Datenschutzinformationen für das ARD-Konto. Diese erläutern ergänzend zu dieser Datenschutzerklärung, wie Ihre personenbezogenen Daten im Zusammenhang mit Ihrem Nutzerkonto verarbeitet werden.
 
-Die Datenschutzerklärung auf dieser Seite wird regelmäßig aktualisiert. Wir erklären Ihnen nun, welche Daten wir erheben und wie wir sie verwenden.
+Die Datenschutzinformationen zum ARD Konto finden Sie hier: accounts.ard.de/datenschutz.
+
+Wir behalten uns vor, die nachfolgende Datenschutzerklärung jederzeit anzupassen, wenn dies aufgrund rechtlicher Änderungen oder bei Weiterentwicklung unserer Angebote erforderlich ist.
 
 Protokoll- und Diagnosedaten
 ----------------------------
@@ -28,11 +30,17 @@ Nutzungsmessung
 
 Um Ihnen ein relevantes journalistisches Angebot zu präsentieren, führen wir statistische Nutzungsmessungen durch, welche es uns erlauben, unsere Angebote hinsichtlich Nutzung und Reichweite auszuwerten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag. Im unangemeldeten Zustand messen wir Ihre Nutzung vollständig anonym, da Ihre IP-Adresse unmittelbar mit Erfassung Ihrer Daten gehasht, d.h. verfremdet wird. Hierdurch ist eine Rückverfolgbarkeit zu Ihnen als betroffene Person ausgeschlossen. Angemeldet ist die Messung Ihrer Nutzung pseudoanonymisiert. Das bedeutet, dass sich Ihre Daten zwar zuordnen lassen, wir Ihre Daten aber nur über eine zufällig generierte ID erheben, wodurch Sie als betroffene Person ohne Hinzuziehung zusätzlicher Informationen nicht mehr identifiziert werden können. Wir führen Ihre Daten nicht mit Daten Dritter oder anderer interner Datensätze zusammen. Eine Nutzung zu kommerziellen Zwecken findet ebenfalls nicht statt.
 
-Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten, erhalten Sie auf den nachfolgend verlinkten Webseiten weitere Informationen hierzu: Nutzungsmessung durch Piano Analytics Digitale Messung durch Nielsen AGF/GfK-Streaming-Messung
+Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten, erhalten Sie auf den nachfolgend verlinkten Webseiten weitere Informationen hierzu:
 
-Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1.
+Nutzungsmessung durch Piano Analytics ([https://developers.piano.io/analytics/data-collection/general/cookie-storage/](https://developers.piano.io/analytics/data-collection/general/cookie-storage/))
 
-Ihre Widerspruchsmöglichkeit
+Digitale Messung durch Nielsen ([https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/](https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/))
+
+AGF/GfK-Streaming-Messung ([https://sensic.net/privacypolicy\_de.html?scope=streaming-agf](https://sensic.net/privacypolicy_de.html?scope=streaming-agf))
+
+Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1. ([https://www.mdr.de/rundfunkdatenschutz/index.html](https://www.mdr.de/rundfunkdatenschutz/index.html))
+
+### Ihre Widerspruchsmöglichkeit
 
 Wenn Sie der Erfassung statistischer Nutzungsdaten widersprechen möchten, können Sie dies jederzeit ohne etwaige Nachteile tun. Gehen Sie hierfür in unsere Einstellungen und deaktivieren Sie die Option "Anonyme Nutzungsstatistiken übertragen". Hierdurch wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern.
 
@@ -45,33 +53,39 @@ Sofern personenbezogene Daten in Staaten außerhalb der EU/des EWR verarbeitet w
 
 Im Folgenden erhalten Sie eine Übersicht, welche Dienste wir in unseren Angeboten verwenden:
 
-Apple Push Notification Service
+### Apple Push Notification Service
 
 In ARD Sounds nutzen wir den Apple Push Notification Service der Firma Apple ([https://www.apple.com/de/](https://www.apple.com/de/)), um Ihnen Push-Benachrichtigungen in unserer iOS-App senden zu können. Bei der ersten Installation unserer App können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Weitere Push-Benachrichtigungen für weitere Services sind optional möglich. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden.
 
 Apple erzeugt einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Apple-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Apple dient ausschließlich als Übermittler.
 
-Mehr erfahren Sie in der Datenschutzerklärungen der Firma Apple.
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Apple ([https://www.apple.com/de/legal/privacy/de-ww/](https://www.apple.com/de/legal/privacy/de-ww/)).
 
-Caplena
+### Caplena
 
 Wir nutzen den Dienst Caplena der Firma Caplena ([https://caplena.com/de/](https://caplena.com/de/)) um offene Texteingaben beispielsweise in Kontaktformularen durch eine künstliche Intelligenz teilautomatisiert auszuwerten. Sollten Sie in unseren Kontaktformularen freiwillig personenbezogene Angaben gemacht haben, werden diese in Caplena automatisch anonymisiert, so dass keinerlei Bezug zu Ihrer Person hergestellt werden kann.
 
 Caplena ermöglicht uns einen schnellen Überblick über die gemachten Angaben, damit wir die Erkenntnisse aus den Texteingaben den verantwortlichen Stellen zuleiten können.
 
-Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena.
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena ([https://caplena.com/en/privacy-policy](https://caplena.com/en/privacy-policy)).
 
-Chromecast
+### Chromecast
 
 Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), damit Sie Videos von unserer Website auf ein Chromecast-Gerät übertragen können. Google kann im Rahmen der Cast Funktion System- und Nutzungsdaten verarbeiten, die notwendigen Geräteinformationen enthalten können. Eine Datenverarbeitung findet nur statt, wenn Sie Google Chrome als Browser verwenden, da nur hier die Cast-Funktionalität unterstützt wird.
 
 Mehr erfahren Sie in der Datenschutzerklärung zu Google Chromecast.
 
-Google Cloud Platform (GCP)
+### Google Cloud Platform (GCP)
 
 Wir nutzen verschiedene Dienste der Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)):
 
 Cloud Logging: Wir nutzen Cloud Logging, um die Leistungsfähigkeit und Verfügbarkeit unserer Online-Dienste sicherzustellen sowie Änderungen und Zugriffe im Rahmen von Sicherheits- und Compliance-Anforderungen zu protokollieren. In Audit Logs werden hierbei folgende Daten verarbeitet: IP-Adressen, Zeitstempel von Zugriffen oder Änderungen an unseren Systemen, Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen.
+
+IP-Adressen,
+
+Zeitstempel von Zugriffen oder Änderungen an unseren Systemen,
+
+Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen.
 
 Die gespeicherten Daten werden nur so lange aufbewahrt, wie es für die jeweiligen Sicherheits- oder Nachverfolgbarkeitsanforderungen erforderlich ist. Die Speicherfristen richten sich nach unseren internen Richtlinien und gesetzlichen Vorgaben.
 
@@ -79,41 +93,57 @@ Firebase Cloud Messaging: Wir nutzen Firebase Cloud Messaging (FCM), um Ihnen Pu
 
 Firebase Crashlytics und Cloud Firestore: Wir nutzen Firebase Crashlytics und Cloud Firestore, um unsere Angebote zu optimieren. Diese Dienste sind integraler Bestandteil unserer Angebote und können nicht deaktiviert werden.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Google.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Google ([https://policies.google.com/privacy](https://policies.google.com/privacy)).
 
-Nielsen Digital Measurement
+### Nielsen Digital Measurement
 
 Wir nutzen die digitale Messung der Firma Nielsen ([https://www.nielsen.com/](https://www.nielsen.com/)), um zu analysieren, wie unsere Angebote genutzt werden. Die Ergebnisse helfen uns, Inhalte und Angebote zu verbessern.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen ([https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/](https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/)).
 
-Piano Analytics
+### Piano Analytics
 
 Wir nutzen Piano Analytics der Firma Piano Software/AT Internet ([https://www.piano.io/](https://www.piano.io/)), um anonyme Nutzungsdaten für statistische Zwecke zu erfassen. Die Verarbeitung erfolgt datenschutzkonform innerhalb der EU.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics ([https://www.piano.io/legal/privacy-policy](https://www.piano.io/legal/privacy-policy)).
 
-Zlyde
+### Zlyde
 
 Wir nutzen den Audience Flow Manager der Firma Zlyde ([https://www.zlyde.com](https://www.zlyde.com/)), um unsere Angebote zu optimieren.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Zlyde.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Zlyde ([https://www.zlyde.com/privacy/](https://www.zlyde.com/privacy/)).
 
 Soziale Netzwerke
 -----------------
 
-ARD Online ist auf sozialen Netzwerken wie Facebook und Instagram präsent, um seine Angebote einem breiten Publikum in der bestmöglichen Form anbieten zu können. Die Onlineangebote von ARD Online können aber auch jederzeit ohne eine Anmeldung bei sozialen Netzwerken genutzt werden. Sie können direkt und ohne Umweg die entsprechenden Webangebote unter [https://www.ARD.de](https://www.ard.de/), [https://www.ARDmediathek.de](https://www.ardmediathek.de/) oder [https://www.ARDsounds.de](https://www.ardsounds.de/) nutzen.
+Wir sind auf sozialen Netzwerken wie Facebook und Instagram präsent, um unsere Angebote einem breiten Publikum in der bestmöglichen Form anbieten zu können. Unsere Onlineangebote können aber auch jederzeit ohne eine Anmeldung bei sozialen Netzwerken genutzt werden. Sie können direkt und ohne Umweg die entsprechenden Webangebote unter www.ARD.de, www.ARDmediathek.de oder www.ARDsounds.de nutzen.
 
-Wenn Sie sich bei sozialen Netzwerken anmelden und deren Funktionen nutzen, um mit den dortigen Auftritten von ARD Online zu interagieren (zum Beispiel durch Kommentare, Mitteilungen, Likes oder Teilen), hinterlassen Sie dabei Daten. Es ist möglich, dass diese Daten vom Anbieter gespeichert, ausgewertet und weiterverarbeitet werden, beispielsweise um Ihr Nutzungsverhalten zu analysieren.
+Wenn Sie sich bei sozialen Netzwerken anmelden und deren Funktionen nutzen, um mit unseren dortigen Auftritten zu interagieren (zum Beispiel durch Kommentare, Mitteilungen, Likes oder Teilen), hinterlassen Sie dabei Daten. Es ist möglich, dass diese Daten vom Anbieter gespeichert, ausgewertet und weiterverarbeitet werden, beispielsweise um Ihr Nutzungsverhalten zu analysieren.
 
-Auf die datenschutzrechtlichen Einstellungen dieser Drittplattformen hat ARD Online keinen Einfluss. Weitere Informationen finden Sie in der Datenschutzrichtlinie des jeweiligen sozialen Netzwerks: Facebook: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/) Instagram: [https://help.instagram.com/155833707900388/](https://help.instagram.com/155833707900388/) LinkedIn: [https://de.linkedin.com/legal/privacy-policy](https://de.linkedin.com/legal/privacy-policy) Snapchat: [https://values.snap.com/de-DE/privacy/privacy-center](https://values.snap.com/de-DE/privacy/privacy-center) TikTok: [https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE](https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE) Twitch: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/) X: [https://x.com/de/privacy](https://x.com/de/privacy) YouTube: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Auf die datenschutzrechtlichen Einstellungen dieser Drittplattformen haben wir keinen Einfluss. Weitere Informationen finden Sie in der Datenschutzrichtlinie des jeweiligen sozialen Netzwerks: Facebook: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/) Instagram: [https://help.instagram.com/155833707900388/](https://help.instagram.com/155833707900388/) LinkedIn: [https://de.linkedin.com/legal/privacy-policy](https://de.linkedin.com/legal/privacy-policy) Snapchat: [https://values.snap.com/de-DE/privacy/privacy-center](https://values.snap.com/de-DE/privacy/privacy-center) TikTok: [https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE](https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE) Twitch: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/) X: [https://x.com/de/privacy](https://x.com/de/privacy) YouTube: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Um die Angebote von ARD Online noch attraktiver und nutzerfreundlicher zu machen, verlinken wir stellenweise auf ausgewählte soziale Netzwerke. ARD Online setzt aber keine Social Plugins wie etwa den "Gefällt mir"-Button von Facebook ein. ARD Online schützt Ihre Privatsphäre, indem keine direkte Einbindung sozialer Netzwerke erfolgt, sondern nutzt lediglich eine Verlinkung. Erst mit Betätigung des Links kommt es zu einer Datenübermittlung an soziale Netzwerke.
+Facebook: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+
+Instagram: [https://help.instagram.com/155833707900388/](https://help.instagram.com/155833707900388/)
+
+LinkedIn: [https://de.linkedin.com/legal/privacy-policy](https://de.linkedin.com/legal/privacy-policy)
+
+Snapchat: [https://values.snap.com/de-DE/privacy/privacy-center](https://values.snap.com/de-DE/privacy/privacy-center)
+
+TikTok: [https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE](https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE)
+
+Twitch: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/)
+
+X: [https://x.com/de/privacy](https://x.com/de/privacy)
+
+YouTube: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Um unsere Angebote von ARD Online noch attraktiver und nutzerfreundlicher zu machen, verlinken wir stellenweise auf ausgewählte soziale Netzwerke. Wir setzen aber keine Social Plugins wie etwa den "Gefällt mir"-Button von Facebook ein. Wir schützen schützt Ihre Privatsphäre, indem keine direkte Einbindung sozialer Netzwerke erfolgt, sondern nutzt lediglich eine Verlinkung. Erst mit Betätigung des Links kommt es zu einer Datenübermittlung an soziale Netzwerke.
 
 Newsletter
 ----------
 
-Über die folgenden Links können Sie den Newsletter der ARD Mediathek, den Newsletter von ARD Sounds und den ARD Hörspiel Newsletter kostenfrei abonnieren.
+Über die folgenden Links können Sie den Newsletter der ARD Mediathek ([https://www.ard.de/die-ard/social/newsletter-der-ard-mediathek-100.html](https://www.ard.de/die-ard/social/newsletter-der-ard-mediathek-100.html)), den Newsletter von ARD Sounds ([https://www.ard.de/die-ard/social/newsletter-von-ard-sounds-100.html](https://www.ard.de/die-ard/social/newsletter-von-ard-sounds-100.html)) und den ARD Hörspiel Newsletter ([https://www.ard.de/die-ard/social/ard-hoerspiel-newsletter-100.html](https://www.ard.de/die-ard/social/ard-hoerspiel-newsletter-100.html)) kostenfrei abonnieren.
 
 Dabei wird bei der Anmeldung zum Newsletter der ARD Mediathek und zum ARD Hörspiel Newsletter Ihre E-Mail-Adresse und optional Ihr Name aus der Eingabemaske übermittelt. Zudem werden Datum und Uhrzeit der Registrierung bei der Anmeldung erhoben. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen. Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletter durch Sie ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs.1 lit. a) DSGVO. Die Erhebung Ihrer E-Mail-Adresse dient dazu, den Newsletter zuzustellen.
 
@@ -121,7 +151,7 @@ Für die Anmeldung zum Newsletter der ARD Mediathek und den ARD Hörspiel Newsle
 
 Für die Versendung des Newsletters der ARD Mediathek und des ARD Hörspiel Newsletters verwenden wir ein webbasiertes Tool der ARD. Die zum Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse und optional Name) werden auf Servern des Saarländischen Rundfunks (SR, Funkhaus Halberg, 66100 Saarbrücken) in Deutschland gespeichert. Zudem werden Daten zu den Öffnungsraten, Anzahl der Versendeten Newsletter und angeklickten Links gespeichert.
 
-Für den Newsletter der ARD Sounds nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
+Für den Newsletter von ARD Sounds nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben. 
 
 Die Datenverarbeitung erfolgt auf Grundlage Ihrer freiwilligen Einwilligung. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Wenn Sie keine Analyse durch CleverReach wollen, müssen Sie den Newsletter abbestellen. Hierfür steht Ihnen in jedem Newsletter ein entsprechender Link zur Verfügung. Weitere Informationen finden Sie in der Datenschutzrichtlinie on CleverReach: [https://www.cleverreach.com/de/datenschutz/](https://www.cleverreach.com/de/datenschutz/)
 
@@ -130,7 +160,7 @@ E-Mail und Kontaktformular
 
 Wenn Sie uns per E-Mail oder Formular kontaktieren, fragen wir Sie nach Ihrem Namen und nach anderen persönlichen Informationen. Ob Sie diese Daten eingeben und versenden, entscheiden Sie selbst. Wir nutzen die von Ihnen bereitgestellten Informationen zur Beantwortung Ihrer Anfrage. Ihre Angaben speichern wir auf geschützten Servern, Zugriff haben nur befugte Personen. Ihre Daten werden für eventuelle Rückfragen noch 180 Tage aufbewahrt und dann gelöscht. Eine kommerzielle Weitergabe oder ein Verkauf Ihrer Daten findet nicht statt.
 
-Ihre Daten werden im Falle der Kontaktaufnahme über unsere Kontakt-Formulare auf der Grundlage Ihrer Einwilligung verarbeitet (Art. 6 Abs. 1 S. 1 lit. a) DSGVO). Die Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
+Ihre Daten werden im Falle der Kontaktaufnahme über unsere Kontakt-Formulare auf der Grundlage Ihrer Einwilligung verarbeitet (Art. 6 Abs. 1 lit. a) DSGVO). Die Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
 
 Anfragen aller Art leiten wir ggf. innerhalb des ARD-Verbundes an Redaktionen der zuständigen Landesrundfunkanstalten oder Gemeinschaftseinrichtungen der ARD weiter. Wenn Sie uns Fehlerberichte per Mail mit Anhang senden, werden die Informationen nur zur Fehlerbeseitigung verwendet und Ihre personenbezogenen Daten gelöscht.
 
@@ -147,7 +177,7 @@ Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die 
 
 Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
 
-Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung zum ARD-Konto und den Nutzungsbedingungen.
+Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung ([https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz)) und den Nutzungsbedingungen ([https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen)) zum ARD-Konto.
 
 Weiterschauen-Funktion auf TV-Streaming-Plattformen
 ---------------------------------------------------
@@ -161,9 +191,11 @@ Grundlage für die Verarbeitung Ihrer Daten ist Ihre Einwilligung nach Art. 6 Ab
 Datenschutzrechtliche Formalien
 -------------------------------
 
-ARD Online ist eine Gemeinschaftseinrichtung der ARD. Verantwortlicher im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der: Südwestrundfunk (SWR) Anstalt des öffentlichen Rechts vertreten durch den Intendanten Prof. Dr. Kai Gniffke Neckarstraße 230 70190 Stuttgart 
+ARD Online ist eine Gemeinschaftseinrichtung der ARD. Verantwortlicher unserer Angebote im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der:
 
-Sofern personenbezogene Daten verarbeitet werden, bestehen die in der Europäischen Datenschutzgrundverordnung (EU-DSGVO) genannten Rechte, insbesondere auf Auskunft, Berichtigung und Löschung. Eine erklärte Einwilligung zur Verarbeitung von Daten kann jederzeit widerrufen werden. Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten durch ARD Online in Ihren schutzwürdigen Interessen verletzt sind, können Sie sich an den zuständigen Datenschutzbeauftragten wenden. Das ist für ARD Online der Datenschutzbeauftragte des SWR: [https://www.swr.de/datenschutz](https://www.swr.de/datenschutz)
+Südwestrundfunk (SWR) Anstalt des öffentlichen Rechts vertreten durch den Intendanten Prof. Dr. Kai Gniffke Neckarstraße 230 70190 Stuttgart
+
+Sofern personenbezogene Daten verarbeitet werden, bestehen die in der Europäischen Datenschutzgrundverordnung (DSGVO) genannten Rechte, insbesondere auf Auskunft, Berichtigung und Löschung. Eine erklärte Einwilligung zur Verarbeitung von Daten kann jederzeit widerrufen werden. Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten durch ARD Online in Ihren schutzwürdigen Interessen verletzt sind, können Sie sich an den zuständigen Datenschutzbeauftragten wenden. Das ist für ARD Online der Datenschutzbeauftragte des SWR: [https://www.swr.de/datenschutz](https://www.swr.de/datenschutz)
 
 Datenschutzbeauftragter des SWR Neckarstraße 230 70190 Stuttgart [datenschutz@swr.de](mailto:datenschutz@swr.de) Des Weiteren steht Ihnen ein Beschwerderecht bei der datenschutzrechtlichen Aufsichtsbehörde nach DSGVO zu: Der Rundfunkdatenschutzbeauftragte Stephan Schwarze Kantstraße 71 – 73 04275 Leipzig Beschwerdeformular der Aufsichtsbehörde: [https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html](https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html) [https://www.rundfunkdatenschutz.de](https://www.rundfunkdatenschutz.de/)
 
@@ -177,10 +209,10 @@ Für die Videoinhalte der ARD Mediathek und die Audioinhalte in ARD Sounds gelte
 Datenschutzerklärungen der Rundfunkanstalten
 --------------------------------------------
 
-Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datenschutz) Hessischer Rundfunk: [https://www.hr.de/datenschutz](https://www.hr.de/datenschutz) Mitteldeutscher Rundfunk: [https://www.mdr.de/datenschutz](https://www.mdr.de/datenschutz) Norddeutscher Rundfunk: [https://www.ndr.de/datenschutz](https://www.ndr.de/datenschutz) Radio Bremen: [https://www.radiobremen.de/datenschutz](https://www.radiobremen.de/datenschutz) Rundfunk Berlin Brandenburg: [https://www.rbb-online.de/datenschutz](https://www.rbb-online.de/datenschutz) Saarländischer Rundfunk: [https://www.sr.de/datenschutz](https://www.sr.de/datenschutz) Südwestrundfunk: [https://www.swr.de/datenschutz](https://www.swr.de/datenschutz) Westdeutscher Rundfunk: [https://www.wdr.de/datenschutz](https://www.wdr.de/datenschutz)
+Bayerischer Rundfunk: [https://www.br.de/datenschutz](https://www.br.de/datenschutz) Hessischer Rundfunk: [https://www.hr.de/datenschutz](https://www.hr.de/datenschutz) Mitteldeutscher Rundfunk: [https://www.mdr.de/datenschutz](https://www.mdr.de/datenschutz) Norddeutscher Rundfunk: [https://www.ndr.de/datenschutz](https://www.ndr.de/datenschutz) Radio Bremen: [https://www.radiobremen.de/datenschutz](https://www.radiobremen.de/datenschutz) Rundfunk Berlin Brandenburg: [https://www.rbb-online.de/datenschutz](https://www.rbb-online.de/datenschutz) Saarländischer Rundfunk: [https://www.sr.de/datenschutz](https://www.sr.de/datenschutz) Südwestrundfunk: [https://www.swr.de/datenschutz](https://www.swr.de/datenschutz) Westdeutscher Rundfunk: [https://www.wdr.de/datenschutz](https://www.wdr.de/datenschutz) Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Zweites Deutsches Fernsehen: [https://www.zdf.de/datenschutz](https://www.zdf.de/datenschutz) Deutschlandradio: [https://www.deutschlandradio.de/datenschutz](https://www.deutschlandradio.de/datenschutz)
 
-### Die Datenschutzerklärungen der Gemeinschaftseinrichtungen und kooperierten Angebote
+### Datenschutzerklärungen der Gemeinschaftseinrichtungen und kooperierten Angebote
 
-Deutsche Welle: [https://www.dw.com/datenschutz](https://www.dw.com/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
+ARD Mediathek: [https://www.ardmediathek.de/datenschutz](https://www.ardmediathek.de/datenschutz) ARD Sounds: [https://www.ardsounds/datenschutz](https://www.ardsounds/datenschutz) Tagesschau: [https://www.tagesschau.de/datenschutz](https://www.tagesschau.de/datenschutz) Sportschau: [https://www.sportschau.de/datenschutz](https://www.sportschau.de/datenschutz) funk: [https://www.funk.net/datenschutz](https://www.funk.net/datenschutz) KiKA: [https://www.kika.de/datenschutz](https://www.kika.de/datenschutz) ARTE: [https://www.arte.tv/datenschutz](https://www.arte.tv/datenschutz) 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-2.4.2026
+23.4.2026

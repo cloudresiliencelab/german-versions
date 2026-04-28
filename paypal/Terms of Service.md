@@ -1313,6 +1313,8 @@ Wenn andere Dokumente (z.B. Nutzungsbedingungen) auf Abschnittsnummern oder defi
 *   [Angebote](https://www.paypal.com/de/webapps/mpp/offers)
 *   [EU Digital Services Act](https://www.paypalobjects.com/marketing/web/complaince/European-Union-Digital-Services-Act-at-PayPal.pdf)
 
+[Germany](#)
+
 * * *
 
 *   [Über PayPal](https://www.paypal.com/de/webapps/mpp/about)

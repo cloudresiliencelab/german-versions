@@ -15,6 +15,8 @@ Bei Fragen zu Ihrem Abo, Kündigungen und bei einem Widerruf wenden Sie sich bit
 
 [als PDF speichern](https://datenschutz.zeit.de/zon/1.6/zon.pdf)
 
+![](//images.ctfassets.net/9q531vlek15f/3dkREHGF0mlWCuc0CIe0nZ/3a4340edfad7cfaba90ffdb13935468f/favicon-32x32.png)
+
 Unternehmen der ZEIT Verlagsgruppe
 ----------------------------------
 

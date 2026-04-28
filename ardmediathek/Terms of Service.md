@@ -14,7 +14,7 @@ Die Nutzer/innen werden keine Änderungen oder ähnliche Handlungen (z.B. Adapti
 Registrierung und Anlegen von Nutzerkonten
 ------------------------------------------
 
-Die Registrierung für ARD Mediathek und ARD Sounds erfolgt über das ARD-Konto. Dafür gelten die folgenden Nutzungsbedingungen.
+Die Registrierung für ARD Mediathek und ARD Sounds erfolgt über das ARD-Konto. Dafür gelten die folgenden Nutzungsbedingungen des ARD-Kontos unter [https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen).
 
 Nutzung von personalisierten Angeboten
 --------------------------------------
@@ -82,4 +82,4 @@ Die Betreiber von ARD Mediathek und ARD Sounds sowie tagesschau.de und sportscha
 
 Die Betreiber von ARD Mediathek und ARD Sounds sowie tagesschau.de und sportschau.de behalten sich das Recht vor, die Nutzungsbedingungen jederzeit zu ändern.
 
-9.3.2026
+22.4.2026

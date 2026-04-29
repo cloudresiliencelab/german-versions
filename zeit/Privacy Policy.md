@@ -15,7 +15,7 @@ Bei Fragen zu Ihrem Abo, Kündigungen und bei einem Widerruf wenden Sie sich bit
 
 [als PDF speichern](https://datenschutz.zeit.de/zon/1.6/zon.pdf)
 
-![](//images.ctfassets.net/9q531vlek15f/3dkREHGF0mlWCuc0CIe0nZ/3a4340edfad7cfaba90ffdb13935468f/favicon-32x32.png)
+![](//images.ctfassets.net/9q531vlek15f/3aMIIiRM2QxvtyYXCNbMcs/b40e55c97da1a8b4f58bd759a9792849/Icon_ZEIT_Verlagsgruppe.png)
 
 Unternehmen der ZEIT Verlagsgruppe
 ----------------------------------
@@ -23,6 +23,8 @@ Unternehmen der ZEIT Verlagsgruppe
 Der ZEIT Verlagsgruppe gehören die nachstehenden Firmen an: Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Sprachen GmbH, ZEIT Akademie GmbH, Studio ZX GmbH, ZEIT Weltkunst Verlag GmbH, academics GmbH, Good Jobs GmbH und e-fellows.net GmbH & Co. KG.
 
 Angeboten werden z.B. Abonnements zu verschiedenen journalistischen Inhalten, Reisen, Produkte, Seminare, Job-Portale, Veranstaltungen und Vorteilsangebote für Abonnenten.
+
+![](//images.ctfassets.net/9q531vlek15f/62IXxEVClLho2WAON7tp4S/41cb12b90e789246e1c6412b5f052de0/Icon_Privacy_Einstellungen.png)
 
 Privacy-Einstellungen
 ---------------------
@@ -412,7 +414,7 @@ Wir nutzen Ihre Telefonnummer, um Sie über Angebote und Neuigkeiten zu informie
 
 Die Verarbeitung erfolgt auf Basis einer Einwilligung (Art. 6 Abs. 1 a) DSGVO, § 7a Abs. 1 UWG). Wir sind gesetzlich nach § 7a UWG verpflichtet, Ihre Einwilligung in die Telefonwerbung zu dokumentieren und für 5 Jahre ab Erteilung sowie nach jeder Verwendung aufzubewahren. Dies gilt unabhängig davon, ob Sie uns Ihre Einwilligung online, schriftlich, per E-Mail, telefonisch oder auf anderem Wege gegebenen haben. Im Falle der telefonischen Einwilligung fertigen wir mit Ihrer Zustimmung eine Aufnahme von der Erteilung Ihrer Einwilligung an und speichern diese zusammen mit Ihren Kontakt- und Vertragsdaten ab. Die Bereitstellung Ihrer Telefonnummer zum Zweck der Werbung ist freiwillig. Nach Ablauf von 2 Jahren nach dem Ende Ihres letzten aktiven Abonnements erlischt Ihre Einwilligung automatisch.
 
-Die Aufbewahrung endet spätestens 7 Jahre nach Ende Ihres letzten aktiven Abonnements. Anschließend werden die Daten gelöscht.
+Die Aufbewahrung endet spätestens 7 Jahre nach Ende Ihres letzten aktiven Abonnements. Anschließend werden die Daten gelöscht (wir sind gesetzlich zur Aufbewahrung verpflichtet).
 
 [To the top of the section](#Werbliche-Anrufe)
 

@@ -309,7 +309,7 @@ Für die Versendung des Newsletters setzen wir externe IT-Dienstleister im Wege 
 
 ### 2.1.7 Kundenkonto
 
-Du hast die Möglichkeit, ein persönliches Kundenkonto bei uns einzurichten. Im passwortgeschützten Bereich des Kundenkontos kannst Du Deine Buchungen bequem verwalten und Deine Daten für zukünftige Fahrten speichern.     
+Sie haben die Möglichkeit, ein persönliches Kundenkonto bei uns einzurichten. Im passwortgeschützten Bereich des Kundenkontos können Sie Ihre Buchungen bequem verwalten und Ihre Daten für zukünftige Fahrten speichern.     
 Um ein Kundenkonto anzulegen, werden die folgenden Pflichtangaben erhoben:
 
 *   Telefonnummer (für Indien),
@@ -318,13 +318,13 @@ Um ein Kundenkonto anzulegen, werden die folgenden Pflichtangaben erhoben:
 
 Die Rechtsgrundlage ist Art. 6 Abs. 1 (a) DSGVO.
 
-Darüber hinaus kannst Du in Deinem Kundenkonto auch eine Handynummer angeben, damit wir Dich im Falle einer Verspätung oder einer Änderung des Fahrtverlaufs kontaktieren können (optional).
+Darüber hinaus können Sie in Ihrem Kundenkonto auch eine Handynummer angeben, damit wir Sie im Falle einer Verspätung oder einer Änderung des Fahrtverlaufs kontaktieren können (optional).
 
-Wenn Du ein Konto erstellst, wird ein „dauerhafter“ Cookie mit einer Sitzungs-ID auf Deinem Gerät gespeichert, um sicherzustellen, dass Du Dich bei späteren Besuchen auf unserer Website/in unserer mobilen App nicht erneut anmelden musst. Diese Funktion steht Dir nicht zur Verfügung, wenn Du die Speicherung solcher Cookies in Deinen Browsereinstellungen deaktiviert hast.
+Wenn Sie ein Konto erstellst, wird ein „dauerhafter“ Cookie mit einer Sitzungs-ID auf Deinem Gerät gespeichert, um sicherzustellen, dass Sie sich bei späteren Besuchen auf unserer Website/in unserer mobilen App nicht erneut anmelden müssen. Diese Funktion steht Ihnen nicht zur Verfügung, wenn Sie die Speicherung solcher Cookies in Deinen Browsereinstellungen deaktiviert haben.
 
 Die Rechtsgrundlage ist Art. 6 Abs. 1 (f) DSGVO.
 
-Du kannst das Kundenkonto löschen, indem Du uns eine E-Mail an [data.protection@flixbus.com](mailto:data.protection@flixbus.com) schickst.
+Sie können das Kundenkonto löschen, indem Sie uns eine E-Mail an [data.protection@flixbus.com](mailto:data.protection@flixbus.com) schicken.
 
 ### 2.1.8 Einsatz von Cookies, Plugins und sonstiger Dienste
 

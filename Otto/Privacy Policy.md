@@ -241,13 +241,9 @@ Die Übermittlung der Daten erfolgt zu dem Zweck, dass die OTTO Payments überpr
 
 • création L Handelsgesellschaft mbH,
 
-• Heinrich Heine GmbH,
-
 • Josef Witt GmbH,
 
 • Quelle GmbH,
-
-• sheego GmbH,
 
 • Sieh an! Handelsgesellschaft mbH,
 

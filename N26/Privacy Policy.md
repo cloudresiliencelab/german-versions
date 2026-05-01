@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.3., Datum: 27.04.2026)
+(Version 13.4, Datum: 30.04.2026)
 
 
 
@@ -202,7 +202,7 @@ Wir möchten dich darauf hinweisen, dass es nicht möglich ist, ein Girokonto zu
 
 Zum Zwecke der Verarbeitung von Transaktionen erhält N26 personenbezogene Daten und übermittelt dieseim Einklang mit den geltenden gesetzlichen und aufsichtsrechtlichen Vorschriften an Zahlende,EmpfängerInnen und andere Finanzinstitute. Die personenbezogenen Daten, die andere Rechtsträger indiesem Zusammenhang erhalten, betreffen deinen Vor- und Nachnamen, einschließlich Transaktionsdetails wiedie Zahlungsreferenz und die registrierte IBAN.
 
-Während der Eröffnung deines N26 Girokontos benötigen wir mit deiner Einwilligung in den Einstellungendeines Smartphones Zugriff auf deinen Standort. Nähere Informationen findest du in der Datenschutzerklärungfür das Betriebssystem deines Smartphones. Die Rechtsgrundlage dieser Verarbeitung ist unser berechtigtesInteresse an der Bestätigung, dass du dich im Land deines Wohnsitzes aufhältst, damit wir unseren rechtlichenVerpflichtungen im Zusammenhang mit der Betrugsprävention nachkommen können (Art. 6 (1) f) DSGVO).Nähere Informationen zum berechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du inAbschnitt II. oben.
+Während der Eröffnung deines N26 Girokontos, und in manchen Fällen bei der Verknüpfung eines neuenGeräts mit deinem Konto, benötigen wir Zugriff auf deinen Standort in den Einstellungen deines Smartphones.Nähere Informationen findest du in der Datenschutzerklärung für das Betriebssystem deines Smartphones.Die Rechtsgrundlage dieser Verarbeitung ist unser berechtigtes Interesse an der Bestätigung, dass du dich imLand deines Wohnsitzes aufhältst, damit wir unseren rechtlichen Verpflichtungen im Zusammenhang mit derBetrugsprävention nachkommen können (Art. 6 (1) f) DSGVO). Nähere Informationen zum berechtigtenInteresse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben.
 
 
 

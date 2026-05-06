@@ -196,7 +196,6 @@ Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 *   Datenschutz bei Google Play/Android TV/Google Assistant: [https://policies.google.com/privacy](https://policies.google.com/privacy "Google Datenschutzbestimmungen")
 *   Datenschutz bei Facebook: [https://de-de.facebook.com/help/568137493302217](https://de-de.facebook.com/help/568137493302217 "Facebook")
 *   Datenschutz bei Youtube: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de "https://policies.google.com/privacy?hl=de")
-*   Datenschutz bei Telegram: [https://telegram.org/privacy](https://telegram.org/privacy "https://telegram.org/privacy")
 *   Datenschutz bei Apple Nachrichten/Apple Watch: [https://apple.com/de/legal/privacy](https://apple.com/de/legal/privacy "Apple")
 *   Datenschutz bei Amazon Fire TV/Fire Tablet: [https://www.amazon.de/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN](https://www.amazon.de/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN "Amazon Fire TV")
 *   Datenschutz bei Roku: [https://docs.roku.com/published/userprivacypolicy/en/gb](https://docs.roku.com/published/userprivacypolicy/en/gb "Roku")
@@ -236,27 +235,18 @@ Was Sie mit Sprachassistenten kommunizieren, wird von Ihrem Gerät aufgezeichnet
 11.3 Datenverarbeitung bei Nutzung der Messenger-Angebote von tagesschau.de
 ---------------------------------------------------------------------------
 
-Sie können das Messenger-Angebot von tagesschau.de nutzen, wenn Sie einen Messenger-Dienst, wie bspw. Telegram, Facebook Messenger, Apple iMessage oder Notify auf Ihrem Mobilgerät installiert haben. Damit haben Sie den Allgemeinen Geschäftsbedingungen der jeweiligen Dienste zugestimmt, auf die wir keinen Einfluss haben und die durch das Messenger-Angebot von tagesschau.de unberührt bleiben. In der Regel beinhalten die Allgemeinen Geschäftsbedingungen einen Zugriff auf Telefonnummern und die auf dem Mobilgerät gespeicherten Kontakte. Durch die Nutzung des Messenger-Angebots erhalten wir keinen Zugriff auf diese Daten.
+Sie können das Messenger-Angebot von tagesschau.de nutzen, wenn Sie einen Messenger-Dienst, wie bspw. Facebook Messenger oder Apple iMessage auf Ihrem Mobilgerät installiert haben. Damit haben Sie den Allgemeinen Geschäftsbedingungen der jeweiligen Dienste zugestimmt, auf die wir keinen Einfluss haben und die durch das Messenger-Angebot von tagesschau.de unberührt bleiben. In der Regel beinhalten die Allgemeinen Geschäftsbedingungen einen Zugriff auf Telefonnummern und die auf dem Mobilgerät gespeicherten Kontakte. Durch die Nutzung des Messenger-Angebots erhalten wir keinen Zugriff auf diese Daten.
 
 Wir weisen darauf hin, dass die Messenger-Dienste andere Datenschutzstandards als tagesschau.de haben. Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 
-*   Datenschutz bei Telegram: https://telegram.org/privacy
 *   Datenschutz bei Facebook: https://www.facebook.com/privacy/explanation
 *   Datenschutz bei Apple: https://apple.com/de/legal/privacy
-*   Datenschutz bei Notify: https://www.messengerpeople.com/de/notify-datenschutzerklaerung/
 
 Wir haben auf die datenschutzrechtlichen Bestimmungen und Einstellungen dieser Plattformen keinen Einfluss. Im Rahmen unserer Möglichkeiten gehen wir mit der größten Sensibilität mit Ihren Daten um. tagesschau.de haftet nicht für Schäden, die durch Ihre Nutzung dieser Messenger-Dienste entstehen.
 
 Die verarbeiteten Daten werden nur und ausschließlich für die Messenger-Kommunikation im Rahmen unseres Angebots mit Ihnen verwendet, also auch nicht zu Werbezwecken. Wir verknüpfen diese Daten nicht mit anderen Daten und geben sie auch nicht an Dritte weiter. Auftragsverarbeiter ist die MessengerPeople GmbH, Herzog-Heinrich-Str. 9, 80336 München.
 
 **Wenn Sie das Messenger-Angebot abonnieren, werden folgende Daten verarbeitet:**
-
-Telegram:
-
-*   eine ID, die Ihrem Telegram-Profil zugewiesen ist
-*   der bei Telegram angegebene Benutzername (nicht Ihre Rufnummer)
-*   falls von Ihnen bei Telegram angegeben: Vorname und Nachname
-*   das von Ihnen bei Telegram angegebene Profilbild
 
 Facebook Messenger:
 
@@ -271,19 +261,13 @@ Apple Business Chat / iMessage:
 *   die von Ihnen angegebene Telefonnummer
 *   bei Apple Business Chat angegebener Name
 
-Notify:
-
-*   eine ID, die Ihrem Notify-Profil zugewiesen ist
-*   bei Notify angegebener Benutzername
-*   bei Notify eingestelltes Profilbild
-
 Aufgrund der Nutzung eines dieser Messenger erhalten wir von Ihnen die Ihnen von dem Diensteanbieter zugewiesene ID und Benutzernamen. Dies ist allein zur Ausspielung der Nachrichten notwendig. Aufgrund Ihrer Anmeldung zum Messenger bleiben Sie aber für uns nicht identifizierbar.
 
-Wenn Sie Telegram, Facebook Messenger, Apple iMessage oder Notify nutzen, ist nicht auszuschließen, dass ein Transfer von personenbezogenen Daten auch in die USA erfolgt, da diese Messenger Daten auf dortigen Servern speichern. Das Datenschutzniveau ist in den USA nach den Feststellungen des EUGH in der Entscheidung zum Privacy-Shield (Urteil in der Rechtssache C-311/18 „Schrems II“) geringer als im Geltungsbereich der DSGVO. tagesschau überträgt aber keine personenbezogenen Daten von Ihnen oder veranlasst eine solche Übertragung, da Sie aufgrund Ihrer Registrierung bei den Dienstanbietern einer entsprechenden Datenverarbeitung durch diese zugestimmt haben.
+Wenn Sie Facebook Messenger oder Apple iMessage nutzen, ist nicht auszuschließen, dass ein Transfer von personenbezogenen Daten auch in die USA erfolgt, da diese Messenger Daten auf dortigen Servern speichern. Das Datenschutzniveau ist in den USA nach den Feststellungen des EUGH in der Entscheidung zum Privacy-Shield (Urteil in der Rechtssache C-311/18 „Schrems II“) geringer als im Geltungsbereich der DSGVO. tagesschau überträgt aber keine personenbezogenen Daten von Ihnen oder veranlasst eine solche Übertragung, da Sie aufgrund Ihrer Registrierung bei den Dienstanbietern einer entsprechenden Datenverarbeitung durch diese zugestimmt haben.
 
 **Abmelden und Löschung**
 
-Sie können sich jederzeit von den Messenger-Angeboten bei Telegram, Facebook Messenger, Apple Business Chat / iMessage oder Notify abmelden. Schreiben Sie uns dazu auf dem von Ihnen genutzten Messenger-Kanal die Nachricht "Stopp". Danach werden Ihre Daten, die für die Nutzung der Messenger-Angebote bei den aufgeführten Dienstleistern gespeichert wurden, gelöscht.
+Sie können sich jederzeit von den Messenger-Angeboten bei Facebook Messenger oder Apple Business Chat / iMessage abmelden. Schreiben Sie uns dazu auf dem von Ihnen genutzten Messenger-Kanal die Nachricht "Stopp". Danach werden Ihre Daten, die für die Nutzung der Messenger-Angebote bei den aufgeführten Dienstleistern gespeichert wurden, gelöscht.
 
 Tagesschau integriert die Messenger-Dienste über eine „Embed“-Funktion in sein Angebot. Sie können der Datenübertragung zustimmen und sich die angebotenen Dienste per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung ist Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
 

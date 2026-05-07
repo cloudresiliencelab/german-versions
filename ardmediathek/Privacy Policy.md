@@ -143,19 +143,11 @@ Um unsere Angebote noch attraktiver und nutzerfreundlicher zu machen, verlinken 
 Newsletter
 ----------
 
-Über die folgenden Links können Sie den Newsletter der ARD Mediathek, den Newsletter von ARD Sounds und den ARD Hörspiel Newsletter kostenfrei abonnieren.
+Sie können den Newsletter der ARD Mediathek, den Newsletter von ARD Sounds und den ARD Hörspiel Newsletter kostenfrei abonnieren. Dabei wird bei der Anmeldung jeweils Ihre E-Mail-Adresse und optional Ihr Name aus der Eingabemaske übermittelt. Zudem werden Datum und Uhrzeit der Registrierung bei der Anmeldung erhoben. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen. Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletter durch Sie ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs.1 lit. a) DSGVO. Die Erhebung Ihrer E-Mail-Adresse dient dazu, den Newsletter zuzustellen.
 
-Dabei wird bei der Anmeldung zum Newsletter der ARD Mediathek und zum ARD Hörspiel Newsletter Ihre E-Mail-Adresse und optional Ihr Name aus der Eingabemaske übermittelt. Zudem werden Datum und Uhrzeit der Registrierung bei der Anmeldung erhoben. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen. Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletter durch Sie ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs.1 lit. a) DSGVO. Die Erhebung Ihrer E-Mail-Adresse dient dazu, den Newsletter zuzustellen.
+Für die Anmeldung zum Newsletter der ARD Mediathek, zum Newsletter von ARD Sounds und zum ARD Hörspiel Newsletter verwenden wir das sogenannte Double-opt-in-Verfahren. Das heißt, wir senden Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse. In dieser E-Mail wird um die Bestätigung gebeten, dass Sie den Versand des Newsletters wünschen. Dabei wird Ihre Bestätigung und deren Zeitpunkt gespeichert. Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, wird Ihre E-Mail-Adresse automatisch gelöscht.
 
-Für die Anmeldung zum Newsletter der ARD Mediathek und den ARD Hörspiel Newsletter verwenden wir das sogenannte Double-opt-in-Verfahren. Das heißt, wir senden Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse. In dieser E-Mail wird um die Bestätigung gebeten, dass Sie den Versand des Newsletters wünschen. Dabei wird Ihre Bestätigung und deren Zeitpunkt gespeichert. Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, wird Ihre E-Mail-Adresse automatisch gelöscht.
-
-Für die Versendung des Newsletters der ARD Mediathek und des ARD Hörspiel Newsletters verwenden wir ein webbasiertes Tool der ARD. Die zum Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse und optional Name) werden auf Servern des Saarländischen Rundfunks (SR, Funkhaus Halberg, 66100 Saarbrücken) in Deutschland gespeichert. Zudem werden Daten zu den Öffnungsraten, Anzahl der Versendeten Newsletter und angeklickten Links gespeichert.
-
-Für den Newsletter von ARD Sounds nutzen wir den Dienst CleverReach der Firma CleverReach ([https://www.cleverreach.com/de/](https://www.cleverreach.com/de/)). Dieser Dienst ermöglicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren. Die von Ihnen zum Bezug des Newsletters freiwillig eingegebenen Daten (E-Mail-Adresse) werden auf Servern von CleverReach in Deutschland bzw. Irland gespeichert. Die Daten werden nicht an Dritte weitergegeben.
-
-Die Datenverarbeitung erfolgt auf Grundlage Ihrer freiwilligen Einwilligung. Sie können diese Einwilligung jederzeit widerrufen, indem Sie den Newsletter abbestellen. Wenn Sie keine Analyse durch CleverReach wollen, müssen Sie den Newsletter abbestellen. Hierfür steht Ihnen in jedem Newsletter ein entsprechender Link zur Verfügung.
-
-Mehr erfahren Sie in der Datenschutzerklärung von CleverReach.
+Für die Versendung des Newsletters der ARD Mediathek, des Newsletters von ARD Sounds und des ARD Hörspiel Newsletters verwenden wir ein webbasiertes Tool der ARD. Die zum Bezug des Newsletters eingegebenen Daten (E-Mail-Adresse und optional Name) werden auf Servern des Saarländischen Rundfunks (SR, Funkhaus Halberg, 66100 Saarbrücken) in Deutschland gespeichert. Zudem werden Daten zu den Öffnungsraten, Anzahl der Versendeten Newsletter und angeklickten Links gespeichert. Mehr erfahren Sie in der Datenschutzerklärung des Saarländischer Rundfunks unter [https://www.sr.de/datenschutz](https://www.sr.de/datenschutz).
 
 E-Mail und Kontaktformular
 --------------------------
@@ -179,7 +171,7 @@ Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die 
 
 Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
 
-Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung (accounts.ard.de/datenschutz) und den Nutzungsbedingungen (accounts.ard.de/nutzungsbedingungen) zum ARD-Konto.
+Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung ([https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz)) und den Nutzungsbedingungen ([https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen)) zum ARD-Konto.
 
 Weiterschauen-Funktion auf TV-Streaming-Plattformen
 ---------------------------------------------------
@@ -251,4 +243,4 @@ Datenschutzerklärungen der Gemeinschaftseinrichtungen und kooperierten Angebote
 
 • 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-23.4.2026
+6.5.2026

@@ -111,7 +111,10 @@ Beim Erwerb einer BahnCard werden Kontakt- und Identifizierungsdaten (bspw. Gebu
 
 **Angebote zu ähnlichen Waren oder Dienstleistungen**   
 Ihre im Zuge der Registrierung oder im Rahmen der Vertragsdurchführung (z.B. Buchung eines Digitalen Tickets) erhobene E-Mail-Adresse verwenden wir außerdem, um Sie per E-Mail über eigene, ähnliche Waren oder Dienstleistungen zu informieren. Die Verarbeitung der E-Mail-Adresse erfolgt in diesem Fall auf Grundlage unseres überwiegenden berechtigten Interesses an der Bewerbung unserer Waren und Dienstleistungen (Art. 6 Abs. 1 lit. f) DSGVO).   
-Dieser werblichen Verwendung Ihrer Daten können Sie jederzeit mit Wirkung für die Zukunft widersprechen. Ihren Widerspruch können Sie über den Widerspruchslink in jeder hierzu erhaltenen E-Mail erteilen oder per E-Mail an [p.d-datenschutz@deutschebahn.com](http://p.d-datenschutz@deutschebahn.com/) richten (Stichwort: Werbewiderspruch). 
+Dieser werblichen Verwendung Ihrer Daten können Sie jederzeit mit Wirkung für die Zukunft widersprechen. Ihren Widerspruch können Sie über den Widerspruchslink in jeder hierzu erhaltenen E-Mail erteilen oder per E-Mail an [fv-datenschutz@deutschebahn.com](mailto:fv-datenschutz@deutschebahn.com) richten (Stichwort: Werbewiderspruch). 
+
+**Anmeldung für Persönliche Informationen und Gutscheine, bahn.de-Newsletter**  
+Die verantwortliche Stelle für die Datenverarbeitung im Zusammenhang mit Persönlichen Informationen, Gutscheinen und dem bahn.de-Newsletter ist die DB Fernverkehr AG. Die Anmeldung hierzu ist nur aus Ihrem Kundenkonto heraus möglich. Die einschlägigen Informationen zum Datenschutz finden Sie im entsprechenden Datenschutzhinweis zum Kundenkonto.
 
 **Buchung eines digitalen Tickets nach Besuch einer Partnerseite (Affiliate-Marketing)**  
 Beim Klick auf ein DB-Affiliate-Werbemittel auf einer externen Partnerseite werden Sie zu unserer Buchung weitergeleitet. Dabei wird eine Vorgangskennung mitgesendet, die wir verarbeiten, um dem Partner eine Vergütung für die initiierte Buchung zukommen zu lassen. Personenbezogene Daten übermitteln wir nicht. Die Verarbeitung der Vergütung erfolgt über das Affiliate-Netzwerk der AWIN AG, Otto-Ostrowski-Straße 1A, 10249 Berlin.
@@ -124,11 +127,6 @@ Zum Hinzufügen Ihres Abos in Ihr Kundenkonto, z.B. zwecks Anzeige im DB Navigat
 
 **Kontaktformular**   
 Wenn Sie uns ein Anliegen über das Kontaktformular unter „Hilfe & Kontakt“ melden, werden Ihre Daten zur Bearbeitung der Anfrage und für den Fall von Anschlussfragen auf Grundlage von Art. 6 Abs. 1 lit. b) DSGVO durch uns verarbeitet. 
-
-**Anmeldung zum Newsletter**   
-Melden Sie sich zu einem Newsletter von uns an, wird als Pflichtangabe die E-Mail-Adresse erhoben.  
-Bei der Anmeldung zum Newsletter speichern wir zudem die vom Internet-Service-Provider (ISP) vergebene IP-Adresse Ihres zum Zeitpunkt der Anmeldung verwendeten Endgerätes sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den (möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb unserer rechtlichen Absicherung. Um Ihnen ansprechende und für Sie relevante Inhalte anbieten zu können, erfassen wir Ihr Interesse an den Inhalten des bahn.de-Newsletters anhand des Anklickens und der Anzeige von Inhalten mittels individualisierter Links.   
-Ihre E-Mail-Adresse kann in diesem Fall von uns für werbliche Zwecke genutzt werden. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. a) DSGVO. Sie können sich jederzeit vom Newsletter wieder abmelden, indem Sie den Abmelde-Link unten in Ihrem Newsletter anklicken. Sofern Sie der werblichen Nutzung Ihrer Daten widersprechen, werden Ihre Daten nur anonymisiert zu statistischen Auswertungszwecken genutzt. 
 
 **Sicherheitsmaßnahmen**  
 Für die Sicherheit und Verfügbarkeit unserer IT-Systeme haben wir Schutzmaßnahmen implementiert. Zu ihnen gehören Web Application Firewall, Ratelimiting und DOS-Schutz auf Basis von Technologien der Dienstleister Akamai Technologies GmbH (Parkring 22, 85748 Garching) und F5 Inc. (Lehrer-Wirth-Straße 2, 81829 München). Alle Anfragen an unsere Systeme werden dahingehend geprüft, ob sie definierten technischen Regeln genügen. Abweichende Anfragen können wir blockieren oder für die weitere Analyse inklusive IP-Adresse zwischenspeichern. Wir nutzen Dienste des Anbieters Akamai Technologies GmbH auch, um automatisierten und missbräuchlichen Zugriffsversuchen zu erkennen und zu unterbinden. Durch maschinelles Lernen und Prüfen der Verbindungsparameter können Bots erkannt und abgewehrt werden, damit unsere Webseite menschlichen Besucherinnen und Besuchern uneingeschränkt zur Verfügung steht. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG in Verbindung mit Art. 6 Abs. 1 lit. f) DSGVO. Das berechtigte Interesse besteht im Schutz der Daten der betroffenen Personen und der Infrastruktur vor automatisierten und missbräuchlichen Zugriffsversuchen.
@@ -253,7 +251,7 @@ Wenn Sie einen Link auf eine externe Seite anklicken, bewegen Sie sich außerhal
 
 Wir passen die Datenschutzhinweise an veränderte Funktionalitäten oder geänderte Rechtslagen an. Daher empfehlen wir, die Datenschutzhinweise in regelmäßigen Abständen zur Kenntnis zu nehmen.
 
-Stand: März 2026
+Stand: Mai 2026
 
 Datenschutzhinweise im Servicecenter Fahrgastrechte (SC FGR)
 ------------------------------------------------------------

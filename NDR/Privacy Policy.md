@@ -165,7 +165,7 @@ Unter den folgenden Links können Sie sich über die Datenschutzhinweise der ein
 *   **Inhalte von arte:** Die "Embed“-Funktion von arte ermöglicht es, Videos von arte in das Internetangebot des NDR zu integrieren. Zu den Datenschutzhinweisen von arte: [Arte](https://www.arte.tv/sites/corporate/de/arte-und-ihre-privatsphaere-im-internet/ "Datenschutz Arte")
 *   **Videos und Audios der ARD:** Über die "Embed"-Funktion werden Videos der ARD Mediathek und ARD Audiothek in das Internetangebot integriert.
 *   **Inhalte von Bluesky:** Über die "Embed"-Funktion integriert der NDR Inhalte seiner eigenen Bluesky-Präsenzen oder die anderer Anbieter in das Internetangebot. Zu den Datenschutzhinweisen von Bluesky: [Bluesky](https://bsky.social/about/support/privacy-policy "Privacy Policy")
-*   Inhalte von 23Degrees: Über die "Embed"-Funktion werden Grafiken und Charts in das Internetangebot integriert, um komplexe Sachverhalte visualisieren zu können. Datenschutzhinweise von 23Degrees: [23Degrees](https://app.23degrees.io/privacy-policy "Datenschutz 23 Degrees")
+*   **Inhalte von 23Degrees**: Über die "Embed"-Funktion werden Grafiken und Charts in das Internetangebot integriert, um komplexe Sachverhalte visualisieren zu können. Datenschutzhinweise von 23Degrees: [23Degrees](https://app.23degrees.io/privacy-policy "Datenschutz 23 Degrees")
 
 Zustimmung für Inhalte von Drittplattformen
 

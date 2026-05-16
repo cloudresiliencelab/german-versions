@@ -118,21 +118,47 @@ Weitere Informationen zu den IAB-Verarbeitungszwecken und den einzelnen Drittanb
 
 **5\. Axel Springer Nutzerkennungen**
 
-Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, speichern wir im Local Storage Ihres Browsers pseudonyme Kennungen (nachstehend „Axel Springer Nutzerkennungen“) und rufen diese bei einem erneuten Besuch unserer Website ab. Nähere Informationen finden Sie unter dem Link „Privacy-Manager“ am Seitenende unter dem Drittanbieter „Axel Springer Nutzerkennungen“. Rechtsgrundlage für die Speicherung bzw. den Abruf der Axel Springer Nutzerkennungen ist Art. 6 Abs. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit mit einem Klick auf den Link „Widerruf Nutzerkennungen“ am Seitenende widerrufen. 
+Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, speichern wir im Local Storage Ihres Browsers pseudonyme Kennungen (nachstehend „Axel Springer Nutzerkennungen“) und rufen diese bei einem erneuten Besuch unserer Website ab. Nähere Informationen finden Sie unter dem Link „Privacy-Manager“ am Seitenende unter dem Drittanbieter „Axel Springer Nutzerkennungen“. Rechtsgrundlage für die Speicherung bzw. den Abruf der Axel Springer Nutzerkennungen ist Art. 6 Abs. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit mit einem Klick auf den Link „Widerruf Nutzerkennungen“ am Seitenende widerrufen. Eine Löschung der Axel Springer Nutzerkennungen in Ihrem Browser ist jedoch aus technischen Gründen nur Ihnen möglich.
 
 Wir verarbeiten die Axel Springer Nutzerkennungen zusammen mit Informationen über Ihre Aktivitäten auf unserer Website auch zu den IAB-Verarbeitungszwecken „Speichern von oder Zugriff auf Informationen auf einem Endgerät“, „Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen“, „Erstellung von Profilen für personalisierte Werbung“ und „Verwendung von Profilen zur Auswahl personalisierter Werbung“ sowie „Entwicklung und Verbesserung der Angebote“. Weitere Informationen zu den genannten IAB-Verarbeitungszwecken und den jeweiligen Rechtsgrundlagen finden Sie an entsprechender Stelle in dieser Datenschutzerklärung. 
 
 Darüber hinaus verwenden wir die Axel Springer Nutzerkennungen zu den Verarbeitungszwecken “Verwendung und Weitergabe von Nutzerkennungen zu Werbezwecken” sowie „ID-Stabilisierung“. Weitere Informationen hierzu finden Sie an entsprechender Stelle in dieser Datenschutzerklärung. 
 
-**6\. Verwendung und Weitergabe von Nutzerkennungen zu Werbezwecken** 
+**6\. NetID Technologie**
 
-Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, verarbeiten wir die Axel Springer Nutzerkennungen zu dem Verarbeitungszweck „Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“. 
+Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, prüfen wir anhand eines Cookies, ob Sie netID Nutzer sind. Ist dies der Fall, werden wir Sie um eine gesonderte Einwilligung zur Aktivierung der netID-Technologie zu Werbezwecken bitten.
 
-Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gemäß Art. 4 Nr. 7 DSGVO für die über Ihren jeweiligen Dienst stattfindende Datenverarbeitung verantwortlich sind. Weitere Informationen zur Datenverarbeitung durch diese Anbieter und Ihren Rechten als betroffene Person können Sie den nachfolgend verlinkten Datenschutzerklärungen der Anbieter entnehmen: 
+Erst nach Aktivierung der netID-Technologie erhalten wir von Ihrem netID Account-Anbieter den netID Identifier, mit dem wir Sie beim Besuch unserer Angebote und Inhalte wiedererkennen können. Anhand des netID Identifiers können wir Ihnen ein verbessertes Nutzungserlebnis ermöglichen und Ihnen auf Basis eines Nutzerprofils Ihren Präferenzen und Interessen entsprechende Dienste, Anzeigen und Angebote anbieten und anzeigen.
+
+Rechtsgrundlage für die Datenverarbeitung ist jeweils Art. 6 Abs. 1 lit. a DSGVO. Weitere Informationen können Sie in Ihrem netID Privacy Center (https://broker.netid.de/privacycenter) einsehen. Dort können Sie auch jederzeit Ihre Einwilligung in die Übermittlung des netID Identifiers an uns widerrufen.
+
+Nach Widerruf Ihrer Einwilligung erhalten wir nicht länger Ihren netID Identifier und löschen ihn aus unseren Datensätzen, soweit einer Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Weitere Informationen zur netID finden Sie auch [hier](https://www.bild.de/corporate/site/bild-de/services-netid-identifier-77440242.bild.html).
+
+Darüber hinaus verwenden wir den netID Identifier zu den Verarbeitungszwecken „Verwendung und Weitergabe von Nutzerkennungen zu Werbezwecken“ sowie „ID-Stabilisierung“. Weitere Informationen hierzu finden Sie an entsprechender Stelle in dieser Datenschutzerklärung.
+
+**7\. Nutzung der Utiq-Technologie, unterstützt durch Ihren Telekommunikationsanbieter**
+
+Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Nutzung der Utiq-Technologie, unterstützt durch Ihren Telekommunikationsanbieter“ erteilt, prüfen wir, ob die Utiq-Technologie für Sie verfügbar ist. Hierfür geben wir Ihre IP-Adresse an Utiq weiter. Ergibt die von Utiq durchgeführte Verfügbarkeitsprüfung, dass Sie eine unterstützte Internetverbindung (z. B. Breitband oder Mobilfunk) eines teilnehmenden Telekommunikationsanbieters nutzen, übermittelt Utiq Ihre IP-Adresse an Ihren Telekommunikationsanbieter. Dieser erstellt anhand Ihrer IP-Adresse und einer Referenz des verbundenen Telekommunikationskontos (z. B. Nutzerkontonummer oder Telefonnummer) eine pseudonyme Kennung („Netzwerksignal“) und stellt diese Utiq zur Verfügung.
+
+Abgeleitet vom Netzwerksignal erzeugt Utiq anschließend Werbekennungen mit begrenzter Lebensdauer, die der jeweiligen Internetverbindung zugewiesen sind. Das bedeutet, dass alle Nutzer derselben Internetverbindung, die die Utiq-Technologie aktivieren, dieselbe Werbekennung erhalten. Zur Speicherung Ihres Einwilligungsstatus und zum Abruf der erzeugten Werbekennungen werden Cookies auf Ihrem Endgerät gesetzt.
+
+Wir nutzen diese Werbekennungen, um Sie beim Besuch auf diesem sowie auf [weiteren Angeboten der Axel Springer Deutschland GmbH](https://www.axelspringer.com/de/utiq-marken "Link wird in einem neuen Tab geöffnet") (soweit Sie auf diesen ebenfalls die Utiq-Technologie aktiviert haben) für die Zwecke „Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“ wiederzuerkennen und Besuche auf unseren Angeboten miteinander zu verknüpfen. Da die Werbekennungen der jeweiligen Internetverbindung zugewiesen sind, werden bei Breitbandverbindungen (z. B. WLAN) die Browsing-Aktivitäten aller einwilligenden Haushaltsmitglieder betrachtet, während bei Mobilfunkverbindungen die Browsing-Aktivitäten eines einzelnen Mobilfunknutzers betrachtet werden.
+
+Die Aktivierung der Utiq-Technologie auf unserem Angebot erfolgt in gemeinsamer Verantwortung mit der Utiq SA/NV auf Grundlage einer entsprechenden Vereinbarung gemäß Art. 26 DSGVO. Neben den Rechten, die Sie jederzeit uns gegenüber ausüben können, steht Ihnen zudem der [Utiq Consenthub](https://consenthub.utiq.com/ "Link wird in einem neuen Tab geöffnet") zur Verfügung. Dort können Sie Ihre Einwilligungen in die Nutzung der Utiq-Technologie websiteübergreifend verwalten. Ungeachtet dessen, dass Sie Ihre Rechte gegenüber jedem Verantwortlichen ausüben können, fungiert Utiq als gemeinsame Anlaufstelle für alle Fragen oder Anfragen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
+
+Die Nutzung der Utiq-Technologie zu Werbezwecken schließt die Weitergabe der Werbekennungen an die nachfolgend aufgeführten Drittanbieter ein. Utiq nutzt Ihre Daten auch zur Verbesserung und Weiterentwicklung der Utiq-Technologie.
+
+Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit am Seitenende vorgehaltenen Link „Widerruf Nutzerkennungen“ oder über das Datenschutzportal von Utiq („[Utiq Consenthub](https://consenthub.utiq.com/ "Link wird in einem neuen Tab geöffnet")“) widerrufen. Weitere Informationen darüber, wie die Utiq-Technologie funktioniert, über unsere Partnerschaft mit Utiq und über Ihre Rechte finden Sie auf den Seiten [Utiq verwalten](https://www.welt.de/services/article251723046/Utiq-verwalten.html) und [Utiq FAQ](https://www.axelspringer.com/de/utiq-faq "Link wird in einem neuen Tab geöffnet") sowie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement "Link wird in einem neuen Tab geöffnet").
+
+Darüber hinaus verwenden wir die Utiq Werbekennungen zu den Verarbeitungszwecken „Verwendung und Weitergabe von Nutzerkennungen zu Werbezwecken“ sowie „ID-Stabilisierung“. Weitere Informationen hierzu finden Sie an entsprechender Stelle in dieser Datenschutzerklärung.
+
+**8\. Verwendung und Weitergabe von Nutzerkennungen zu Werbezwecken** 
+
+Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, verarbeiten wir die Axel Springer Nutzerkennungen Nutzerkennungen sowie weitere pseudonyme Kennungen (z.B. netID) zu dem Verarbeitungszweck „Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“. 
+
+Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gemäß Art. 4 Nr. 7 DSGVO für die über Ihren jeweiligen Dienst stattfindende Datenverarbeitung verantwortlich sind. Weitere Informationen zur Datenverarbeitung durch diese Anbieter und zu Ihren Rechten als betroffene Person können Sie den nachfolgend verlinkten Datenschutzerklärungen der Anbieter entnehmen: 
 
 \- **Media Impact Vermarktungspartner / Media Impact Nutzerkennung** (Media Impact GmbH & Co. KG, Axel Springer Straße 65, 10888 Berlin, Deutschland) [https://www.mediaimpact.de/de/ueber-unsere-werbung/](https://www.mediaimpact.de/de/ueber-unsere-werbung/ "Link wird in einem neuen Tab geöffnet")
-
-\- **1plusX** (1plusx AG, Eichenstrasse 2, 8808 Pfäffikon, Schweiz) [https://tagger.opecloud.com/asmi/privacy-policy.html](https://tagger.opecloud.com/asmi/privacy-policy.html "Link wird in einem neuen Tab geöffnet")
 
 \- **Active Agent (Virtual Minds GmbH)** (Virtual Minds GmbH, Ellen-Gottlieb-Straße 16, 79106 Freiburg im Breisgau, Deutschland) [https://virtualminds.com/privacy-center/](https://virtualminds.com/privacy-center/ "Link wird in einem neuen Tab geöffnet")
 
@@ -152,61 +178,35 @@ Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem
 
 \- **Permutive Technologies Inc.** ( Permutive Limited, 8-10 Charterhouse Buildings, Goswell Road EC1M 7AN London, England) [https://permutive.com/privacy/](https://permutive.com/privacy/ "Link wird in einem neuen Tab geöffnet")
 
-Die Verarbeitung zu Werbezwecken umfasst auch die Verwendung der Axel Springer Nutzerkennungen als Identifizierungsmerkmal zum Abgleich mit den vorgenannten Dritten und ausgewählten Werbekunden unseres Vermarkters Media Impact GmbH & Co. KG (Media Impact Vermarktungspartner). Für den Abgleich werden ausschließlich pseudonymisierte Datensätze verwendet und es werden keine Informationen direkt miteinander abgeglichen, weitergegeben oder zusammengeführt. Der Abgleich wird durch einen Dienstleister durchgeführt, mit dem wir und der jeweils teilnehmende Anbieter eine Vereinbarung zur Auftragsverarbeitung (Art. 28 DSGVO) geschlossen haben. Wenn der Dienstleister feststellt, dass wir und der teilnehmende Anbieter über eine übereinstimmende Nutzerkennung verfügen, informiert er uns über dieses „Matching“. Diese Information geben wir in pseudonymisierter Form mittels einer Axel Springer Nutzerkennung an Media Impact Vermarktungspartner weiter, welche diese Information zur Ausspielung und/oder Optimierung entsprechend personalisierter Werbung nutzt. 
+Die Verarbeitung zu Werbezwecken umfasst auch die Verwendung dieser Nutzerkennungen als Identifizierungsmerkmal zum Abgleich mit den vorgenannten Dritten und ausgewählten Werbekunden unseres Vermarkters Media Impact GmbH & Co. KG (Media Impact Vermarktungspartner). Für den Abgleich werden ausschließlich pseudonymisierte Datensätze verwendet und es werden keine Informationen direkt miteinander abgeglichen, weitergegeben oder zusammengeführt. Der Abgleich wird durch einen Dienstleister durchgeführt, mit dem wir und der jeweils teilnehmende Anbieter eine Vereinbarung zur Auftragsverarbeitung (Art. 28 DSGVO) geschlossen haben. Wenn der Dienstleister feststellt, dass wir und der teilnehmende Anbieter über eine übereinstimmende Nutzerkennung verfügen, informiert er uns über dieses „Matching“. Diese Information geben wir in pseudonymisierter Form an Media Impact Vermarktungspartner weiter, welche diese Information zur Ausspielung und/oder Optimierung entsprechend personalisierter Werbung nutzt. 
 
 Wir haben mit Media Impact Vermarktungspartner und dem teilnehmenden Anbieter eine Vereinbarung über die gemeinsame Verantwortung i.S.v. Art. 26 DSGVO geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß DSGVO festgelegt haben. Danach sind wir und der jeweilige Anbieter verpflichtet, Ihnen die Erteilung und den Widerruf datenschutzrechtlicher Einwilligungen zu ermöglichen. Zudem sind wir die zentrale Anlaufstelle für Sie als betroffene Person. Wir leiten Betroffenenanfragen, die bei uns eingehen und die gemeinsame Verantwortung betreffen, unverzüglich an Media Impact Vermarktungspartner zur Beantwortung weiter. Dessen ungeachtet können Sie die Ihnen nach der DSGVO zustehenden Rechte als betroffene Person sowohl bei und gegenüber uns als auch bei und gegenüber jedem anderen Verantwortlichen geltend machen. Nähere Informationen zur Vereinbarung über die gemeinsame Verantwortung und zu den teilnehmenden Anbietern finden Sie [hier](https://www.mediaimpact.de/de/ueber-unsere-werbung_pur).
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können die Datenverarbeitung zu dem hier beschriebenen Verarbeitungszweck jederzeit beenden, indem Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies widerrufen. Klicken Sie hierzu auf den Link „Widerruf Tracking und Cookies“ am Seitenende. 
 
-**7\. ID-Stabilisierung**
+**9\. ID-Stabilisierung**
 
-Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, verarbeiten wir Ihre Axel Springer Nutzerkennungen - und wenn Sie uns auf einem unserer Onlineangebote Ihre Einwilligung in die Verarbeitung weiterer pseudonymer Identifier (z.B. Utiq) erteilt haben, auch diese - zur ID-Stabilisierung. Das bedeutet, dass wir die unterschiedlichen Identifier anhand der Axel Springer Nutzerkennungen einander zuordnen. Dies ermöglicht uns, Ihr Nutzungsverhalten auch auf anderen Onlineangeboten der Axel Springer Deutschland GmbH zu berücksichtigen und Ihnen auf Basis dessen – sofern Sie hierfür Ihre Einwilligung erteilt haben - personalisierte Werbung auszuspielen. Dies erfolgt in unserem und Ihrem Interesse, unsere Onlineangebote und die dort ausgespielte Werbung noch besser an Ihren Interessen auszurichten. Rechtsgrundlage für die ID-Stabilisierung ist Art. 6 Abs. 1 lit. f DSGVO. Sie haben nach Art. 21 DSGVO das Recht zum Widerspruch gegen die Verarbeitung. Das Recht zum Widerspruch gegen die Verarbeitung können Sie ausüben, indem Sie die Einwilligung in die Nutzung der Axel Springer Nutzerkennungen bzw. in die Nutzung von WELT.de mit Tracking und Cookies widerrufen. Die Axel Springer Nutzerkennungen wird dann inaktiv und nicht mehr zur ID-Stabilisierung genutzt. Eine Löschung der Axel Springer Nutzerkennungen in Ihrem Browser ist jedoch aus technischen Gründen nur Ihnen möglich. Eine weitere Nutzung unseres Onlinedienstes ist dann jedoch nur noch bei Abschluss eines Pur-Abos möglich.
+Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, verarbeiten wir Ihre Axel Springer Nutzerkennungen - und wenn Sie uns auf einem unserer Onlineangebote Ihre Einwilligung in die Verarbeitung weiterer pseudonymer Kennungen (z.B. Utiq) erteilt haben, auch diese - zur ID-Stabilisierung. Das bedeutet, dass wir die unterschiedlichen Kennungen anhand der Axel Springer Nutzerkennungen einander zuordnen. Dies ermöglicht uns, Ihr Nutzungsverhalten auch auf anderen Onlineangeboten der Axel Springer Deutschland GmbH zu berücksichtigen und Ihnen auf Basis dessen – sofern Sie hierfür Ihre Einwilligung erteilt haben - personalisierte Werbung auszuspielen. Dies erfolgt in unserem und Ihrem Interesse, unsere Onlineangebote und die dort ausgespielte Werbung noch besser an Ihren Interessen auszurichten. Rechtsgrundlage für die ID-Stabilisierung ist Art. 6 Abs. 1 lit. f DSGVO. Sie haben nach Art. 21 DSGVO das Recht zum Widerspruch gegen die Verarbeitung. Das Recht zum Widerspruch gegen die Verarbeitung können Sie ausüben, indem Sie die Einwilligung in die Nutzung der Axel Springer Nutzerkennungen bzw. in die Nutzung von WELT.de mit Tracking und Cookies widerrufen. Die Axel Springer Nutzerkennungen wird dann inaktiv und nicht mehr zur ID-Stabilisierung genutzt. Eine Löschung der Axel Springer Nutzerkennungen in Ihrem Browser ist jedoch aus technischen Gründen nur Ihnen möglich. Eine weitere Nutzung unseres Onlinedienstes ist dann jedoch nur noch bei Abschluss eines Pur-Abos möglich.
 
-**8\. Nutzung der Utiq- und netID-Technologie zu Werbezwecken:**
-
-Haben Sie Ihre Einwilligung in den Verarbeitungszweck „Nutzung der Utiq- und netID-Technologie zu Werbezwecken“ erteilt, prüfen wir, ob die Utiq-Technologie und die netID-Technologie für Sie verfügbar sind. 
-
-**netID-Technologie** 
-
-Bei der netID Technologie prüfen wir anhand eines Cookies, ob Sie netID Nutzer sind. Ist dies der Fall, werden wir Sie um eine gesonderte Einwilligung zur Aktivierung der netID-Technologie zu Werbezwecken bitten. 
-
-Erst nach Aktivierung der netID-Technologie erhalten wir von Ihrem netID Account-Anbieter den netID Identifier, mit dem wir Sie beim Besuch unserer Angebote und Inhalte wiedererkennen können. Anhand des netID Identifiers können wir Ihnen ein verbessertes Nutzungserlebnis ermöglichen und Ihnen auf Basis eines Nutzerprofils Ihren Präferenzen und Interessen entsprechende Dienste, Anzeigen und Angebote anbieten und anzeigen. Rechtsgrundlage für die Datenverarbeitung ist jeweils Art. 6 Abs. 1 lit. a DSGVO. Weitere Informationen können Sie in Ihrem netID Privacy Center (https://broker.netid.de/privacycenter) einsehen. Dort können Sie auch jederzeit Ihre Einwilligung in die Übermittlung des netID Identifiers an uns widerrufen. Nach Widerruf Ihrer Einwilligung erhalten wir nicht länger Ihren netID Identifier und löschen ihn aus unseren Datensätzen, soweit einer Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Weitere Informationen zur netID finden Sie auch [hier](https://www.welt.de/services/article233245525/netID-Identifier-WELT-Digital.html).
-
-**Utiq Technologie**
-
-Haben Sie Ihre Einwilligung in den Verarbeitungszweck „Nutzung der Utiq- und netID-Technologie zu Werbezwecken“ erteilt, prüfen wir, ob die Utiq-Technologie für Sie verfügbar ist. Hierfür geben wir Ihre IP-Adresse an Utiq weiter. Ergibt die von Utiq durchgeführte Verfügbarkeitsprüfung, dass Sie eine unterstützte Internetverbindung (z. B. Breitband oder Mobilfunk) eines teilnehmenden Telekommunikationsanbieters nutzen, werden wir Ihnen ein gesondertes Banner anzeigen, auf dem Sie in die Nutzung der Utiq-Technologie zu Werbezwecken auf unserem Angebot einwilligen können („Aktivierung“).
-
-Erst nach erfolgter Aktivierung übermittelt Utiq Ihre IP-Adresse an Ihren Telekommunikationsanbieter. Dieser erstellt anhand Ihrer IP-Adresse und einer Referenz des verbundenen Telekommunikationskontos (z. B. Nutzerkontonummer oder Telefonnummer) eine pseudonyme Kennung („Netzwerksignal“) und stellt diese Utiq zur Verfügung.
-
-Abgeleitet vom Netzwerksignal erzeugt Utiq anschließend Werbekennungen mit begrenzter Lebensdauer, die der jeweiligen Internetverbindung zugewiesen sind. Das bedeutet, dass alle Nutzer derselben Internetverbindung, die die Utiq-Technologie aktivieren, dieselbe Werbekennung erhalten. Zur Speicherung Ihres Einwilligungsstatus und zum Abruf der erzeugten Werbekennungen werden Cookies auf Ihrem Endgerät gesetzt.
-
-Wir nutzen diese Werbekennungen, um Sie beim Besuch auf diesem sowie auf weiteren [Angeboten der Axel Springer Deutschland GmbH](https://www.axelspringer.com/de/utiq-marken) (soweit Sie auf diesen ebenfalls die Utiq-Technologie aktiviert haben) für die Zwecke "Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten" wiederzuerkennen und Besuche auf unseren Angeboten miteinander zu verknüpfen. Da die Werbekennungen der jeweiligen Internetverbindung zugewiesen sind, werden bei Breitbandverbindungen (z. B. WLAN) die Browsing-Aktivitäten aller einwilligenden Haushaltsmitglieder betrachtet, während bei Mobilfunkverbindungen die Browsing-Aktivitäten eines einzelnen Mobilfunknutzers betrachtet werden.
-
-Die Aktivierung der Utiq-Technologie auf unserem Angebot erfolgt in gemeinsamer Verantwortung mit der Utiq SA/NV auf Grundlage einer entsprechenden Vereinbarung gemäß Art. 26 DSGVO. Neben den Rechten, die Sie jederzeit uns gegenüber ausüben können, steht Ihnen zudem der [Utiq Consenthub](https://consenthub.utiq.com/) zur Verfügung. Dort können Sie Ihre Einwilligungen in die Nutzung der Utiq-Technologie websiteübergreifend verwalten. Ungeachtet dessen, dass Sie Ihre Rechte gegenüber jedem Verantwortlichen ausüben können, fungiert Utiq als gemeinsame Anlaufstelle für alle Fragen oder Anfragen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
-
-Die Nutzung der Utiq-Technologie zu Werbezwecken schließt die Weitergabe der Werbekennungen an die nachfolgend aufgeführten Drittanbieter ein. Utiq nutzt Ihre Daten auch zur Verbesserung und Weiterentwicklung der Utiq-Technologie.
-
-Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit über den am Seitenende vorgehaltenen Link „Widerruf Nutzerkennungen“ oder über das Datenschutzportal von Utiq ("[Utiq Consenthub](https://consenthub.utiq.com/)") widerrufen. Weitere Informationen darüber, wie die Utiq-Technologie funktioniert, über unsere Partnerschaft mit Utiq und über Ihre Rechte finden Sie auf den Seiten [Utiq verwalten](https://www.welt.de/services/article251723046/Utiq-verwalten.html) und [Utiq FAQ](https://www.axelspringer.com/de/utiq-faq) sowie in der [Datenschutzerklärung](https://consenthub.utiq.com/pages/privacy-statement) von Utiq.
-
-**9\. Personalisierte Inhaltsempfehlungen** 
+**10\. Personalisierte Inhaltsempfehlungen** 
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Personalisierte Inhaltsempfehlungen“ erteilt, können Ihnen beim Besuch unseres Angebots personalisierte redaktionelle Inhaltsempfehlungen ausgespielt werden. 
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen. 
 
-**10\. Eigene Produkt- und Vertriebsentwicklung** 
+**11\. Eigene Produkt- und Vertriebsentwicklung** 
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Eigene Produkt- und Vertriebsentwicklungen“ erteilt, können Informationen über Ihre Aktivitäten auf unserem Angebot für die Weiterentwicklung unserer Produkte und des Vertriebs genutzt werden. Dies umfasst die Bewerbung von Verlagsangeboten, Reichweitenmessung sowie Nutzungsanalysen und erfolgt ausschließlich zu unseren eigenen Zwecken, um unsere Verlagsangebote zu bewerben und zu messen. Es erfolgt keine Datenweitergabe an Dritte. 
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen. 
 
-**11\. A/B Testing für Produktentwicklung** 
+**12\. A/B Testing für Produktentwicklung** 
 
 Haben Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „A/B Testing für Produktentwicklung“ erteilt, können zur Weiterentwicklung und Verbesserung unserer Produkte A/B-Tests für die Produktentwicklung durchgeführt werden, um z.B. neue Funktionen und Gestaltungen zu testen. 
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen. 
 
-**12\. Verwendung von Werbekennungen auf Basis Ihrer E-Mail-Adresse**
+**13\. Verwendung von Werbekennungen auf Basis Ihrer E-Mail-Adresse**
 
 Soweit Sie in den Verarbeitungszweck „Verwendung von Werbekennungen auf Basis Ihrer E-Mail-Adresse“ eingewilligt haben und uns im Rahmen der Nutzung unseres Angebots Ihre E-Mail-Adresse bereitstellen (z. B. bei der Registrierung eines Benutzerkontos), können wir und Media Impact Vermarktungspartner Ihre E-Mail-Adresse in pseudonymisierter Form als Identifizierungsmerkmal für die oben aufgeführten Zwecke "Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“ nutzen. Die vorstehenden Zwecke umfassen auch die Einbindung ausgewählter Werbepartner. Konkret erfolgt dies durch Abgleich Ihrer pseudonymisierten E-Mail-Adresse mit Datensätzen dieser Werbepartner. Die ausgewählten Werbepartner können Sie hier einsehen.
 
@@ -216,7 +216,7 @@ Soweit Ihre pseudonymisierte E-Mail-Adresse für die vorstehenden Werbezwecke ve
 
 Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Ein Widerruf der vorstehenden Verarbeitung ist jederzeit über den Privacy-Manager sowie über den Link "Widerruf Tracking und Cookies" am Seitenende möglich.
 
-**13\. Politische Werbung anzeigen**
+**14\. Politische Werbung anzeigen**
 
 Wenn Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Politische Werbung anzeigen“ erteilt haben, können wir Ihnen politische Werbung im Sinne der Verordnung über die Transparenz und das Targeting politischer Werbung (TTPW-VO) gezielt ausliefern und diese optimieren. Hierzu verarbeiten wir Ihre personenbezogenen Daten (z. B. ungefähre Standortdaten, Online-Kennungen und Nutzungsverhalten) für die oben aufgeführten Zwecke "Personalisierte Werbung und Inhalte, Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung von Angeboten“.
 
@@ -228,7 +228,7 @@ Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO i. V. m. Art. 18 Abs. 1 lit. b TTPW-VO. Sie können jederzeit Ihre Auswahl im Privacy-Manager ändern sowie die von Ihnen erteilten Einwilligungen insgesamt durch Anklicken des Links „Widerruf Tracking und Cookies“ am Seitenende mit Wirkung für die Zukunft widerrufen.
 
-**14\. Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen**
+**15\. Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen**
 
 Wenn sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, verarbeiten wir Echtzeit-Informationen über den Kontext, in dem die Anzeige dargestellt wird, einschließlich Informationen über das inhaltliche Umfeld sowie das verwendete Gerät, wie z. B. Gerätetyp und -funktionen, Browser-Kennung, URL, IP-Adresse und Ihre ungefähren Standortdaten. Dies geschieht zu dem Zweck, die Auswahl und Ausspielung der zur Refinanzierung unseres Angebots geschalteten Anzeigen zu optimieren, die Häufigkeit und Reihenfolge der Anzeige-Einblendungen zu steuern und um zu verhindern, dass eine Anzeige in einem ungeeigneten redaktionellen Umfeld (brand-unsafe) eingeblendet wird. 
 
@@ -248,7 +248,7 @@ Für die vorgenannten Zwecke bedienen wir uns auch der Dienste nachfolgend aufge
 
 Um die Anzeigen in der richtigen Größe und in einem von Ihrem Gerät unterstützten Format ausspielen und Sie bei Anklicken der Anzeige auf die entsprechende Zielseite weiterleiten zu können, werden durch den jeweiligen Drittanbieter zudem Ihre IP-Adresse sowie Informationen zu Ihrem Gerätetyp verarbeitet. Hierbei handelt es sich um die Sonderkategorie „Bereitstellung und Anzeige von Werbung und Inhalten“. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO.
 
-**15\. Erstellung von Profilen für personalisierte Werbung**
+**16\. Erstellung von Profilen für personalisierte Werbung**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, erstellen wir zur Ausrichtung von Anzeigen auf Ihre mutmaßlichen Interessen ein Profil Ihrer Nutzung mit Informationen zu Ihren Aktivitäten, Interessen, den Besuchen auf Webseiten oder der Verwendung von Anwendungen, demographischen Informationen oder des Standorts erstellt und mit Daten Ihres Nutzungsverhalten von anderen Websites angereichert. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -262,7 +262,7 @@ Für die vorgenannten Zwecke bedienen wir uns auch der Dienste nachfolgend aufge
 *   Outbrain ( Outbrain UK Limited, 100 New Bridge Street, London, EC4V 6JA, Vereinigtes Königreich) [https://www.outbrain.com/privacy/](https://www.outbrain.com/privacy/)
 *   YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [https://support.google.com/youtube/answer/7671399?p=privacy\_guidelines&hl=de&visit\_id=0-636644030056539000-341535836&rd=1](https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=de&visit_id=0-636644030056539000-341535836&rd=1)
 
-**16\. Verwendung von Profilen zur Auswahl personalisierter Werbung**
+**17\. Verwendung von Profilen zur Auswahl personalisierter Werbung**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, spielen wir Ihnen Anzeigen aus, von denen wir annehmen, dass sie Ihren Interessen entsprechen. Die Auswahl erfolgt dabei auf Grundlage des mit Ihrer Einwilligung erstellten Profils für personalisierte Werbung. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -278,7 +278,7 @@ Hierbei bedienen wir uns auch der Dienste nachfolgend aufgeführter Dritter, die
 
 Um personalisierte Werbung in der richtigen Größe und in einem von Ihrem Gerät unterstützten Format ausspielen und Sie bei Anklicken der Anzeige auf die entsprechende Zielseite weiterleiten zu können, werden durch den jeweiligen Drittanbieter zudem Ihre IP-Adresse sowie Informationen zu Ihrem Gerätetyp verarbeitet. Hierbei handelt es sich um die Sonderkategorie „Bereitstellung und Anzeige von Werbung und Inhalten“. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. F.
 
-**17\. Erstellung von Profilen zur Personalisierung von Inhalten**
+**18\. Erstellung von Profilen zur Personalisierung von Inhalten**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, erstellen wir zur Ausrichtung der Inhalte (nicht Werbung) unseres Angebots auf Ihre mutmaßlichen Interessen ein Profil Ihrer Nutzung mit Informationen zu den Aktivitäten, Interessen und Besuchen auf Webseiten oder der Verwendung von Anwendungen, demographischen Informationen oder des Standorts. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
@@ -291,7 +291,7 @@ Hierbei bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem�
 *   Outbrain ( Outbrain UK Limited, 100 New Bridge Street, London, EC4V 6JA, Vereinigtes Königreich) [https://www.outbrain.com/privacy/](https://www.outbrain.com/privacy/)
 *   YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [https://support.google.com/youtube/answer/7671399?p=privacy\_guidelines&hl=de&visit\_id=0-636644030056539000-341535836&rd=1](https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=de&visit_id=0-636644030056539000-341535836&rd=1)
 
-**18\. Verwendung von Profilen zur Auswahl personalisierter Inhalte**
+**19\. Verwendung von Profilen zur Auswahl personalisierter Inhalte**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, spielen wir Ihnen ausgewählte Inhalte aus, von denen wir annehmen, dass Ihren Interessen entsprechen. Die Auswahl erfolgt dabei auf Grundlage des mit Ihrer Einwilligung erstellten Profils für personalisierte Inhalte. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
@@ -312,7 +312,7 @@ Hierbei bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem�
 
 Um die personalisierten Inhalte in der richtigen Größe und in einem von Ihrem Gerät unterstützten Format ausspielen zu können, werden durch den jeweiligen Drittanbieter zudem Ihre IP-Adresse sowie Informationen zu Ihrem Gerätetyp verarbeitet. Hierbei handelt es sich um die Sonderkategorie „Bereitstellung und Anzeige von Werbung und Inhalten“. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO.
 
-**19\. Messung der Werbeleistung**
+**20\. Messung der Werbeleistung**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, , setzen wir Dienste zur Messung der Anzeigen-Leistung ein. Dabei wird insbesondere ausgewertet und in einem Report zusammengestellt, ob und wie Anzeigen bei einem Nutzer eingeblendet wurden, ob und wie dieser mit ihnen interagiert hat, ob eine Anzeige in einem ungeeigneten redaktionellen Umfeld (brand-unsafe) eingeblendet wird und zu welchem Prozentsatz und wie lange die Anzeige hätte wahrgenommen werden können (Werbewahrnehmungschance). Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -331,7 +331,7 @@ Hierbei bedienen wir uns der Dienste der nachfolgend aufgeführten Drittanbieter
 
 Für die über Facebook Business Tools der Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland („Facebook“) erhobenen Informationen sind wir mit Facebook gemeinsam verantwortlich. Informationen zu Facebook und die Kontaktdaten des Datenschutzbeauftragten sowie weitere Informationen dazu, wie Facebook personenbezogene Daten verarbeitet, einschließlich der Rechtsgrundlage und der Möglichkeiten zur Wahrnehmung Ihrer Rechte als betroffene Person gegenüber Facebook können Sie der [Datenrichtlinie](https://www.facebook.com/about/privacy) von Facebook entnehmen. Wir haben mit Facebook eine Vereinbarung über die gemeinsame Verantwortung (Art. 26 DSGVO) geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß der DSGVO hinsichtlich der gemeinsamen Verarbeitung festgelegt haben. Danach sind wir verpflichtet, die vorstehenden Informationen bereitzustellen, und Facebook hat die Verantwortung für die weiteren Betroffenenrechte gemäß Art. 15-20 der DSGVO übernommen.
 
-**20\. Messung der Performance von Inhalten**
+**21\. Messung der Performance von Inhalten**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, setzen wir Dienste ein zu dem Zweck, die Performance von Inhalten unseres Angebots zu messen. Hierbei wird gemessen und in einem Report dargestellt, wie Inhalte an Nutzer ausgeliefert werden und wie diese mit ihnen interagiert haben. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Wir bedienen uns auch der Dienste nachfolgend aufgeführter Dritter, die gemäß Art. 4 Nr. 7 DSGVO für die über den Dienst stattfindende Datenverarbeitung verantwortlich sind. Weitere Informationen zur Datenverarbeitung durch diese Anbieter und zu Ihren Rechten als betroffene Person können Sie den nachfolgend verlinkten Datenschutzerklärungen der Anbieter entnehmen:
 
@@ -357,7 +357,7 @@ Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies e
 
 Für die über Facebook Business Tools der Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland („Facebook“) erhobenen Informationen sind wir mit Facebook gemeinsam verantwortlich. Informationen zu Facebook und die Kontaktdaten des Datenschutzbeauftragten sowie weitere Informationen dazu, wie Facebook personenbezogene Daten verarbeitet, einschließlich der Rechtsgrundlage und der Möglichkeiten zur Wahrnehmung Ihrer Rechte als betroffene Person gegenüber Facebook können Sie der [Datenrichtlinie](https://www.facebook.com/about/privacy) von Facebook entnehmen. Wir haben mit Facebook eine Vereinbarung über die gemeinsame Verantwortung (Art. 26 DSGVO) geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß der DSGVO hinsichtlich der gemeinsamen Verarbeitung festgelegt haben. Danach sind wir verpflichtet, die vorstehenden Informationen bereitzustellen, und Facebook hat die Verantwortung für die weiteren Betroffenenrechte gemäß Art. 15-20 der DSGVO übernommen.
 
-**21\. Analyse von Zielgruppen durch Statistiken oder Kombinationen von Daten aus verschiedenen Quellen**
+**22\. Analyse von Zielgruppen durch Statistiken oder Kombinationen von Daten aus verschiedenen Quellen**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, setzen wir Dienste ein zu dem Zweck, Erkenntnisse über Zielgruppen von Werbung und Inhalten zu erzielen. Hierbei werden aggregierte Berichte für Werbetreibende oder deren Repräsentanten über die Zielgruppen, die durch ihre Anzeigen erreicht werden, und welche auf der Grundlage von Befragungspanels oder ähnlichen Verfahren gewonnen wurden, erstellt. Ferner werden aggregierte Berichte für Diensteanbieter über die Zielgruppen erstellt, die durch die Inhalte und/oder Anzeigen auf ihren Diensten erreicht wurden bzw. mit diesen interagiert haben und welche über Befragungspanels oder ähnliche Verfahren ermittelt wurden. Die Berichte ermöglichen dabei keinen Rückschluss auf eine bestimmte oder bestimmbare Person. Zur Erstellung dieser Berichte werden jedoch Informationen über Ihr Nutzungsverhalten verarbeitet. Darüber hinaus werden für Zwecke der Marktforschung Offline-Daten zu einem Online-Benutzer zugeordnet, um Erkenntnisse über Zielgruppen zu gewinnen, soweit Anbieter erklärt haben, Offline-Datenquellen abzugleichen und zusammenzuführen. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
@@ -367,7 +367,7 @@ Wir bedienen uns auch der Dienste nachfolgend aufgeführter Dritter, die gemäß
 *   Microsoft Advertising (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA), [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
 *   TuneIn (TuneIn, Inc., 475 Brannan Street, Suite 320, San Francisco, CA 94107, USA), [https://cms.tunein.com/policies/privacy/?lang=de](https://cms.tunein.com/policies/privacy/?lang=de)
 
-**22\. Entwicklung und Verbesserung der Angebote**
+**23\. Entwicklung und Verbesserung der Angebote**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, setzen wir Dienste ein zu dem Zweck, Angebote zu entwickeln und zu verbessern, z.B. durch neue Funktionen. Hierfür werden Informationen über Ihr Nutzungsverhalten verarbeitet. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
@@ -380,7 +380,7 @@ Wir bedienen uns auch der Dienste nachfolgend aufgeführter Dritter, die gemäß
 *   Xandr (ehemals AppNexus)-(Xandr Inc., 28 W. 23rd Street, New York, New York, 10010, USA ) [https://www.xandr.com/privacy/platform-privacy-policy](https://www.xandr.com/privacy/platform-privacy-policy)/#choices
 *   YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [https://support.google.com/youtube/answer/7671399?p=privacy\_guidelines&hl=de&visit\_id=0-636644030056539000-341535836&rd=1](https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=de&visit_id=0-636644030056539000-341535836&rd=1)
 
-**23\. Verwendung reduzierter Daten zur Auswahl von Inhalten**
+**24\. Verwendung reduzierter Daten zur Auswahl von Inhalten**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, verarbeiten wir Echtzeit-Informationen über das inhaltliche Umfeld und Ihre Interaktion sowie das verwendete Gerät, wie z. B. Gerätetyp und -funktionen, Browser-Kennung, URL, IP-Adresse und Ihre ungefähren Standortdaten. Dies geschieht zu dem Zweck, die Auswahl und Ausspielung der Inhalte zu optimieren und die Häufigkeit und Reihenfolge der Inhalte-Einblendungen zu steuern. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -401,7 +401,7 @@ Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem
 *   X Corp. (X Corp., 1355 Market Street, Suite 900 San Francisco, CA 94103, USA), [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 *   YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [https://support.google.com/youtube/answer/7671399?p=privacy\_guidelines&hl=de&visit\_id=0-636644030056539000-341535836&rd=1](https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=de&visit_id=0-636644030056539000-341535836&rd=1)
 
-**24\. Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung (Sonderkategorie)**
+**25\. Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung (Sonderkategorie)**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, 
 
@@ -409,13 +409,13 @@ verarbeiten wir und die im Privacy-Manager unter der entsprechenden Sonderkatego
 
 Soweit es um die Verarbeitung für die Zwecke der Gewährleistung von Sicherheit, Verhinderung von Betrug und Behebung von Fehlern durch Drittanbieter zu deren eigenen Zwecken geht, setzt dies natürlich voraus, dass Sie dem jeweiligen Drittanbieter Ihre Einwilligung in die Verarbeitung personenbezogener Daten zu einem bestimmten Zweck überhaupt erteilt bzw. der Datenverarbeitung nicht widersprochen haben. 
 
-**25\. Ihre Entscheidung zum Datenschutz speichern und übermitteln (Sonderkategorie)**
+**26\. Ihre Entscheidung zum Datenschutz speichern und übermitteln (Sonderkategorie)**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, übermitteln wir Ihre Privacy-Manager-Einstellungen bzw. -Präferenz in Form einer codierten Zeichenfolge (sog. TC-String) an die Drittanbieter, die im Privacy-Manager unter dieser Sonderkategorie aufgeführt werden. Dies erfolgt zu dem Zweck, dass sowohl unser Angebot als auch die betreffenden Drittanbieter Ihre Datenschutzentscheidungen respektieren können.
 
 Die Verarbeitung Ihrer Entscheidungen erfolgt auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 Satz 1 lit. f DSGVO, um Ihnen eine transparente und auf Ihre Wünsche abgestimmte Nutzererfahrung zu bieten und Ihre Datenschutzrechte zu wahren.
 
-**26\. Vermarktung von Online-Werbeplätzen**
+**27\. Vermarktung von Online-Werbeplätzen**
 
 Zur Refinanzierung unseres Angebots lassen wir dieses durch unseren Werbevermarkter Media Impact GmbH & Co KG (Media Impact Vermarktungspartner) vermarkten. Im Rahmen der Vermarktung setzt Media Impact Vermarktungspartner Dienste von Drittanbietern ein. 
 
@@ -427,7 +427,7 @@ Wir haben mit Media Impact Vermarktungspartner und den von Media Impact Vermarkt
 
 Weitere Informationen zu Media Impact Vermarktungspartner und den von ihr eingesetzten Drittanbietern finden Sie unter [https://www.mediaimpact.de/de/ueber-unsere-werbung](https://www.mediaimpact.de/de/ueber-unsere-werbung). 
 
-**27\. Vermarktung von Segmentdaten**
+**28\. Vermarktung von Segmentdaten**
 
 Zur Refinanzierung unseres Angebots lassen wir auf unserem Angebot erhobene Segmentdaten durch cmmrcl.ly GmbH (cmmrcl.ly) auf Social Media Plattformen vermarkten. Segmentdaten sind strukturierte Daten über Nutzergruppen, die für Personalisierung und zielgerichtete Ansprache genutzt werden können. Sie entstehen durch Analyse und Gruppierung von Nutzerdaten nach bestimmten Merkmalen, einschließlich technischer Daten, demografischer Daten und Verhaltensdaten. 
 
@@ -437,7 +437,7 @@ Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Sie k
 
 Wir haben mit cmmrcl.ly eine Vereinbarung i.S.v. Art. 26 DSGVO geschlossen, in der wir die jeweiligen Verantwortlichkeiten für die Erfüllung der Verpflichtungen gemäß der DSGVO im Rahmen der gemeinsamen Verantwortung festgelegt haben. Danach sind wir verpflichtet, Ihnen die Erteilung datenschutzrechtlicher Einwilligungen bzw. Widersprüche zu ermöglichen. Zudem sind wir die zentrale Anlaufstelle für Sie als betroffene Person. Wir leiten Betroffenenanfragen, die bei uns eingehen und die Verarbeitung in gemeinsamer Verantwortung betreffen, unverzüglich an cmmrcl.ly zur Beantwortung weiter. Dessen ungeachtet können Sie die Ihnen nach der DSGVO zustehenden Rechte als betroffene Person sowohl bei und gegenüber uns als auch bei und gegenüber jedem Verantwortlichen geltend machen.
 
-**28\. Vermarktung von Werbeplätzen im Connatix Video Player**
+**29\. Vermarktung von Werbeplätzen im Connatix Video Player**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, lassen wir die Werbeplätze in den Connatix Video Playern in unserem Angebot zur Refinanzierung unseres Leistungsangebots und zu dem Zweck, die in dem betreffenden Video Player auf unserer Website ausgespielte Werbung an Ihren Interessen auszurichten, von Connatix Native Exchange Inc., 666 Broadway, 10th Floor, New York, NY 10012, USA („Connatix“) vermarkten.
 
@@ -451,7 +451,7 @@ https://connatix.com/privacy-policy#videoPlatformPrivacy (Datenschutzerklärung)
 
 Subprocessors | JWX (Liste möglicher Drittanbieter von Connatix)
 
-**29\. Affiliate-Marketing**
+**30\. Affiliate-Marketing**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben und sofern Sie über einen Werbebanner von einer externen Internetseite auf unsere Website gelangt sind, erhalten wir von dem Betreiber der externen Website („Affiliate“) die Information, dass ein Nutzer über die externe Seite auf unser Angebot gelangt ist. Hierbei handelt es sich um die dem beworbenen Angebot zugeordnete Produkt-ID sowie die Identifikationsnummer des Affiliate (Affiliate-ID) und eine aus einer beliebigen Nummernfolge erstellte Nutzer-ID. Diese Informationen werden von uns in einem Cookie auf Ihrem Endgerät gespeichert. Sollten Sie innerhalb von 30 Tagen das Angebot auf unserer Website bestellen, werden diese Informationen mit Abschluss des Bestellvorgangs automatisiert und verschlüsselt an den Affiliate übermittelt. Mit Abschluss des Bestellvorgangs, spätestens aber nach Ablauf von 30 Tagen wird das Cookie automatisch gelöscht. Sofern Sie das beworbene Produkt käuflich erwerben und von Ihrem fernabsatzrechtlichen Widerrufsecht keinen Gebrauch machen, erhält der Affiliate eine Provision von dem Advertiser. Zu diesem Zweck wird die Ihnen zugeteilte Auftragsnummer verarbeitet. Die Verarbeitung dieser Daten erfolgt zu dem Zweck, Provisionszahlungen zwischen uns und dem Affiliate abzurechnen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO. Der Affiliate kann anhand der Informationen nur erkennen, dass ein Nutzer von der externen Internetseite über den Werbebanner auf unsere Website gelangt ist und dort das beworbene Produkt bestellt und von seinem fernabsatzrechtlichen Widerrufsrecht keinen Gebrauch gemacht hat. 
 
@@ -463,15 +463,15 @@ Weitergehende Informationen zu den einzelnen Affiliate-Netzwerken und Ihren Rech
 
 *   AWIN (AWIN AG, Landsberger Allee 104 BC, 10249 Berlin, Deutschland), [https://www.awin.com/de/rechtliches/privacy-policy](https://www.awin.com/de/rechtliches/privacy-policy)
 
-**30\. Partnerangebote**
+**31\. Partnerangebote**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, binden wir in unsere Website auch interessante Angebote von ausgewählten Partnern ein („Partnerangebote“). Sie erkennen diese an der entsprechenden Kennzeichnung (z.B. „Ein Angebot von“). Die Partnerangebote werden von dem dort angegebenen Partner bereitgestellt. Für das Ausspielen der Partnerangebote ist es erforderlich, dass Ihr Browser eine direkte Verbindung zu den Servern des Partners aufbaut. Hierfür ist die Verarbeitung Ihrer IP-Adresse erforderlich. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO. Verantwortlich für die über das Partnerangebot stattfindenden Datenverarbeitungsvorgänge gemäß Art. 4 Nr. 7 DSGVO ist der Partner. Informationen zu den über die Partnerangebote stattfindenden Datenverarbeitungsvorgängen und Ihren Rechten als betroffene Person entnehmen Sie bitte der in dem jeweiligen Partnerangebot verlinkten Datenschutzerklärung des Partners.
 
-**31\. Partnerserviceseiten**
+**32\. Partnerserviceseiten**
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, werden Ihnen auch Serviceseiten von ausgewählten Partnern ausgespielt („Partnerserviceseite“). Sie erkennen diese an der entsprechenden Kennzeichnung (z.B. „Ein Service von“). Die Partnerserviceseite wird von dem dort angegebenen Partner bereitgestellt. Verantwortlich für den Inhalt der Partnerserviceseite und die dort stattfindenden Datenverarbeitungsvorgänge gemäß Art. 4 Nr. 7 DSGVO ist – mit Ausnahme des Headers und Footers der Website – der Partner. Informationen zum Partner erhalten Sie in dem in der Partnerserviceseite verlinkten Impressum des Partners. Informationen zu den über die Partnerserviceseite stattfindenden Datenverarbeitungsvorgängen und Ihren Rechten als betroffene Person entnehmen Sie bitte der ebenfalls dort verlinkten Datenschutzerklärung des Partners.
 
-**32\. Partnerseiten** 
+**33\. Partnerseiten** 
 
 Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies erteilt haben, werden Ihnen auch Seiten von den nachfolgend aufgeführten Partnern ausgespielt („Partnerseite“), die für die über die Partnerseite stattfindende Datenverarbeitung gemäß Art. 4 Nr. 7 DSGVO verantwortlich sind. Weitere Informationen zu den über die Partnerseite stattfindenden Datenverarbeitungsvorgängen und Ihren Rechten als betroffene Person entnehmen Sie bitte der jeweils nachfolgend verlinkten Datenschutzerklärung des Partners: 
 
@@ -639,21 +639,22 @@ Der Dienst „WELTgo!“ dient der spielerischen Erkundung von Möglichkeiten, m
 
 Rechtsgrundlage für die im Rahmen der Nutzung von „WELTgo!\_“ anfallenden Gerätezugriffe sowie für die Weitergabe personenbezogener Daten an Microsoft Azure ist Art. 6 Abs. 1 lit. a DSGVO. Sie können diese Datenverarbeitungen jederzeit für die Zukunft unterbinden, indem Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies widerrufen. Klicken Sie hierzu auf den Link „Widerruf Tracking und Cookies“ am Seitenende.
 
-Im Rahmen Ihrer Nutzung von „WELTgo!\_“ speichern wir außerdem Ihre Texteingaben in das „WELTgo!\_“-Eingabefeld und die von „WELTgo!\_“ generierten Antworten ("Chatverläufe"). Wenn Sie mit Ihrem Mein BILD-Konto eingeloggt sind, speichern wir die Chatverläufe in Ihrem Benutzerkonto. Bei einem erneuten Zugriff auf „WELTgo!\_“ im eingeloggten Zustand können Sie Ihre bisherigen Chatverläufe einsehen. Sie können jeden Chatverlauf eigenständig löschen, indem Sie auf das Papierkorb-Symbol rechts neben dem Chatverlauf klicken. Gelöschte Chatverläufe werden bei uns nicht weiter gespeichert. Wenn Sie eingeloggt sind, können wir Sie außerdem mit dem Namen ansprechen, der Ihrem Benutzerkonto zugeordnet ist. Diese Information entnehmen wir dem Browser Ihres Endgeräts, speichern sie jedoch im Rahmen Ihrer Nutzung von „WELTgo!\_“ nicht. Wenn Sie über kein Mein BILD-Konto verfügen oder nicht eingeloggt sind, wird Ihr Chatverlauf einer zufällig generierten ID zugeordnet, die auf Ihrem Endgerät in einem Cookie gespeichert ist, welcher binnen Monatsfrist gelöscht wird. Sofern Sie einen Chatverlauf nicht eigenständig löschen, werden sämtliche Chatverläufe spätestens ein Jahr nach ihrer Erstellung nutzerübergreifend gelöscht.
+Im Rahmen Ihrer Nutzung von „WELTgo!\_“ speichern wir außerdem Ihre Texteingaben in das „WELTgo!\_“-Eingabefeld und die von „WELTgo!\_“ generierten Antworten ("Chatverläufe"). Wenn Sie mit Ihrem Mein WELT-Konto eingeloggt sind, speichern wir die Chatverläufe in Ihrem Benutzerkonto. Bei einem erneuten Zugriff auf „WELTgo!\_“ im eingeloggten Zustand können Sie Ihre bisherigen Chatverläufe einsehen. Sie können jeden Chatverlauf eigenständig löschen, indem Sie auf das Papierkorb-Symbol rechts neben dem Chatverlauf klicken. Gelöschte Chatverläufe werden bei uns nicht weiter gespeichert. Wenn Sie eingeloggt sind, können wir Sie außerdem mit dem Namen ansprechen, der Ihrem Benutzerkonto zugeordnet ist. Diese Information entnehmen wir dem Browser Ihres Endgeräts, speichern sie jedoch im Rahmen Ihrer Nutzung von „WELTgo!\_“ nicht. Wenn Sie über kein Mein WELT-Konto verfügen oder nicht eingeloggt sind, wird Ihr Chatverlauf einer zufällig generierten ID zugeordnet, die auf Ihrem Endgerät in einem Cookie gespeichert ist, welcher binnen Monatsfrist gelöscht wird. Sofern Sie einen Chatverlauf nicht eigenständig löschen, werden sämtliche Chatverläufe spätestens ein Jahr nach ihrer Erstellung nutzerübergreifend gelöscht.
 
 Wenn Sie mit Ihrem Mein Welt-Konto eingeloggt sind, können wir relevante Informationen aus Ihren Chatverläufen wie beispielsweise Nutzerpräferenzen, wiederkehrende Themen oder individuelle Aspekte als Erinnerungen speichern. Diese Erinnerungen dienen ausschließlich dazu, personalisierte Gesprächserlebnisse zu ermöglichen. In den Einstellungen (erreichbar durch Klick auf den Nutzernamen unterhalb des Chatverlaufs) können Sie die Personalisierung vollständig deaktivieren, gespeicherte Erinnerungen einsehen sowie einzelne oder alle Erinnerungen löschen.
 
 Die Speicherung der Chatverläufe und Erinnerungen ist für die Erbringung des von Ihnen angeforderten personalisierten Chatbot-Dienstes erforderlich. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO.
 
-Wenn Sie im Privacy-Manager zusätzlich Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben, beachten Sie bitte unsere weiteren Informationen dazu in Ziffer 14.
+Wenn Sie im Privacy-Manager zusätzlich Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben, beachten Sie bitte unsere weiteren Informationen dazu in Ziffer 13.
 
 **13\. Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung** 
 
-Wenn Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben und den Dienst „ WELTgo!\_“ in Anspruch nehmen, werden Ihr Chat-Verlauf (Ihre Texteingaben in das „WELTgo!“-Eingabefeld und die von „WELTgo!“ generierten Antworten), Ihre IP-Adresse, eine pseudonyme Kennung sowie Ihr ungefährer Standort (Stadt, Region bzw. PLZ) gesondert erfasst, um Ihnen relevante Werbung auf unserem Angebot anzuzeigen. Mit Ihrer Einwilligung dürfen die vorstehenden Daten zudem zur Messung von Werbeleistung und der Performance von Inhalten und zur Zielgruppenforschung verarbeitet werden. Außerdem dürfen die vorstehenden Daten mit Ihrer Einwilligung zur Entwicklung und Verbesserung von Angeboten verarbeitet werden.
+Wenn Sie im Privacy-Manager Ihre Einwilligung in den Verarbeitungszweck „Verwendung und Weitergabe von Chatbotdaten zur Werbeausspielung“ erteilt haben und den KI-Dienst „ WELTgo!\_“ oder mit „WELTgo! verbundene interaktive Elemente nutzen, werden Ihr Chat-Verlauf (Ihre Texteingaben in das „WELTgo!“-Eingabefeld und die von „WELTgo!“ generierten Antworten) oder Ihre Eingaben in den interaktiven „Hey\_“-Elementen, Ihre IP-Adresse, eine pseudonyme Kennung sowie Ihr ungefährer Standort (Stadt, Region bzw. PLZ) gesondert erfasst, um Ihnen relevante Werbung auf unserem Angebot anzuzeigen. Mit Ihrer Einwilligung dürfen die vorstehenden Daten zudem zur Messung von Werbeleistung und der Performance von Inhalten und zur Zielgruppenforschung verarbeitet werden. Außerdem dürfen die vorstehenden Daten mit Ihrer Einwilligung zur Entwicklung und Verbesserung von Angeboten verarbeitet werden.
 
 Wir bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gemäß Art. 4 Nr. 7 DSGVO für die über Ihren jeweiligen Dienst stattfindende Datenverarbeitung verantwortlich sind. Weitere Informationen zur Datenverarbeitung durch diese Anbieter und Ihren Rechten als betroffene Person können Sie den nachfolgend verlinkten Datenschutzerklärungen der Anbieter entnehmen. 
 
 *   Google Chat Ads (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) [https://www.google.de/intl/de/adsense/start/](https://www.google.de/intl/de/adsense/start/%22%20/t%20%22_blank) 
+*   Media Impact Vermarktungspartner / Media Impact Nutzerkennung (Media Impact GmbH & Co. KG, Axel Springer Straße 65, 10888 Berlin, Deutschland) [https://www.mediaimpact.de/de/ueber-unsere-werbung/](https://www.mediaimpact.de/de/ueber-unsere-werbung/)
 
 Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO. Sie können die Datenverarbeitungen für die hier beschriebenen Nutzungszwecke jederzeit beenden, indem Sie Ihre Einstellungen im Privacy-Manager entsprechend anpassen oder indem Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies insgesamt widerrufen (Link „Widerruf Tracking und Cookies“ am Seitenende). 
 
@@ -671,4 +672,4 @@ Wenn Sie sich als registrierter WELT-Kunde auf unserer Webseite für eine kosten
 
 Im Rahmen einer WELT Veranstaltung können Foto- und Bewegtbildaufnahmen von Ihnen angefertigt werden, die zu Pressezwecken sowie im Rahmen der Öffentlichkeitsarbeit (einschließlich der Information über Folge- oder ähnlichen Veranstaltungen und der internen Kommunikation), zur Darstellung und Dokumentation der Veranstaltung für die Teilnehmer und Dritte auf Webseiten und Social-Media-Präsenzen (Twitter, YouTube etc.) (berechtigtes Interesse gemäß Art. 6 Abs. 1 lit. f DSGVO) genutzt werden. Die Bildaufnahmen können ggf. auch für eine dem Zweck der Veranstaltung entsprechende Berichterstattung in gedruckten, elektronischen oder elektromagnetisch arbeitenden Medien (inkl. Hör-, Fernsehfunk und Telemedien) z.B. in Nachrichtensendungen/-magazinen, Eventsendungen, ggf. live, unabhängig von dem Medium und der Übertragungstechnik, analog oder digital) einschließlich Livestream- oder Video-on-Demand-Berichterstattung (z.B. auf unserer Website und/oder einer Website des organisatorischen Ausrichters, eines oder mehrerer Sponsoren und/oder einer speziell zu dieser Veranstaltung eingerichteten Website) genutzt werden. Soweit die Aufnahmen journalistischen Zwecken dienen, unterfallen sie dem Medienprivileg (Art. 85 DSGVO i.V.m. dem Rundfunkstaatsvertrag sowie den Pressegesetzen und Medienverträgen der Länder) und dürfen zu diesem Zweck verarbeitet werden. Soweit die Aufnahmen keinen journalistischen Zwecken dienen, können sie maximal fünf Jahre lang von uns im Rahmen der vorgenannten Zwecke genutzt werden. Etwaige Aufbewahrungspflichten zur Erfüllung bilanzieller und steuerlicher Zwecke (§ 257 HGB, § 147 AO) bleiben hiervon unberührt. Mit Ihrer Teilnahme an der Veranstaltung erklären Sie sich zugleich im Sinne des Kunsturhebergesetzes (§ 22 KUG) einverstanden, dass Foto- und Bewegtbildaufnahmen angefertigt werden und in dem vorstehend beschriebenen Umfang genutzt werden. Die Nutzung erfolgt, insbesondere auf der Webseite zu dieser Veranstaltung, zu Zwecken der Dokumentation und Öffentlichkeitsarbeit in allen Medien (einschließlich TV-Berichterstattung in Nachrichtensendungen oder Magazinen oder Livestream- oder Video-on-Demand-Berichterstattung auf unserer Website) auch durch Medien Dritter (mit Ausnahme von Medien, die das allgemeine Gleichbehandlungsgesetz oder die Werteordnung des Grundgesetzes in ihrer Tendenz ablehnen, insbesondere Hassaufrufe verbreiten) sowie der Imagepflege des Verantwortlichen und des organisatorischen Ausrichters (in Broschüren, Booklets, Videoclips und anderen Imagemedien) und für deren historische Dokumentation, soweit ausnahmsweise keine entgegenstehenden zu schützenden persönlichen Interessen das Interesse an dieser Nutzung überwiegen. Des Weiteren können zur Darstellung, sowie Dokumentation der Veranstaltung für die Teilnehmer von Ihnen Foto- und Bewegtbildaufnahmen angefertigt werden, die nach der Veranstaltung den Teilnehmern als Galerie und/oder Download zur Verfügung gestellt werden (berechtigtes Interesse gemäß Art. 6 Abs. 1 lit. f DSGVO).
 
-**Stand:** 04.03.2026
+**Stand:** 15.05.2026

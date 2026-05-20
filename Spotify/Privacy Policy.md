@@ -1,5 +1,3 @@
-Der Schutz deiner Daten liegt uns am Herzen. Ab dem 20. April 2026 gilt unsere aktualisierte Datenschutzrichtlinie mit zusätzlichen Informationen dazu, wie wir Daten verarbeiten.
-
 **Datenschutzrichtlinie von Spotify**
 =====================================
 

@@ -33,7 +33,7 @@ Diese Logfiles sind vor Zugriff besonders geschützt.
 Inhalte von Drittanbietern
 --------------------------
 
-In einigen unserer Seiten sind Inhalte von den Drittanbietern **Instagram**, **Facebook, X (ehemals Twitter)** und **Youtube** eingebettet. Wenn Sie diese Seiten abrufen, speichern diese Anbieter Daten wie z.B. Ihre IP-Adresse auf ihren Servern. Wenn Sie damit nicht einverstanden sind, können Sie die Einbettung der Inhalte von diesen Anbietern hier unterbinden. Entfernen Sie einfach den Optionshaken vor dem jeweiligen Anbieter, dann werden Ihnen dessen Inhalte nicht angezeigt. Ihre Auswahl wird mit Hilfe eines Cookies auf Ihrem Rechner gespeichert und kann von Ihnen jederzeit wieder rückgängig gemacht werden.
+In einigen unserer Seiten sind Inhalte von den Drittanbietern eingebettet. Wenn Sie diese Seiten abrufen, speichern diese Anbieter Daten wie z.B. Ihre IP-Adresse auf ihren Servern. Wenn Sie damit nicht einverstanden sind, können Sie die Einbettung der Inhalte von diesen Anbietern hier unterbinden. Entfernen Sie einfach den Optionshaken vor dem jeweiligen Anbieter, dann werden Ihnen dessen Inhalte nicht angezeigt. Ihre Auswahl wird mit Hilfe eines Cookies auf Ihrem Rechner gespeichert und kann von Ihnen jederzeit wieder rückgängig gemacht werden.
 
 Wir nutzen außerdem die Anwendung **Datawrapper**. Mit Datawrapper können wir die Ergebnisse datenjournalistischer Recherchen visualisieren. Über die Embed-Funktionalität von Datawrapper integrieren wir diese Visualisierungen in unsere Seiten. Wenn Sie damit nicht einverstanden sind, können Sie auch die Einbettung dieser Inhalte wie oben beschrieben hier unterbinden.
 
@@ -121,6 +121,12 @@ Datenschutzerklärung: https://faurecia-aptoide.com/privacy-policy/
 APP-Store-Betreiber: [Harman International Industries](https://www.harman.com/ "Website Harman Ignite"), Incorporated (“Harman”), 400 Atlantic Street, Stamford, Connecticut 06901, US
 
 Datenschutzerklärung: https://www.harman.com/privacy-policy
+
+Sportdaten im Player
+--------------------
+
+Wir nutzen in den Produkten der Sportschau den Dienst TVXRAY der Firma Qvest (https://tvxray.com/), um bei Liveinhalten, wie z.B. ausgewählten Sportübertragungen, interaktive Funktionen mit Live-Statistiken im ARD-Player bereitzustellen. Im Rahmen dieser Live-Übertragungen wird Ihre IP-Adresse an Qvest übermittelt und verarbeitet. Qvest verarbeitet Ihre IP-Adresse ausschließlich nach unseren Weisungen und auf Grundlage vertraglicher Vereinbarungen, die ein angemessenes Datenschutzniveau gewährleisten.  
+Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §§ 30, 31i Abs. 1 S. 2 MStV.
 
 Personenbezogene Daten
 ----------------------

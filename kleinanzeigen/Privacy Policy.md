@@ -4,7 +4,7 @@ Datenschutzerklärung
   
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.  
   
-**Diese Datenschutzerklärung gilt ab dem 24.04.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-24042026/) können Sie die vorherige Datenschutzerklärung einsehen.**
+**Diese Datenschutzerklärung gilt ab dem 20.05.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-20052026/) können Sie die vorherige Datenschutzerklärung einsehen.**
 
 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 --------------------------------------------------------------------
@@ -256,6 +256,7 @@ Informationen zu Ihrem Widerspruchsrecht gegen die Verarbeitung auf Basis unsere
 *   Erstellung von Nutzersegmenten zur Personalisierung, Messung und Verbesserung unserer Werbeanzeigen und Werbeanzeigen Dritter in unseren Online-Angeboten, Online-Angeboten anderer Mitglieder unserer Unternehmensgruppe oder Dritter.
 *   Werbung per Telefon oder elektronischer Post (wie E-Mail oder SMS), sofern dies nicht bereits ohne Ihre ausdrückliche Einwilligung zulässig ist, einschließlich Werbung für Produkte anderer Mitglieder unserer Unternehmensgruppe oder von Dritten.
 *   Analyse des Nutzerverhaltens zur Verbesserung unserer Services mit Hilfe von eigenen Tools sowie Tools von Drittanbietern, auch im Rahmen der Produktentwicklung, soweit die Datenverarbeitung zu diesen Zwecken nicht auf eine andere Rechtsgrundlage (insbes. berechtigte Interessen) gestützt wird.
+*   Aufzeichnung, Transkription und Analyse der Gespräche mit unseren Mitarbeitern (z.B. Sales Team) zum Zwecke der Qualitätssicherung.
 *   Verarbeitung Ihrer exakten Standortdaten, um standortbezogene Dienstleistungen bereitstellen zu können.
 *   Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung, die Sie erteilt haben, damit wir oder Dritte Ihnen die Nutzung bestimmter Services ermöglichen oder Ihnen diese zur Verfügung stellen können.  
       

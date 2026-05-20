@@ -2,9 +2,9 @@ Zalando
 Privacy Notice
 ========================
 
-[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/6264a7fa-33a0-42b3-8021-da7a5fd85469.pdf)
+[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/5c9862a3-29bf-40f2-b406-559f2234e9ad.pdf)
 
-As at: 09/2025
+As at: 05/2026
 
 This Privacy Notice gives you an overview of how Zalando processes your data. It applies to all websites, apps and other benefits and services offered by Zalando.
 
@@ -323,6 +323,8 @@ The size recommendations for shoes in the Zalando shop use a machine learning al
 In order to combat the risk of data security breaches, data pertaining to users of our services is encrypted in transmission. This applies both to ordering and to registering for a customer account. For this we use the coding system SSL (Secure Socket Layer). Encryption prevents third parties from viewing the data. To provide additional protection from external attacks, we rely on special security technologies which constantly check our systems and identify and report anomalies. We also use technical and organisational measures to secure our systems against loss, destruction, unauthorised access or distribution of customer data by unauthorised persons. In this manner we wish to keep the risk of unauthorised access as low as possible, because protecting your data is our top priority. However, we - like other companies - cannot guarantee absolute protection.
 
 We also use technical and manual procedures for fraud prevention in order to protect us and our users from misuse of data, especially by fraudulent orders. To this end, Zalando SE as well as Zalando Payments GmbH summarise and evaluate your device and access data (including IP address, identifiers, user behaviour), shopping data and payment details (including address and other creditworthiness data from external credit agencies) as well as the change history of your account/profile information (e.g. when your delivery address was last changed) under a pseudonym when executing an order. The record is also compared with your previous usage and order habits. We also compare it to general records from all Zalando orders (also from other Zalando Group companies) involving confirmed or suspected fraudulent actions. This comparison allows us to identify fraud patterns and to prevent fraud and identity theft by comparing patterns. Sometimes when based on our analysis the likelihood of fraud is very high, we may cancel orders or deactivate accounts in order to minimise the risk of fraudulent orders and protect users whose accounts may have been taken over. In this context, Zalando SE as well as Zalando Payments GmbH might cooperate with external service providers.
+
+Zalando furthermore reserves the right to take the measures described above—such as the cancellation of orders or the deactivation of accounts—provided that the analysis described in more detail above, conducted via technical and/or manual processes, indicates a high probability that Zalando's Terms and Conditions have been violated. This includes, for example, making one or more purchases for commercial purposes in order to resell the purchased goods to third parties (such as consumers), or opening multiple customer accounts and/or making one or more purchases through one of these additional accounts.
 
 Similarly, if our analysis shows that customers are returning items in a disproportionate and/or abusive manner, for example, through an excessive number of returns, Zalando reserves the right to prevent these customers from placing further orders for a certain period of time (pause).
 
@@ -1098,9 +1100,10 @@ You can find detailed privacy policies for CRIF GmbH in the sense of Article 14 
 
 The service providers for collection services in Germany are:
 
-*   Alektum GmbH, Lloydstraße 4, 28217 Bremen
+*   Myntro Collect GmbH, Lloydstraße 4, 28217 Bremen
 *   Riverty Services GmbH, Gütersloher Straße 123, 33415 Verl
 *   PAIR Finance GmbH, Knesebeckstraße 62-63, D-10719 Berlin
+*   coeo Inkasso GmbH, Kieler Str. 16, 41540 Dormagen
 
 **Test of fraud prevention related cooperation**
 
@@ -1118,7 +1121,7 @@ You can find detailed privacy policies for CRIF GmbH in the sense of Article 14 
 
 The service providers for collection services in Austria are:
 
-*   Alektum GmbH, Donau-City-Straße 6/15A1, 1220 Wien
+*   Myntro Collect GmbH, Donau-City-Straße 6/15A1, 1220 Wien
 *   Riverty Services Austria GmbH, Karl-Popper-Straße 2/Top 6, 1100 Wien
 *   PAIR Collect GmbH, Postgasse 8b, A-1010 Wien
 
@@ -1138,7 +1141,7 @@ You can find detailed privacy policies for CRIF GmbH in the sense of Article 14 
 
 The service providers for collection services in Switzerland are:
 
-*   Alektum AG, Gubelstrasse 24, 6300 Zug
+*   Myntro Collect AG, Gubelstrasse 24, 6300 Zug
 *   Infoscore Inkasso AG, Ifangstrasse 8, 8952 Schlieren
 *   PAIR Finance Suisse GmbH, Tessinerplatz 7, 8002 Zürich
 
@@ -1154,6 +1157,7 @@ The service providers for collection services in the Netherlands are:
 
 *   Alektum BV, Transformatorweg 98-6, 1014 AK Amsterdam
 *   PAIR Finance B.V., Vijzelstraat 68, 1017 HL Amsterdam
+*   coeo Incasso BV, Wilhelminakade 153, 31th Floor, 3072 AP Rotterdam
 
 **Test of fraud prevention related cooperation**
 
@@ -1186,7 +1190,7 @@ The service provider of credit checks for consumers in Sweden is **Creditsafe i 
 
 The service providers for collection services in Sweden are:
 
-*   Alektum Group AB, Nils Ericsonsgatan 17, Box 111 08, 404 23 Göteborg
+*   Myntro Collect AB, Nils Ericsonsgatan 17, Box 111 08, 404 23 Göteborg
 *   PAIR Finance Sweden AB, Vasagatan 12, 111 20 Stockholm
 
 ### 17.7 Norway
@@ -1199,8 +1203,9 @@ The service provider of credit checks for consumers in Norway is **Experian AS, 
 
 The service providers for collection services in Norway are:
 
-*   Alektum AS, Grev Wedels plass 9, Postboks 2077 Vika, 0125 Oslo
+*   Myntro Collect AS, Grev Wedels plass 9, Postboks 2077 Vika, 0125 Oslo
 *   Lowell Norge AS, Postboks 6354, Etterstad, 0604 Oslo
+*   PAIR Finance Norway AS, c/o Greenstep Norge AS, Bernt Ankers gate 17, 1534 Moss
 
 ### 17.8 Finland
 
@@ -1212,8 +1217,9 @@ The service provider of credit checks for consumers in Finland is **Suomen Asiak
 
 The service providers for collection services in Finland are:
 
-*   Credit Visor Oy, PL 104, 00101 Helsinki
+*   Myntro Collect Oy, PL 104, 00101 Helsinki
 *   Lowell Suomi Oy, PL 20, 20101 Turku
+*   coeo Perintä Oy, Eteläesplanadi 2, 00130 Helsinki
 
 ### 17.9 France
 
@@ -1234,7 +1240,7 @@ To assess the effectiveness of our collaboration with certain fraud‑prevention
 
 The service providers for collection services in Denmark are:
 
-*   Alektum A/S, Frederiks plads 36, 3, 8000 Århus
+*   Myntro Collect A/S, Frederiks plads 36, 3, 8000 Århus
 *   Lowell Danmark A/S, Langmarksvej 57D, 8700 Horsens
 
 ### 17.11 Italy
@@ -1269,7 +1275,7 @@ The service providers for the verification of consumer solvency in Poland are **
 
 The service providers for collection services in Poland are:
 
-*   Alektum Sp. z o.o., Gen. Józefa Bema 2, 50-264 Wrocław
+*   Myntro Collect Sp. z o.o., Gen. Józefa Bema 2, 50-264 Wrocław
 *   Intrum Sp. z o.o., Domaniewska 48, 02-672 Warszawa
 *   PAIR Finance Poland sp. z o.o., ul. Waryńskiego 3A, 00-645 Warszawa
 

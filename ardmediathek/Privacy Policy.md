@@ -32,13 +32,13 @@ Um Ihnen ein relevantes journalistisches Angebot zu präsentieren, führen wir s
 
 Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten, erhalten Sie auf den nachfolgend verlinkten Webseiten weitere Informationen hierzu:
 
-• Nutzungsmessung durch Piano Analytics
+• Nutzungsmessung durch Piano Analytics ([https://developers.piano.io/analytics/data-collection/general/cookie-storage/](https://developers.piano.io/analytics/data-collection/general/cookie-storage/))
 
-• Digitale Messung durch Nielsen
+• Digitale Messung durch Nielsen ([https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/](https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/))
 
-• AGF/GfK-Streaming-Messung
+• AGF/GfK-Streaming-Messung ([https://sensic.net/privacypolicy\_de.html?scope=streaming-agf](https://sensic.net/privacypolicy_de.html?scope=streaming-agf))
 
-Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1.
+Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1 ([https://www.mdr.de/rundfunkdatenschutz/index.html](https://www.mdr.de/rundfunkdatenschutz/index.html)).
 
 Ihre Widerspruchsmöglichkeit
 
@@ -59,7 +59,7 @@ In ARD Sounds nutzen wir den Apple Push Notification Service der Firma Apple ([h
 
 Apple erzeugt einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Apple-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Apple dient ausschließlich als Übermittler.
 
-Mehr erfahren Sie in der Datenschutzerklärungen der Firma Apple.
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Apple unter: [https://www.apple.com/de/legal/privacy/de-ww/](https://www.apple.com/de/legal/privacy/de-ww/)
 
 Caplena
 
@@ -67,13 +67,13 @@ Wir nutzen den Dienst Caplena der Firma Caplena ([https://caplena.com/de/](https
 
 Caplena ermöglicht uns einen schnellen Überblick über die gemachten Angaben, damit wir die Erkenntnisse aus den Texteingaben den verantwortlichen Stellen zuleiten können.
 
-Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena.
+Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena unter: [https://caplena.com/en/privacy-policy/](https://caplena.com/en/privacy-policy/)
 
 Chromecast
 
 Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), damit Sie Videos von unserer Website auf ein Chromecast-Gerät übertragen können. Google kann im Rahmen der Cast Funktion System- und Nutzungsdaten verarbeiten, die notwendigen Geräteinformationen enthalten können. Eine Datenverarbeitung findet nur statt, wenn Sie Google Chrome als Browser verwenden, da nur hier die Cast-Funktionalität unterstützt wird.
 
-Mehr erfahren Sie in der Datenschutzerklärung zu Google Chromecast.
+Mehr erfahren Sie in der Datenschutzerklärung zu Google Chromecast unter: [https://support.google.com/chromecast/answer/6076570?hl=de](https://support.google.com/chromecast/answer/6076570?hl=de)
 
 Google Cloud Platform (GCP)
 
@@ -93,25 +93,31 @@ Firebase Cloud Messaging: Wir nutzen Firebase Cloud Messaging (FCM), um Ihnen Pu
 
 Firebase Crashlytics und Cloud Firestore: Wir nutzen Firebase Crashlytics und Cloud Firestore, um unsere Angebote zu optimieren. Diese Dienste sind integraler Bestandteil unserer Angebote und können nicht deaktiviert werden.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Google.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Google unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 Nielsen Digital Measurement
 
 Wir nutzen die digitale Messung der Firma Nielsen ([https://www.nielsen.com/](https://www.nielsen.com/)), um zu analysieren, wie unsere Angebote genutzt werden. Die Ergebnisse helfen uns, Inhalte und Angebote zu verbessern.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Nielsen unter: [https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/](https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/)
 
 Piano Analytics
 
 Wir nutzen Piano Analytics der Firma Piano Software/AT Internet ([https://www.piano.io/](https://www.piano.io/)), um anonyme Nutzungsdaten für statistische Zwecke zu erfassen. Die Verarbeitung erfolgt datenschutzkonform innerhalb der EU.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Piano Analytics unter: [https://www.piano.io/legal/privacy-policy](https://www.piano.io/legal/privacy-policy)
+
+TVXRAY
+
+Wir nutzen in der ARD Mediathek den Dienst TVXRAY ([https://tvxray.com/de](https://tvxray.com/de)) der Firma Qvest ([https://www.qvest.com/de](https://www.qvest.com/de)), um bei bestimmten Live-Inhalten, wie z.B. ausgewählten Sportübertragungen, interaktive Funktionen mit Live-Statistiken im ARD-Player bereitzustellen. Beim Aufruf der entsprechenden Live-Inhalte wird Ihre IP Adresse an Qvest übermittelt und verarbeitet. Qvest verarbeitet Ihre IP-Adresse ausschließlich nach unseren Weisungen und auf Grundlage vertraglicher Vereinbarungen, die ein angemessenes Datenschutzniveau gewährleisten. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit e) DSGVO i.V.m. §§ 30, 31i Abs. 1 S. 2 MStV.
+
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Qvest unter: [https://www.qvest.com/de/datenschutz](https://www.qvest.com/de/datenschutz)
 
 Zlyde
 
 Wir nutzen den Audience Flow Manager der Firma Zlyde ([https://www.zlyde.com](https://www.zlyde.com/)), um unsere Angebote zu optimieren.
 
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Zlyde.
+Mehr erfahren Sie in der Datenschutzerklärung der Firma Zlyde unter: [https://www.zlyde.com/privacy/](https://www.zlyde.com/privacy/)
 
 Soziale Netzwerke
 -----------------
@@ -243,4 +249,4 @@ Datenschutzerklärungen der Gemeinschaftseinrichtungen und kooperierten Angebote
 
 • 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-6.5.2026
+20.5.2026

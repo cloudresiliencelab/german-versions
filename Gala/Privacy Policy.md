@@ -114,7 +114,9 @@ Dabei gibt es im Wesentlichen zwei Möglichkeiten, wie wir Cookies verwenden. Zu
 
 Daneben gibt es nicht technisch erforderliche Cookies. Solche Cookies dienen ganz unterschiedlichen Zwecken und verarbeiten nur dann Daten über Sie bzw. von Ihnen, sofern und soweit Sie darin eingewilligt haben.
 
-In den folgenden Abschnitten geben wir Ihnen mehr Informationen zu den einzelnen Kategorien solcher einwilligungsbasierter Cookies. Welche dies genau sind und von welchem Dienstleister/Partner sie angeboten werden, können Sie sich in unseren Datenschutz Einstellungen ansehen: [Datenschutz-Einstellungen](https://www.gala.de/service/neuer-inhalt-22191650.html)
+In den folgenden Abschnitten geben wir Ihnen mehr Informationen zu den einzelnen Kategorien solcher einwilligungsbasierter Cookies. Welche dies genau sind und von welchem Dienstleister/Partner sie angeboten werden, können Sie sich in unseren Datenschutz Einstellungen ansehen: 
+
+**[Datenschutz-Einstellungen](javascript:window.gujService.consent.openModal\(\);)**
 
 #### 2.9.1 Informationen auf einem Gerät speichern und/oder abrufen
 

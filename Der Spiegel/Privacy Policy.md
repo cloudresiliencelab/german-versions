@@ -85,38 +85,75 @@ Webseiten generell und Telemedien mit ihren dafür erforderlichen technischen Fu
 
 **A) Technisch**
 
-Logfiles
+Bereitstellung der Webseite
 
-Bei jedem Aufruf unserer Webseite erfassen die Server und Applikationen automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners. Folgende Daten werden vorübergehend erhoben:
+Zur technischen Bereitstellung unserer Website verarbeiten wir Daten, die bei jedem Aufruf automatisch anfallen. Diese Verarbeitung ist erforderlich, um die Inhalte der Website auszuliefern, einen stabilen und sicheren Betrieb zu gewährleisten sowie Störungen und Angriffe (z.B. DDoS-Angriffe) zu erkennen und abzuwehren.
 
-*   IP-Adresse
-    
-*   Datum und Uhrzeit des Zugriffs
-    
-*   Name und URL der abgerufenen Datei
-    
-*   Webseite, von der aus der Zugriff erfolgt (Referrer-URL)
-    
-*   User-Agent (enthält in der Regel Informationen über den verwendeten Browser, das Betriebssystem des Rechners, den Hersteller und die Typenbezeichnung des mobilen Endgeräts)
-    
-*   übertragene Datenmenge
-    
-*   Meldung, ob der Zugriff / Abruf erfolgreich war (http-Statuscode)
-    
+**Hosting**
 
-Die Datenverarbeitung ist erforderlich, um die Funktionsfähigkeit der Webseite, die Stabilität und Sicherheit unserer Systeme zu gewährleisten, um Missbrauch (z.B. Hacking oder DDos-Attacken) zu erkennen und Schutz vor einem solchen bieten zu können, sowie für Zwecke der Fehleranalyse und -behebung. Die Rechtsgrundlage ist unser berechtigtes Interesse an der Datenverarbeitung gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO. Die Informationen werden in einer Protokolldatei für 30 Tage gespeichert und anschließend automatisch gelöscht. Da die Datenverarbeitung für die Gewährleistung der Sicherheit unserer informationstechnischen Systeme zwingend erforderlich ist, können Sie die Verarbeitung nur vermeiden, indem Sie unseren Dienst nicht nutzen. Speziell hinsichtlich des Erkennens und der der Abwehr von DDos-Attacken arbeiten wir mit dem Anbieter Link11 (Link11 GmbH, Lindleystr. 12, 60314 Frankfurt am Main, [www.link11.com](http://www.link11.com/) ) zusammen. Wir haben mit Link11 einen Auftragsdatenverarbeitungsvertrag nach Art. 28 Abs. 3 DSGVO geschlossen, der die Einhaltung Ihrer Rechte bei der Verarbeitung personenbezogener Daten gewährleistet.
+Für eine stabile und leistungsfähige Bereitstellung der Webseite und ihrer Inhalte, die Sicherheit und den Schutz der Systeme und Daten, sowie die Fehleranalyse und Störungsbehebung verarbeiten wir die folgenden personenbezogenen Daten:
 
-Einwilligungsverwaltung
+· IP-Adresse
 
-Im Rahmen der Einwilligungsverwaltung überprüfen wir, welche Inhalte von Kooperationspartnern (insb. Werbeunternehmen und soziale Netzwerke) wir ausspielen dürfen, gewährleisten wir die Funktionssicherung von standardmäßig deaktivierten Integrationen und realisieren wir in diesem Zusammenhang die Einholung und Verwaltung Ihrer datenschutzrechtlichen Einwilligungen. Wir verarbeiten Datum und Uhrzeit Ihres Besuchs, Geräte- und Browserinformationen, Ihre anonymisierte IP-Adresse, Ihr Einwilligungsprofil und eine zufallsgenerierte Identifikationsnummer zur Zuordnung des Endgeräts zum Einwilligungsprofil. Dafür setzt die Consent Management Plattform (CMP) ein technisch erforderliches Cookie, um den Consent-Status abfragen und damit entsprechende Inhalte ausspielen zu können. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. c iVm. Art. 7 Abs. 1 DSGVO, § 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG). Wir arbeiten für diese Zwecke mit dem Anbieter »Sourcepoint« (Sourcepoint Technologies, Inc., 228 Park Avenue South, #87903, New York, NY 10003-1502, USA) zusammen, mit dem wir einen Auftragsverarbeitungsvertrag gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Da in diesem Zusammenhang eine Drittlandsübermittlung stattfindet, haben wir die Standardvertragsklauseln der EU-Kommission abgeschlossen, um sicherzustellen, dass die Verarbeitung Ihrer personenbezogenen Daten mit der DSGVO vereinbar ist (Art. 46 Abs. 2 lit. c DSGVO).
+· Datum und Uhrzeit des Zugriffs
+
+· Aufgerufene Seite/Datei (URL) und Zugriffsmethode (Request)
+
+· Übertragene Datenmenge
+
+· Statuscode/Fehlermeldungen
+
+· Webseite, von der aus der Zugriff erfolgt (Referrer-URL)
+
+· Browser- und Geräteinformationen (z.B. User-Agent - enthält in der Regel Informationen über den verwendeten Browser, das Betriebssystem des Rechners, den Hersteller und die Typenbezeichnung des mobilen Endgeräts)
+
+· Ggf. technische Kennungen zur Fehlersuche (z.B. Request-ID)
+
+Die Verarbeitung ist erforderlich, um unsere Website technisch bereitzustellen und den sicheren Betrieb zu gewährleisten. Rechtsgrundlage ist daher unser berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO. Soweit die Verarbeitung zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist (z.B. bei der Nutzung von registrierungspflichtigen Bereichen), ist zusätzlich Art. 6 Abs. 1 lit. b DSGVO einschlägig.
+
+Wir arbeiten in diesem Zusammenhang mit folgenden Dienstleistern zusammen, mit denen Verträge zur Auftragsverarbeitung bestehen, die die Anforderungen von Art. 28 Abs. 3 DSGVO erfüllen:
+
+Hosting:
+
+Google (Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Irland, Website: [https://cloud.google.com/](https://cloud.google.com/) )
+
+Content Delivery Network (CDN):
+
+Dabei handelt es sich um ein Netz aus Servern, das Inhalte unserer Website (z.B. Bilder, CSS- und JavaScript-Dateien) über geografisch verteilte Knoten ausliefert. Dadurch können Inhalte in der Regel **schneller** und **zuverlässiger** bereitgestellt und der Betrieb gegen Ausfälle sowie Belastungsspitzen besser abgesichert werden.
+
+Akamai (Akamai Technologies, Inc., 145 Broadway, Cambridge, MA 02142, USA, Website: [https://www.akamai.com/](https://www.akamai.com/) )
+
+**Server-Logfiles**
+
+Bei jedem Aufruf unserer Webseite erfassen die Server und Applikationen automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners. Wir setzen für diesen Zweck Dienstleister als Auftragsverarbeiter ein, insbesondere für das Hosting, die Auslieferung über ein Content Delivery Network (CDN) sowie Maßnahmen zum DDoS-Schutz. Nähere Informationen zu den Einzelzwecken und den Dienstleistern erhalten Sie in diesem Abschnitt. Folgende Daten werden für die Server-Logfiles vorübergehend erhoben:
+
+· IP-Adresse
+
+· Datum und Uhrzeit des Zugriffs
+
+· Name und URL der abgerufenen Datei
+
+· Webseite, von der aus der Zugriff erfolgt (Referrer-URL)
+
+· User-Agent (enthält in der Regel Informationen über den verwendeten Browser, das Betriebssystem des Rechners, den Hersteller und die Typenbezeichnung des mobilen Endgeräts)
+
+· übertragene Datenmenge
+
+· Meldung, ob der Zugriff / Abruf erfolgreich war (http-Statuscode)
+
+Die Datenverarbeitung ist erforderlich, um die Funktionsfähigkeit der Webseite, die Stabilität und Sicherheit unserer Systeme zu gewährleisten, um Missbrauch (z.B. Hacking oder DDos-Attacken) zu erkennen und Schutz vor einem solchen bieten zu können, sowie für Zwecke der Fehleranalyse und -behebung. Die Rechtsgrundlage ist unser berechtigtes Interesse an der Datenverarbeitung gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO. Die oben genannten Informationen werden in einer Protokolldatei für 30 Tage gespeichert und anschließend automatisch gelöscht. Da die Datenverarbeitung für die Gewährleistung der Sicherheit unserer informationstechnischen Systeme zwingend erforderlich ist, können Sie die Verarbeitung nur vermeiden, indem Sie unseren Dienst nicht nutzen.
+
+**Schutz vor automatisiertem Missbrauch**
+
+Um unsere Webseite und insbesondere kritische Endpunkte vor automatisiertem Missbrauch (z.B. massenhaften Anfragen Spam oder DDoS-Attacken) zu schützen, prüfen wir, ob Zugriffe und Eingaben von natürlichen Personen oder automatisierten Programmen (Bots) stammen. Für diesen Zweck setzen wir zwei Dienste ein: Den Dienst der Link11 GmbH (Lindleystr. 12, 60314 Frankfurt am Main, Deutschland) und den Dienst "reCAPTCHA" der Google Ireland Limited (Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland). Link11 verfolgt den Schutz vor automatisiertem Missbrauch insbesondere durch eine netzwerkbasierte Analyse des Datenverkehrs und die Verwendung eines Schutz-Cookies, das typische Muster menschlicher Nutzung von automatisierten Zugriffen unterscheidet. Zu diesem Zweck werden folgende personenbezogene Daten verarbeitet: Cookie-Daten (IP-Adresse, Zeitstempel, Datum des Zugriffs, Referrer-URL, Browser sowie technische Informationen über das verwendete Endgerät). Mittels des Dienstes reCPATCHA hingegen wird das Nutzerverhalten direkt im Browser geprüft. Dafür verarbeiten wir die IP-Adresse des verwendeten Endgeräts, Erkennungsdaten des verwendeten Browser- und Betriebssystem-Typ sowie Datum und Dauer des Besuchs mittels eines LocalStorage-Eintrags. Die Verarbeitung ist erforderlich, um die Sicherheit, Verfügbarkeit und Integrität unserer Webseite zu gewährleisten, automatisierte Schadzugriffe zu blockieren und Missbrauch sowie Spam zu verhindern. Rechtsgrundlage ist unser berechtigtes Interesse an der Gewährleistung der Sicherheit unserer Systeme, der Feststellung einer individuellen Eigenverantwortung im Internet sowie der Vermeidung von Missbrauch und Spam, Art. 6 Abs. 1 S. 1 lit. f DSGVO; hinsichtlich des Einsatzes technisch erforderlicher Cookies oder ähnlicher Technologien greift zudem § 25 Abs. 2 Nr. 2 TDDDG. Mit den genannten Dienstleistern wurden Verträge gem. Art. 28 Abs. 2 DSGVO geschlossen. Mögliche Drittlandsübermittlungen im Zusammenhang mit reCAPTCHA, insbesondere an Konzernunternehmen von Google, basieren auf den Standardvertragsklauseln der EU-Kommission, welche die Einhaltung des europäischen Datenschutzniveaus sicherstellen sollen (Art. 46 Abs. 2 lit. c DSGVO). Wenn Sie den LocalStorage-Eintrag oder das Cookie löschen möchten, können Sie dies über die Einstellungen des von Ihnen verwendeten Browsers tun ("Browserdaten / Cookies & Websitedaten löschen").
 
 Technische Funktions- und Zugangssicherung / Authentifizierung
 
 Für die Authentifizierung verarbeiten wir Ihre IP-Adresse und Metadaten in Zusammenhang mit dem Setzen dafür erforderlicher Cookies. Die Authentifizierung beinhaltet Informationen, die es uns ermöglichen, Endgeräte unabhängig von Nutzerkonten zu identifizieren und zu überprüfen, ob für diese eine Einwilligung zur kostenlosen Nutzung mit Werbung und Tracking vorliegt oder nicht. Auf Grundlage dessen wird die Ausspielung unserer Webseite entsprechend gestaltet. Die Rechtsgrundlage ist unser berechtigtes Interesse an einer möglichst individuellen Ausspielung unseres Angebots, Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG.
 
-Schutz vor automatisiertem Missbrauch
+Einwilligungsverwaltung
 
-Um unsere Webseite und insbesondere kritische Endpunkte vor automatisiertem Missbrauch (z. B. massenhafte Anfragen, Spam oder DDoS-Attacken) zu schützen, prüfen wir, ob Zugriffe und Eingaben von natürlichen Personen oder automatisierten Programmen (Bots) stammen. Für diesen Zweck setzen wir zwei Dienste ein: Den Dienst der Link11 GmbH (Lindleystr. 12, 60314 Frankfurt am Main, Deutschland) und den Dienst "reCAPTCHA" der Google Ireland Limited (Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland). Link11 verfolgt den Schutz vor automatisiertem Missbrauch insbesondere durch eine netzwerkbasierte Analyse des Datenverkehrs und die Verwendung eines Schutz-Cookies, das typische Muster menschlicher Nutzung von automatisierten Zugriffen unterscheidet. Zu diesem Zweck werden folgende personenbezogene Daten verarbeitet: Cookie-Daten (IP-Adresse, Zeitstempel, Datum des Zugriffs, Referrer-URL, Browser, technische Informationen über das verwendete Endgerät), sowie browserbezogene Interaktionsdaten (Eingaben, Scrollen, Touch/Zoom, Geräteausrichtung). Mittels des Dienstes reCAPTCHA hingegen wird das Nutzerverhalten direkt im Browser geprüft. Dafür verarbeiten wir die IP-Adresse des verwendeten Endgeräts, Erkennungsdaten des verwendeten Browser- und Betriebssystem-Typ sowie Datum und Dauer des Besuchs mittels eines LocalStorage-Eintrags. Die Verarbeitung ist erforderlich, um die Sicherheit, Verfügbarkeit und Integrität unserer Webseite zu gewährleisten, automatisierte Schadzugriffe zu blockieren und Missbrauch sowie Spam zu verhindern. Rechtsgrundlage ist unser berechtigtes Interesse an der Gewährleistung der Sicherheit unserer Systeme, der Feststellung einer individuellen Eigenverantwortung im Internet sowie der Vermeidung von Missbrauch und Spam, Art. 6 Abs. 1 S. 1 lit. f DSGVO; hinsichtlich des Einsatzes technisch erforderlicher Cookies oder ähnlicher Technologien greift zudem § 25 Abs. 2 Nr. 2 TDDDG. Mit den genannten Dienstleistern wurden Verträge gem. Art. 28 Abs. 2 DSGVO geschlossen. Mögliche Drittlandsübermittlungen im Zusammenhang mit reCAPTCHA, insbesondere an Konzernunternehmen von Google, basieren auf den Standardvertragsklauseln der EU-Kommission, welche die Einhaltung des europäischen Datenschutzniveaus sicherstellen sollen (Art. 46 Abs. 2 lit. c DSGVO). Wenn Sie den LocalStorage-Eintrag oder das Cookie löschen möchten, können Sie dies über die Einstellungen des von Ihnen verwendeten Browsers tun ("Browserdaten / Cookies & Websitedaten löschen").
+Im Rahmen der Einwilligungsverwaltung überprüfen wir, welche Inhalte von Kooperationspartnern (insb. Werbeunternehmen und soziale Netzwerke) wir ausspielen dürfen, gewährleisten wir die Funktionssicherung von standardmäßig deaktivierten Integrationen und realisieren wir in diesem Zusammenhang die Einholung und Verwaltung Ihrer datenschutzrechtlichen Einwilligungen. Wir verarbeiten Datum und Uhrzeit Ihres Besuchs, Geräte- und Browserinformationen, Ihre anonymisierte IP-Adresse, Ihr Einwilligungsprofil und eine zufallsgenerierte Identifikationsnummer zur Zuordnung des Endgeräts zum Einwilligungsprofil. Dafür setzt die Consent Management Plattform (CMP) ein technisch erforderliches Cookie, um den Consent-Status abfragen und damit entsprechende Inhalte ausspielen zu können. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. c iVm. Art. 7 Abs. 1 DSGVO, § 25 Abs. 2 Nr. 2 TDDDG. Wir arbeiten für diese Zwecke mit dem Anbieter »Sourcepoint« (Sourcepoint Technologies, Inc., 228 Park Avenue South, #87903, New York, NY 10003-1502, USA) zusammen, mit dem wir einen Auftragsverarbeitungsvertrag gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Da in diesem Zusammenhang eine Drittlandsübermittlung stattfindet, haben wir die Standardvertragsklauseln der EU-Kommission abgeschlossen, um sicherzustellen, dass die Verarbeitung Ihrer personenbezogenen Daten mit der DSGVO vereinbar ist (Art. 46 Abs. 2 lit. c DSGVO).
 
 Analysen zu funktionalen Zwecken: Basistracking - Reichweitenmessung
 
@@ -150,7 +187,7 @@ Zur Einbettung und Darstellung interaktiver Grafiken auf unseren Webseiten verar
 
 Live-Blog
 
-Um Ihnen einen Live Ticker auf unseren Webseiten zur Verfügung zu stellen und Sie jederzeit mit aktuellen Nachrichten versorgen zu können, verarbeiten wir Ihre IP-Adresse, Datum und Uhrzeit sowie aufgerufene URL. Die Verarbeitung ist erforderlich zum Schutz der Infrastruktur und zur Erstellung anonymisierter Aufrufstatistiken. Die Zuordnung eines Aufrufs zu einzelnen Nutzer:innen ist nicht möglich. Die Rechtsgrundlage ist unser berechtigtes Interesse nach Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG. Wir arbeiten zu diesem Zweck mit »tickaroo« (Tickaroo GmbH, Waffnergasse 8, 93047 Regensburg, Deutschland, [www.tickaroo.com](http://www.tickaroo.com/) ) zusammen, mit denen wir einen Auftragsverarbeitungsvertrag nach Art. 28 Abs. 3 DSGVO geschlossen haben.
+Um Ihnen einen Live Ticker auf unseren Webseiten zur Verfügung zu stellen und Sie jederzeit mit aktuellen Nachrichten versorgen zu können, verarbeiten wir Ihre IP-Adresse, Datum und Uhrzeit sowie aufgerufene URL, sowie ein clientseitig erzeugtes zufälliges Kennzeichen (z.B. Cookie-Token). Die Verarbeitung ist erforderlich zum Schutz der Infrastruktur (z.B. Erkennung und Abwehr von DDoS-Angriffen) und zur Erstellung aggregierter, anonymisierter Aufrufstatistiken. Hierfür werden IP-Adresse, URL und Zeitstempel in Logdaten bis zu vier Wochen vorgehalten und anschließend gelöscht oder anonymisiert. Die aus den anonymisierten Daten gewonnenen Statistiken lassen keine Zuordnung eines Aufrufs zu einzelnen Nutzer:innen zu. Die Rechtsgrundlage ist unser berechtigtes Interesse nach Art. 6 Abs. 1 S. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TDDDG. Wir arbeiten zu diesem Zweck mit »tickaroo« (Tickaroo GmbH, Waffnergasse 8, 93047 Regensburg, Deutschland, [www.tickaroo.com](http://www.tickaroo.com/) ) zusammen, mit denen wir einen Auftragsverarbeitungsvertrag nach Art. 28 Abs. 3 DSGVO geschlossen haben.
 
 Musik-Vertriebs-Analyse-Tool
 
@@ -455,10 +492,6 @@ Bing Ads
 
 Der Dienst des US-Unternehmens »Microsoft« (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) setzt ein Cookie, wenn Sie über eine Bing-Anzeige auf eine unserer Angebotsseiten gelangt sind, damit wir die Gesamtzahl der Klicks von der Anzeige auf unsere Angebote erfahren. Ihr Nutzungsprofil wird nur pseudonymisiert erfasst. Eine Übertragung von Daten findet nicht statt. Sie können dies [hier](http://choice.microsoft.com/de-DE/opt-out)  unterbinden.
 
-Sovendus
-
-Der deutsche Dienstleister »Sovendus« (Sovendus GmbH, c/o Design Offices Karlsruhe Bahnhofplatz, Bahnhofplatz 12, 76137 Karlsruhe, Deutschland) bietet einige unserer Produkte im Internet als Werbepartner zum Kauf an. Um eine korrekte Abrechnung zu gewährleisten, wird beim Kauf ein Pixel des Services abgesetzt, um pseudonymisiert und verschlüsselt das bestellte Angebot samt Zeitstempel und IP-Adresse zu übermitteln, wobei Letztere nur der Datensicherheit halber verwendet und im Regelfall nach sieben Tagen anonymisiert wird. Details zum Datenschutz bei Sovendus finden Sie [hier](https://www.sovendus.de/de/datenschutz/) .
-
 TikTok Retargeting
 
 Wir haben in unseren Angeboten, wo passend, Retargeting-Pixel des sozialen Netzwerks »TikTok« (TikTok Technology Limited, 10 Earlsfort Terrace, D02 T380, Co. Dublin, Irland) integriert. Wenn Sie auf TikTok angemeldet sind, erhält die Plattform die Information, dass Sie unsere Seiten besucht haben, wodurch wir Sie gezielt mit Werbung auf TikTok ansprechen können. Die Übermittlung Ihrer Daten als TikTok-Nutzer:in wird in dem Leitfaden "Anzeigen und Ihre Daten" des Netzwerks selbst geregelt, welchen Sie [hier](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tiktok.com%2Fsafety%2Fde-de%2Fads-and-data%2F&data=05%7C01%7Cjochen.unverhau%40spiegel.de%7C2feade122e274721484008da752a9fac%7C2a185271160e4f83bc48de23e86ed4ea%7C0%7C0%7C637951123164283181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=uGdhdnYVFxDTK%2BP%2F4KDnvF5y1Jl2EizxZ49x8FWy14I%3D&reserved=0)  finden. Sie können [hier](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.tiktok.com%2Fde%2Faccount-and-privacy%2Fpersonalized-ads-and-data%2Fpersonalization-and-data&data=05%7C01%7Cjochen.unverhau%40spiegel.de%7C2feade122e274721484008da752a9fac%7C2a185271160e4f83bc48de23e86ed4ea%7C0%7C0%7C637951123164283181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=saLkwt%2F2hzts6xOO0dQOiJmgk3bXJnGfBMTPPRy%2BEh8%3D&reserved=0)  die Einstellungen für personalisierte Werbung für Ihr Konto ausschalten.
@@ -620,7 +653,9 @@ Kontakt:
 
 Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit  
 Ludwig-Ehrhard-Str. 22, 7. OG  
-20459 Hamburg  
+20459 Hamburg
+
+  
 Tel.: 040/428544040  
 E-Mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de) 
 
@@ -668,4 +703,4 @@ Für Fragen zur Verarbeitung Ihrer Nutzungsdaten oder zur Wahrnehmung Ihrer Rech
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 7.1
+Versionsnummer: 7.2

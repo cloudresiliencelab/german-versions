@@ -2,7 +2,7 @@ Zalando
 Privacy Notice
 ========================
 
-[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/5c9862a3-29bf-40f2-b406-559f2234e9ad.pdf)
+[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/be9b18fe-f9cd-491e-8d22-0588e36ed2c6.pdf)
 
 As at: 05/2026
 
@@ -1105,10 +1105,6 @@ The service providers for collection services in Germany are:
 *   PAIR Finance GmbH, Knesebeckstraße 62-63, D-10719 Berlin
 *   coeo Inkasso GmbH, Kieler Str. 16, 41540 Dormagen
 
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
-
 ### 17.2 Austria
 
 **Service providers for credit checks**
@@ -1124,10 +1120,6 @@ The service providers for collection services in Austria are:
 *   Myntro Collect GmbH, Donau-City-Straße 6/15A1, 1220 Wien
 *   Riverty Services Austria GmbH, Karl-Popper-Straße 2/Top 6, 1100 Wien
 *   PAIR Collect GmbH, Postgasse 8b, A-1010 Wien
-
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
 
 ### 17.3 Switzerland
 
@@ -1145,10 +1137,6 @@ The service providers for collection services in Switzerland are:
 *   Infoscore Inkasso AG, Ifangstrasse 8, 8952 Schlieren
 *   PAIR Finance Suisse GmbH, Tessinerplatz 7, 8002 Zürich
 
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
-
 ### 17.4 Netherlands
 
 **Service providers for collection services**
@@ -1158,10 +1146,6 @@ The service providers for collection services in the Netherlands are:
 *   Alektum BV, Transformatorweg 98-6, 1014 AK Amsterdam
 *   PAIR Finance B.V., Vijzelstraat 68, 1017 HL Amsterdam
 *   coeo Incasso BV, Wilhelminakade 153, 31th Floor, 3072 AP Rotterdam
-
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
 
 ### 17.5 Belgium
 
@@ -1175,10 +1159,6 @@ The service providers for collection services in Belgium are:
 
 *   Alektum NV, Gaston Crommenlaan 4, 9050 Lederberg
 *   PAIR Finance BV, Vijzelstraat 68, 1017 HL Amsterdam NL
-
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
 
 ### 17.6 Sweden
 
@@ -1229,10 +1209,6 @@ The service providers for collection services in France are:
 
 *   PAIR Finance GmbH, Knesebeckstraße 62-63, D-10719 Berlin DE
 *   INTRUM Corporate,104 avenue Albert 1er, CS 30131, 92563 Rueil-Malmaison
-
-**Test of fraud prevention related cooperation**
-
-To assess the effectiveness of our collaboration with certain fraud‑prevention providers, we may run preliminary tests. For this, Zalando Payments GmbH (“ZPS”) may share customer data (e.g. name, email address, telephone number, IP address and technical information from your device) with the independent controllers **Mastercard Europe SA, Chaussée de Tervuren 198A, 1410 Waterloo, BE**, and its affiliate **Ekata, Inc., 1301 5th Avenue, Suite 1600, Seattle, WA 98101, USA** (together, “**Mastercard**”, cf. [Mastercard's Privacy Policy](https://url.uk.m.mimecastprotect.com/s/FDbUC8qw7tRoLEDunfltyU0rb/)). Mastercard will compare this data with its own datasets and provide ZPS with risk scores and other indicators of potential fraudulent activity. ZPS processes this data on the basis of its legitimate interests in preventing fraud (see [What does Zalando use my data for?](#chapter-02)).
 
 ### 17.10 Denmark
 

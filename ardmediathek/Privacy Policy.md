@@ -179,6 +179,25 @@ Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO
 
 Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung ([https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz)) und den Nutzungsbedingungen ([https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen)) zum ARD-Konto.
 
+Chatfunktion
+------------
+
+In ARD Sounds können Sie über eine Chatfunktion direkt mit Redaktionen in Kontakt treten sowie Nachrichten senden und empfangen. Zur Nutzung dieser Funktion ist eine Anmeldung mit dem ARD‑Konto erforderlich.
+
+Bei Nutzung der Chatfunktion werden folgende Daten verarbeitet:
+
+• ARD-Konto Daten: Ihre ARD Account ID (sog. Push externalID), Ihr aktueller Benutzername sowie die URL Ihres aktuellen Avatarbildes. Diese Daten werden zur eindeutigen Zuordnung Ihrer Anfrage und zur Darstellung innerhalb der Chatfunktion verwendet und für die Dauer Ihres bestehenden ARD‑Kontos gespeichert.
+
+• Kommunikationsinhalte: Die von Ihnen bereitgestellten Inhalte, insbesondere Chat‑Nachrichten sowie darin enthaltene Texte, Bilder, Audio‑ und Videodateien.
+
+• Log- und Protokolldaten
+
+Ihre Daten werden auf Servern des NDR in Deutschland gespeichert und ausschließlich zur Bearbeitung Ihrer Anfrage durch die zuständige Redaktion verwendet. Sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen, werden diese Daten nach spätestens 30 Tagen automatisch gelöscht.
+
+Die Verarbeitung Ihrer Daten erfolgt auf Grundlage Ihrer freiwilligen Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Chatfunktion beenden oder keine weiteren Nachrichten senden. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt hiervon unberührt.
+
+Eine Weitergabe Ihrer Daten an Dritte erfolgt nicht, sofern keine gesetzliche Verpflichtung besteht.
+
 Weiterschauen-Funktion auf TV-Streaming-Plattformen
 ---------------------------------------------------
 

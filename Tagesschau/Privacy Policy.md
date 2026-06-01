@@ -1,7 +1,7 @@
 Datenschutz Datenschutzerklärung von tagesschau.de
 ==================================================
 
-Stand: 23.04.2026 • 10:18 Uhr
+Stand: 01.06.2026 • 08:54 Uhr
 
 **Wir freuen uns über die Nutzung unseres Angebots. Tagesschau.de nimmt den Schutz Ihrer Daten sehr ernst. Hier erfahren Sie, welche Daten tagesschau.de bei der Nutzung der Webseiten erhebt und wie diese verwendet werden.**
 
@@ -192,10 +192,14 @@ Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 
 *   Datenschutz bei X: [https://x.com/de/privacy](https://x.com/de/privacy "Datenschutzbestimmungen bei X (früher Twitter)")
 *   Datenschutz bei Instagram: [https://help.instagram.com/519522125107875](https://help.instagram.com/519522125107875 "https://help.instagram.com/519522125107875")
+*   Datenschutz bei Threads: [https://help.instagram.com/515230437301944?locale=de\_DE](https://help.instagram.com/515230437301944?locale=de_DE "Datenschutzerklärung von Threads.com")
 *   Datenschutz bei Amazon Alexa: [https://www.amazon.de/gp/help/customer/display.html/ref=footer\_privacy?ie=UTF8&nodeId=3312401&pop-up=1](https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401&pop-up=1 "Amazon")
 *   Datenschutz bei Google Play/Android TV/Google Assistant: [https://policies.google.com/privacy](https://policies.google.com/privacy "Google Datenschutzbestimmungen")
 *   Datenschutz bei Facebook: [https://de-de.facebook.com/help/568137493302217](https://de-de.facebook.com/help/568137493302217 "Facebook")
 *   Datenschutz bei Youtube: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de "https://policies.google.com/privacy?hl=de")
+*   Datenschutz bei WhatsApp: [https://www.whatsapp.com/legal/privacy-policy-eea?lang=de\_DE](https://www.whatsapp.com/legal/privacy-policy-eea?lang=de_DE "Datenschutzerklärung von Whatsapp")
+*   Datenschutz bei GIPHY: [https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy "Datenschutzerklärung von GIPHY")
+*   Datenschutz bei Twitch: [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/ "Datenschutzerklärung von Twitch")
 *   Datenschutz bei Apple Nachrichten/Apple Watch: [https://apple.com/de/legal/privacy](https://apple.com/de/legal/privacy "Apple")
 *   Datenschutz bei Amazon Fire TV/Fire Tablet: [https://www.amazon.de/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN](https://www.amazon.de/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN "Amazon Fire TV")
 *   Datenschutz bei Roku: [https://docs.roku.com/published/userprivacypolicy/en/gb](https://docs.roku.com/published/userprivacypolicy/en/gb "Roku")
@@ -205,7 +209,7 @@ Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
 *   Datenschutz bei Audio Now: [https://audionow.de/datenschutz](https://audionow.de/datenschutz "Audio Now")
 *   Datenschutz bei TikTok: [https://www.tiktok.com/legal/privacy-policy?lang=de](https://www.tiktok.com/legal/privacy-policy?lang=de "TikTok Datenschutzbestimmungen")
 
-Wir weisen darauf hin, dass wir keine personenbezogenen Daten von Nutzer\*innen des Tagesschau-Kanals von TikTok erhalten. Allgemein wird die Nutzung von TikTok aus datenschutzrechtlicher Sicht kritisch gesehen: Gemäß den AGB der TikTok-App darf die Nutzung der App bereits **ab 13 Jahren** erfolgen. Das bedeutet, dass bei Nutzer\*innen unter 18 Jahren die Einverständniserklärung der Eltern notwendig ist. Das Vorliegen des Einverständnisses wird aber offenbar von TikTok nicht überprüft, weshalb Erziehungsberechtigte aufmerksam kontrollieren sollten, ob ihre Kinder den Dienst nutzen. Weiterhin soll die App Daten auf einem Smartphone mitlesen und z. B. Standorte und Telefonkontakte weitergeben. Der Umgang und die Weitergabe dieser Daten von TikTok – etwa an ausländische Behörden – sind ungewiss. Wir machen daher darauf aufmerksam, dass die Nutzung der auf TikTok von tagesschau.de produzierten Inhalte aufgrund der noch ungeklärten Fragen mit Risiken verbunden ist.
+Wir weisen darauf hin, dass wir keine personenbezogenen Daten von Nutzer\*innen des Tagesschau-Kanals von TikTok erhalten. Gemäß den AGB der TikTok-App darf die Nutzung der App bereits **ab 13 Jahren** erfolgen. Das bedeutet, dass bei Nutzer\*innen unter 18 Jahren die Einverständniserklärung der Eltern notwendig ist. Erziehungsberechtigte sollten aufmerksam kontrollieren, ob ihre Kinder den Dienst nutzen.
 
 11.1 Welche Daten werden verarbeitet und was passiert mit diesen Daten?
 -----------------------------------------------------------------------
@@ -232,46 +236,23 @@ Eine Zusammenführung dieser Daten mit anderen Datenquellen findet nicht statt. 
 
 Was Sie mit Sprachassistenten kommunizieren, wird von Ihrem Gerät aufgezeichnet und als Audiodatei in einer Cloud gespeichert. Auch bei der Nutzung der weiteren Plattformen und Dienste ist nicht auszuschließen, dass ein Transfer von personenbezogenen Daten auch in die USA erfolgt, da diese Anbieter Daten auf dortigen Servern speichern. Das Datenschutzniveau ist in den USA nach den Feststellungen des EUGH in der Entscheidung zum Privacy-Shield (Urteil in der Rechtssache C-311/18 „Schrems II“) geringer als im Geltungsbereich der DSGVO. Der NDR überträgt aber keine personenbezogenen Daten von Ihnen oder veranlasst eine solche Übertragung, da Sie regelmäßig aufgrund Ihrer Anmeldung oder Registrierung bei den Dienstanbietern einer entsprechenden Datenverarbeitung durch diese zugestimmt haben.
 
-11.3 Datenverarbeitung bei Nutzung der Messenger-Angebote von tagesschau.de
----------------------------------------------------------------------------
+11.3 Datenverarbeitung bei Nutzung des WhatsApp-Kanals der Tagesschau
+---------------------------------------------------------------------
 
-Sie können das Messenger-Angebot von tagesschau.de nutzen, wenn Sie einen Messenger-Dienst, wie bspw. Facebook Messenger oder Apple iMessage auf Ihrem Mobilgerät installiert haben. Damit haben Sie den Allgemeinen Geschäftsbedingungen der jeweiligen Dienste zugestimmt, auf die wir keinen Einfluss haben und die durch das Messenger-Angebot von tagesschau.de unberührt bleiben. In der Regel beinhalten die Allgemeinen Geschäftsbedingungen einen Zugriff auf Telefonnummern und die auf dem Mobilgerät gespeicherten Kontakte. Durch die Nutzung des Messenger-Angebots erhalten wir keinen Zugriff auf diese Daten.
+Wenn Sie unseren WhatsApp-Kanal abonnieren, nutzen Sie damit einen Dienst der WhatsApp Ireland Limited, einem Tochterunternehmen von Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland. Für die Nutzung dieses Dienstes gelten die Nutzungsbedingungen und Datenschutzrichtlinien von WhatsApp. Wir haben keinen Einfluss auf die Datenverarbeitung durch WhatsApp oder Meta.
 
-Wir weisen darauf hin, dass die Messenger-Dienste andere Datenschutzstandards als tagesschau.de haben. Die Datenschutzbestimmungen dieser Anbieter können Sie hier einsehen:
+WhatsApp erhebt beim Besuch unseres Kanals unter anderem Informationen wie Ihre IP-Adresse, Gerätedaten, Nutzungsverhalten und weitere technische Informationen (z. B. Sprache, Betriebssystem, App-Version). Diese Daten werden möglicherweise auch in Länder außerhalb der EU übermittelt. Nähere Informationen zur Datenverarbeitung durch WhatsApp finden Sie in deren Datenschutzrichtlinie.
 
-*   Datenschutz bei Facebook: https://www.facebook.com/privacy/explanation
-*   Datenschutz bei Apple: https://apple.com/de/legal/privacy
+Unser WhatsApp-Kanal dient ausschließlich der einseitigen Information. Wir erhalten keine personenbezogenen Daten von Ihnen – mit Ausnahme statistischer, aggregierter Daten zur Reichweite des Kanals (z. B. Anzahl der Follower oder Aufrufe einzelner Beiträge), die uns WhatsApp anonymisiert zur Verfügung stellt.
 
-Wir haben auf die datenschutzrechtlichen Bestimmungen und Einstellungen dieser Plattformen keinen Einfluss. Im Rahmen unserer Möglichkeiten gehen wir mit der größten Sensibilität mit Ihren Daten um. tagesschau.de haftet nicht für Schäden, die durch Ihre Nutzung dieser Messenger-Dienste entstehen.
+Bitte beachten Sie, dass Kanal-Statusmeldungen grundsätzlich öffentlich sichtbar sind – für WhatsApp selbst sowie für alle anderen WhatsApp-Nutzenden. Persönliche Informationen wie Ihr Profilname, Profilbild oder Status können ebenfalls öffentlich sein, wenn Sie das in Ihren WhatsApp-Einstellungen nicht eingeschränkt haben.
 
-Die verarbeiteten Daten werden nur und ausschließlich für die Messenger-Kommunikation im Rahmen unseres Angebots mit Ihnen verwendet, also auch nicht zu Werbezwecken. Wir verknüpfen diese Daten nicht mit anderen Daten und geben sie auch nicht an Dritte weiter. Auftragsverarbeiter ist die MessengerPeople GmbH, Herzog-Heinrich-Str. 9, 80336 München.
+Die Ende-zu-Ende-Verschlüsselung von WhatsApp gilt nicht für die Nutzung von Kanälen, sondern nur für persönliche Chats.
 
-**Wenn Sie das Messenger-Angebot abonnieren, werden folgende Daten verarbeitet:**
+Mehr Informationen zur Verwaltung Ihrer Datenschutzeinstellungen in WhatsApp finden Sie unter:  
+[https://faq.whatsapp.com/820124435853543/](https://faq.whatsapp.com/820124435853543/ "Informationen zur Ende-zu-Ende-Verschlüsselung bei Whatsapp").
 
-Facebook Messenger:
-
-*   eine ID, die Ihrem Facebook-Profil zugewiesen ist
-*   bei Facebook angegebener Benutzername
-*   bei Facebook angegebener Vorname und Nachname
-*   bei Facebook eingestelltes Profilbild
-
-Apple Business Chat / iMessage:
-
-*   eine ID, die Ihrem Apple-iMessage-Account zugewiesen ist
-*   die von Ihnen angegebene Telefonnummer
-*   bei Apple Business Chat angegebener Name
-
-Aufgrund der Nutzung eines dieser Messenger erhalten wir von Ihnen die Ihnen von dem Diensteanbieter zugewiesene ID und Benutzernamen. Dies ist allein zur Ausspielung der Nachrichten notwendig. Aufgrund Ihrer Anmeldung zum Messenger bleiben Sie aber für uns nicht identifizierbar.
-
-Wenn Sie Facebook Messenger oder Apple iMessage nutzen, ist nicht auszuschließen, dass ein Transfer von personenbezogenen Daten auch in die USA erfolgt, da diese Messenger Daten auf dortigen Servern speichern. Das Datenschutzniveau ist in den USA nach den Feststellungen des EUGH in der Entscheidung zum Privacy-Shield (Urteil in der Rechtssache C-311/18 „Schrems II“) geringer als im Geltungsbereich der DSGVO. tagesschau überträgt aber keine personenbezogenen Daten von Ihnen oder veranlasst eine solche Übertragung, da Sie aufgrund Ihrer Registrierung bei den Dienstanbietern einer entsprechenden Datenverarbeitung durch diese zugestimmt haben.
-
-**Abmelden und Löschung**
-
-Sie können sich jederzeit von den Messenger-Angeboten bei Facebook Messenger oder Apple Business Chat / iMessage abmelden. Schreiben Sie uns dazu auf dem von Ihnen genutzten Messenger-Kanal die Nachricht "Stopp". Danach werden Ihre Daten, die für die Nutzung der Messenger-Angebote bei den aufgeführten Dienstleistern gespeichert wurden, gelöscht.
-
-Tagesschau integriert die Messenger-Dienste über eine „Embed“-Funktion in sein Angebot. Sie können der Datenübertragung zustimmen und sich die angebotenen Dienste per Klick anzeigen lassen (sog. Zwei-Klick-Lösung). Rechtsgrundlage für die Verarbeitung der Daten nach erfolgter Einwilligung ist Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
-
-Wenn Sie die Messenger-Dienste generell nicht mehr angezeigt bekommen wollen, entfernen Sie den dafür vorgesehenen Haken in der entsprechenden Datenschutzerklärung der Messenger-Angebote. Hinweise zum Datenschutz bei MessengerPeople finden Sie hier: https://www.messengerpeople.com/de/datenschutzerklaerung/.
+Im Rahmen unserer Möglichkeiten gehen wir mit größter Sorgfalt und Sensibilität mit Ihren Daten um. Für die Datenverarbeitung durch WhatsApp bzw. Meta ist allein der jeweilige Anbieter verantwortlich.
 
 12\. Ihre Rechte
 ----------------

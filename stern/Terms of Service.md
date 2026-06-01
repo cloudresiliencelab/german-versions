@@ -7,6 +7,8 @@ AGB
 Allgemeine Geschäftsbedingungen
 --------------------------------------
 
+Kopiere den aktuellen Link Zur Merkliste hinzufügen
+
 Dialog schließen
 
 Debattieren Sie mit!
@@ -16,8 +18,6 @@ Debattieren Sie mit!
 Jetzt registrieren
 
 Bereits registriert? Hier anmelden
-
-Kopiere den aktuellen Link Zur Merkliste hinzufügen
 
 Hier finden Sie die Allgemeinen Geschäftsbedingungen der G+J Medien GmbH.
 

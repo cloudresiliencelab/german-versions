@@ -7,6 +7,8 @@ Ihre Daten
 Datenschutzhinweise
 ---------------------------------
 
+Kopiere den aktuellen Link Zur Merkliste hinzufügen
+
 Dialog schließen
 
 Debattieren Sie mit!
@@ -16,8 +18,6 @@ Debattieren Sie mit!
 Jetzt registrieren
 
 Bereits registriert? Hier anmelden
-
-Kopiere den aktuellen Link Zur Merkliste hinzufügen
 
 Sie möchten wissen, wie wir mit dem Thema Datenschutz umgehen? Prima, im Folgenden geben wir genaue Auskunft darüber, weil es uns wichtig ist, Ihnen gegenüber transparent zu sein. Daher informieren wir im Folgenden umfassend über das Was, Wie und Warum solcher Verarbeitungen. Auch alle relevanten Pflichtinformationen, die wir gemäß der DSGVO bereitstellen müssen, haben wir hier für Sie zusammengestellt.
 

@@ -233,9 +233,9 @@ Ihre Daten werden für die Dauer des Bestehens Ihres Accounts gespeichert.
 
 Wir stellen einen KI-gestützten Chatbot bereit, über den sich Nutzer zu Studiengängen und Universitäten beraten lassen und direkt interagieren können. Dabei werden die eingegebenen Inhalte sowie zur Sitzungssteuerung erforderliche Nutzungsdaten verarbeitet, um passende Antworten zu generieren und die Beratung bereitzustellen.
 
-Rechtsgrundlage für diese Verarbeitung ist die Durchführung des Nutzungsverhältnisses (Art. 6 Abs. 1 b) DSGVO) auf zeit.de. Die Bereitstellung der im Chat eingegebenen Daten ist erforderlich, um Ihre Anfrage zu verstehen und zu beantworten. Ohne diese Angaben kann der ChatBot nicht genutzt werden.
+Rechtsgrundlage für diese Verarbeitung ist die Durchführung des Nutzungsverhältnisses (Art. 6 Abs. 1 b) DSGVO) auf zeit.de. Die Bereitstellung der im Chat eingegebenen Daten ist erforderlich, um Ihre Anfrage zu verstehen und zu beantworten. Ohne diese Angaben kann der ChatBot nicht genutzt werden. Die Chatverläufe werden ausgewertet und zur Optimierung genutzt (Art. 6 Abs. 1 f) DSGVO). Dabei geht es um die Verbesserung der Antwortqualität und Beratung durch den ChatBot. Wenn Nutzer z.B. wegen bestimmter Antworten oder Fragen den Chat abbrechen und die Seite verlassen, soll das erkannt und bestenfalls behoben werden.
 
-Wir speichern Chatverläufe für 6 Monate und löschen sie anschließend.
+Wir speichern Chatverläufe für 2 Monate und löschen sie anschließend.
 
 [To the top of the section](#HeyStudium-KI-ChatBot)
 

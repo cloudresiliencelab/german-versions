@@ -261,7 +261,7 @@ Informieren Sie sich hier darüber, [welche Daten wir zum Zwecke der Abwicklung 
 Weitere Datenschutzhinweise
 ---------------------------
 
-*   [Datenschutzhinweise zum DB KundenkontoDatenschutzhinweise zum DB Kundenkonto](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-*   [Datenschutzhinweise zum geschäftlichen DB KundenkontoDatenschutzhinweise zum geschäftlichen DB Kundenkonto](https://www.bahn.de/bahnbusiness/datenschutz-geschaeftskunden)
-*   [Weitere Datenschutzhinweise der DB Fernverkehr AG und verbundener UnternehmenWeitere Datenschutzhinweise der DB Fernverkehr AG und verbundener Unternehmen](https://www.db-fernverkehr.com/datenschutzhinweise)
-*   [Weitere Datenschutzhinweise auf DB-Vertrieb.comWeitere Datenschutzhinweise auf DB-Vertrieb.com](https://www.db-vertrieb.com/dbvertrieb/datenschutzhinweise-11199940)
+*   [Datenschutzhinweise zum DB Kundenkonto](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
+*   [Datenschutzhinweise zum geschäftlichen DB Kundenkonto](https://www.bahn.de/bahnbusiness/datenschutz-geschaeftskunden)
+*   [Weitere Datenschutzhinweise der DB Fernverkehr AG und verbundener Unternehmen](https://www.db-fernverkehr.com/datenschutzhinweise)
+*   [Weitere Datenschutzhinweise auf DB-Vertrieb.com](https://www.db-vertrieb.com/dbvertrieb/datenschutzhinweise-11199940)

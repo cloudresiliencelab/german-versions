@@ -1,5 +1,5 @@
 Allgemeine Nutzungsbedingungen für Kleinanzeigen
-------------------------------------------------
+================================================
 
 ### **Diese Nutzungsbedingungen gelten ab dem 17. Februar 2024. Die bis zum 16. Februar 2024 geltenden Nutzungsbedingungen finden Sie [hier](https://themen.kleinanzeigen.de/nutzungsbedingungen_alt/).**
 

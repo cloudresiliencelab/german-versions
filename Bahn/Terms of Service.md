@@ -58,10 +58,10 @@ Hinweise zu Dritten
 
 Informationen zu Open-Source- und gewerblicher Software, einschließlich der erforderlichen Verweise, Lizenzbedingungen und Hinweise, finden Sie hier:
 
-*   [Lizenzbedingungen für Sitzplatzreservierungen Lizenzbedingungen für Sitzplatzreservierungen](https://www.bahn.de/web/api/gsd/assets/license-report.txt)
-*   [Lizenzbedingungen für BahnBusiness Lizenzbedingungen für BahnBusiness](https://www.bahn.de/web/gk/assets/license-report.txt)
-*   [Lizenzbedingungen für die Buchungsstrecke Lizenzbedingungen für die Buchungsstrecke](https://www.bahn.de/web/assets/license-report.txt)
-*   [Lizenzbedingungen für den Inhaltsbereich bahn.de Lizenzbedingungen für den Inhaltsbereich bahn.de](https://www.bahn.de/license-report.txt)
+*   [Lizenzbedingungen für Sitzplatzreservierungen](https://www.bahn.de/web/api/gsd/assets/license-report.txt)
+*   [Lizenzbedingungen für BahnBusiness](https://www.bahn.de/web/gk/assets/license-report.txt)
+*   [Lizenzbedingungen für die Buchungsstrecke](https://www.bahn.de/web/assets/license-report.txt)
+*   [Lizenzbedingungen für den Inhaltsbereich bahn.de](https://www.bahn.de/license-report.txt)
 
 Hinweise für Dritte in den Apps
 -------------------------------
@@ -78,7 +78,7 @@ Streitbeilegung
 
 Wir nehmen an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil. Weitere Informationen sind abrufbar unter den folgenden Link Schlichtungsstellen.
 
-*   [Schlichtungsstellen Schlichtungsstellen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung)
+*   [Schlichtungsstellen](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung)
 
 Weitere Bedingungen
 -------------------

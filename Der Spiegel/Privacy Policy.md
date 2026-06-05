@@ -87,7 +87,7 @@ Webseiten generell und Telemedien mit ihren dafür erforderlichen technischen Fu
 
 Bereitstellung der Webseite
 
-Zur technischen Bereitstellung unserer Website verarbeiten wir Daten, die bei jedem Aufruf automatisch anfallen. Diese Verarbeitung ist erforderlich, um die Inhalte der Website auszuliefern, einen stabilen und sicheren Betrieb zu gewährleisten sowie Störungen und Angriffe (z.B. DDoS-Angriffe) zu erkennen und abzuwehren.
+Zur technischen Bereitstellung unserer Website verarbeiten wir Daten, die bei jedem Aufruf automatisch anfallen. Diese Verarbeitung ist erforderlich, um die Inhalte der Website, darunter auch die Ausspielung von Werbung auszuliefern, einen stabilen und sicheren Betrieb zu gewährleisten sowie Störungen und Angriffe (z.B. DDoS-Angriffe) zu erkennen und abzuwehren.
 
 **Hosting**
 

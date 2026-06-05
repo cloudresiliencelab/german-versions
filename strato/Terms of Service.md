@@ -11,6 +11,7 @@
 *   [E-Mail-Marketing](#content-area-11)
 *   [Data Act](#content-area-12)
 *   [Smart-Telefonassistent](#content-area-13)
+*   [Nutzungsbedingungen für KI-Dienste](#content-area-14)
 
 Allgemeine Geschäftsbedingungen der STRATO GmbH
 -----------------------------------------------
@@ -1252,3 +1253,56 @@ Besondere Geschäftsbedingungen für den Smart-Telefonassistenten
 **9.1** Änderungen gesetzlicher oder regulatorischer Anforderungen (insbesondere der KI‑VO) können eine Anpassung des Dienstes oder dieser Sonder-AGB erforderlich machen. STRATO wird den Endkunden hierüber informieren; dem Endkunden stehen insoweit die vertraglich vorgesehenen Rechte zu.
 
 **9.2** Sollte eine Bestimmung dieser Sonder-AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. Anstelle der unwirksamen Bestimmung gilt diejenige wirksame Regelung als vereinbart, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+Nutzungsbedingungen für KI-Dienste
+----------------------------------
+
+### 1\. Geltungsbereich, Leistungsbeschreibung
+
+**1.1.** Diese Sonderbedingungen gelten ergänzend zu den Allgemeinen Geschäftsbedingungen von Strato sowohl für die Nutzung von KI-Systemen (Software-as-a-Service) als auch für die Bereitstellung des Zugriffs auf KI-Modelle und deren API-Schnittstellen (Platform-as-a-Service), hiernach zusammen KI-Dienste.
+
+**1.2.** Strato stellt dem Kunden die im Bestellprozess oder der Leistungsbeschreibung spezifizierten KI-Dienste zur Verfügung. Diese verarbeiten die vom Kunden bereitgestellten Eingaben (Input), um mittels automatisierter Prozesse entsprechende Ergebnisse (Output) zu generieren und auszugeben.
+
+**1.3.** Der Kunde nimmt zur Kenntnis, dass die KI-Dienste auf statistischen Mustern und Wahrscheinlichkeiten basieren. Aufgrund dieser Funktionsweise kann der Output fehlerhaft, irreführend, unvollständig oder unangemessen sein. Inhaltliche Richtigkeit, Vollständigkeit, Rechtmäßigkeit, Originalität oder Eignung des Outputs können nicht sichergestellt werden.
+
+**1.4.** Der Kunde ist verpflichtet, jeden generierten Output eigenverantwortlich auf seine Eignung für den konkreten Verwendungszweck zu prüfen, bevor er diesen verwendet, veröffentlicht oder als Grundlage für geschäftliche oder rechtliche Entscheidungen heranzieht.
+
+**1.5.** Der Kunde akzeptiert, dass er sich insbesondere dann nicht ausschließlich auf KI-Dienste verlassen kann, wenn er medizinische, rechtliche, finanzielle oder eine andere professionelle Beratung erhalten oder anbieten möchte. Sämtlicher Output zu diesen Themen dient nur zu Informationszwecken und ist kein Ersatz für eine Beratung durch qualifizierte Berufsträger und Fachexperten.
+
+**1.6.** Der Kunde nimmt zur Kenntnis, dass die zugrundeliegenden KI-Modelle der KI-Dienste oder die zugrundeliegenden KI-Systeme von Drittanbietern stammen können. Der Kunde ist verpflichtet, die jeweiligen Nutzungsbedingungen des Drittanbieters (abrufbar unter [Link](https://www.strato.de/_assets/pdf/de/KI-Nutzungsbedingungen_Drittanbieter_Mai_2026.pdf) ) zu beachten und einzuhalten. Bei einem Verstoß des Kunden gegen diese Drittanbieter-Bedingungen ist Strato berechtigt, die Leistungserbringung fristlos einzustellen.
+
+### 2\. Anforderungen an Kunden-Input und Nutzungsrechte
+
+**2.1.** Der Kunde sichert zu, dass der von ihm in die KI-Dienste eingegebene, hochgeladene oder übermittelte Input nicht gegen geltendes Recht verstößt. Insoweit wird auf die AGB verwiesen.
+
+**2.2.** Der Kunde verpflichtet sich, die KI-Dienste ausschließlich im Einklang mit diesen Sonderbedingungen, den Allgemeinen Geschäftsbedingungen, geltendem Recht (einschließlich Urheber- und Markenrecht) und behördlichen Vorschriften zu nutzen. Insbesondere ist die Nutzung der Dienste zur Erstellung, Verbreitung oder Verwendung von rechtswidrigen, diskriminierenden, diffamierenden, jugendgefährdenden oder anderweitig unzulässigen Inhalten untersagt. Der Kunde ist ferner verpflichtet, alle anwendbaren Gesetze und Vorschriften im Hinblick auf den generierten Output einzuhalten.
+
+**2.3.** Sämtliche Eigentums- und Nutzungsrechte an dem vom Kunden bereitgestellten Input verbleiben beim Kunden. Die In- und Output-Daten dürfen von Strato ausschließlich zur technischen Verarbeitung und Bereitstellung der KI-Dienste an den Kunden zu Zwecken der technischen Sicherheit, Fehlerbehebung und Missbrauchsprävention verwendet werden. Jegliche darüber hinausgehende Nutzung, insbesondere für die Weiterentwicklung, das Training oder das Retraining des zugrundeliegenden KI-Modells oder anderer Modelle, ist ausdrücklich untersagt.
+
+**2.4.** Um die Stabilität, Sicherheit und Verfügbarkeit der KI-Dienste für alle Kunden zu gewährleisten, ist Strato berechtigt, die Anzahl der zulässigen Anfragen pro Zeiteinheit angemessen technisch zu begrenzen („Rate Limiting").
+
+### 3\. Änderung von KI-Modellen und Komponenten
+
+Strato behält sich das Recht vor, zugrundeliegende Modelle/Komponenten in den KI-Diensten oder Teile davon jederzeit mit einer angemessenen Frist abzuschalten, einzustellen, zu ändern oder durch ein anderes Produkt zu ersetzen, sofern dies aus technischen, wirtschaftlichen, rechtlichen oder regulatorischen Gründen notwendig ist.
+
+### 4\. Regelungen zur KI-Verordnung
+
+**4.1.** Der Kunde nimmt zur Kenntnis, dass er durch bestimmte Handlungen – insbesondere durch wesentliche Veränderungen der KI-Dienste, Zweckänderungen oder das Inverkehrbringen eines KI-Systems unter eigenem Namen oder eigener Marke – rechtlich selbst zum „Anbieter" im Sinne der Verordnung (EU) 2024/1689 (KI-Verordnung) werden kann. In diesem Fall obliegt die Erfüllung aller gesetzlichen Herstellerpflichten allein dem Kunden.
+
+**4.2.** Die Nutzung der Dienste zur Entwicklung oder zum Betrieb von „Hochrisiko-KI-Systemen" (Art. 6 KI-VO) ist ausdrücklich untersagt. Sollte der Kunde entgegen diesem Verbot handeln, stellt er Strato von sämtlichen hieraus resultierenden Ansprüchen Dritter und Bußgeldern vollumfänglich frei.
+
+### 5\. Nutzung von Bildmaterial von Drittanbietern
+
+**5.1.** Bei einzelnen SaaS KI-Diensten können generierte Outputs Inhalte aus Bilddatenbanken von Drittanbietern (Unsplash) enthalten. Sofern nicht abweichend angegeben, räumt Strato dem Kunden hiermit das nicht-exklusive, weltweite Recht ein, dieses Bildmaterial als integralen Bestandteil des generierten Outputs (z. B. innerhalb der erstellten Website) vertragsgemäß zu nutzen.
+
+**5.2.** Die Nutzung dieses Bildmaterials unterliegt ergänzend den jeweiligen Lizenzbedingungen des Drittanbieters (https://unsplash.com/license), zu deren Einhaltung der Kunde verpflichtet ist. Dem Kunden ist es insbesondere untersagt, das Bildmaterial isoliert aus dem Output zu extrahieren, herunterzuladen und/oder als eigenständiges Bildmaterial (z. B. zum Aufbau eines ähnlichen oder konkurrierenden Dienstes oder als Stockfoto) weiterzuverkaufen oder zu vertreiben.
+
+**5.3.** Strato übernimmt keine Gewährleistung oder Garantie dafür, dass das Bildmaterial frei von Rechten Dritter ist (insbesondere Urheber-, Marken- oder Persönlichkeitsrechte abgebildeter Personen). Der Kunde ist im Rahmen seiner Prüfpflicht gemäß Ziffer 1.4 allein dafür verantwortlich, vor der Veröffentlichung des Outputs zu prüfen, ob die konkrete Nutzung des Bildmaterials zusätzliche Rechteklärungen Dritter erfordert.
+
+**5.4.** Der Kunde stellt Strato von sämtlichen Ansprüchen Dritter auf erstes Anfordern frei, die aus einer unberechtigten oder rechtswidrigen Verwendung des Bildmaterials durch den Kunden (z. B. Verletzung von Lizenzbedingungen oder Rechten Dritter nach Veröffentlichung) resultieren.
+
+### 6\. Haftung und Freistellung
+
+**6.1.** Da die Generierung eventueller fehlerhafter Outputs gemäß Ziffer 1.3 der vertragsgemäßen Beschaffenheit entspricht, haftet Strato nicht für Schäden, die darauf beruhen, dass der Kunde auf die Richtigkeit des Outputs vertraut hat.
+
+**6.2.** Der Kunde stellt Strato von sämtlichen Ansprüchen Dritter (einschließlich angemessener Kosten für die Rechtsverteidigung), die gegen Strato aufgrund eines Verstoßes des Kunden gegen diese Nutzungsbedingungen, Gesetze oder AGB oder aufgrund der unrechtmäßigen Verwendung des generierten Outputs durch den Kunden geltend gemacht werden, auf erstes Anfordern frei.

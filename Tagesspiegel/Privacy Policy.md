@@ -501,5 +501,3 @@ isPaid:
 *   [per WhatsApp teilen](https://api.whatsapp.com/send?text=Verlag%20der%20Tagesspiegel%3A%20Informationen%20zum%20Datenschutz%20https%3A%2F%2Fwww.tagesspiegel.de%2Fverlag-der-tagesspiegel-datenschutzerklarung-383383.html&utm_source=whatsapp_share&utm_campaign=share&utm_content=383383 "per WhatsApp teilen")
 *   [auf Flipboard teilen](https://share.flipboard.com/bookmarklet/popout?v=2&title=Verlag%20der%20Tagesspiegel%3A%20Informationen%20zum%20Datenschutz&url=https%3A%2F%2Fwww.tagesspiegel.de%2Fverlag-der-tagesspiegel-datenschutzerklarung-383383.html&utm_source=flipboard_share&utm_campaign=share&utm_content=383383 "auf Flipboard teilen")
 *   per E-Mail teilen
-
-Ausblenden

@@ -8,6 +8,9 @@ Verlag der Tagesspiegel: Informationen zum Datenschutz
 
 Mit diesen Datenschutzhinweisen informieren wir Sie über unseren Umgang mit Ihren personenbezogenen Daten und über Ihre Rechte nach der Europäischen Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG). Verantwortlich für die Datenverarbeitung ist die Verlag Der Tagesspiegel GmbH (nachfolgend als „wir“ oder „uns“ bezeichnet). 
 
+[Jetzt neu: Tagesspiegel  
+bei Google bevorzugen](https://google.com/preferences/source?q=tagesspiegel.de)
+
 **I. Allgemeine Angaben**
 
 **1. Kontakt**  

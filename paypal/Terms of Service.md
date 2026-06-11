@@ -1304,29 +1304,3 @@ Wenn Sie Geschäftskunde sind, stimmen Sie folgendem zu:
 #### Abschnittsnummern und definierte Begriffe
 
 Wenn andere Dokumente (z.B. Nutzungsbedingungen) auf Abschnittsnummern oder definierte Begriffe in diesen Nutzungsbedingungen verweisen, finden Sie die relevante Bestimmung oder den definierten Begriff unter [**Hinweise zu Nutzungsbedingungen**](https://www.paypal.com/de/webapps/mpp/ua/reference-notes-full) .
-
-*   [Hilfe](https://www.paypal.com/de/cshelp/personal)
-*   [Kontakt](https://www.paypal.com/de/smarthelp/contact-us)
-*   [Gebühren](https://www.paypal.com/de/digital-wallet/paypal-consumer-fees)
-*   [Sicherheit](https://www.paypal.com/de/security)
-*   [Apps](https://www.paypal.com/de/digital-wallet)
-*   [Angebote](https://www.paypal.com/de/webapps/mpp/offers)
-*   [EU Digital Services Act](https://www.paypalobjects.com/marketing/web/complaince/European-Union-Digital-Services-Act-at-PayPal.pdf)
-
-*   [Germany](#)
-
-* * *
-
-*   [Über PayPal](https://www.paypal.com/de/webapps/mpp/about)
-*   [Newsroom](https://newsroom.deatch.paypal-corp.com/)
-*   [Jobs](https://careers.pypl.com/home/)
-
-* * *
-
-*   ©1999–2026 PayPal. Alle Rechte vorbehalten.
-*   [Barrierefreiheit](https://www.paypal.com/de/webapps/mpp/accessibility)
-*   [Impressum](https://www.paypal.com/de/webapps/mpp/imprint)
-*   [Datenschutz](https://www.paypal.com/myaccount/privacy/privacyhub)
-*   [Cookies](https://www.paypal.com/myaccount/privacy/cookiePrefs)
-*   [AGB](https://www.paypal.com/de/webapps/mpp/ua/legalhub-full)
-*   [Beschwerden](https://www.paypal.com/de/cshelp/complaints)

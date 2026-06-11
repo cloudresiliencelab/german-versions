@@ -430,6 +430,17 @@ Wir verwenden auf unserer Website zur Darstellung von Landkarten und für virtue
 **n) CARTO**  
 Auf bestimmten Unterseiten binden wir Landkarten des Dienstes CARTO der Firma CartoDB Inc. (USA – „CARTO“) ein. Bei der Nutzung von CARTO kann eine Übermittlung von Daten in die USA nicht ausgeschlossen werden. Beachten Sie dazu bitte die Hinweise im Abschnitt „Datenübermittlung in Drittländer“. Weitere Informationen zum Datenschutz bei CARTO finden Nutzer in den Datenschutzhinweisen von CARTOO: https://carto.com/legal/.
 
+**o) Tickaroo (Liveblog)**  
+_Zur Darstellung von Liveblogs bzw. Livetickern auf unserer Website nutzen wir den Live Blog Software Dienst Tickaroo der Tickaroo GmbH, Waffnergasse 8, 93047 Regensburg, Deutschland._  
+_Der Dienst ermöglicht die Bereitstellung und Aktualisierung von Inhalten in Echtzeit. Bei der Nutzung des Liveblogs werden zur technischen Bereitstellung und zur Sicherstellung eines stabilen und sicheren Betriebs technische Nutzungs- und Zugriffsdaten verarbeitet. Hierzu gehören:_  
+**_Zugriffsprotokolle_** _(IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene URL)_  
+**_Anonymisierte Analysedaten_** _(z. B. Klicks, Seitenaufrufe, Datenabrufe sowie technische Lade- und Timing-Daten)_  
+_Diese Daten werden verwendet, um den Liveblog bereitzustellen, die Systemsicherheit zu gewährleisten (z. B. zum Schutz vor DDoS-Angriffen sowie zur Erkennung und Analyse von Sicherheitsvorfällen)._  
+_Tickaroo erstellt zudem anonymisierte Aufrufstatistiken. Die in den Zugriffsprotokollen enthaltenen IP-Adressen werden für maximal vier Wochen gespeichert und anschließend gelöscht oder anonymisiert. Anonymisierte Protokoll- und Statistikdaten können darüber hinaus gespeichert werden._  
+_Im Rahmen der Nutzung können technisch notwendige Cookies eingesetzt werden, die für den Betrieb des Liveblogs erforderlich sind. Tickaroo verarbeitet diese Daten als technischer Dienstleister in unserem Auftrag._  
+_Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der sicheren und technisch stabilen Bereitstellung unserer Inhalte)._  
+_Weitere Informationen zur Datenverarbeitung durch Tickaroo finden Sie unter: https://www.tickaroo.com/customer-docs/embed/v4/data-protection.html_
+
 **III.  Datenverarbeitungen auf unseren Social-Media-Seiten**
 
 Wir sind auf mehreren Social-Media-Plattformen mit einer Unternehmensseite vertreten. Hierdurch möchten wir weitere Möglichkeiten zur Information über unser Unternehmen und zum Austausch bieten. Unser Unternehmen verfügt über Unternehmensseiten auf den folgenden Social-Media-Plattformen:

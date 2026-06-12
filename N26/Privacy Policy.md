@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.4, Datum: 30.04.2026)
+(Version 13.5, Datum: 12.06.2026)
 
 
 
@@ -1182,11 +1182,25 @@ der Meinung bist, dass wir deinen SCHUFA-Score nicht korrekt berücksichtigt hab
 
 XII. Datenerhebung im Rahmen vonTelefongesprächsaufzeichnungen
 
-Sofern Telefongespräche zwischen dir und N26 Vertragsangelegenheiten (wie z.B. bei Bezugnahme aufKontodetails oder deine Transaktionen) beinhalten, werden diese Telefongespräche aus Sicherheits- undBeweisgründen aufgezeichnet. Die rechtliche Grundlage für die Aufzeichnung von Telefongesprächen ist Art. 6(1) f) DSGVO, und unser berechtigtes Interesse wird darin begründet, dass wir ein Interesse daran habenvertragliche Anfragen nachzuweisen sowie betrügerisches Verhalten zu verhindern und aufzudecken. Diesbezieht sich nicht auf Telefongespräche, die auf allgemeine Anfragen über N26 Produkten und Dienstenabzielen.
+Wenn du mit uns telefonisch über Vertragsangelegenheiten sprichst (wie kontobezogene Informationen,Transaktionen, Sicherheitsangelegenheiten oder Supportanfragen im Zusammenhang mit deinem Konto oderunseren Dienstleistungen), können Telefongespräche aus Sicherheits- und Beweisgründen aufgezeichnetwerden. Dies umfasst insbesondere die Dokumentation von Kundeninteraktionen, die Unterstützung internerUntersuchungen, die Bearbeitung von Beschwerden und Streitfällen sowie die Verhinderung und Aufdeckungbetrügerischer oder unbefugter Aktivitäten.
 
-Die Aufzeichnungen werden so lange aufbewahrt, wie es aus Sicherheits- und Beweisgründen erforderlich ist.Diese Aufzeichnungen werden von unserem Dienstleister für interaktive Sprachnachrichtensysteme (InteractiveVoice Response, „IVR“) verarbeitet, der wiederum personenbezogenen Daten im Auftrag von N26 verarbeitet(Art. 28 DSGVO). Sofern wir dazu verpflichtet sind, werden wir, im Einklang mit dem anwendbaren Recht, dieAufzeichnung an die zuständigen Behörden weiterleiten.
 
-Wenn du während eines Telefonats mit uns eine solche Aufzeichnung nicht wünschst, kontaktiere uns bitte perE-Mail oder über unseren Customer Chat, falls du Fragen im Zusammenhang mit deinen Kontodetails oderTransaktionen hast.
+
+Die Aufzeichnungen können personenbezogene Daten enthalten, wie Sprachdaten, während des Gesprächsoffengelegte Identifikations- und Kontaktdaten, konto- und transaktionsbezogene Informationen sowieInformationen zu Supportanfragen und Kundeninteraktionen.
+
+Die Verarbeitung personenbezogener Daten im Zusammenhang mit solchen Aufzeichnungen erfolgt aufGrundlage der von N26 verfolgten berechtigten Interessen gemäß Art. 6 (1) f) DSGVO. Telefongespräche, diesich ausschließlich auf allgemeine Anfragen zu Produkten oder Dienstleistungen von N26 beziehen, werdengrundsätzlich nicht aufgezeichnet.
+
+
+
+In bestimmten Fällen können Aufzeichnungen, die bereits zu Sicherheits- und Beweiszwecken erhoben wurden,zusätzlich für Zwecke der Qualitätssicherung und Serviceverbesserung überprüft und verwendet werden. Einesolche Nutzung erfolgt ausschließlich auf Grundlage deiner Einwilligung gemäß Art. 6 (1) a) DSGVO. Du kannstdeine Einwilligung jederzeit mit Wirkung für die Zukunft während des Gesprächs oder durch Kontaktaufnahmemit dem Kundenservice über die verfügbaren Supportkanäle widerrufen. Der Widerruf der Einwilligung berührtnicht die Rechtmäßigkeit der vor dem Widerruf erfolgten Verarbeitung und hat keinen Einfluss auf dieSpeicherung oder Nutzung der Aufzeichnungen zu Sicherheits- und Beweiszwecken.
+
+
+
+Die Telefongesprächsaufzeichnungen können von Dienstleistern verarbeitet werden, die im Auftrag von N26gemäß Art. 28 DSGVO Dienstleistungen im Zusammenhang mit Telefonieinfrastruktur, Aufzeichnung, Hostingund zugehörigen Supportleistungen erbringen. Die Aufzeichnungen können außerdem, soweit erforderlich, mitKundenservice-Dienstleistern geteilt werden, die an der Bearbeitung von Kundenanfragen beteiligt sind. Soweitsolche Dienstleister personenbezogene Daten zu eigenen Bewertungs- oder Personalverwaltungszweckenverarbeiten, handeln sie als eigenständige Verantwortliche.
+
+
+
+Die Aufzeichnungen werden nur so lange gespeichert, wie dies für die oben beschriebenen Zwecke sowie zurEinhaltung anwendbarer gesetzlicher, regulatorischer und betrieblicher Aufbewahrungspflichten erforderlichist.
 
 
 
@@ -1208,7 +1222,9 @@ Bezüglich deiner personenbezogenen Daten hast du die folgenden Rechte:
 
 ● das Recht auf Löschung gemäß Art. 17 DSGVO, was bedeutet, dass du die Löschung deinerpersonenbezogenen Daten anfordern kannst, wenn sie von N26 nicht mehr für die Zwecke benötigtwerden, für die sie ursprünglich erhoben wurden, oder wenn du weißt, dass sie unrechtmäßigverwendet wurden. N26 kann deine Anfrage zurückweisen, wenn die Daten zur Erfüllung einerrechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder für rechtliche Schrittenotwendig sind;
 
-● das Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO, was bedeutet, dass du dieEinschränkung der Verarbeitung deiner personenbezogenen Daten anfordern kannst, wenn diesrechtlich zulässig ist und insbesondere dann, (i) wenn du die Richtigkeit deiner Daten bestreitest, (ii)wenn du die Einschränkung forderst, weil du der Ansicht bist, dass die Verarbeitung unrechtmäßig ist,oder (iii) wenn die Daten für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind, N26sie jedoch für rechtliche Schritte benötigt;
+● das Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO, was bedeutet, dass du dieEinschränkung der Verarbeitung deiner personenbezogenen Daten anfordern kannst, wenn dies
+
+rechtlich zulässig ist und insbesondere dann, (i) wenn du die Richtigkeit deiner Daten bestreitest, (ii)wenn du die Einschränkung forderst, weil du der Ansicht bist, dass die Verarbeitung unrechtmäßig ist,oder (iii) wenn die Daten für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind, N26sie jedoch für rechtliche Schritte benötigt;
 
 ● das Recht, der Verarbeitung zu widersprechen, gemäß Art. 21 DSGVO, wie in Abschnitt XIII.2. nähererläutert;
 
@@ -1225,6 +1241,8 @@ Ungeachtet des Abschnitts XIII.2. weiter unten, kannst du:
 Dein Auskunftsrecht, dein Recht auf Löschung und dein Recht auf Einschränkung der Verarbeitung auf
 
 dieser Webform ausüben;
+
+
 
 Du kannst dein Recht auf Datenübertragbarkeit ausüben, indem du die in diesem Support-Center-Artikel
 
@@ -1258,8 +1276,6 @@ Du kannst dein Recht auf Widerruf deiner Einwilligung über die in unserer Web-A
 
 ● Widerspruchsrecht (gemäß Art. 21 (1) DSGVO)
 
-
-
 Du hast das Recht, jederzeit gegen die Verarbeitung deiner personenbezogenen Daten, die aufgrundvon Art. 6 (1) e) DSGVO und Art. 6 (1) f) DSGVO erfolgt, Widerspruch einzulegen. Dies gilt auch für dasProfiling im Sinne von Art. 4 (4) DSGVO. Widerrufst du deine Einwilligung, werden deinepersonenbezogenen Daten nicht länger verarbeitet, es sei denn, wir können zwingende schutzwürdigeGründe für die Verarbeitung nachweisen, die deine Interessen, Rechte und Freiheiten überwiegen,oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.Bis zum Zeitpunkt deines Widerspruchs erfolgte Datenverarbeitungen bleiben dabei rechtmäßig. Du
 
 kannst dein Widerspruchsrecht über unsere Webform ausüben.
@@ -1275,6 +1291,8 @@ Wir verarbeiten deine personenbezogenen Daten in Einzelfällen, um Direktwerbung
 Datenverarbeitungen bleiben dabei rechtmäßig. Du kannst dein Widerspruchsrecht über unsere Webform
 
 ausüben.
+
+
 
 XIV. Lösch- und Aufbewahrungsfristen
 

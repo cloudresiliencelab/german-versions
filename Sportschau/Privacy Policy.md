@@ -114,11 +114,11 @@ Mit beiden Storebetreibern sind explizite Vereinbarungen getroffen, dass sie per
 
 Weitere Informationen finden Sie in den Datenschutzerklärungen der beteiligten Firmen und der Automobilhersteller:
 
-APP-Store-Betreiber: [Faurecia Aptoide Automotive](https://faurecia-aptoide.com/ "Website Faurecia Aptoide"), S.A., Rua Soeiro Pereira Gomes, Lisboa, Portugal
+APP-Store-Betreiber: Faurecia Aptoide Automotive, S.A., Rua Soeiro Pereira Gomes, Lisboa, Portugal
 
 Datenschutzerklärung: https://faurecia-aptoide.com/privacy-policy/
 
-APP-Store-Betreiber: [Harman International Industries](https://www.harman.com/ "Website Harman Ignite"), Incorporated (“Harman”), 400 Atlantic Street, Stamford, Connecticut 06901, US
+APP-Store-Betreiber: Harman International Industries, Incorporated (“Harman”), 400 Atlantic Street, Stamford, Connecticut 06901, US
 
 Datenschutzerklärung: https://www.harman.com/privacy-policy
 

@@ -5,6 +5,11 @@ Wirksam ab dem 22. Mai 2024 | [Archivierte Versionen](https://policies.google.co
 
 [Landesversion:](https://policies.google.com/terms?hl=de&fg=1#footnote-country-version) Deutschland
 
+Wir aktualisieren am 30. Juli 2026 unsere Nutzungsbedingungen, damit klarer wird, was Sie von Google erwarten können und was wir von Ihnen erwarten, wenn Sie unsere Dienste verwenden. Bis dahin gelten weiterhin die unten genannten Nutzungsbedingungen.
+
+*   [Vorschau der neuen Nutzungsbedingungen](https://policies.google.com/terms/update?hl=de&fg=1)
+*   [Zusammenfassung der wichtigsten Änderungen](https://policies.google.com/terms/changes?hl=de&fg=1)
+
 Was diese Nutzungsbedingungen umfassen
 --------------------------------------
 
@@ -496,7 +501,7 @@ Eine gesetzliche Gewährleistung ist die gesetzliche Verpflichtung eines Verkäu
 
 ### gewerbliche Garantie
 
-Eine gewerbliche Garantie ist eine freiwillige Zusage, die zusätzlich zur [gesetzlichen Mängelhaftung](https://policies.google.com/terms/definitions?hl=de&fg=1#toc-terms-legal-guarantee) gilt. Das Unternehmen, das die gewerbliche Garantie ausspricht, verpflichtet sich, (a) bestimmte Dienste bereitzustellen oder (b) mangelhafte Gegenstände zu reparieren, zu ersetzen oder dem Verbraucher zu erstatten.
+Eine gewerbliche Garantie ist eine freiwillige Zusage, dass gewisse Qualitätsstandards eingehalten werden und dass das Unternehmen, das die Garantie ausspricht, bei Nichteinhaltung dieser Standards dafür verantwortlich ist, die mangelhaften Gegenstände zu reparieren, zu ersetzen oder dem Verbraucher zu erstatten.
 
 ### Ihre Inhalte
 

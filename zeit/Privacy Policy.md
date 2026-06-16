@@ -161,11 +161,11 @@ Angaben zur Speicherdauer können Sie dem Privacy-Center entnehmen.
 
 ### Sicherer Betrieb der Seite
 
-Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils geltenden vertraglichen Vereinbarungen genutzt werden. Um eine missbräuchliche Nutzung zu erkennen und angemessen reagieren zu können, werden personenbezogene Daten (z.B. Login-Daten, Devices, Login-Häufigkeit, Datum und Uhrzeit) in unserer Datenbank zum Schutz unserer Rechte verarbeitet und ungewöhnliche Nutzungen identifiziert.
+Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils geltenden vertraglichen Vereinbarungen genutzt werden. Um eine missbräuchliche Nutzung zu erkennen und angemessen reagieren zu können, werden personenbezogene Daten (z.B. Login-Daten, Devices, Login-Häufigkeit, Datum und Uhrzeit) in unserer Datenbank zum Schutz unserer Rechte verarbeitet und ungewöhnliche Nutzungen identifiziert. So wehren wir insbesondere Credential Stuffing (Automatisiertes Ausprobieren geleakter Zugangsdaten), Brute-Force-/Password-Spraying-Angriffe, Session-Hijacking / Session-Fixation, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), SQL-Injection / Injection-Angriffe auf Backend-Systeme und das Abgreifen unserer journalistischen Inhalte durch KI-Bots ab.
 
-Rechtsgrundlage dieser Verarbeitungen ist das zustande gekommene Nutzungsverhältnis sowie unser berechtigtes Interesse (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Die Datenverarbeitung erfolgt automatisiert und kann nicht unterbunden werden.
+Rechtsgrundlage dieser Verarbeitungen ist das zustande gekommene Nutzungsverhältnis sowie unser berechtigtes Interesse (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Die Inhalte auf zeit.de sind die Verkörperung der journalistischen Arbeit unseres Unternehmens und unser wichtigstes wirtschaftliches Gut. Dieses müssen wir durch technische Maßnahmen schützen, um unser Geschäftsmodell aufrechterhalten zu können. Die Datenverarbeitung erfolgt automatisiert und kann nicht unterbunden werden.
 
-Eine separate Datenspeicherung für diesen Zweck findet nicht statt.
+Eine separate Datenspeicherung für diese Zwecke findet nicht statt.
 
 [To the top of the section](#Sicherer-Betrieb-der-Seite)
 
@@ -634,7 +634,8 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   7 Points Sp. z o.o. (SaaS-Anbieter Umfrage-Tool SurveyLab)
 *   Piano Software Norway (SaaS-Anbieter für Personalisierung und Nutzeransprache)
 *   Stripo Inc. (SaaS-Anbieter Newsletter-Templates)
-*   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot Lösung)
+*   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot-Lösung)
+*   Centinel Analytica GmbH (SaaS-Anbieter Anti-KI-Bot-Lösung)
 
 [To the top of the section](#Unternehmensliste)
 

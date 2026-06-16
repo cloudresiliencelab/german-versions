@@ -172,7 +172,7 @@ Um Produkte zu entwickeln und zu verbessern, können Anbieter Informationen verw
 
 Anbieter können keine Datenverarbeitungen durchführen, die in einem der anderen Verarbeitungszwecke definiert sind. 
 
-### 2.9 Nutzung von Identifikationsmethoden netID
+### 2.9 Nutzung von Identifikationsmethoden: netID
 
 Wir erhalten von Ihrem netID Account-Anbieter den sog. netID Identifier, wenn Sie uns eine Zustimmung für die „Identifikation über netID“ erteilt haben. Hierüber können wir Sie beim Besuch unserer Angebote und Inhalte wiederzuerkennen.
 
@@ -186,55 +186,55 @@ Rechtsgrundlage für die Datenverarbeitung ist jeweils Art. 6 Abs. 1 lit. a DSGV
 
 Weitere Informationen können Sie in Ihrem [netID Privacy Center](https://broker.netid.de/privacycenter) einsehen. Dort können Sie auch jederzeit eine von Ihnen erteilte Einwilligung in die Übermittlung der netID an uns widerrufen. Nach Widerruf Ihrer Einwilligung erhalten wir nicht länger Ihren netID Identifier und löschen ihn aus unseren Datensätzen, soweit einer Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-**Was genau ist der netID Identifier?**
+#### 2.9.1 Was genau ist der netID Identifier?
 
-Der netID Identifier ist eine eindeutige Kombination aus Ziffern und Buchstaben, die Ihnen von Ihrem netID Account-Anbieter zugewiesen wird.
+Der netID Identifier ist eine eindeutige Kombination aus Ziffern und Buchstaben, die Ihnen von Ihrem netID Account-Anbieter zugewiesen wird. 
 
-**Wie wird Ihnen netID Identifier zugeordnet?**
+#### 2.9.2 Wie wird Ihnen netID Identifier zugeordnet?
 
-Wir nutzen auf der Grundlage Ihrer Einwilligung Ihre netID ([https://netid.de](https://netid.de/)), um Sie auf unserem Online-Dienst zu identifizieren bzw. wiederzuerkennen und auf dieser Grundlage weitere Verarbeitungen durchzuführen.
+Wir nutzen auf der Grundlage Ihrer Einwilligung Ihre netID ([https://netid.de](https://netid.de/)) um Sie auf unserem Online-Dienst zu identifizieren bzw. wiederzuerkennen und auf dieser Grundlage weitere Verarbeitungen durchzuführen. 
 
-**Wieso haben Sie einen netID Identifier?**
+#### 2.9.3 Wieso haben Sie einen netID Identifier?
 
-Unabhängig von der Vorlage dieses netID Identifiers, entscheiden Sie selbst, ob wir diesen Identifier nutzen dürfen, um Sie auf unserem Webangebot zu identifizieren und Ihre netID für die weiter unten aufgelisteten Zwecke zu verwenden.
+Unabhängig von der Vorlage dieses netID Identifiers, entscheiden Sie selbst, ob wir diesen Identifier nutzen dürfen, um Sie auf unserem Webangebot zu identifizieren und Ihre netID für die weiter unten aufgelisteten Zwecke zu verwenden. 
 
-Soweit Sie mit einem Account bei [netID](https://broker.netid.de/privacycenter) registriert sind, haben Sie einen netID Identifier, der diesem Account auf Grundlage ihrer Zustimmung im Rahmen der Registrierung zugeordnet wurde.
+Soweit Sie mit einem Account bei [netID](https://broker.netid.de/privacycenter) registriert sind, haben Sie einen netID Identifier, der diesem Account auf Grundlage ihrer Zustimmung im Rahmen der Registrierung zugeordnet wurde. 
 
-Soweit Sie Ihren netID-Account über einen netID-Account Anbieter (z.B. als Nutzer mit einer E-Mail-Adresse bei WEB.DE oder GMX oder bei einer Registrierung bei 7Pass) erhalten und dort der Verarbeitung zugestimmt haben, können Sie sich im Rahmen der AGB bzw. Datenschutzhinweise des jeweiligen Anbieters über die entsprechende Verarbeitung Ihrer Daten informieren.
+Soweit Sie Ihren netID-Account über einen netID-Account Anbieter (z. B. als Nutzer mit einer E-Mail-Adresse bei WEB.DE oder GMX oder bei einer Registrierung bei 7Pass) erhalten und dort der Verarbeitung zugestimmt haben, können Sie sich im Rahmen der AGB bzw. Datenschutzhinweise des jeweiligen Anbieters über die entsprechende Verarbeitung Ihrer Daten informieren. 
 
-**Wozu verwenden wir den netID Identifier?**
+#### 2.9.4 Wozu verwenden wir den netID Identifier?
 
-Sofern Sie eine Einwilligung für die „**Identifikation**“ über netID erteilt haben, erhalten wir von Ihrem netID Account-Anbieter den netID Identifier, um Sie beim Besuch unserer Angebote und Inhalte wieder zu erkennen.
+Sofern Sie eine Einwilligung für die „**Identifikation**“ über netID erteilt haben, erhalten wir von Ihrem netID Account-Anbieter den netID Identifier, um Sie beim Besuch unserer Angebote und Inhalte wieder zu erkennen. 
 
-Anhand dieser zentralen ID können wir Daten über Sie erfassen, zuordnen und verarbeiten. Welche Daten das sind und zu welchen Zwecken wir diese Daten verarbeiten, können Sie dem folgenden Abschnitt „Zu welchen konkreten Zwecken verwenden wir den netID Identifier“ entnehmen. Soweit wir Ihre Daten für einschlägige Zwecke aufführen verwenden, können Sie weitere Informationen hierüber zusätzlich auch in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)) einsehen.
+Anhand dieser zentralen ID können wir Daten über Sie erfassen, zuordnen und verarbeiten. Welche Daten das sind und zu welchen Zwecken wir diese Daten verarbeiten, können Sie dem folgenden Abschnitt „Zu welchen konkreten Zwecken verwenden wir den netID Identifier“ entnehmen. Soweit wir Ihre Daten für einschlägige Zwecke aufführen verwenden, können Sie weitere Informationen hierüber zusätzlich auch in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)) einsehen. 
 
-**Zu welchen konkreten Zwecken verwenden wir den netID Identifier?**
+#### 2.9.5 Zu welchen konkreten Zwecken verwenden wir den netID Identifier?
 
-Soweit Sie hierzu auf einem separaten Einwilligungsdialog eingewilligt haben, verwenden wir den netID Identifier, damit wir Sie auf unseren Webangeboten wiedererkennen können, um Ihnen ein verbessertes Nutzungserlebnis zu ermöglichen und um Ihnen auf Basis eines Nutzerprofils Ihren Präferenzen und Interessen entsprechende Dienste bzw. Angebote anbieten und anzeigen zu können. Dazu senden wir Ihre netID auch an unsere Partner, die uns hierbei unterstützen und die Ihre netID ggf. mit anderen von Ihnen gesammelte Daten abgleichen und verknüpfen. Die Verarbeitung Ihrer Daten bei unseren Partnern geschieht dabei auf Grundlage Ihrer Einwilligungen in den Einstellungen zur Privatsphäre für die entsprechenden gelisteten Drittanbieter. Des Weiteren nutzen wir – gemäß dem Falle, dass Sie auf dem jeweiligen Online-Dienst über den separaten netID Einwilligungsdialog eine netID Einwilligung erteilt haben - Ihren netID Identifier auch angebots-, anbieter-, und geräteübergreifend übergreifend über allen unter „Wer bekommt meine Daten“ aufgeführten Unternehmen. 
+Soweit Sie hierzu auf einem separaten Einwilligungsdialog eingewilligt haben, verwenden wir den netID Identifier, damit wir Sie auf unseren Webangeboten wiedererkennen können, um Ihnen ein verbessertes Nutzungserlebnis zu ermöglichen und um Ihnen auf Basis eines Nutzerprofils Ihren Präferenzen und Interessen entsprechende Dienste bzw. Angebote anbieten und anzeigen zu können. Dazu senden wir Ihre netID auch an unsere Partner, die uns hierbei unterstützen und die Ihre netID ggf. mit anderen von Ihnen gesammelte Daten abgleichen und verknüpfen. Die Verarbeitung Ihrer Daten bei unseren Partnern geschieht dabei auf Grundlage Ihrer Einwilligungen in den Einstellungen zur Privatsphäre für die entsprechenden gelisteten Drittanbieter. Des Weiteren nutzen wir – gemäß dem Falle, dass Sie auf dem jeweiligen Online-Dienst über den separaten netID Einwilligungsdialog eine netID Einwilligung erteilt haben –- Ihren netID Identifier auch angebots-, anbieter-, und geräteübergreifend übergreifend über allen unter „Wer bekommt meine Daten“ aufgeführten RTL-Unternehmen.
 
-Im Falle einer Ablehnung oder, wenn Sie im netID Einwilligungsdialog auf „Schließen“ geklickt haben, wird diese Information in einem Cookie gespeichert, damit Ihnen der netID Einwilligungsdialog erst nach einer gewissen Zeit wieder angezeigt wird. In diesem Fall erhalten wir Ihren netID Identifier nicht.
+Im Falle einer Ablehnung oder, wenn Sie im netID Einwilligungsdialog auf „Schließen“ geklickt haben, wird diese Information in einem Cookie gespeichert, damit Ihnen der netID Einwilligungsdialog erst nach einer gewissen Zeit wieder angezeigt wird. In diesem Fall erhalten wir Ihren netID Identifier nicht. 
 
-**Wichtig:** Soweit wir auf der Basis des netID Identifiers Nutzerprofile erstellen, fließen in diese Nutzerprofile **keine „sensiblen“ Daten** zur rassischen oder ethnischen Herkunft, politischen Überzeugungen, eventuellen Gewerkschaftszugehörigkeit, Gesundheit oder Sexualität ein. Diese Nutzerprofile werden auch nicht dazu verwendet, solche oder vergleichbare Erkenntnisse über Ihre Persönlichkeit zu gewinnen.
+**Wichtig:** Soweit wir auf der Basis des netIDIdentifiers Nutzerprofile erstellen, fließen in diese Nutzerprofile **keine „sensiblen“ Daten** zur rassischen oder ethnischen Herkunft, politischen Überzeugungen, eventuellen Gewerkschaftszugehörigkeit, Gesundheit oder Sexualität ein. Diese Nutzerprofile werden auch nicht dazu verwendet, solche oder vergleichbare Erkenntnisse über Ihre Persönlichkeit zu gewinnen. 
 
-**Wie funktioniert das technisch?**
+#### 2.9.6 Wie funktioniert das technisch?
 
-Wir erhalten den netID Identifier von Ihrem netID Account-Anbieter. Mehr Informationen zur technischen Umsetzung erhalten Sie bei diesem in Ihrem netID Privacy Center.
+Wir erhalten den netID Identifier von Ihrem netID Account-Anbieter. Mehr Informationen zur technischen Umsetzung erhalten Sie bei diesem in Ihrem netID Privacy Center. 
 
-**Wer bekommt Ihre Daten?**  
-  
-Wir geben Ihre Daten an die FUNKE Women, People & Family GmbH, die Ad Alliance GmbH sowie ggf. an weitere ausgewählte Dritte, denen Sie eine Einwilligung zur Verarbeitung von Daten gegeben haben, die netID in diesem Zusammenhang verwenden und mit denen wir vertragliche Vereinbarungen über die Nutzung der netID geschlossen haben, weiter. Voraussetzung für die Weitergabe an die oben aufgeführten Unternehmen ist, dass Sie für die jeweilig zugehörigen Online-Dienst eine netID Einwilligung erteilt haben.
+#### 2.9.7 Wer bekommt Ihre Daten?
 
-**Wie lange wird der netID Identifier gespeichert?**
+Wir geben Ihre Daten an die Chefkoch GmbH, die Ad Alliance GmbH sowie ggf. an weitere ausgewählte Dritte, denen Sie eine Einwilligung zur Verarbeitung von Daten gegeben haben, die netID in diesem Zusammenhang verwenden und mit denen wir vertragliche Vereinbarungen über die Nutzung der netID geschlossen haben, weiter. Voraussetzung für die Weitergabe an die oben aufgeführten Unternehmen ist, dass Sie für die jeweilig zugehörigen Online-Dienst eine netID Einwilligung erteilt haben. 
 
-Der netID Identifier wird von uns aus bestehenden Datensätzen grundsätzlich gelöscht, wenn Sie Ihre Einwilligung zur Identifikation widerrufen. Wir werden den netID Identifier aus bestehenden Datensätzen regelmäßig auch dann löschen, wenn Sie unsere Online-Dienste, auf denen der netID Identifier zum Einsatz kommt, länger als 36 Monate nicht genutzt haben. Eine Speicherung des netID Identifier über die in den vorangegangenen Sätzen genannten Zeitpunkte hinaus erfolgt nur dann, soweit wir aus rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern.
+#### 2.9.8 Wie lange wird der netID Identifier gespeichert?
 
-**Welche Widerrufsmöglichkeiten haben Sie?**
+Der netID Identifier wird von uns aus bestehenden Datensätzen grundsätzlich gelöscht, wenn Sie Ihre Einwilligung zur Identifikation widerrufen. Wir werden den netID Identifier aus bestehenden Datensätzen regelmäßig auch dann löschen, wenn Sie unsere Online-Dienste, auf denen der netID Identifier zum Einsatz kommt, länger als 36 Monate nicht genutzt haben. Eine Speicherung des netID Identifier über die in den vorangegangenen Sätzen genannten Zeitpunkte hinaus erfolgt nur dann, soweit wir aus rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern. 
 
-Sie können Ihre Einwilligung für die Verwendung des netID Identifier durch uns jederzeit widerrufen. Sie können einen Widerruf in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)) vornehmen.
+#### 2.9.9 Welche Widerrufsmöglichkeiten haben Sie?
 
-**Welche Folgen hat ein Widerruf der Einwilligung?**
+Sie können Ihre Einwilligung für die Verwendung des netID Identifier durch uns jederzeit widerrufen. Sie können einen Widerruf in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)) vornehmen. 
 
-Nach einem Widerruf werden wir bei Ihrem Besuch unserer Angebote nicht länger Ihren netID Identifier erhalten. Außerdem löschen wir den netID Identifier aus unseren Datensätzen, soweit wir nicht aus anderen rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern.
+#### 2.9.10 Welche Folgen hat ein Widerruf der Einwilligung?
+
+Nach einem Widerruf werden wir bei Ihrem Besuch unserer Angebote nicht länger Ihren netID Identifier erhalten. Außerdem löschen wir den netID Identifier aus unseren Datensätzen, soweit wir nicht aus anderen rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern. 
 
 ### 2.10 Nutzungs- und Reichweitenmessung für die AGF Marktstudie
 
@@ -271,6 +271,55 @@ Es kann darüber hinaus sein (z.B. im Fall von Youtube der „Double Click“-Co
 Diese Datenweitergabe kann nur auf Basis Ihrer Einwilligung gem. Art. 6 (1) a DSGVO erfolgen und nur solange, wie Sie diese Einwilligung nicht widerrufen. Bitte beachten Sie, dass die Erteilung Ihrer Einwilligung zur Folge haben kann, dass Ihre Daten in ein Land außerhalb der EU (Drittland) übermittelt werden, wo nicht immer das gleiche Datenschutzniveau wie in der EU sichergestellt ist. 
 
 Wir speichern zu diesem Zweck Ihre Zustimmung zur Übermittlung Ihrer IP-Adresse für die Dauer von drei Jahren in Form eines Log-Eintrags zu Zwecken unserer Nachweispflicht gem. Art. 7 (1) DSGVO.
+
+### 2.11 Einsatz von CleverPush für Push-Nachrichten
+
+CleverPush ist ein Push-Benachrichtigungs-Service. Dieser wird von uns eingesetzt, um Nutzern unseres Angebotes Push-Nachrichten zu neuen Artikeln ausgewählter Themengebiete zu senden.
+
+Dieser Service wird von unserem Partner CleverPush bereitgestellt: CleverPush GmbH, Nagelsweg 22, 20097 Hamburg. Die Datenschutzerklärung von Cleverpush finden sich hier: [https://cleverpush.com/en/privacy](https://cleverpush.com/en/privacy)
+
+CleverPush erhebt keine Nutzerdaten wie IP-Adressen o. ä., welche direkte Rückschlüsse auf den jeweiligen Nutzer liefern können. Beim Eintragen in den Benachrichtigungs-Verteiler wird lediglich eine Art Identifikator, welcher von Browser zu Browser variiert, an unsere Server gesendet. Dieser Identifikator wird von den Browserherstellern (Google, Mozilla, Apple etc.) vergeben und ermöglicht es uns, die Benachrichtigungen an die jeweiligen Browser zu versenden.
+
+Zur CleverPush-FAQ geht es hier!: [https://cleverpush.com/de/faq](https://cleverpush.com/de/faq)
+
+Über folgende Links haben Sie die Möglichkeit, Push-Nachrichten von CleverPush auf Ihrem mobilen Endgerät oder PC zu deaktivieren: [https://www.gala.de/?cleverPushUnsubscribe=true](https://www.gala.de/?cleverPushUnsubscribe=true)
+
+Führen Sie den jeweiligen Link bitte unbedingt auf exakt dem Endgerät und in exakt dem Browser aus, mit welchem Sie die unerwünschten Push-Nachrichten empfangen.
+
+### 2.12 Quizze: Riddle
+
+Riddle wurde aus einer Gruppe von Quiz-Fans im Jahr 2014 gegründet und ist ein Softwareunternehmen, das sich unter anderem auf die Quiz-Herstellung spezialisiert hat. Das Unternehmen bietet Websitebetreibern Content-Typen wie Quiz oder Persönlichkeitstests, die in eine Website eingebunden werden. Wir können unser Quiz exakt nach unseren Vorstellungen gestalten. So können User wie Sie an individuell erstellten Rätseln, die zum Thema der Website passen, teilnehmen.
+
+#### 2.12.1 Warum verwenden wir Riddle auf unserer Website?
+
+Unser oberstes Ziel mit dieser Website ist es, Ihnen neben hochwertigen Inhalten und Angeboten, eine angenehme und unterhaltsame Zeit zu bieten. Und wie geht das besser als mit einem kleinen Online-Quiz? Und aus diesem Grund gibt es auf unserer Website das Online-Quiz von Riddle.
+
+#### 2.12.2 Welche Daten werden von Riddle gespeichert?
+
+Riddle speichert selbst keine Daten, wenn Sie die auf unserer Website eingebettete Riddle-Funktion verwenden. Die Daten werden auf unserem Webspace abgelegt und Riddle kann nur im Rahmen von Wartungsarbeiten und/oder Supportdienstleistungen zugreifen. Der Zugang ist begrenzt und steht nur den verantwortlichen Wartungsmitarbeitern zur Verfügung. Riddle erhebt keine personenbezogenen Daten. Es werden nur zusammengefasste Daten, die keine Rückschlüsse auf Personen erfasst. So wird ausgewertet, wie viele (anonyme) Personen eine bestimmte Antwortmöglichkeit ausgewählt haben. Nicht ausgewertet wird aber, welche Person welche Antwort gegeben hat. Riddle verwendet also nur anonymisierte Daten für statistische Auswertungen. Falls wir via Formular Daten von Ihnen abfragen, werden diese Daten erfasst und in unserem Webspace abgelegt.
+
+Die eingebettete Riddle-Funktion setzt in der Standardvariante (per Default) folgendes Session-Cookie:
+
+**Name:** sid  
+**Wert:** 3c531f634a459f0933e1689ffb1945331781590966-6be  
+**Verwendungszweck:** Dieses Cookie speichert Ihre Session-ID und Ihren letzten Anmeldezeitpunkt in digital signierter und verschlüsselter Form.  
+**Ablaufdatum:** nach Schließung Ihres Browsers
+
+#### 2.12.3 Wie lange und wo werden die Daten gespeichert?
+
+Alle Daten werden lokal auf unserem Webserver gespeichert. Die Daten werden so lange auf unserem Webserver gespeichert, bis sie für die oben angeführten Zwecke nicht mehr benötigt werden.
+
+#### 2.12.4 Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+
+Sie haben jederzeit das Recht auf Auskunft, Berichtigung bzw. Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Sie können zudem auch jederzeit die Einwilligung zur Verarbeitung der Daten widerrufen.
+
+#### 2.12.5 Rechtsgrundlage
+
+Wenn Sie eingewilligt haben, dass Riddle eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut **Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)** die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Riddle vorkommen kann, dar.
+
+Von unserer Seite besteht zudem ein berechtigtes Interesse, Riddle zu verwenden, um unser Online-Service zu optimieren. Die dafür entsprechende Rechtsgrundlage ist **Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)**. Wir setzen Riddle gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
+
+Wenn Sie mehr über den Datenschutz des Online-Quiz-Dienstes erfahren wollen, empfehlen wir Ihnen die Datenschutzerklärung des Unternehmens unter [https://www.riddle.com/legal/privacy](https://www.riddle.com/legal/privacy)
 
 3\. Welche Daten verwenden wir von Ihnen (Datenarten)?
 ------------------------------------------------------
@@ -335,7 +384,19 @@ Zusätzlich zu diesen Pflichtangaben können Sie uns auch noch Ihre Telefonnumme
 
 Für die Einbindung externer Inhalte ist technisch Ihre IP-Adresse erforderlich. Nur wenn diese an die externe Partei weitergegeben wird, ist eine Ausspielung der jeweiligen Inhalte möglich.
 
-Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt haben, ist es darüber hinaus möglich, dass die Fremdinhalte auch eigene Technologien einsetzen, auf die wir keinen Einfluss nehmen können. Hierbei können insbesondere eine eindeutige ID (z.B. Cookie-ID) von Ihnen/über Sie gespeichert und verarbeitet werden, durch die dem Drittanbieter die Möglichkeit zu weiteren Datenverarbeitungen – auf die wir keinen Einfluss haben können und daher auch keine Verantwortung übernehmen – geben.
+Sofern Sie Ihre Einwilligung, wie oben in Ziffer 1 i – k beschrieben, erteilt haben, ist es darüber hinaus möglich, dass die Fremdinhalte auch eigene Technologien einsetzen, auf die wir keinen Einfluss nehmen können. Hierbei können insbesondere eine eindeutige ID (z.B. Cookie-ID) von Ihnen/über Sie gespeichert und verarbeitet werden, durch die dem Drittanbieter die Möglichkeit zu weiteren Datenverarbeitungen – auf die wir keinen Einfluss haben können und daher auch keine Verantwortung übernehmen – geben. 
+
+### 3.8 Messung der Inhalte-Leistung mit NPAW
+
+Für das Hosting, die Ausspielung sowie den Kopierschutz von Videos nutzen wir Dienste der Firma RTL Technology GmbH, Picassoplatz 1, 50679 Köln. RTL Technology stellt auch den Video-Player bereit, der auf unserer Website eingebunden ist. Hierbei kommen Dienste der Firma NicePeopleAtWork S.L.,Roc Boronat 23, 08005, Barcelona, Spanien („NPAW“) zum Einsatz, um die Inhalte-Leistung zu messen.
+
+NPAW wird auf unserer Website eingesetzt, um auf Grundlage des allgemeinen Nutzerverhaltens Videos zu empfehlen (z.B. die meistgesehenen Videos) und die Zugriffe der Nutzer auf die angebotenen Videoinhalte zu analysieren, um so die Attraktivität und Funktionalität unserer Website zu verbessern.
+
+NPAW erhält die IP-Adressen der Nutzer, die auf den bereitgestellten Videocontent zugreifen. Bei Nutzern aus Diensten mit Login erhält NPAW zusätzlich eine Profile Personalization ID, mit der eine individuelle Fehlersuche bzw. Auskunft ermöglicht wird.
+
+Die Datenschutzerklärung der Firma NPAW finden Sie hier: [Data Privacy and Security - NPAW](https://npaw.com/gdpr-data-privacy-and-security/)
+
+Die Datenverarbeitung durch NPAW geschieht auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 lit. f. DSGVO, da die Funktionalität der auf unserer Website abgespielten Videos als unbedingt erforderlich für die Bereitstellung unseres Dienstes anzusehen ist.
 
 4\. Wer bekommt meine Daten?
 ----------------------------
@@ -368,7 +429,7 @@ Wir sind daran interessiert, Daten in einer möglichst transparenten und natürl
 
 Datenschutzrechtlich verantwortlich ist für die hierin beschriebenen Datenverarbeitungen die FUNKE Women, People & Family GmbH, Großer Burstah 18-32, 20457 Hamburg, eMail: [datenschutz.gala@funkemedien.de](mailto:datenschutz.gala@funkemedien.de) Wenn Sie also mehr Informationen über Ihre Datenverarbeitung erhalten oder eine Betroffenenrechte ausüben möchten, können Sie sich jederzeit an uns wenden. Unsere Datenschutzbeauftragten erreichen Sie unter der gerade genannten Anschrift mit dem Zusatz „An den Datenschutzbeauftragten“ und bitte einem Hinweis in Ihrer Nachricht, dass Sie sich auf diese Webseite beziehen. 
 
-Stand: 26.05.2026
+Stand: 16.06.2026
 
 Gala
 

@@ -346,6 +346,10 @@ Eine Offenlegung kann z.B. erfolgen, wenn wir hierzu aufgrund gesetzlicher Vorga
 **3.2.1. Datenverarbeitung zu Werbezwecken (Personalisierung)  
 **OTTO ist dazu berechtigt, gespeicherten Daten zu Ihrer Person z.B. die Kategorien von gekauften Waren (z.B. „Mode“), die sie bei OTTO erworben haben, für die Personalisierung von Werbemitteln (u.a. E-Mail, Print) zu verwenden. Die Daten werden für diesen Zweck ausschließlich in stark pseudonymisierter Form verwendet. Ziel von OTTO ist es, Ihnen allein an Ihren tatsächlichen oder vermeintlichen Bedürfnissen orientierte Werbung zukommen zu lassen und Sie entsprechend nicht mit unnützer Werbung zu belästigen. Rechtsgrundlage für diese Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f) DSGVO.
 
+**Hinweis auf das Widerspruchsrecht**  
+Sie können der Nutzung Ihrer personenbezogenen Daten zu vorgenannten Personalisierungszwecken jederzeit hier widersprechen: [Personalisierung widersprechen](https://www.otto.de/objection-to-profiling).  
+Soweit Sie Widerspruch einlegen, werden Ihre Daten – insofern eine Fortsetzung der Speicherung der Daten zu anderen Zwecken als der Nutzung zum Zweck des Marketings weiterhin erforderlich ist – für die weitere werbliche Datenverarbeitung gesperrt. Wir weisen darauf hin, dass es in Ausnahmefällen auch noch nach Eingang Ihres Widerspruchs vorübergehend noch zu einer Verwendung der Daten im Rahmen der Personalisierung kommen kann, wenn Sie sich nicht erneut einloggen. Dies ist technisch bedingt und bedeutet nicht, dass wir Ihren Widerspruch nicht umgesetzt haben.
+
 Nicht zu Marketingzwecken durch OTTO werden solche Daten genutzt, für deren Verarbeitung andere Händler auf der Plattform otto.de datenschutzrechtlich verantwortlich sind. Hierbei handelt es sich z.B. um Daten, die im Rahmen der Abwicklung von Käufen bei Partnern von OTTO auf der Plattform anfallen.
 
 **3.2.2. Postalische Werbung  

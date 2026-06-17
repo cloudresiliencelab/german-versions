@@ -8,6 +8,8 @@ Widerrufsrecht
 Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses.  
 Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (mobile.de GmbH, Dernburgstraße 50, D-14057 Berlin, Telefonnummer: 030 8109 7601, E-Mail: [service@team.mobile.de](mailto:service@team.mobile.de)) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte [Muster-Widerrufsformular](http://www.mobile.de/service/pdfs/widerrufsformular_DE.pdf) verwenden, das jedoch nicht vorgeschrieben ist.  
   
+Sie können Ihr Widerrufsrecht auch online unter [https://www.mobile.de/verkaufen/a/widerruf](https://www.mobile.de/verkaufen/a/widerruf) ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.  
+  
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.  
   
 Folgen des Widerrufs  

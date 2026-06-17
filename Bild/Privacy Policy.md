@@ -698,7 +698,6 @@ Mit Ihrer Einwilligung dürfen die vorstehenden Daten zudem zur Messung von Werb
 Wir bedienen uns der Dienste nachfolgend aufgeführter Dritter, die gemäß Art. 4 Nr. 7 DSGVO für die über Ihren jeweiligen Dienst stattfindende Datenverarbeitung verantwortlich sind. Weitere Informationen zur Datenverarbeitung durch diese Anbieter und Ihren Rechten als betroffene Person können Sie den nachfolgend verlinkten Datenschutzerklärungen der Anbieter entnehmen.
 
 *   **Google Chat Ads** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) https://www.google.de/intl/de/adsense/start/
-*   **Media Impact Vermarktungspartner / Media Impact Nutzerkennung** (Media Impact GmbH & Co. KG, Axel Springer Straße 65, 10888 Berlin, Deutschland) [https://www.mediaimpact.de/de/ueber-unsere-werbung/](https://www.mediaimpact.de/de/ueber-unsere-werbung/)
 
 Rechtsgrundlage für die vorstehenden Datenverarbeitungen ist Art. 6 Abs. 1 lit. a DSGVO. Sie können die Datenverarbeitungen für die hier beschriebenen Nutzungszwecke jederzeit beenden, indem Sie Ihre Einstellungen im Privacy-Manager entsprechend anpassen oder indem Sie Ihre Einwilligung in die Nutzung von BILD.de mit Tracking und Cookies insgesamt widerrufen (Link „Widerruf Tracking und Cookies“ am Seitenende).
 

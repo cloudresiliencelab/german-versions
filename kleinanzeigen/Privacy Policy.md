@@ -4,7 +4,7 @@ Datenschutzerklärung
   
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.  
   
-**Diese Datenschutzerklärung gilt ab dem 20.05.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-20052026/) können Sie die vorherige Datenschutzerklärung einsehen.**
+**Diese Datenschutzerklärung gilt ab dem 16.06.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-16062026/) können Sie die vorherige Datenschutzerklärung einsehen.**
 
 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 --------------------------------------------------------------------
@@ -134,6 +134,7 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
     
 *   Klärung von Problemen mit Ihrem Kleinanzeigen Konto, Durchsetzung von Gebührenforderungen und Erbringung sonstiger Leistungen im Rahmen des Kundenservices. Zu diesen Zwecken können wir Sie per Benachrichtigung in Ihrem Kleinanzeigen Konto, per E-Mail, Telefon, SMS, Push-Benachrichtigung auf Ihrem Mobilgerät oder per Post kontaktieren.
     
+*   Die Beantwortung von Fragen zu Immobilien-Inseraten durch unseren KI-Assistenten (“KI-Assistent für diese Wohnung”).
 *   Verarbeitung allgemeiner Standortdaten (wie IP-Adresse oder Postleitzahl), um Ihnen standortbasierte Dienstleistungen (wie Umkreissuche und andere aufgrund Ihrer allgemeinen Standortdaten personalisierte Inhalte) zur Verfügung zu stellen.
 *   Durchsetzung unserer [Nutzungsbedingungen](https://themen.kleinanzeigen.de/nutzungsbedingungen/) und dieser Datenschutzerklärung und anderer Grundsätze.
 *   Gewährung des Zugriffs auf Ihre Anzeigen und deren Inhalt für andere Mitglieder unserer [Adevinta-Unternehmensgruppe](https://adevinta.com/our-brands), insbesondere die [mobile.de GmbH](https://www.mobile.de/), oder kooperierende externe Anbieter von Websites, Anwendungen, Dienstleistungen und Tools, mit denen wir gemäß unseren [Nutzungsbedingungen](https://themen.kleinanzeigen.de/nutzungsbedingungen/) zusammenarbeiten, damit diese Ihre Anzeigen und deren Inhalt auf ihren Websites oder in ihren Anwendungen, Dienstleistungen und Tools veröffentlichen oder bewerben. Wenn wir die Inhalte Ihrer Anzeigen und damit zusammenhängende personenbezogene Daten an solche externen Anbieter weitergeben, geschieht dies nur auf Basis einer Vereinbarung, die die Nutzung dieser personenbezogenen Daten durch den externen Anbieter auf die Zwecke beschränkt, die zur Erfüllung der vertraglichen Verpflichtungen uns gegenüber erforderlich sind. Der externe Anbieter wird vertraglich dazu verpflichtet, im Hinblick auf diese Daten angemessene Sicherheitsmaßnahmen zu ergreifen. Externe Anbieter sind in keiner Weise berechtigt, personenbezogene Daten, die in Ihren Anzeigen enthalten sind, an Dritte weiterzugeben.
@@ -209,7 +210,7 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
     
 *   Automatische Filterung und ggf. manuelle Überprüfung der über unsere Nachrichten-Tools versendeten Nachrichten, inklusive der automatisiert erstellten Nachrichten, und, der von Nutzern eingestellten Anzeigen oder sonstigen Inhalten zum Schutz vor betrügerischen oder verdächtigen Aktivitäten oder bei Verstößen gegen unsere [Nutzungsbedingungen](https://themen.kleinanzeigen.de/nutzungsbedingungen/) oder unsere anderen Grundsätze, wie in Bezug auf versendete Nachrichten unten unter [Überprüfung der über unsere Nachrichten-Tools](https://themen.kleinanzeigen.de/datenschutzerklaerung/#weiteres) näher erläutert.
     
-*   Zurverfügungstellung von Funktionen für Nutzer, die die Abwicklung von Transaktionen einfacher oder komfortabler machen wie z.B. das automatische Vorausfüllen der von Ihnen zuvor angegebenen Lieferadresse für weitere Transaktionen sowie das Vorausfüllen von Namen Telefonnummer und zusätzliche für Inserierende interessante Angaben (z.B. ungefähres Netto-Einkommen oder Anzahl der im Haushalt lebenden Personen) für weitere Anfragen über die Funktion „Nachricht schreiben“, das automatisierte Erstellen von Antwortvorschlägen im Rahmen des Nachrichten-Tools oder die Beantwortung von Fragen zu Immobilien-Inseraten durch unseren KI-Assistenten (“KI-Assistent für diese Wohnung”).
+*   Zurverfügungstellung von Funktionen für Nutzer, die die Abwicklung von Transaktionen einfacher oder komfortabler machen wie z.B. das automatische Vorausfüllen der von Ihnen zuvor angegebenen Lieferadresse für weitere Transaktionen sowie das Vorausfüllen von Namen Telefonnummer und zusätzliche für Inserierende interessante Angaben (z.B. ungefähres Netto-Einkommen oder Anzahl der im Haushalt lebenden Personen) für weitere Anfragen über die Funktion „Nachricht schreiben“ und, das automatisierte Erstellen von Antwortvorschlägen im Rahmen des Nachrichten-Tools.
     
 *   Bereitstellung zusätzlicher Funktionen für Nutzer, wie beispielsweise die Möglichkeit, anderen Nutzern zu folgen, deren Anzeigen Sie interessieren. Ihre Follower sind nur für Sie sichtbar und Sie können sich jederzeit aus Ihrer Follower-Liste entfernen.
     

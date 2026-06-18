@@ -23,7 +23,9 @@ Widerrufsbelehrung
 
 Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
 
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (kleinanzeigen.de GmbH, Dernburgstraße 50, 14057 Berlin, Faxnummer: +49 30 13881317, E-Mail: impressum@kleinanzeigen.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (kleinanzeigen.de GmbH, Dernburgstraße 50, 14057 Berlin, Faxnummer: +49 30 13881317, E-Mail: [impressum@kleinanzeigen.de](mailto:impressum@kleinanzeigen.de)) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können Ihr Widerrufsrecht auch online unter [www.kleinanzeigen.de](http://www.kleinanzeigen.de/) in der Fußzeile der Website bzw. in der App-Version in den Einstellungen ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z.B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.
+
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
 **Folgen des Widerrufs**
 
@@ -37,9 +39,9 @@ Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginn
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
 *   An kleinanzeigen.de GmbH, Dernburgstraße 50, 14057 Berlin, E-Mail: impressum@kleinanzeigen.de:
-*   Hiermit widerrufe(n) ich/wir ( \* ) den von mir/uns ( \* ) abgeschlossenen Vertrag über den Kauf der folgenden Waren ( \* )/ die Erbringung der folgenden Dienstleistung ( \* )
+*   Hiermit widerrufe(n) ich/wir ( _den von mir/uns (_) abgeschlossenen Vertrag über den Kauf der folgenden Waren (_)/ die Erbringung der folgenden Dienstleistung (_)
     
-*   Bestellt am ( \* )/erhalten am ( \* )
+*   Bestellt am (_)/erhalten am (_)
     
 *   Name des/der Verbraucher(s)
     
@@ -52,7 +54,7 @@ Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginn
 
 * * *
 
-( \* ) Unzutreffendes streichen.
+(\*) Unzutreffendes streichen.
 
 § 1 Leistungsbeschreibung und Bewerbung der Anzeigen
 ----------------------------------------------------

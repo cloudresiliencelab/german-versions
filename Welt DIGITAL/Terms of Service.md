@@ -107,7 +107,7 @@ WELT möchte dem registrierten Nutzer ein bestmögliches Erlebnis bieten und p
 
 **6\. Widerrufsrecht, Widerrufbelehrungen**
 
-Alle Informationen darüber, ob dem Nutzer als Verbraucher ein gesetzliches Widerrufsrecht zusteht, sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: [Widerrufsbelehrungen](https://img.welt.de/bin/widerrufsrecht_bn-247777866.pdf).
+Alle Informationen darüber, ob dem Nutzer als Verbraucher ein gesetzliches Widerrufsrecht zusteht, sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: [Widerrufsbelehrungen](https://www.welt.de/ig/40eed4a2-8cae-49d8-87c2-5c16681a2f21/mobile/mobile).
 
 **7\. WELTplus**
 
@@ -355,9 +355,9 @@ Sämtliche Informationen zur Erhebung, Verarbeitung und Nutzung von personenbez
 
 26.4 Vertragstext und Vertragssprache: Der Vertrag zwischen Nutzer und WELT wird grundsätzlich nicht in einem gesonderten Vertragstext zur Person des Nutzers niedergelegt, auf den der Nutzer dann später als solchen zugreifen könnte. Der Inhalt des Vertrages ergibt sich aber aus diesen AGB und dem Gegenstand des geschlossenen Vertrages. Für den Vertragsschluss steht nur die deutsche Sprache zur Verfügung.
 
-Stand: 18.09.2025
+Stand: 17. Juni 2026
 
-© Copyright 2024 Axel Springer Deutschland GmbH - alle Rechte vorbehalten (einschließlich Text und Data Mining gem. § 44 b UrhG)
+© Copyright 2026 Axel Springer Deutschland GmbH - alle Rechte vorbehalten (einschließlich Text und Data Mining gem. § 44 b UrhG)
 
 ### Weitere AGB für Dienstleister
 

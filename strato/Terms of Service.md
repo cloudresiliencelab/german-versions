@@ -224,7 +224,7 @@ Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertr
 
 Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
 
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (STRATO GmbH, Otto-Ostrowski-Straße 7, 10249 Berlin, E-Mail: , Telefon: 030-300 1460) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (STRATO GmbH, Otto-Ostrowski-Straße 7, 10249 Berlin, E-Mail: , Telefon: 030-300 1460) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können Ihr Widerrufsrecht auch online unter [https://www.strato.de/faq/](https://www.strato.de/faq/help/mail.php?thema=1166&widerruf=1) ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z.B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 

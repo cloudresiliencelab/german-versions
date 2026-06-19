@@ -17,6 +17,8 @@ Um ihr Widerrufsrecht auszuüben, können Sie den entsprechenden OTTO-Artikel od
 
 Sie können uns (Otto GmbH & Co. KGaA, 20088 Hamburg, Tel.: 040 - 3603 3603, E-Mail-Adresse: widerruf@info.otto.de) (hinsichtlich eines OTTO-Artikels) oder einen anderen Verkäufer (hinsichtlich eines Artikels eines anderen Verkäufers) auch mittels einer eindeutigen Erklärung (z.B. über „Verkäufer kontaktieren“ unter [Mein Konto](https://www.otto.de/myaccount/dashboard) oder per E-Mail) über Ihren Entschluss, den Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
+Sie können Ihr Widerrufsrecht auch online über den Link „Vertrag widerrufen“ unter www.otto.de ausüben (Login voraussgesetzt). Wenn Sie diese Online-Funktion nutzen, übermitteln wir per E-Mail unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.
+
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
 **Folgen des Widerrufs  
@@ -28,7 +30,7 @@ Der jeweilige Verkäufer trägt die Kosten für die Rücksendung der Ware.
 
 Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist. Haben Sie verlangt, dass Dienstleistungen, für die die Zahlung eines Preises vorgesehen ist, vor Ablauf der Widerrufsfrist beginnen sollen, so haben Sie einen angemessenen Betrag zu zahlen, der dem Anteil der bis zum Zeitpunkt des Widerrufs bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
 
-[» Widerrufsbelehrung als PDF herunterladen / drucken](https://d.otto.de/files/20250901_Widerrufsbelehrung_OTTO.pdf)
+[» Widerrufsbelehrung als PDF herunterladen / drucken](https://d.otto.de/files/20260619__Widerrufsbelehrung_OTTO.pdf)
 
 **4\. Nichtbestehen des Widerrufsrechts:** Ein Widerrufsrecht besteht nach § 312g Abs. 2 BGB u.a. nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.
 
@@ -117,6 +119,6 @@ der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (\*) Unzutreffendes bitte streichen.
 
-[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/AGB_OTTO_Marktplatz_20260401.pdf)
+[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20260619_AGB_OTTO.pdf)
 
- Stand: 01.04.2026
+ Stand: 19.06.2026

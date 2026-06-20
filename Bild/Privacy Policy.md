@@ -1,3 +1,7 @@
+[TTS-Player überspringen↵](#in-content-skip-link-target-v-0-0)
+
+[Artikel weiterlesen](#in-content-skip-link-target-v-0-0)
+
 Wir freuen uns sehr über Ihr Interesse an unserem Angebot. Mit dieser Datenschutzerklärung informieren wir Sie über Art, Umfang und Zweck der von uns verarbeiteten personenbezogenen Daten und Ihre Rechte als betroffene Person.
 
 **I. Allgemeines**

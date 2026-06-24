@@ -265,6 +265,8 @@ Appellhofplatz 1
   
 E-Mail: datenschutz@wdr.de
 
+*   [Sportschau](https://www.sportschau.de/)
+
 *   [facebook Facebook](http://www.facebook.de/)
 *   [WhatsApp WhatsApp](http://www.whatsapp.com/)
 *   Teilen Teilen

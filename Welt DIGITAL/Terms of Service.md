@@ -107,7 +107,7 @@ WELT möchte dem registrierten Nutzer ein bestmögliches Erlebnis bieten und p
 
 **6\. Widerrufsrecht, Widerrufbelehrungen**
 
-Alle Informationen darüber, ob dem Nutzer als Verbraucher ein gesetzliches Widerrufsrecht zusteht, sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: [Widerrufsbelehrungen](https://www.welt.de/ig/40eed4a2-8cae-49d8-87c2-5c16681a2f21/mobile/mobile).
+Alle Informationen darüber, ob dem Nutzer als Verbraucher ein gesetzliches Widerrufsrecht zusteht, sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: [Widerrufsbelehrungen](https://www.welt.de/ig/020016ad-92b5-49e7-aa9a-1757873cc397/desktop/desktop).
 
 **7\. WELTplus**
 

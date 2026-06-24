@@ -821,6 +821,8 @@ Wenn Sie Ihrem Google-Konto eine Kreditkarte oder eine andere Zahlungsmethode hi
 
 Wir können Zahlungsinformationen auch verwenden, um zu überprüfen, ob Sie die Altersbeschränkungen einhalten. Dies kann beispielsweise der Fall sein, wenn Sie ein falsches Geburtsdatum angegeben haben, das darauf schließen lässt, dass Sie für ein Google-Konto nicht alt genug sind. [Weitere Informationen](https://support.google.com/accounts?p=privpol_agereq&hl=de)
 
+![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+
 _close_
 
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+_close_

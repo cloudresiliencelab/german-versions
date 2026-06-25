@@ -552,6 +552,8 @@ Natürliche Personen, die die Google-Dienste für persönliche, nicht kommerziel
 
 Ein Unternehmen, das zur Google-Unternehmensgruppe gehört, also der Google LLC und deren Tochtergesellschaften, einschließlich der folgenden Unternehmen, die Verbraucherdienste in der EU anbieten: Google Ireland Limited, Google Commerce Limited und Google Dialer Inc.
 
+![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+
 _close_
 
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+_close_

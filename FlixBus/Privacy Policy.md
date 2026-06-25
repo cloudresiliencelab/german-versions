@@ -289,17 +289,17 @@ Der Verwendung Ihrer E-Mail-Adresse zu diesem Zwecke können Sie jederzeit über
 
 ### 2.1.6 Newsletter
 
-Falls Sie sich zusätzlich über unseren Anmeldelink für den Newsletter registrieren, bitten wir Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten (E-Mail-Adresse, Vor- und Nachname, Wohnort), um Ihnen regelmäßig unseren Newsletter per E-Mail zuzusenden.
+Falls Sie sich zusätzlich über unseren Anmeldelink für den Newsletter registrieren, bitten wir Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten (E-Mail-Adresse, Vor- und Nachname), um Ihnen regelmäßig unseren Newsletter per E-Mail zuzusenden.
 
 Im Rahmen Ihrer Anmeldung für den Newsletter holen wir darüber hinaus Ihre Einwilligung ein, dass wir den Inhalt unseres Newsletters entsprechend Ihren Bedürfnissen und Interessen personalisieren dürfen.
 
-Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir Sie um Bestätigung bitten, dass Sie den Versand des Newsletters wünschen. Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, werden Ihre Informationen gesperrt und nach einem Monat automatisch gelöscht.
+Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir Sie um Bestätigung bitten, dass Sie den Versand des Newsletters wünschen. Wenn Sie Ihre Anmeldung nicht innerhalb von 72 Stunden bestätigen, werden Ihre Informationen gesperrt und automatisch gelöscht.
 
-Der Newsletter kann alle Waren, Dienstleistungen, Produkte, Angebote und Aktionen betreffen, die durch den Verantwortlichen (Ziffer 1.2) und/oder mit dem Verantwortlichen verbundene Unternehmen selbst sowie von Partnerunternehmen angeboten werden.
+Der Newsletter kann alle Waren, Dienstleistungen, Produkte, Angebote und Aktionen betreffen, die durch den Verantwortlichen und/oder mit dem Verantwortlichen verbundene Unternehmen selbst sowie von Partnerunternehmen angeboten werden.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO.
 
-Darüber hinaus speichern wir jeweils Ihre eingesetzten IP-Adressen und Zeitpunkte der Anmeldung und Bestätigung. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können Soweit wir hierzu personenbezogene Daten von Ihnen verarbeitet, erfolgt dies auf der Grundlage unserer berechtigten Interessen an der Sicherstellung der Einhaltung und Dokumentation gesetzlicher Anforderungen.
+Darüber hinaus speichern wir jeweils Ihre eingesetzten IP-Adressen und Zeitpunkte der Anmeldung und Bestätigung. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können. Soweit wir hierzu personenbezogene Daten von Ihnen verarbeitet, erfolgt dies auf der Grundlage unserer berechtigten Interessen an der Sicherstellung der Einhaltung und Dokumentation gesetzlicher Anforderungen.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO, unser berechtigtes Interesse liegt darin, die Einwilligung nachweisen zu können.
 

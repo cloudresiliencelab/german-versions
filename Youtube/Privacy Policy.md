@@ -821,6 +821,8 @@ This activity might come from your use of Google services, like from syncing you
 
 [Learn more](https://policies.google.com/technologies/partner-sites) about how Google uses data when you use our partners' sites or apps.
 
+![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+
 _close_
 
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+_close_

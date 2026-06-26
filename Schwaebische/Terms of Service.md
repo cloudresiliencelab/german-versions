@@ -742,7 +742,7 @@ Abonnements
 
 **_1\. Geltungsbereich_**
 
-Gegenstand der vorliegenden AGB ist der Vertrag über den regelmäßigen Bezug der Printausgaben folgender Tageszeitungen: Schwäbische Zeitung, Aalener Nachrichten, Gränzbote, Heuberger Bote, Ipf- und Jagst-Zeitung, Lindauer Zeitung, Trossinger Zeitung, Zollern-Alb-Kurier\[MN1\] .\[SS2\] \[HF3\]
+Gegenstand der vorliegenden AGB ist der Vertrag über den regelmäßigen Bezug der Printausgaben folgender Tageszeitungen: Schwäbische Zeitung, Aalener Nachrichten, Gränzbote, Heuberger Bote, Ipf- und Jagst-Zeitung, Lindauer Zeitung, Trossinger Zeitung, Zollern-Alb-Kurier[\[MN1\]](#_msocom_1) .[\[SS2\]](#_msocom_2) [\[HF3\]](#_msocom_3)
 
 Entgegenstehende oder von diesen AGB abweichende Allgemeine Geschäftsbedingungen des Kunden finden keine Anwendung, auch wenn diesen nicht ausdrücklich widersprochen wird. Durch vorbehaltslose Auftragsannahme oder Auftragsdurchführung werden diese nicht Vertragsinhalt.
 

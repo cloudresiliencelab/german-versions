@@ -249,9 +249,95 @@ Wenn Sie einen Link auf eine externe Seite anklicken, bewegen Sie sich außerhal
 
 #### Letzte Anpassung der Datenschutzhinweise
 
-Wir passen die Datenschutzhinweise an veränderte Funktionalitäten oder geänderte Rechtslagen an. Daher empfehlen wir, die Datenschutzhinweise in regelmäßigen Abständen zur Kenntnis zu nehmen.
+Wir passen den Datenschutzhinweis an veränderte Funktionalitäten oder geänderte Rechtslagen an. Daher empfehlen wir, den Datenschutzhinweis in regelmäßigen Abständen zur Kenntnis zu nehmen.
 
-Stand: Mai 2026
+Stand: Juli 2026
+
+Datenschutzhinweise Video-Technologien / BodyCams
+-------------------------------------------------
+
+### BodyCams in Zügen der DB Fernverkehr AG
+
+#### Einleitung
+
+Wir legen großen Wert auf die Einhaltung der Datenschutzgrundverordnung (nachfolgend "DSGVO") und auf den Schutz Ihrer personenbezogenen Daten. Ab dem 01.07.2026 kommen bundesweit Bodycams in den Zügen des Fernverkehrs sowie am Empfang der DB-Lounges in den Bahnhöfen zum Einsatz. Der Bodycam-Einsatz kann auch in bestimmten Bereichen des Bahngeländes im Zusammenhang mit den Diensteinsätzen des Zugpersonals erfolgen.
+
+#### Wer ist verantwortlich für die Datenverarbeitung?
+
+Beim Einsatz von BodyCams im Zug ist der jeweilige Betreiber des Zuges verantwortlich. Die DB Fernverkehr AG betreibt und betreut mit ihren Personalen die Fernverkehrszüge auf den Gleisen der DB und verarbeitet hierbei Ihre Daten als Verantwortliche.
+
+Sollten Sie Fragen oder Anregungen zum Datenschutz haben, kontaktieren Sie bitte:
+
+DB Fernverkehr AG  
+Europa-Allee 78-84  
+60486 Frankfurt
+
+Die bestellte Datenschutzbeauftragte der DB Fernverkehr AG ist Frau Dr. Marein Müller, Potsdamer Platz 2, 10785 Berlin. 
+
+Das Team Datenschutz der DB Fernverkehr AG erreichen Sie unter:  
+[fv-datenschutz@deutschebahn.com](mailto:fv-datenschutz@deutschebahn.com) (Stichwort: BodyCam)
+
+#### Welche Grundsätze gelten bei der Verarbeitung von personenbezogenen Daten?
+
+Ihre personenbezogenen Daten werden strikt nach den Grundsätzen des Art. 5 DSGVO, insbesondere den Grundsätzen der Erforderlichkeit und der Datenminimierung, verarbeitet. Sie werden nach Wegfall der Erforderlichkeit der Datenverarbeitung zur Zweckerreichung gelöscht, sofern keine Rechtsgrundlage für die weitere Verarbeitung der personenbezogenen Daten besteht.
+
+Die Datenverarbeitung erfolgt im Einklang mit Art. 32 DSGVO. So werden etwa Verfahren der Verschlüsselung, Pseudonymisierung und/oder Anonymisierung eingesetzt, um für größtmöglichen Datenschutz zu sorgen.
+
+#### Welche personenbezogenen Daten werden wie und warum verarbeitet?
+
+Die Aufzeichnungsfunktion der BodyCams wird nur in eskalierenden Situationen und nach deutlicher Ansage durch unser Zugpersonal aktiviert.
+
+Die Videoaufzeichnung mittels BodyCam erfolgt gemäß eines Stufenkonzepts:
+
+*   nur anlassbezogen bei begründeter Erforderlichkeit nach Aktivierung durch das Personal bis zur Deaktivierung,
+*   nicht fortwährend,
+*   nur nach vorheriger Ankündigung durch das Personal,
+*   nur im Not- oder Ausnahmefall ohne vorherige Ankündigung mit anschließender Information,
+*   mittels deutlich erkennbarer Videokamera inkl. Aktivitätsanzeige (z.B. leuchtende LED).
+
+Die Videoaufzeichnung dient der Abwehr und Reduktion von Gewalttaten, der Beweissicherung im Ereignisfall und der verbesserten Aufklärung von Straftaten.
+
+Die DB Fernverkehr AG führt keine Auswertung der Aufnahmen durch und kann die aufgezeichneten Daten nicht einsehen. Ausschließlich die Bundespolizei kann auf gespeicherte Videoaufzeichnungen zugreifen, falls eine entsprechende Strafanzeige vorliegt und die Aufnahmen als Beweismittel genutzt werden.
+
+Eine Tonaufnahme findet nicht statt.
+
+Die Videoaufzeichnungen werden verschlüsselt gespeichert, auf geschützte Server übertragen und durch Sicherungsmaßnahmen vor unberechtigtem Zugriff oder Einsichtnahme geschützt.
+
+Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f) DSGVO.
+
+#### Wann werden die Videoaufnahmen gelöscht?
+
+Personenbezogene Daten werden grundsätzlich gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt.
+
+Die Videoaufnahmen werden nach Dienstende auf einen geschützten Server übertragen und nach Ablauf von 72 Stunden automatisch gelöscht.
+
+Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Dies ist beispielsweise dann der Fall, wenn eine Ermittlungsbehörde eine Videoaufzeichnung im Rahmen eines Ermittlungsverfahrens vor Ablauf der Löschfrist anfordert.
+
+#### Wer sind mögliche Empfänger personenbezogener Daten?
+
+Anlassbezogen können Videoaufzeichnungen auf Anforderung an Ermittlungsbehörden, insbesondere an die Bundespolizei weitergegeben werden. Rechtsgrundlage für die Weitergabe ist  Art. 6 Abs. 1 lit. c) DSGVO.
+
+#### Welche Rechte haben Betroffene?
+
+*   Sie können Auskunft darüber verlangen, welche Daten über Sie gespeichert sind, sofern Ereignisdaten vorliegen, mit denen Sie identifiziert werden können.
+*   Sie können Berichtigung, Löschung und Einschränkung der Verarbeitung (Sperrung) Ihrer personenbezogenen Daten verlangen, solange dies gesetzlich zulässig ist.
+*   Sie können der Datenverarbeitung aus Gründen, die sich aus Ihrer besonderen Situation ergeben, widersprechen, wenn die Datenverarbeitung aufgrund unserer berechtigten Interessen erfolgt oder für die Wahrnehmung einer öffentlichen Aufgabe erforderlich ist.
+*   Sie haben das Recht, eine Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzulegen: Der Hessische Beauftragte für Datenschutz und Informationsfreiheit, Gustav-Stresemann-Ring 1, 65189 Wiesbaden
+
+Für die Ausübung Ihrer Rechte wenden Sie sich bitte an:
+
+**DB Fernverkehr AG**  
+Datenschutz  
+Europa-Allee 78-84  
+60486 Frankfurt
+
+oder per E-Mail an: [fv-datenschutz@deutschebahn.com](mailto:fv-datenschutz@deutschebahn.com) (Stichwort "BodyCam").
+
+#### Wie aktuell sind diese Datenschutzhinweise?
+
+Wir passen den Datenschutzhinweis an veränderte Funktionalitäten oder geänderte Rechtslagen an. Daher empfehlen wir, den Datenschutzhinweis in regelmäßigen Abständen zur Kenntnis zu nehmen. 
+
+Stand: Juli 2026
 
 Datenschutzhinweise im Servicecenter Fahrgastrechte (SC FGR)
 ------------------------------------------------------------

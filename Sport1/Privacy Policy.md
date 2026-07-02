@@ -32,8 +32,6 @@ Inhalt:
 
 [2.2. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Analyse der Webseite und der statistischen Aufbereitung des Nutzerverhaltens](#analyse-verhalten)
 
-[2.3. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister zur Optimierung unserer Webseite](#optimierung)
-
 **[3\. Weitere datenverarbeitende Prozesse auf SPORT1.de](#datenverarbeitende-Prozesse)**
 
 [3.1. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister und Social Media-Plattformen zur Kommunikation mit unseren Webseiten-Besucher](#social-media)
@@ -283,80 +281,6 @@ Weitere Informationen zur Datenverarbeitung durch Pubstack finden Sie in der Dat
 
 ### 1.2. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister für die Reichweitenmessung der Webseite
 
-### AT-Internet
-
-Um die Nutzung unserer Dienste und Angebote statistisch zu erfassen (Reichweitenmessung) und zum Zweck der Optimierung unseres Angebots setzen wir ein Analysetool der Firma Applied Technologies Internet GmbH, Leonrodstraße 52-58, 80363 München, Deutschland (nachfolgend „AT-Internet“) ein.
-
-Wir haben mit AT-Internet eine datenschutzrechtlich erforderliche Vereinbarung zur Auftragsverarbeitung (AV-Vertrag i.S.d. Artikel 28 DSGVO) abgeschlossen, in der sich AT-Internet dazu verpflichtet, die Daten unserer Nutzer zu schützen und gemäß den geltenden Datenschutzbestimmungen ausschließlich in unserem Auftrag zu verarbeiten.
-
-AT-Internet verwendet sog. Cookies, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Folgende Cookies werden von AT-Internet in Ihrem verwendeten Browser gesetzt:
-
-*   atreman: Beinhaltet eine eventuell vorhandene Attributionskampagne. Gültigkeit 30 Tage.
-*   atredir: Hält die – bei einer [JS](https://www.sport1.de/unternehmen/datenschutz/#js)\-Umleitung – zu übertragenen Informationen bereit. Gültigkeit 30 Sekunden.
-*   atsession: Liste der – während des Besuchs gesammelten – Kampagnen. Gültigkeit: 30 Minuten
-*   atuserid: Besucher ID. Gültigkeit: 13 Monate
-
-Beim Einsatz der Lösung von AT-Internet wird unterschieden zwischen Rohdaten (a) und verarbeiteten Nutzungsdaten (b):
-
-(a) Folgende Informationen (Rohdaten) werden erhoben:
-
-*   Entweder werden über ein Cookie, d.h. eine kleine Textdatei, die von einer Webseite auf Ihrem Endgerät gespeichert wird, die folgenden Informationen erhoben: den Namen des Servers, der das Cookie hinterlegte, eine anonyme Identifizierung in Form einer eindeutigen Nummer, ein Gültigkeitszeitraum,
-*   oder ein mobiler Identifier (eine eindeutige Nummer, die es ermöglicht, das Gerät zu erkennen), alle Navigationsdaten, die in Bezug auf diese Identifier gesammelt werden, und die IP-Adresse, die zur Geolokalisierung verwendet wird.
-
-(b) Nach Prozessierung der Rohdaten wird von verarbeiteten Nutzungsdaten gesprochen, die folgende Informationen bereitstellen:
-
-*   IP-Adresse
-*   Unique Visitor ID (entweder über die CookieID oder den Mobile Identifier)
-*   Webseiten-Adresse der verweisenden Internetseite,
-*   Der Name und Bildschirmpfad der angesehenen Seite,
-*   Die Zahl der angesehenen Seiten,
-*   Der genaue Navigationspfad, den ein Besucher auf den Seiten nimmt,
-*   Die Zeit, die der Besucher auf einer Seite oder der gesamten Seite verbringt,
-*   Datum und Uhrzeit des Seitenaufrufs,
-*   Den HTTP Antwort-Code des WebServers, und die Datenmenge in Bytes,
-*   Wahl der Sprache,
-*   Browsertyp und -version,
-*   Breite und Höhe des Browserfensters,
-*   Farbtiefe,
-*   Betriebssystem,
-*   Geo Location,
-*   Visitor ID,
-*   Customer ID,
-*   Nutzungsdaten über die Verwendung der Seite (Teaser Tracking (Impressions, Clicks), Seiten / Screentracking, Eventtracking),
-*   Zusätzlich definierter Analyseparameter.
-
-Sowohl für die Rohdaten als auch für die Nutzungsdaten gilt: Die IP-Adresse wird unmittelbar nach der Erhebung durch den Datenerfassungs-Server zur Datenerfassung des Tool-Anbieters und vor der weiteren Verarbeitung anonymisiert. Ihre vollständige IP-Adresse wird folglich nicht dauerhaft gespeichert und kann nicht in Verbindung mit anderen Nutzungsdaten gebracht werden. Die Nutzungsdaten werden zusätzlich getrennt von anderen Daten gespeichert, die Sie im Rahmen der Nutzung unseres Angebotes eingeben. Die Zuordnung der Nutzungsdaten zu einer bestimmten Person ist aufgrund der systemseitigen Trennung nicht möglich.
-
-Daten des Datenerfassungs-Servers werden innerhalb 24 Stunden automatisch gelöscht. Nach sechs Monaten werden die erhobenen Rohdaten automatisch gelöscht. Die Nutzungsdaten löscht AT-Internet automatisch sechs Monate, nach Ende der Laufzeit des Vertrags zwischen Sport1 und AT-Internet.
-
-AT-Internet wird seit 2010 jährlich durch den [TÜV Saarland](https://www.tuev-saar.de/zertifikate-pruefzeichen/?cert=at+internet) zertifiziert . Der TÜV Saarland bestätigt, dass die Datensammlung und die Datenverarbeitung durch die Lösung von AT-Internet die geltenden Standards bei Datenschutz und Sicherheit erfüllt. Die Server des Dienstleisters befinden sich in Mitgliedsstaaten der EU; vorwiegend in Frankreich unter Beachtung der Vorgaben der französischen Aufsichtsbehörde (CNIL).
-
-Als Datencenter verwendet die AT-Internet folgende Anbieter:
-
-*   SFR – Frankreich
-*   TDF – Frankreich
-*   Amazon Web Services, Inc. – Speicherung ausschließlich innerhalb der EU
-*   Snowflace Computing, Inc. – Speicherung ausschließlich innerhalb der EU
-
-Sie können der Datenverarbeitung durch AT-Internet jederzeit webseitenübergreifend über ein Klick auf den Button am Anfang dieser Datenschutzhinweise widersprechen.
-
-Weitere Informationen zum Analysetool der AT-Internet finden Sie unter: [https://www.atinternet.com/de/unternehmen/datenschutz/ressourcen/](https://www.atinternet.com/de/unternehmen/datenschutz/ressourcen/).
-
-Wir nutzen die Analyse- und Tracking-Technologien bzw. Drittanbieter-Technologien von AT-Internet auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f) DSGVO i.V.m. § 25 (2) (2) TDDDG:
-
-1.  Zum Zwecke des Monitorings der korrekten Funktionsweise unserer Webseite bzw. unseres Angebotes.
-2.  Zum Zwecke des KPI Reporting innerhalb unserer Geschäftsberichte sowie an unsere Partner.
-3.  Zum Zwecke der automatisierten Inhaltsausspielung.
-4.  Zum Zwecke statistischen Erfassung der Nutzung und Durchführung von Datenanalysen um die Usability, die Performance sowie den Inhalt unserer Webseite zu optimieren.
-5.  Zum Zwecke des Debuggings von technischen Fehlern.
-6.  Zum Zwecke der Auswertung von Steuerungskennzahlen.
-7.  Zum Zwecke der Produktoptimierung.
-8.  Dem Einsatz von spezialisierten Auftragsverarbeitern und den dadurch verbundenen wirtschaftlichen und technischen Vorteilen.
-
-Aus vorgenannten Punkten (1. – 8.) sowie unter Berücksichtigung, dass die technisch erforderliche Datenverarbeitung nicht von der Datenverarbeitung für Produktoptimierungen getrennt werden kann, folgt unser berechtigtes Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f) DSGVO.
-
-Die Verarbeitung der Daten ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
-
 ### Nielsen
 
 Wir beziehen von der Arbeitsgemeinschaft Videoforschung GmbH (Gärtnerweg 4, 60322 Frankfurt am Main) Daten über die Bewegtbildforschung. The Nielsen Media Germany GmbH (Sachsenstraße 16, 20097 Hamburg) ist Vertragspartner der AGF und erbringt verschiedene Leistungen im Zusammenhang mit der Erhebung und Auswertung von Daten über die Nutzung von Bewegtbildangeboten im Internet durch deren Nutzer.
@@ -557,22 +481,6 @@ Wir verwenden Hotjar auf Grundlage der eingegangenen Nutzungsvereinbarung „Nut
 
 Sie können die Nutzung mit Werbung jederzeit über den Link „Nutzung mit Werbung beenden“ beenden. Durch einen Klick auf den Button „Jetzt beenden“ werden die Nutzungsberechtigung von SPORT1 sofort beendet und die Verarbeitung durch Hotjar unterbunden. Sie können die Erfassung der Daten durch Hotjar auch über folgenden Link deaktivieren: [https://www.hotjar.com/opt-out](https://www.hotjar.com/opt-out).
 
-### 2.3. Verarbeitung von Daten durch SPORT1 und unsere Dienstleister zur Optimierung unserer Webseite
-
-### Shikenso
-
-Wir binden auf unserer Webseite eSport-Kalender vom Anbieter Shikenso GmbH, Sebastian-Kneipp-Straße 41, 60439 Frankfurt am Main (im Folgenden „Shikenso“) mittels iFrame ein, um unsere Website-Besucher über anstehende eSports-Turniere zu informieren. Bei jedem Aufruf einer Seite, auf welcher ein iFrame von Shikenso eingebunden ist, wird eine Verbindung zwischen Ihrem Browser und einem Server von Shikenso hergestellt und die Inhalte angezeigt. Dabei werden Informationen über Ihren Besuch und Ihre IP-Adresse auf dem Server von Shikenso gespeichert.
-
-Die Datenschutzerklärung von Shikenso sowie Informationen zur Erhebung und Nutzung Ihrer Daten durch Shikenso finden Sie unter [https://shikenso.com/?tab=8&sp=4](https://shikenso.com/?tab=8&sp=4).
-
-Die Einbindung der Shikenso-Inhalte mittels eingebunden iFrame erfolgt auf Grundlage der eingegangenen Nutzungsvereinbarung „Nutzung mit Werbung“ nach Art. 6 Abs. 1 S. 1 lit. b) DSGVO:
-
-*   zur Anzeige des eSport-Kalender von Shikenso auf unserer Webseite,
-*   zur Bewerbung von eSport-Veranstaltungen auf unserer Webseite,
-*   zum Zweck der ansprechenden und modernen Gestaltung unserer Webseite.
-
-Sie können die Nutzung mit Werbung jederzeit über den Link „Nutzung mit Werbung beenden“ beenden. Durch einen Klick auf den Button „Jetzt beenden“ werden die Nutzungsberechtigung von SPORT1 sofort beendet und die Verarbeitung durch Shikenso unterbunden.
-
 3\. Weitere datenverarbeitende Prozesse auf SPORT1.de
 -----------------------------------------------------
 
@@ -671,7 +579,7 @@ Die Daten werden für die Dauer der Befragung sowie Auswertung für ein Jahr ges
 
 Sie haben jederzeit die Möglichkeit Ihre Einwilligung zur Verarbeitung der personenbezogenen Daten im Rahmen der Feedback-Umfrage zu widerrufen bzw. Ihre angegebenen Daten zu löschen. Die Abmeldung ist jederzeit möglich. Sie kann per E-Mail ([datenschutz@sport1.de](mailto:datenschutz@sport1.de)) an uns erfolgen. Wir weisen jedoch darauf hin, dass aufgrund der anonymen Teilnahme eine nachträgliche Korrektur einzelner Antworten nach Absenden der Umfrage sowie das Löschen einzelner Antworten nicht möglich ist.
 
-### Social Media
+### [Social Media](https://hootbio.com/sport1news)
 
 Auf unserer Website finden Sie zum Teil auch sogenannte „Social Plug-Ins“. Über diese Plug-ins bieten wir Ihnen die Möglichkeit, mit den sozialen Netzwerken und anderen Nutzern zu interagieren, so dass wir unser Angebot verbessern und für Sie interessanter gestalten können und geben zugleich uns die Möglichkeit, unser Unternehmen bekannter zu machen.
 
@@ -740,6 +648,18 @@ Wir binden auf unserer Website Videos über den Anbieter Twitch Interactive Inc,
 Sollten Sie bei Twitch mit Ihrem Benutzerkonto eingeloggt sein, kann Twitch Interactive durch die Nutzung des Plugins die erlangten Informationen Ihrem jeweiligen Account zuordnen. In diesem Fall werden die Informationen an Ihr persönliches Benutzerkonto bei Twitch Interactive übermittelt und dort von Twitch Interactive gespeichert. Dabei werden Cookies von Twitch Interactive gesetzt. Da Twitch Interactive die Datenerhebung insbesondere über Cookies vornimmt, empfehlen wir Ihnen zusätzlich, über die Sicherheitseinstellungen Ihres Browsers alle Cookies zu löschen.
 
 Die Datenschutzerklärung sowie Nutzungsbedingungen von Twitch Interactive sowie Informationen zur Erhebung und Nutzung Ihrer Daten durch Twitch Interactive finden Sie unter [https://www.twitch.tv/p/de-de/legal/terms-of-service/](https://www.twitch.tv/p/de-de/legal/terms-of-service/) und [https://www.twitch.tv/p/de-de/legal/privacy-notice/](https://www.twitch.tv/p/de-de/legal/privacy-notice/).
+
+### f) Spotify
+
+Wir binden auf unserer Website den Spotify Player ein, um Ihnen Podcasts und weitere Audioinhalte direkt auf unserer Website zur Verfügung zu stellen.
+
+Anbieter des Dienstes ist die Spotify AB, Regeringsgatan 19, 111 53 Stockholm, Schweden.
+
+Beim Aufruf einer Seite, die einen Spotify Player enthält, wird eine Verbindung zu den Servern von Spotify hergestellt. Dabei kann Spotify insbesondere Ihre IP-Adresse sowie weitere technische Informationen (z. B. Browser- und Geräteinformationen, Datum und Uhrzeit des Zugriffs sowie Informationen über die aufgerufene Seite) verarbeiten. Sofern Sie währenddessen mit Ihrem Spotify-Konto angemeldet sind, kann Spotify den Besuch unserer Website Ihrem Benutzerkonto zuordnen.
+
+Die Einbindung des Spotify Players erfolgt ausschließlich auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit § 25 Abs. 1 TDDDG. Ihre Einwilligung können Sie jederzeit mit Wirkung für die Zukunft über unser Consent-Management-Tool widerrufen.
+
+Weitere Informationen zur Datenverarbeitung durch Spotify finden Sie in den Datenschutzhinweisen von Spotify unter: [https://www.spotify.com/legal/privacy-policy/](https://www.spotify.com/legal/privacy-policy/).
 
 Um einen eigenmächtigen und unkontrollierten Datenfluss ab dem Zeitpunkt Ihres Besuchs unseres Internetauftritts zu vermeiden, setzen wir die Einbindung der Social Widgets innerhalb des Contentpass Abos ausschließlich auf Basis Ihrer gegebenen Einwilligung um, d.h. dass wir Ihnen das Social Widget und die darüber eingebunden YouTube-Videos oder Facebook-, Twitter-, Twitch Interactive und Instagram-Inhalte nur anzeigen, wenn Sie in die Datenverarbeitung über die ausgegrauten Flächen mittels eines Layers zugestimmt haben. Wir weisen Sie über einen Infotext auf die dahinterliegenden Social Media-Inhalte sowie die datenschutzrechtlichen Verantwortlichkeiten hin. Mit der sogenannten „One-Shot-Lösung“ ermöglichen wir es Ihnen jederzeit einzelne Inhalte anzusehen, ohne allen YouTube-; Facebook-, Twitter- oder Instagram-Einbindungen zuzustimmen. Bitte beachte Sie, dass YouTube erst Cookies setzen darf bzw. Informationen über Ihren Besuch auf unserer Webseite erhält, wenn Sie aktiv auf den Link im Layer zum Anzeigen des Videos geklickt haben. Die Anzeige der YouTube-Inhalte erfolgt nach Ihrem Klick ausschließlich für die jeweilige Session. Durch den Besuch (eingeloggt mit Contentpass Abo) unserer Webseite ohne Bestätigung Ihrerseits werden keine Daten an YouTube, Facebook oder Twitter übermittelt. Zudem bieten wir Ihnen über einen zweiten Link im eingeblendeten Layer in die Anzeige aller Social Widgets einzuwilligen.
 
@@ -931,27 +851,47 @@ Sie finden auf unseren Seiten ggf. Links, die auf Seiten Dritter verweisen. SPOR
 VII. Auskunfts-, Widerspruchs- und Widerrufsrecht
 -------------------------------------------------
 
-Nach der Datenschutzgrundverordnung haben Sie ein Recht auf unentgeltliche Auskunft über die zu Ihrer Person gespeicherten Daten. Zudem können Sie der Erstellung pseudonymisierter Nutzungsprofile zu Zwecken der Werbung, der Marktforschung oder der Optimierung unserer Website widersprechen. Von Ihnen erteilte Einwilligungen in die Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
+Nach der Datenschutz-Grundverordnung (DSGVO) haben Sie das Recht auf unentgeltliche Auskunft über die zu Ihrer Person gespeicherten Daten. Zudem können Sie der Erstellung pseudonymisierter Nutzungsprofile zu Zwecken der Werbung, der Marktforschung oder der Optimierung unserer Website widersprechen. Von Ihnen erteilte Einwilligungen in die Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
 
-Sie haben das Recht,
+### Sie haben insbesondere folgende Rechte:
 
-**Auskunft über die zu Ihrer Person gespeicherten Daten** – auch soweit sie sich auf Herkunft oder Empfänger dieser Daten beziehen – und den Zweck der Speicherung dieser Daten **zu erhalten**. Senden Sie hierzu bitte eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten. Bitte bezeichnen Sie in Ihrem Schreiben die Art der personenbezogenen Daten, über die Sie informiert werden möchten, möglichst genau;
+**1\. Auskunftsrecht**  
+Sie haben das Recht, Auskunft über die zu Ihrer Person gespeicherten Daten zu erhalten, einschließlich Informationen über deren Herkunft, Empfänger sowie den Zweck der Speicherung.  
+Bitte richten Sie hierzu eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten und geben Sie dabei möglichst genau an, welche Art personenbezogener Daten Sie einsehen möchten.
 
-**Ihre Daten berichtigen zu lassen**, wenn sie falsch sind. Senden Sie hierzu bitte eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten. Bitte bezeichnen Sie in Ihrem Schreiben die Art der personenbezogenen Daten, die Sie korrigiert haben möchten, möglichst genau;
+**2\. Recht auf Berichtigung**  
+Sie haben das Recht, die Berichtigung unrichtiger personenbezogener Daten zu verlangen.  
+Bitte senden Sie hierzu eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten und spezifizieren Sie die Daten, die korrigiert werden sollen.
 
-**Ihre Daten löschen bzw. sperren zu lassen**, wenn die Datenspeicherung unzulässig war oder für unsere weitere Aufgabenerfüllung nicht mehr erforderlich ist. Senden Sie hierzu bitte eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten. Bitte bezeichnen Sie in Ihrem Schreiben die Art der personenbezogenen Daten, die Sie gelöscht bzw. gesperrt haben möchten, möglichst genau;
+**3\. Recht auf Löschung oder Einschränkung der Verarbeitung**  
+Sie haben das Recht, die Löschung oder Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, sofern deren Speicherung unzulässig ist oder sie für die Zwecke der Verarbeitung nicht mehr erforderlich sind.  
+Bitte richten Sie auch hierfür eine schriftliche Anfrage an den Datenschutzbeauftragten und benennen Sie die betreffenden Daten möglichst genau.
 
-**Ihre Daten übertragen zu lassen**. Senden Sie hierzu bitte eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten. Bitte bezeichnen Sie in Ihrem Schreiben die Art der personenbezogenen Daten, die Sie übertragen haben möchten, möglichst genau;
+**4\. Recht auf Datenübertragbarkeit**  
+Sie haben das Recht, die Übertragung Ihrer personenbezogenen Daten zu verlangen.  
+Bitte senden Sie hierzu eine schriftliche Anfrage an die unten genannte Anschrift unseres Datenschutzbeauftragten und spezifizieren Sie die gewünschten Daten.
 
-der Nutzung Ihrer Daten z.B. für Newsletter oder Werbe- und Marktforschungszwecke zu widersprechen bzw. **erteilte Einwilligungen zu widerrufen**. Nutzen Sie hierfür bitte die oben genannten Opt-Out Links, den Abmeldelink im Newsletter oder kontaktieren Sie unseren Datenschutzbeauftragten. Bitte berücksichtigen Sie, dass es aus organisatorischen Gründen zu einer Überschneidung zwischen Ihrem Widerruf und der Nutzung Ihrer Daten im Rahmen einer bereits laufenden Kampagne kommen kann;
+**5\. Widerspruchsrecht und Widerruf von Einwilligungen**  
+Sie haben das Recht, der Nutzung Ihrer Daten für Zwecke der Direktwerbung, Newsletter oder Marktforschung zu widersprechen. Erteilte Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft widerrufen.  
+Bitte nutzen Sie hierfür die vorgesehenen Opt-out-Links, den Abmeldelink im Newsletter oder kontaktieren Sie unseren Datenschutzbeauftragten. Bitte beachten Sie, dass es aus organisatorischen Gründen zu einer zeitlichen Überschneidung zwischen Ihrem Widerruf und einer bereits laufenden Kampagne kommen kann.
 
-Der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Direktwerbung (nach § 7 Abs. III UWG) jederzeit zu **widersprechen**; dies gilt auch für ein Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+Sie haben zudem das Recht, der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Direktwerbung gemäß § 7 Abs. 3 UWG jederzeit zu widersprechen. Dies gilt auch für ein Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
 
-sich **bei einer Aufsichtsbehörde** zu **beschweren**, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten rechtswidrig erfolgt. Wenden Sie sich dazu bitte an die Datenschutzbehörde, die für Ihren Wohnort bzw. Ihr Bundesland zuständig ist oder an die für uns zuständige Datenschutzbehörde. Diese ist:
+**6\. Beschwerderecht bei einer Aufsichtsbehörde**  
+Sie haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten rechtswidrig erfolgt.
 
-Bayerische Landeszentrale für neue Medien (BLM) Heinrich-Lübke-Str. 27 81737 München Tel.: +49 (0)89 63 808 – 0 Fax: +49 (0)89 63 808 – 140 E-Mail: [info@blm.de](mailto:info@blm.de)
+Zuständige Aufsichtsbehörde ist:  
+Bayerische Landeszentrale für neue Medien (BLM)  
+Heinrich-Lübke-Str. 27  
+81737 München  
+Tel.: +49 (0)89 63 808-0  
+Fax: +49 (0)89 63 808-140  
+E-Mail: info@blm.de
 
-Diese Datenschutzhinweise können jederzeit unter dem Link [https://www.sport1.de/unternehmen/datenschutz](https://www.sport1.de/unternehmen/datenschutz) abgerufen und ausgedruckt werden. Da Gesetzesänderungen oder Änderungen unserer unternehmensinternen Prozesse eine Anpassung dieser Datenschutzhinweise erforderlich machen können, die wir uns entsprechend vorbehalten, bitten wir Sie, diese Datenschutzhinweise regelmäßig abzurufen.
+Diese Datenschutzhinweise können jederzeit unter folgendem Link abgerufen und ausgedruckt werden:  
+[https://www.sport1.de/unternehmen/datenschutz](https://www.sport1.de/unternehmen/datenschutz)
+
+Da gesetzliche Änderungen oder Anpassungen unserer internen Prozesse eine Aktualisierung dieser Datenschutzhinweise erforderlich machen können, empfehlen wir Ihnen, diese regelmäßig zu überprüfen.
 
 VIII. Sicherheit
 ----------------
@@ -979,7 +919,7 @@ E-Mail: [datenschutz@sport1.de](mailto:datenschutz@sport1.de)
 
 Stand: Juni 2026
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-06-30%2015%3A18%3A36%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-07-01%2015%3A21%3A06%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
 
 [
 

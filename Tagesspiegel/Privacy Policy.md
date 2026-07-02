@@ -509,6 +509,8 @@ false
 
 isPaid:
 
+false
+
 *   per E-Mail teilen
 *   [auf Facebook teilen](https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.tagesspiegel.de%2Fverlag-der-tagesspiegel-datenschutzerklarung-383383.html&utm_source=facebook_share&utm_campaign=share&utm_content=383383 "auf Facebook teilen")
 *   [auf Twitter teilen](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tagesspiegel.de%2Fverlag-der-tagesspiegel-datenschutzerklarung-383383.html&text=Verlag%20der%20Tagesspiegel%3A%20Informationen%20zum%20Datenschutz&via=Tagesspiegel&utm_source=twitter_share&utm_campaign=share&utm_content=383383 "auf Twitter teilen")

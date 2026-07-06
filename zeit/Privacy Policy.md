@@ -268,7 +268,7 @@ Vertragsunterlagen beinhalten zwangsläufig steuerrechtlich relevante Handels- u
 
 ### Shared Abo
 
-Als Digital-Abonnent haben Sie von Zeit zu Zeit die Möglichkeit, Ihr Abo mit einer anderen Person zu teilen. Die Mitbenutzungsberechtigung endet spätestens mit dem Ende des Digital-Abos, Sie können einen geteilten Zugang aber jederzeit entziehen.
+Als Digital-Abonnent haben Sie die Möglichkeit, Ihr Abo mit einer anderen Person zu teilen. Die Mitbenutzungsberechtigung endet spätestens mit dem Ende des Digital-Abos, Sie können einen geteilten Zugang aber jederzeit entziehen.
 
 Die Datenverarbeitung erfolgt zur Bereitstellung des Shared Abos und zur Wahrung von berechtigten Interessen (Art. 6 Abs. 1 b), f) DSGVO). Unsere Abonnenten sollen die Möglichkeit haben, andere an unseren Inhalten teilhaben zu lassen. Die Bereitstellung der E-Mail-Adresse der begünstigten Person ist erforderlich, um den Zugang zu erhalten. Die eingeladene Person kann dem Erhalt einer Einladung jederzeit widersprechen.
 

@@ -200,3 +200,7 @@ II Abweichende Länderbestimmungen
 **12\. Ungarn**
 
 *   **zu 4.1:** Für einige Linien in Ungarn kann der Bordverkauf nicht garantiert werden.
+
+**13\. Finnland**
+
+*   **zu 7**: Ungeachtet etwaiger Gerichtsstandsbestimmungen in diesen Allgemeinen Geschäfts- und Buchungsbedingungen gilt bei Fahrgästen, die Verbraucher:innen mit Wohnsitz in Finnland sind, dass die Bestimmungen dieser Allgemeinen Geschäfts- und Buchungsbedingungen die den Verbraucher:innen nach den geltenden finnischen Verbraucherschutzgesetzen zustehenden zwingenden Rechte in keiner Weise einschränken und ihnen diese auch nicht entziehen, einschließlich des Rechts, Klage vor dem Amtsgericht (käräjäoikeus) des Wohnsitzes zu erheben.  Verbraucher:innen können ihren Streitfall außerdem bei der finnischen Verbraucherbeschwerdestelle (Kuluttajariitalautakunta) einreichen.

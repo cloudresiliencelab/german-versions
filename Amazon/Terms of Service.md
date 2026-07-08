@@ -30,7 +30,7 @@ When you use any Amazon Service or send e-mails, text messages, and other commun
 2 RECOMMENDATIONS AND PERSONALISATION
 -------------------------------------
 
-As part of the Amazon Services, we will recommend features, products, and services, including third part ads that might be of interest to you, identify your preferences, and personalise your experience. For more information see the help page [Finding Products in the Amazon store](https://www.amazon.de/hz/cs/help?nodeId=GSUNWNFT2ALMPR3L).
+As part of the Amazon Services, we will recommend features, products, and services, including third part ads that might be of interest to you, identify your preferences, and personalise your experience. For more information see the help page [Finding Products in the Amazon store](https://www.amazon.de/-/en/hz/cs/help?nodeId=GSUNWNFT2ALMPR3L).
 
 3 COPYRIGHT, AUTHORS' RIGHTS AND DATABASE RIGHTS
 ------------------------------------------------

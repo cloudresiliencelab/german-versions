@@ -143,13 +143,13 @@ E-Mail: kundenservice@merkur.de
 
 2.7 Der Verlag ist berechtigt, Bestellungen ohne Angabe von Gründen abzulehnen.
 
-**3\. Fälligkeit von Abonnementgebühren, Erhöhung der Bezugspreise**
+3\. Fälligkeit von Abonnementgebühren, Erhöhung der Bezugspreise
 
 3.1 Abonnementgebühren sind im Voraus fällig. Die vereinbarten Abonnementgebühren enthalten die jeweils gültige gesetzliche Mehrwertsteuer sowie – bei Print-Abonnements – die Zustellgebühr. Der sog. Postbezugspreis beinhaltet zusätzlich die Postgebühren.
 
 3.2 Sofern während der Laufzeit des Abonnements eine Bezugspreisänderung eintritt, ist vom Zeitpunkt der Änderung an der neue Bezugspreis zu entrichten. Der vorausbezahlte Bezugspreis ist für den Zeitraum der Vorauszahlung garantiert, kann also für diesen Zeitraum nicht erhöht werden. Bezugspreiserhöhungen werden vor ihrer Wirksamkeit in der Zeitung angekündigt.
 
-**4\. Zahlungsmittel und -weise**
+4\. Zahlungsmittel und -weise
 
 4.1 Zur Bezahlung kann der Kunde je nach gewähltem Produkt zwischen Bankeinzug (SEPA-Lastschrift), Überweisung und ggf. vom Verlag angebotenen anderen, über dritte Zahlungsdienstleister abgewickelte, Bezahlsystemen (z. B. Kreditkarte, PayPal, etc.) wählen.
 
@@ -181,11 +181,11 @@ E-Mail: kundenservice@merkur.de
 
 7.3 Für Nichtlieferung oder verspätete Lieferung, die ohne Verschulden des Verlags und/oder infolge höherer Gewalt eintreten, erfolgt keine Haftung. Für per Post zugestellte und verspätet eintreffende oder ausbleibende Exemplare kann ebenfalls kein Ersatz geleistet werden. Dies gilt nicht bei Vorsatz bzw. grober Fahrlässigkeit des Verlags.
 
-**8\. Lieferunterbrechungen**
+8\. Lieferunterbrechungen
 
 Lieferunterbrechungen des Print-Abonnements (z.B. wegen Urlaubs) sind Service-Leistungen des Verlags, aus denen kein Anspruch auf Reduzierung der Abonnement-Gebühren resultiert. Der Verlag behält sich vor, für den mit der Unterbrechung verbundenen Verwaltungsaufwand eine Bearbeitungspauschale zu verlangen, die jedoch maximal 3,00 € je gewünschter Unterbrechung beträgt.
 
-**9\. Inhalt und Umfang der E-Paper-Nutzung, Zugang**
+9\. Inhalt und Umfang der E-Paper-Nutzung, Zugang
 
 9.1 E-Paper-Abonnenten haben im Portal automatisch Zugriff auf die E-Paper-Ausgaben der vergangenen 30 Tage, es sei denn, es wurde die Nutzung eines kürzeren Zeitraums vereinbart. Soweit auch die Nutzung eines digitalen Archivs umfasst ist, erstreckt sich der Zugriff auf die vom Verlag darin bereitgestellten Inhalte.
 
@@ -209,7 +209,7 @@ Lieferunterbrechungen des Print-Abonnements (z.B. wegen Urlaubs) sind Service-Le
 
 11.2 Eine darüberhinausgehende Nutzung bzw. Verwertung der urheberrechtlich geschützten Inhalte (z.B. Zeitungstexte, Abbildungen, Anzeigen), insbesondere durch Vervielfältigung, Verbreitung, Digitalisierung, Speicherung, öffentliche Zugänglichmachung, gleich, auf welchem Trägermedium und in welcher technischen Ausgestaltung, z.B. in Inter- oder Intranet, ist unzulässig.
 
-**12\. Sperrung des Zugangs**
+12\. Sperrung des Zugangs
 
 Wird das E-Paper-Angebot missbräuchlich, insbesondere unter Verstoß gegen die vertraglichen Vereinbarungen genutzt, so ist der Verlag berechtigt, den Zugang zum digitalen Angebot für den Kunden zu sperren. Der Kunde wird über die erfolgte Sperrung unterrichtet und kann die Aufhebung der Sperrung verlangen, wenn kein Missbrauch vorliegt. Das Recht des Verlages zur Kündigung aus wichtigem Grund bleibt hiervon unberührt.
 
@@ -225,11 +225,11 @@ Wird das E-Paper-Angebot missbräuchlich, insbesondere unter Verstoß gegen die 
 
 13.5 Die bereitgestellte Software darf ausschließlich für eigene private Zwecke verwendet werden. Sie darf nur auf dem Gerät, das dem Kunden gehört oder zur Verfügung gestellt wurde sowie unter Berücksichtigung der in den Servicebedingungen des jeweiligen Stores enthaltenden Nutzungsbedingungen, verwendet werden.
 
-**14\. Streitbeilegung**
+14\. Streitbeilegung
 
 Der Verlag ist weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-**15\. Änderung der AGB**
+15\. Änderung der AGB
 
 Der Verlag kann die vorliegenden AGB aus sachlich nachvollziehbaren Gründen (z.B. Änderung gesetzlicher Bestimmungen, Änderung der Rechtsprechung, Änderung der Marktlage) jederzeit mit Wirkung für die Zukunft und ohne Angabe von Gründen ändern, wenn der Kunde durch die Änderung nicht unzumutbar belastet wird.
 

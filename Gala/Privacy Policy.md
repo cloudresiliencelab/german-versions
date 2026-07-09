@@ -288,38 +288,26 @@ Führen Sie den jeweiligen Link bitte unbedingt auf exakt dem Endgerät und in e
 
 ### 2.12 Quizze: Riddle
 
-Riddle wurde aus einer Gruppe von Quiz-Fans im Jahr 2014 gegründet und ist ein Softwareunternehmen, das sich unter anderem auf die Quiz-Herstellung spezialisiert hat. Das Unternehmen bietet Websitebetreibern Content-Typen wie Quiz oder Persönlichkeitstests, die in eine Website eingebunden werden. Wir können unser Quiz exakt nach unseren Vorstellungen gestalten. So können User wie Sie an individuell erstellten Rätseln, die zum Thema der Website passen, teilnehmen.
+Auf unserer Website haben wir Quizze und Persönlichkeitstests eingebunden, die von uns über das Software-Tool des deutschen Unternehmens Riddle Technologies AG (Lenaustraße 1, 66125 Saarbrücken, Deutschland) erstellt werden. Eingebunden wird das Quiz über ein iFrame. Damit können externe Dokumente oder Applikationen (wie in diesem Fall ein Quiz) visuell in eine Website eingebunden werden. Bei der Verwendung des Quiz erhebt Riddle sogenannte “aggregierte Daten”, allerdings keine personenbezogenen Daten, die dich als Person identifizieren können.
 
-#### 2.12.1 Warum verwenden wir Riddle auf unserer Website?
-
-Unser oberstes Ziel mit dieser Website ist es, Ihnen neben hochwertigen Inhalten und Angeboten, eine angenehme und unterhaltsame Zeit zu bieten. Und wie geht das besser als mit einem kleinen Online-Quiz? Und aus diesem Grund gibt es auf unserer Website das Online-Quiz von Riddle.
-
-#### 2.12.2 Welche Daten werden von Riddle gespeichert?
-
-Riddle speichert selbst keine Daten, wenn Sie die auf unserer Website eingebettete Riddle-Funktion verwenden. Die Daten werden auf unserem Webspace abgelegt und Riddle kann nur im Rahmen von Wartungsarbeiten und/oder Supportdienstleistungen zugreifen. Der Zugang ist begrenzt und steht nur den verantwortlichen Wartungsmitarbeitern zur Verfügung. Riddle erhebt keine personenbezogenen Daten. Es werden nur zusammengefasste Daten, die keine Rückschlüsse auf Personen erfasst. So wird ausgewertet, wie viele (anonyme) Personen eine bestimmte Antwortmöglichkeit ausgewählt haben. Nicht ausgewertet wird aber, welche Person welche Antwort gegeben hat. Riddle verwendet also nur anonymisierte Daten für statistische Auswertungen. Falls wir via Formular Daten von Ihnen abfragen, werden diese Daten erfasst und in unserem Webspace abgelegt.
+Riddle speichert selbst keine Daten, wenn du die auf unserer Website eingebettete Riddle-Funktion verwendest. Die Daten werden auf unserem Webspace abgelegt und Riddle kann nur im Rahmen von Wartungsarbeiten und/oder Supportdienstleistungen zugreifen. Der Zugang ist begrenzt und steht nur den verantwortlichen Wartungsmitarbeitern zur Verfügung. Riddle erhebt keine personenbezogenen Daten. Es werden nur zusammengefasste Daten, die keine Rückschlüsse auf Personen erfasst. So wird ausgewertet, wie viele (anonyme) Personen eine bestimmte Antwortmöglichkeit ausgewählt haben. Nicht ausgewertet wird aber, welche Person welche Antwort gegeben hat. Riddle verwendet also nur anonymisierte Daten für statistische Auswertungen. Falls wir via Formular Daten von dir abfragen, werden diese Daten erfasst und in unserem Webspace abgelegt.
 
 Die eingebettete Riddle-Funktion setzt in der Standardvariante (per Default) folgendes Session-Cookie:
 
 **Name:** sid  
 **Wert:** 3c531f634a459f0933e1689ffb1945331781590966-6be  
-**Verwendungszweck:** Dieses Cookie speichert Ihre Session-ID und Ihren letzten Anmeldezeitpunkt in digital signierter und verschlüsselter Form.  
-**Ablaufdatum:** nach Schließung Ihres Browsers
-
-#### 2.12.3 Wie lange und wo werden die Daten gespeichert?
+**Verwendungszweck:** Dieses Cookie speichert deine Session-ID und deinen letzten Anmeldezeitpunkt in digital signierter und verschlüsselter Form.  
+**Ablaufdatum:** nach Schließung deines Browsers
 
 Alle Daten werden lokal auf unserem Webserver gespeichert. Die Daten werden so lange auf unserem Webserver gespeichert, bis sie für die oben angeführten Zwecke nicht mehr benötigt werden.
 
-#### 2.12.4 Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Du hast jederzeit das Recht auf Auskunft, Berichtigung bzw. Löschung und Einschränkung der Verarbeitung deiner personenbezogenen Daten. Du kannst zudem auch jederzeit die Einwilligung zur Verarbeitung der Daten widerrufen.
 
-Sie haben jederzeit das Recht auf Auskunft, Berichtigung bzw. Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Sie können zudem auch jederzeit die Einwilligung zur Verarbeitung der Daten widerrufen.
+Wenn du eingewilligt hast, dass Riddle eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut **Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)** die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Riddle vorkommen kann, dar.
 
-#### 2.12.5 Rechtsgrundlage
+Von unserer Seite besteht zudem ein berechtigtes Interesse, Riddle zu verwenden, um unser Online-Service zu optimieren. Die dafür entsprechende Rechtsgrundlage ist **Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)**. Wir setzen Riddle gleichwohl nur ein, soweit du eine Einwilligung erteilt haben.
 
-Wenn Sie eingewilligt haben, dass Riddle eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut **Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)** die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Riddle vorkommen kann, dar.
-
-Von unserer Seite besteht zudem ein berechtigtes Interesse, Riddle zu verwenden, um unser Online-Service zu optimieren. Die dafür entsprechende Rechtsgrundlage ist **Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)**. Wir setzen Riddle gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
-
-Wenn Sie mehr über den Datenschutz des Online-Quiz-Dienstes erfahren wollen, empfehlen wir Ihnen die Datenschutzerklärung des Unternehmens unter [https://www.riddle.com/legal/privacy](https://www.riddle.com/legal/privacy)
+Wenn du mehr über den Datenschutz des Online-Quiz-Dienstes erfahren willst, empfehlen wir dir die Datenschutzerklärung des Unternehmens unter [https://www.riddle.com/legal/privacy](https://www.riddle.com/legal/privacy)
 
 3\. Welche Daten verwenden wir von Ihnen (Datenarten)?
 ------------------------------------------------------

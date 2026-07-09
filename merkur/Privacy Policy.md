@@ -230,7 +230,7 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Sehen gesetzliche Vorschriften Aufbewahrungspflichten vor (z. B. sechs Jahre für empfangene Handelsbriefe, § 257 Abs. 4 HGB) erfolgt die Löschung nach Ablauf der entsprechenden Frist. 
 
-**5\. Datenübermittlung an die infoscore Consumer Data GmbH**
+5\. Datenübermittlung an die infoscore Consumer Data GmbH
 
 Zur Einschätzung Ihrer Kreditwürdigkeit, zur Berechnung von Wahrscheinlichkeitswerten (Scoring) und zur Prüfung der Zustellbarkeit Ihrer Adresse übermitteln wir Ihre personenbezogenen Daten (Name, Adresse und ggf. Geburtsdatum) an die infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden. Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) und Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse), insbesondere zur Risikobewertung und zur Vermeidung von Zahlungsausfällen. Weitere Informationen zur Datenverarbeitung durch die infoscore Consumer Data GmbH, zu Ihren Rechten (z. B. Auskunft, Berichtigung, Widerspruch) sowie zur Speicherdauer finden Sie unter: [https://www.experian.de/icd-infoblatt](https://www.experian.de/icd-infoblatt)
 
@@ -319,7 +319,7 @@ Wir benutzen zum Versenden von Push-Nachrichten in der App (Android und iOS) und
 Widerspruchsmöglichkeit: 
 
 1.  App: Wenn Sie keine Push-Benachrichtigungen mehr in der Android- oder iOS-App erhalten möchten, können Sie die Benachrichtigungen in den Einstellungen Ihres Smartphones sperren oder die Benachrichtigungen in den Einstellungen der App ausschalten.
-2.  Webseite: Sie können Ihre Einwilligung, Benachrichtigungen zu empfangen, jederzeit über die Einstellungen Ihres Browsers wieder aufheben. Wenn Sie zukünftig keine Pushbenachrichtigungen mehr erhalten möchten, folgen Sie den für Ihren Browser spezifischen Anweisungen, um sich wieder abzumelden. Detaillierte Anleitungen finden Sie hier: [Chrome](https://support.google.com/chrome/answer/3220216?hl=de&co=GENIE.Platform%3DDesktop), [Mozilla Firefox](https://support.mozilla.org/de/kb/push-benachrichtigungen-firefox), [Safari](https://support.apple.com/de-de/guide/safari/sfri40734/11.0/mac/10.13).
+2.  Webseite: Sie können Ihre Einwilligung, Benachrichtigungen zu empfangen, jederzeit über die Einstellungen Ihres Browsers wieder aufheben. Wenn Sie zukünftig keine Pushbenachrichtigungen mehr erhalten möchten, folgen Sie den für Ihren Browser spezifischen Anweisungen, um sich wieder abzumelden. Detaillierte Anleitungen finden Sie hier: [Chrome](https://support.google.com/chrome/answer/3220216?hl=de&co=GENIE.Platform=Desktop), [Mozilla Firefox](https://support.mozilla.org/de/kb/push-benachrichtigungen-firefox), [Safari](https://support.apple.com/de-de/guide/safari/sfri40734/11.0/mac/10.13).
 
 ### XII. Unsere Nutzung der Utiq Technologie
 

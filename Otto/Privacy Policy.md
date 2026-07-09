@@ -602,4 +602,4 @@ Eine Auskunft über Ihre bei uns gespeicherten persönlichen Daten können Sie z
 
   
   
-**Stand**: 01.12.2025
+**Stand**: 27.05.2026

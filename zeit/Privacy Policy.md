@@ -80,6 +80,16 @@ Wir speichern das Testergebnis für die Dauer Ihrer Registrierung. Wenn Sie Ihr 
 
 [To the top of the section](#Hey-Studium-Interessenstest)
 
+### Customer-Matching auf Social-Media-Plattformen
+
+Zur Vermeidung der Ausspielung von Werbe- und Akquisitionsmaßnahmen an bestehende Kunden gleichen wir selektierte Kundenstammdaten (insbesondere E-Mail-Adressen) mit Nutzerdaten von Social-Media-Plattformen (z.B. Meta, LinkedIn, Google) ab. Ziel ist es, aktive Bestandskunden von Neukundenkampagnen auszuschließen (sogenannte Suppression/Exclusion Audiences), Streuverluste zu minimieren, Werbebudgets effizient einzusetzen und eine unnötige Ansprache bestehender Kundenbeziehungen zu vermeiden.
+
+Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse (Art. 6 Abs. 1 f) DSGVO) oder die Einwilligung (Art. 6 Abs. 1 a) DSGVO) – je nachdem, welche Vorgaben uns die Social-Media-Plattformen in ihren AGB machen. Dieses liegt in der effizienten Steuerung von Marketingmaßnahmen, der Vermeidung von Fehlansprachen bestehender Kunden sowie der wirtschaftlich sinnvollen Verwendung von Werbebudgets. Die Bereitstellung der für den Abgleich verwendeten Daten erfolgt im Rahmen der bestehenden Kundenbeziehung.
+
+Es erfolgt keine separate Speicherung über den Datenabgleich hinaus. Die auf den Social-Media-Plattformen für den Abgleich hochgeladenen Daten werden dort nach Abschluss des Matching-Vorgangs gelöscht.
+
+[To the top of the section](#Customer-Matching-auf-Social-Media-Plattformen)
+
 ![](//images.ctfassets.net/9q531vlek15f/7JafnzzJcw4YxTuZSzqaUr/3b01f95cf3ae0c39ae42351e8c7c37a3/Nutzung_von_zeit.de.png)
 
 Nutzung von zeit.de
@@ -285,6 +295,16 @@ Die Einbindung von Zahlungsanbietern und die dabei stattfindende Weitergabe Ihre
 Wir speichern keine Bankdaten in unseren Systemen. Wir halten lediglich vor, welche Beträge zu zahlen sind und ob sie beglichen wurden.
 
 [To the top of the section](#Bezahlung-Dienstleister)
+
+### Schutz vor Forderungsausfall
+
+Wir verarbeiten personenbezogene Daten, um über das Zustandekommen von Verträgen zu entscheiden. Wir prüfen insbesondere, ob zu unseren Gunsten bestehende Forderungen in der Vergangenheit ordnungsgemäß beglichen wurden. Das Ergebnis dieser Prüfung fließt in unsere Entscheidung mit ein.
+
+Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 f) DSGVO. Unser berechtigtes Interesse liegt darin, uns vor Forderungsausfällen und betrügerischen Vertragsschlüssen zu schützen. Dies dient zugleich der wirtschaftlich verantwortlichen Ausübung unserer Privatautonomie. Wir verwenden nur die bei Bestellung angegebenen Daten sowie die bereits in unserer Datenbank gespeicherten Angaben zu früheren Bestellungen.
+
+Die Daten über nicht beglichene Forderungen speichern wir über den Ablauf gesetzlicher Aufbewahrungspflichten hinaus.
+
+[To the top of the section](#Schutz-vor-Forderungsausfall)
 
 ### Gewinnspiele
 

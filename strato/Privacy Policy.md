@@ -145,6 +145,14 @@ Innerhalb der Unternehmensgruppe kann ein Datenaustausch mit verbundenen Unterne
 
 Wir verarbeiten Ihre personenbezogenen Daten auch, sofern Sie unsere Präsenzen innerhalb von sozialen Medien besuchen. Hiervon umfasst sind insbesondere die Angaben, die Sie selbst tätigen.
 
+### Werbliche Anrufe durch KI-Telefonassistenten
+
+Mit Ihrer Einwilligung rufen wir Sie zur Bewerbung unseres KI-Telefonassistenten, mittels KI-basierten Sprachmodells an. Hierzu verwenden wir die von Ihnen angegebene Telefonnummer im Eingabefeld für Testanrufe.
+
+Wir stellen Ihnen weitere Produkte und Services unter Verwendung unseres KI-Telefonassisten vor, sofern wir hierfür Ihre Einwilligung erhalten haben. Hierfür verwenden wir Ihre im Kundenkonto hinterlegte Bestandsdaten inklusive Ihrer Telefonnummer.
+
+Im Rahmen der Gespräche mit unserem KI-Telefonassistent erfassen wir Ihre Sprachdaten, inklusive der Angaben, die Sie im Gespräch an uns mitteilen.
+
 6\. Datenverarbeitung zu Marketingzwecken
 -----------------------------------------
 

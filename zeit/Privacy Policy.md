@@ -3,7 +3,7 @@
 Datenschutzerklärung
 ====================
 
-20.04.2026
+13.07.2026
 
 Beim Aufruf einer Website, der Registrierung für einen Dienst, der Abwicklung von Verträgen und anderen Interaktionen werden personenbezogene Daten verarbeitet. Das geschieht sowohl automatisch (z.B. bei der IP-Adresse) als auch durch die aktive Eingabe von Daten (z.B. bei einer Bestellung). Die Datenschutz-Grundverordnung (DSGVO) verpflichtet uns dazu, Sie über diese Verarbeitung zu informieren. Sie sollen z.B. wissen, welche Zwecke wir verfolgen, wie lange Ihre Informationen gespeichert werden, auf welcher Rechtsgrundlage die Verarbeitung basiert und welche Empfänger von Daten es geben kann. Darum geht es in dieser Datenschutzerklärung.
 
@@ -248,6 +248,26 @@ Rechtsgrundlage für diese Verarbeitung ist die Durchführung des Nutzungsverhä
 Wir speichern Chatverläufe für 2 Monate und löschen sie anschließend.
 
 [To the top of the section](#HeyStudium-KI-ChatBot)
+
+### Liveblog
+
+Auf zeit.de haben wir einen Liveblog eingebunden, um Inhalte anzuzeigen, einen Live-Ticker bereitzustellen und über aktuelle Ereignisse in Echtzeit journalistisch zu berichten. Dabei werden Nutzungs- und Gerätedaten verarbeitet (auch auf dem Endgerät).
+
+Rechtsgrundlage für die Verarbeitung sind das Nutzungsverhältnis (Art. 6 Abs. 1 b) DSGVO) sowie das berechtigte Interesse, aktuelle journalistische Inhalte in einer nutzerfreundlichen und fortlaufend aktualisierten Form bereitzustellen (Art. 6 Abs. 1 f) DSGVO). Die Datenverarbeitung auf dem Endgerät ist zur Bereitstellung und Einbindung des Liveblogs auf zeit.de gesetzlich erlaubt (§ 25 Abs. 2 TDDDG). Die Verarbeitung geschieht automatisch beim Aufruf des Liveblogs und kann nicht unterbunden werden.
+
+Eine gesonderte Speicherdauer besteht für diesen Zweck nicht. Die Daten werden daher nur so lange verarbeitet, wie dies für die Bereitstellung und den Betrieb des Liveblogs erforderlich ist.
+
+[To the top of the section](#Liveblog)
+
+### Community-KI-Feature
+
+Wir haben auf zeit.de ein Community-KI-Feature eingebaut, um Nutzerkommentare zu unseren Beiträgen zusammenzufassen und übersichtlich darzustellen. Außerdem werden Kommentare mit besonders vielen Reaktionen hervorgehoben. Dabei können insbesondere die Inhalte der Kommentare, die verwendeten Nutzernamen und die Anzahl der Reaktionen dargestellt werden.
+
+Die Verarbeitung erfolgt zur Wahrung unserer berechtigten Interessen (Art. 6 Abs. 1 f) DSGVO). Das besteht darin, die Diskussionen auf unseren Seiten übersichtlicher darzustellen und Nutzern einen schnellen Überblick über besonders häufig unterstützte oder relevante Kommentare zu ermöglichen. Das Community-KI-Feature kann nicht deaktiviert werden.
+
+Die Kommentare werden für die Dauer ihrer Veröffentlichung auf zeit.de über das Community-Feature verarbeitet.
+
+[To the top of the section](#Community-KI-Feature)
 
 ![](//images.ctfassets.net/9q531vlek15f/1Mc3b39LjP96ZZiclAWZip/d0495d62c546642a1aa513a71f87bcc6/Aktionen_Vertraege_und_Abos.png)
 

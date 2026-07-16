@@ -68,7 +68,7 @@ Wir verzichten auf eine automatische Entscheidungsfindung oder ein Profiling im 
 
 **1\. Registrierung**
 
-Für den Abschluss eines WELT Pur-Abos ist eine Registrierung im Kaufprozess der Abo-Bestellung erforderlich, sofern Sie noch nicht registriert sind. Wir setzen dabei unseren portalübergreifenden Dienst myPass ein, der Ihnen die Anmeldung auf allen Angeboten ermöglicht, die myPass ebenfalls integriert haben. Für die Nutzung von myPass gelten die [Nutzungsbedingungen von myPass](https://www.mypass.de/information/nutzungsbedingungen-fuer-mypass). Mehr Informationen zu myPass finden Sie hier: [www.mypass.de](http://www.mypass.de/) Weitere Informationen zur Datenverarbeitung können Sie dem [Datenschutzhinweis](https://www.mypass.de/datenschutz) für den Single-Sign-On-Dienst myPass entnehmen. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO. Unter folgendem Link können Sie Ihre Registrierungsdaten einsehen und verwalten: [https://www.welt.de/meinewelt/meinedaten/](https://www.welt.de/meinewelt/meinedaten/)
+Für den Abschluss eines WELT Pur-Abos ist eine Registrierung im Kaufprozess der Abo-Bestellung erforderlich, sofern Sie noch nicht registriert sind. Wir setzen dabei unseren portalübergreifenden Dienst myPass ein, der Ihnen die Anmeldung auf allen Angeboten ermöglicht, die myPass ebenfalls integriert haben. Für die Nutzung von myPass gelten die [Nutzungsbedingungen von myPass](https://www.mypass.de/information/nutzungsbedingungen-fuer-mypass). Mehr Informationen zu myPass finden Sie hier: [www.mypass.de](https://www.mypass.de/) Weitere Informationen zur Datenverarbeitung können Sie dem [Datenschutzhinweis](https://www.mypass.de/datenschutz) für den Single-Sign-On-Dienst myPass entnehmen. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO. Unter folgendem Link können Sie Ihre Registrierungsdaten einsehen und verwalten: [https://www.welt.de/meinewelt/meinedaten/](https://www.welt.de/meinewelt/meinedaten/)
 
 **2\. Abschluss WELT Pur-Abo**
 
@@ -239,7 +239,7 @@ Für die vorgenannten Zwecke bedienen wir uns auch der Dienste nachfolgend aufge
 *   AdDefend (AdDefend GmbH, Borselstrasse 3, 22765 Hamburg), [https://www.addefend.com/de/datenschutzerklarung/](https://www.addefend.com/de/datenschutzerklarung/)
 *   AWIN (AWIN AG, Landsberger Allee 104 BC, 10249 Berlin, Deutschland), [https://www.awin.com/de/rechtliches/privacy-policy](https://www.awin.com/de/datenschutzerklarung)
 *   Connatix Native Exchange Inc. (Connatix Native Exchange Inc., 666 Broadway, 10th Floor, New York, NY 10012, USA) [https://connatix.com/privacy-policy#videoPlatformPrivacy](https://connatix.com/privacy-policy#videoPlatformPrivacy "Link wird in einem neuen Tab geöffnet")
-*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   Microsoft Advertising (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA), [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
 *   Outbrain ( Outbrain UK Limited, 100 New Bridge Street, London, EC4V 6JA, Vereinigtes Königreich), [https://www.outbrain.com/privacy/](https://www.outbrain.com/privacy/)
 *   TuneIn (TuneIn, Inc., 475 Brannan Street, Suite 320, San Francisco, CA 94107, USA), [https://cms.tunein.com/policies/privacy/?lang=de](https://cms.tunein.com/policies/privacy/?lang=de)
@@ -256,7 +256,7 @@ Für die vorgenannten Zwecke bedienen wir uns auch der Dienste nachfolgend aufge
 
 *   AdDefend (AdDefend GmbH, Borselstrasse 3, 22765 Hamburg), [https://www.addefend.com/de/datenschutzerklarung/](https://www.addefend.com/de/datenschutzerklarung/)
 *   AWIN (AWIN AG, Landsberger Allee 104 BC, 10249 Berlin, Deutschland), [https://www.awin.com/de/rechtliches/privacy-policy](https://www.awin.com/de/datenschutzerklarung)
-*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   HEIM:SPIEL (Heim:Spiel Medien GmbH Dorotheenstraße 26a, 48145 Münster, Deutschland), [https://www.heimspiel.de/rechtlicher\_hinweis.php](https://www.heimspiel.de/rechtlicher_hinweis.php)
 *   Microsoft Advertising (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA), [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
 *   Outbrain ( Outbrain UK Limited, 100 New Bridge Street, London, EC4V 6JA, Vereinigtes Königreich) [https://www.outbrain.com/privacy/](https://www.outbrain.com/privacy/)
@@ -270,7 +270,7 @@ Hierbei bedienen wir uns auch der Dienste nachfolgend aufgeführter Dritter, die
 
 *   AdDefend (AdDefend GmbH, Borselstrasse 3, 22765 Hamburg), [https://www.addefend.com/de/datenschutzerklarung/](https://www.addefend.com/de/datenschutzerklarung/)
 *   AWIN (AWIN AG, Landsberger Allee 104 BC, 10249 Berlin, Deutschland), [https://www.awin.com/de/rechtliches/privacy-policy](https://www.awin.com/de/datenschutzerklarung)
-*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   HEIM:SPIEL (Heim:Spiel Medien GmbH Dorotheenstraße 26a, 48145 Münster, Deutschland), [https://www.heimspiel.de/rechtlicher\_hinweis.php](https://www.heimspiel.de/rechtlicher_hinweis.php)
 *   Microsoft Advertising (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA), [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
 *   Outbrain (Outbrain UK Limited, 100 New Bridge Street, London, EC4V 6JA, Vereinigtes Königreich) [https://www.outbrain.com/privacy/](https://www.outbrain.com/privacy/)
@@ -299,7 +299,7 @@ Hierbei bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem�
 
 *   Dutyfarm-Games (Dutyfarm GmbH, Hauptstraße 6b, 10317 Berlin, Deutschland), [https://www.dutyfarm.com/de/impressum/](https://www.dutyfarm.com/de/impressum/)
 *   Giphy (Giphy, Inc., 416 W 13th Street Suite 207, New York, NY 10014) [https://giphy.com/privacy](https://giphy.com/privacy)
-*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   Instagram (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.instagram.com/legal/privacy/](https://www.instagram.com/legal/privacy/)
 *   LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) [https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic\_footer-privacy-policy](https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy)
 *   SoundCloud (SoundCloud Limited, Rheinsberger Str. 76/77, 10115 Berlin), [https://soundcloud.com/pages/privacy](https://soundcloud.com/pages/privacy)
@@ -321,7 +321,7 @@ Hierbei bedienen wir uns der Dienste der nachfolgend aufgeführten Drittanbieter
 *   AdDefend (AdDefend GmbH, Borselstrasse 3, 22765 Hamburg), [https://www.addefend.com/de/datenschutzerklarung/](https://www.addefend.com/de/datenschutzerklarung/)
 *   AWIN AWIN AG, Landsberger Allee 104 BC, 10249 Berlin, Deutschland), [https://www.awin.com/de/rechtliches/privacy-policy](https://www.awin.com/de/datenschutzerklarung)
 *   Facebook Conversion Tracking (Facebook Custom Audiences über das Pixel-Verfahren\*, Facebook Business Tool) (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
-*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Advertising Products (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   Microsoft Advertising (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA), [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
 *   TuneIn (TuneIn, Inc., 475 Brannan Street, Suite 320, San Francisco, CA 94107, USA), [https://cms.tunein.com/policies/privacy/?lang=de](https://cms.tunein.com/policies/privacy/?lang=de)
 *   Xandr (ehemals AppNexus)-(Xandr Inc., 28 W. 23rd Street, New York, New York, 10010, USA ) [https://www.xandr.com/privacy/platform-privacy-policy](https://www.xandr.com/privacy/platform-privacy-policy)
@@ -342,7 +342,7 @@ Wenn Sie Ihre Einwilligung in die Nutzung von WELT.de mit Tracking und Cookies e
 *   Facebook Content Feed (Facebook Business Tool) (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 *   Facebook Conversion Tracking (Facebook Custom Audiences über das Pixel-Verfahren\*, Facebook Business Tool) (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 *   Giphy (Giphy, Inc., 416 W 13th Street Suite 207, New York, NY 10014) [https://giphy.com/privacy](https://giphy.com/privacy)
-*   GoogleContent Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   GoogleContent Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   Immowelt GmbH (immowelt GmbH, Nordostpark 3-5, 90411 Nürnberg, Deutschland) [https://www.immowelt.de/immoweltag/datenschutz](https://www.immowelt.de/immoweltag/datenschutz)
 *   Instagram (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.instagram.com/legal/privacy/](https://www.instagram.com/legal/privacy/)
 *   LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland), [https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic\_footer-privacy-policy](https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy)
@@ -389,7 +389,7 @@ Hierfür bedienen wir uns der Dienste nachfolgend aufgeführter Dritter, die gem
 *   Dutyfarm-Games (Dutyfarm GmbH, Hauptstraße 6b, 10317 Berlin, Deutschland), [https://www.dutyfarm.com/de/impressum/](https://www.dutyfarm.com/de/impressum/)
 *   Facebook Content Feeds (Facebook Business Tools) (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland), [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 *   Giphy (Giphy, Inc., 416 W 13th Street Suite 207, New York, NY 10014), [https://giphy.com/privacy](https://giphy.com/privacy)
-*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   HEIM:SPIEL (Heim:Spiel Medien GmbH Dorotheenstraße 26a, 48145 Münster, Deutschland), [https://www.heimspiel.de/rechtlicher\_hinweis.php](https://www.heimspiel.de/rechtlicher_hinweis.php)
 *   Immowelt GmbH (immowelt GmbH, Nordostpark 3-5, 90411 Nürnberg, Deutschland) [https://www.immowelt.de/immoweltag/datenschutz](https://www.immowelt.de/immoweltag/datenschutz)
 *   Instagram (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland), [https://www.instagram.com/legal/privacy/](https://www.instagram.com/legal/privacy/)
@@ -523,7 +523,7 @@ Weitere Informationen zu Outbrain und Ihren Rechten als betroffene Person gegen�
 Wenn Sie Ihre Einwilligung in die Nutzung unseres Angebots mit Tracking und Cookies erteilt haben, betten wir zum Zweck der Verbesserung des Nutzungserlebnisses auch Dienste der unten aufgelisteten Anbieter in unser Angebot ein, die jeweils gemäß Art. 4 Nr. 7 DSGVO für die Datenverarbeitung verantwortlich sind. Hierzu baut Ihr Browser eine direkte Verbindung zu dem Server des jeweiligen Anbieters auf. Dabei wird von dem Anbieter stets Ihre IP-Adresse verarbeitet, die für den Aufbau der Verbindung zum Server des Anbieters und dem Ausspielen der Inhalte erforderlich ist. Informationen zur Datenverarbeitung durch den jeweiligen Anbieter können Sie der Datenschutzerklärung des jeweiligen Anbieters entnehmen:
 
 *   Facebook Content Feed (Facebook Business Tools) (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
-*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](http://www.google.de/intl/de/policies/privacy/)
+*   Google Content Embeds (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), [www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 *   Instagram (Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) [https://www.instagram.com/legal/privacy/](https://www.instagram.com/legal/privacy/)
 *   LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland), [https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic\_footer-privacy-policy](https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy)
 *   X Corp. (X Corp., 1355 Market Street, Suite 900 San Francisco, CA 94103, USA), [https://twitter.com/de/privacy](https://twitter.com/de/privacy)

@@ -1,3 +1,7 @@
+[TTS-Player überspringen↵](#in-content-skip-link-target-v-0-0)
+
+[Artikel weiterlesen](#in-content-skip-link-target-v-0-0)
+
 **1\. Geltungsbereich**
 
 1.1 Die nachfolgenden Nutzungsbedingungen gelten für die digitalen Angebote der Axel Springer Deutschland GmbH (nachfolgend „BILD“ genannt), die dem Nutzer über die Webseite www.bild.de bzw. der mobilen Seite m.bild.de, die BILD Apps und TV-Apps angeboten werden. Neben der allgemeinen kostenfreien Nutzung der Webseite www.bild.de bzw. der mobilen Seite m.bild.de sowie der kostenfreien Apps, wie die BILD Sport App werden folgende kostenfreie und kostenpflichtige anmeldepflichtige Dienste angeboten:
@@ -32,7 +36,7 @@ Diese Nutzungsbedingungen haben auch dann Geltung, wenn dem Nutzer die Nutzung d
 
 **2\. Anbieter, Vertragspartner**
 
-Anbieter der Inhalte und Vertragspartner der kostenfreien und kostenpflichtigen Angebote von BILD ist die Axel Springer Deutschland GmbH, Axel-Springer-Straße 65, 10888 Berlin, AG Charlottenburg HRB 196159 B, USt-IdNr. DE 214 852 390, Geschäftsführer: Carolin Hulshoff Pol, Claudius Senst, Peter Würtenberger (nachfolgend als „BILD“ bezeichnet).
+Anbieter der Inhalte und Vertragspartner der kostenfreien und kostenpflichtigen Angebote von BILD ist die Axel Springer Deutschland GmbH, Axel-Springer-Straße 65, 10888 Berlin, AG Charlottenburg HRB 196159 B, USt-IdNr. DE 214 852 390, Geschäftsführer: Carolin Hulshoff Pol, John Matias Sanchez Luna (nachfolgend als „BILD“ bezeichnet).
 
 **3\. Verträge über kostenpflichtige Angebote**
 

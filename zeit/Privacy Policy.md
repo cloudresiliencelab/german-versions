@@ -396,7 +396,7 @@ Wir haben verschiedene Newsletter, die Sie unter Angabe Ihrer E-Mail-Adresse abo
 
 Die Nutzung Ihrer E-Mail-Adresse zum Versand unserer Newsletter ist von Ihrer Einwilligung abhängig (Art. 6 Abs. 1 a) DSGVO). Die Bereitstellung Ihrer Daten ist freiwillig und hat keine Auswirkung auf ein etwa mit uns bestehendes Vertragsverhältnis. Ist die Anmeldung zu einem Newsletter Voraussetzung für die Teilnahme an einem Gewinnspiel oder den Erhalt von redaktionellen Inhalten (z.B. in Form eines eBooks), hat die Nichtbereitstellung zur Folge, dass Sie nicht teilnehmen können bzw. die Inhalte nicht bekommen.
 
-Ihre E-Mail-Adresse wird für die Dauer des Vorliegens Ihrer Einwilligung in unserer Newsletter-Datenbank gespeichert. Sobald Sie Ihre Einwilligung widerrufen, wird sie aus der entsprechenden Datenbank gelöscht.
+Ihre E-Mail-Adresse wird für die Dauer des Vorliegens Ihrer Einwilligung und darüber hinaus zur Dokumentation Ihrer An- und Abmeldung in unserer Newsletter-Datenbank gespeichert. Bei einem Widerruf Ihrer Einwilligung erhalten Sie keine Newsletter mehr.
 
 ### Redaktionelle Newsletter
 
@@ -404,7 +404,7 @@ Wir bieten verschiedene redaktionelle Newsletter an, die Sie teilweise separat a
 
 Die Nutzung Ihrer E-Mail-Adresse zum Versand unserer redaktionellen Newsletter ist von Ihrer Einwilligung abhängig (Art. 6 Abs. 1 a) DSGVO) oder aufgrund eines Vertrags gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Im Falle einer Einwilligung ist die Bereitstellung Ihrer Daten freiwillig. Erfolgt der Versand im Rahmen eines Vertrags, ist die Angabe Ihrer Daten erforderlich.
 
-Ihre E-Mail-Adresse wird für die Dauer des Vorliegens Ihrer Einwilligung bzw. das Bestehen eines Vertrags in unserer Newsletter-Datenbank gespeichert.
+Ihre E-Mail-Adresse wird für die Dauer des Vorliegens Ihrer Einwilligung bzw. eines Vertrags und darüber hinaus zur Dokumentation Ihrer An- und Abmeldung in unserer Newsletter-Datenbank gespeichert. Bei einem Widerruf Ihrer Einwilligung erhalten Sie keine Newsletter mehr.
 
 [To the top of the section](#Redaktionelle-Newsletter)
 

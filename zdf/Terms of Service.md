@@ -8,7 +8,7 @@ Die Online-Angebote des ZDF unterliegen strengen Datenschutzvorgaben, die in der
 Einbetten/Embedding von Videos
 ------------------------------
 
-Das ZDF ermöglicht das Einbetten/Embedding von Videos auf Websiten Dritter, soweit die anschließend genannten Bedingungen akzeptiert werden. Dafür steht in den drei Punkten (weitere Optionen) auf Videoteasern die Funktion "Embed-Code kopieren" zur Verfügung (Praktische Hinweise dazu finden Sie in den [FAQs](https://www.zdf.de/fragen-und-antworten-zur-mediathek-102)).
+Das ZDF ermöglicht das Einbetten/Embedding von Videos auf Websiten Dritter, soweit die anschließend genannten Bedingungen akzeptiert werden. Dafür steht in den drei Punkten (weitere Optionen) auf Videoteasern die Funktion "Embed-Code kopieren" zur Verfügung (Praktische Hinweise dazu finden Sie in den [FAQs](https://www.zdf.de/fragen-und-antworten-zdf-streaming-100)).
 
 Mit dieser Funktion hat der Nutzer die nicht-exklusive Möglichkeit, das bereitgestellte Video im eigenen Angebot zu embedden. Für seinen Onlineauftritt und etwaige darin eingebundene Inhalte ist der Nutzer selbst verantwortlich. Das ZDF weist in diesem Zusammenhang ausdrücklich darauf hin, dass die urheberrechtliche Einordnung von "Embedding" rechtlich umstritten ist. Soweit Dritte Ansprüche gegen den Nutzer aufgrund des "Embedding" geltend macht, haftet das ZDF nicht.
 
@@ -33,6 +33,10 @@ Das ZDF stellt Ihnen unterschiedliche interaktive Funktionen zur Verfügung, fü
 Die Registrierung für die Online-Angebote des ZDF ist kostenlos. Sie kann jederzeit gekündigt werden. Das ZDF ist berechtigt, die Aufnahme zur Mitgliedschaft abzulehnen oder die Mitgliedschaft ohne Einhaltung von Fristen auszusetzen oder zu kündigen. Sie haften so lange für die unberechtigte Nutzung von dritter Seite, bis Sie das ZDF per E-Mail an zuschauerservice@zdf.de über die unberechtigte Nutzung informieren und, falls erforderlich, das Passwort ändern.
 
 Das Online-Angebot richtet sich vornehmlich an Erwachsene und solche Jugendliche, die auf Grund ihrer Einsichtsfähigkeit die Regeln, Nutzungsbedingungen und Richtlinien verstehen und anzuwenden wissen. Neben der Achtung und Wahrung der Rechte anderer Nutzer erinnert das ZDF insbesondere daran, dass die eigene Persönlichkeit sowie die Persönlichkeitsrechte anderer dadurch geschützt werden können, dass persönliche Daten nicht oder nur sehr sparsam öffentlich gemacht werden. Weiterhin weist das ZDF darauf hin, dass das Recht auf Anonymität in Anspruch genommen werden kann.
+
+### Versand einer Erinnerungs-E-Mail für Newsletter-Anmeldung
+
+Im Rahmen des Registrierungsprozesses für ZDF- und ZDFheute-Newsletter kann das ZDF zur Vervollständigung einer begonnenen, aber noch nicht bestätigten Anmeldung eine Erinnerungs-E-Mail an die angegebene E-Mail-Adresse senden. Diese E-Mail dient ausschließlich dem Abschluss der Registrierung und stellt keine eigenständige werbliche Kommunikation dar. Wenn du deine Anmeldung nicht bestätigst, werden deine Informationen gesperrt und nach einem Monat automatisch gelöscht.
 
 ### Pflichten des Nutzers
 

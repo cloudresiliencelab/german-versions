@@ -136,6 +136,8 @@ Wir nutzen den Gerätespeicher moderner Browser dazu, Ihnen die Historie der zul
 
 ### Werden Daten weitergegeben?
 
+#### Datenweitergabe
+
 Für die Vertragsabwicklung ist in der Regel die Einschaltung weisungsabhängiger Auftragsverarbeiter erforderlich, wie z. B. von Rechenzentrumsbetreibern, Druck- oder Versanddienstleistern oder sonstigen an der Vertragserfüllung Beteiligten. Zudem binden wir externe Dienstleister zum Zwecke der Marktforschung ein.
 
 Externe Dienstleister, die für uns im Auftrag Daten verarbeiten, werden von uns sorgfältig ausgewählt und vertraglich streng verpflichtet. Die Dienstleister arbeiten nach unserer Weisung, was durch strenge vertragliche Regelungen, durch technische und organisatorische Maßnahmen und durch ergänzende Kontrollen sichergestellt wird.
@@ -154,9 +156,13 @@ Eine Weitergabe kann beispielsweise in folgenden Konstellationen zum Zwecke der 
 
 ### Wie lange werden Ihre Daten gespeichert?
 
+#### Speicherdauer der Daten
+
 Wir speichern Ihre Daten nur so lange, wie sie für die Erfüllung des Zwecks, zu dem sie erhoben wurden (bspw. im Rahmen eines Vertragsverhältnisses), erforderlich sind oder sofern dies gesetzlich vorgesehen ist. So speichern wir im Rahmen eines Vertragsverhältnisses Ihre Daten mindestens bis zur vollständigen Beendigung des Vertrages. Anschließend werden die Daten für die Dauer der gesetzlichen Aufbewahrungsfristen aufbewahrt.
 
 ### Werden Cookies eingesetzt?
+
+#### Cookies
 
 Wir setzen für Funktionssicherung, Mess- und Analysezwecke auf unserer Website Cookies ein. Cookies sind Datenpakete, die von einer Website erzeugt und in Ihrem Browser gespeichert werden. Wir unterscheiden zwischen Cookies, die für die technischen Funktionen der Website erforderlich sind (z.B. zur Zwischenspeicherung), und solchen Cookies, die für die technische Funktion der Website nicht zwingend erforderlich sind (wie z.B. zur Reichweitenmessung). Einige dieser Cookies werden nach Ende der Browser-Sitzung automatisch wieder gelöscht bzw. ungültig (sog. Sitzungs- bzw. Session-Cookies). 
 
@@ -223,6 +229,8 @@ Wir nutzen den Analysedienst der Exactag GmbH (Wanheimer Straße 68, 40468 Düss
 
 ### Welche Rechte haben Nutzerinnen und Nutzer von bahn.de?
 
+#### Übersicht Rechte
+
 *   Sie können Auskunft darüber verlangen, welche Daten über Sie gespeichert sind.
 *   Sie können Berichtigung, Löschung und Einschränkung der Verarbeitung (Sperrung) Ihrer personenbezogenen Daten verlangen, solange dies gesetzlich zulässig und im Rahmen eines bestehenden Vertragsverhältnisses möglich ist.
 *   Sie haben das Recht, Beschwerde bei einer Aufsichtsbehörde einzulegen. Die für die aufgeführten Verantwortlichen zuständige Aufsichtsbehörde ist: Der Hessische Beauftragte für Datenschutz und Informationsfreiheit, Gustav-Stresemann-Ring 1, 65189 Wiesbaden
@@ -242,6 +250,8 @@ Europa-Allee 70-76
 oder per E-Mail an: [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com)
 
 ### Was passiert bei Links zu externen Webseiten?
+
+#### Externe Links
 
 Wenn Sie einen Link auf eine externe Seite anklicken, bewegen Sie sich außerhalb der Seite von bahn.de. Die DB Fernverkehr AG ist nicht verantwortlich für den Inhalt, die Dienste oder Produkte, die auf der verlinkten Webseite angeboten werden und auch nicht für den Datenschutz und die technische Sicherheit auf der verlinkten Webseite.
 

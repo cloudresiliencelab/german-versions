@@ -286,7 +286,33 @@ Zur CleverPush-FAQ geht es hier!: [https://cleverpush.com/de/faq](https://cleve
 
 Führen Sie den jeweiligen Link bitte unbedingt auf exakt dem Endgerät und in exakt dem Browser aus, mit welchem Sie die unerwünschten Push-Nachrichten empfangen.
 
-### 2.12 Quizze: Riddle
+### 2.12 Nutzung von Microsoft Clarity
+
+Wir verwenden Microsoft Clarity, um die Nutzung unserer Website zu analysieren. Microsoft Clarity erstellt Sitzungsaufzeichnungen (videoähnliche Wiedergaben von Mausbewegungen, Klicks und Scrollverläufen einzelner Besucher) und Heatmaps (aggregierte Darstellungen, die zeigen, wohin Besucher klicken und wie weit sie scrollen). Die gewonnenen Erkenntnisse nutzen wir, um die Benutzerfreundlichkeit unserer Website zu verbessern.
+
+Microsoft Clarity wird uns von Microsoft Ireland Operations Limited (One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Irland) bereitgestellt. Microsoft verarbeitet die Daten zur Website-Nutzung in unserem Auftrag und verpflichtet sich vertraglich zu Maßnahmen, um die Sicherheit und Vertraulichkeit der verarbeiteten Daten zu gewährleisten.
+
+Während deines Website-Besuchs werden u.a. folgende Daten aufgezeichnet und an Microsoft übermittelt:
+
+*   Aufgerufene Seiten
+*   Mausbewegungen, Klicks und Scrollverhalten
+*   Bestellungen und weitere Conversion-Ereignisse
+*   dein ungefährer Standort (Land und Stadt)
+*   deine Internetadresse (IP-Adresse)
+*   Technische Informationen wie Browser, Betriebssystem, Endgerät und Bildschirmauflösung
+*   Eine zufallsgenerierte Nutzer-ID
+
+Es werden keine persönlichen Daten wie Name, Anschrift oder Kontaktdaten übertragen. Formulareingaben werden von Microsoft Clarity automatisch maskiert und nicht aufgezeichnet.
+
+Diese Daten werden an Server von Microsoft in den USA übertragen. Microsoft Corporation ist unter dem EU-US Data Privacy Framework (DPF) zertifiziert. Für Datenübertragungen in die USA bestehen damit angemessene Garantien im Sinne von Art. 45 DSGVO.
+
+Microsoft Clarity speichert Cookies in deinem Webbrowser. Erstanbieter-Cookies: _\_clck_ wird für 1 Jahr gespeichert und enthält eine zufallsgenerierte Nutzer-ID. _\_clsk_ wird für 1 Tag gespeichert und fasst Seitenaufrufe zu einer Sitzungsaufzeichnung zusammen. Drittanbieter-Cookies von Microsoft: _MUID_ identifiziert deinen Browser über Microsoft-Websites hinweg und wird unter anderem für Analysezwecke und Werbung eingesetzt. Weitere Microsoft-Cookies (_CLID_, _MR_, _SM_, _ANONCHK_) dienen der Synchronisierung der Nutzer-ID innerhalb der Microsoft-Infrastruktur.
+
+Sitzungsaufzeichnungen werden nach 30 Tagen automatisch gelöscht. Heatmap-Daten und aggregierte Klickdaten werden nach 13 Monaten automatisch gelöscht.
+
+Rechtsgrundlage für diese Verarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Du können deine Einwilligung jederzeit über unseren Datenschutz-Einstellungen widerrufen.
+
+### 2.13 Quizze: Riddle
 
 Auf unserer Website haben wir Quizze und Persönlichkeitstests eingebunden, die von uns über das Software-Tool des deutschen Unternehmens Riddle Technologies AG (Lenaustraße 1, 66125 Saarbrücken, Deutschland) erstellt werden. Eingebunden wird das Quiz über ein iFrame. Damit können externe Dokumente oder Applikationen (wie in diesem Fall ein Quiz) visuell in eine Website eingebunden werden. Bei der Verwendung des Quiz erhebt Riddle sogenannte “aggregierte Daten”, allerdings keine personenbezogenen Daten, die dich als Person identifizieren können.
 
@@ -391,7 +417,7 @@ Die Datenverarbeitung durch NPAW geschieht auf Grundlage unseres berechtigten In
 
 Wir setzen bei den oben beschriebenen Datenverarbeitungen regelmäßig Dienstleister ein. Diese Dienstleister sind vertraglich durch uns verpflichtet, die Daten nur auf Weisung und in der durch uns bestimmten Weise zu verarbeiten. Sofern der Einsatz solcher Dienstleister die Übermittlung von Daten in ein Land außerhalb der EU zur Folge hat, stellen wir ebenfalls sicher, dass beim Empfänger ein angemessenes Datenschutzniveau herrscht. Sie haben das Recht, eine Kopie der eingesetzten Garantien zu erhalten, wobei es sich regelmäßig um die von der EU-Kommission genehmigten Standardvertragsklauseln (Controller to Processor) handelt, und sofern erforderlich weitere Maßnahmen zusätzlich zur vertraglichen Absicherung. 
 
-Wie alle großen Unternehmen setzen auch wir bei den oben beschriebenen Verarbeitungen amerikanische Dienstleister ein – insbesondere Microsoft, Amazon-Webservices (AWS), Google und Salesforce. Wir prüfen bei jeder Anwendung, welche Datensicherheitsmaßnahmen möglich und erforderlich sind, etwa eine Verschlüsselung, durch die dem Anbieter der Zugriff ganz verwehrt oder nur im Einzelfall gestattet werden kann. Auch wählen wir wann immer möglich europäische Standorte der Datenspeicherung und der Rechenzentren.
+Wie alle großen Unternehmen setzen auch wir bei den oben beschriebenen Verarbeitungen amerikanische Dienstleister ein – insbesondere Microsoft, Amazon-Webservices (AWS), Google und HubSpot. Wir prüfen bei jeder Anwendung, welche Datensicherheitsmaßnahmen möglich und erforderlich sind, etwa eine Verschlüsselung, durch die dem Anbieter der Zugriff ganz verwehrt oder nur im Einzelfall gestattet werden kann. Auch wählen wir wann immer möglich europäische Standorte der Datenspeicherung und der Rechenzentren.
 
 Über **Microsoft** beziehen wir sämtliche gängigen Office-Anwendungen wie Outlook (Mail-Programm), Teams (Telefonie und Konferenz-Software) oder Microsoft Azure (Speicherplatz und Rechenleistung).
 
@@ -399,9 +425,9 @@ Wie alle großen Unternehmen setzen auch wir bei den oben beschriebenen Verarbei
 
 **Google** arbeitet für uns als Dienstleister etwa bei der Messung von Reichweiten von Webseiten auf Basis pseudonymer Kennungen (Analytics), zur Bereitstellung von Arbeitsanwendungen (Google Suite) oder als Speicherplatz und Rechenkapazität (Google Cloud).
 
-**Salesforce** wird bei uns für die Verwaltung unserer Kundendatenbank (CRM) eingesetzt. Damit steuern wir zum Beispiel den Mail/Newsletterversand oder die Verwaltung von Einwilligungen oder Werbewidersprüchen (Opt-Out), um Ihren Auswahlentscheidungen zu entsprechen.
+**HubSpot** wird bei uns für die Verwaltung unserer Kundendatenbank (CRM) eingesetzt. Damit steuern wir zum Beispiel den Mail/Newsletterversand oder die Verwaltung von Einwilligungen oder Werbewidersprüchen (Opt-Out), um Ihren Auswahlentscheidungen zu entsprechen. 
 
-Für die in Ziffer 1 h oben beschriebene Verarbeitung von Daten durch Cookies und zu Zwecken der Werbevermarktung werden Daten darüber hinaus an Partner/Dritte weitergegeben, sofern und soweit Sie hierfür eine Einwilligung in den Datenschutz-Einstellungen erteilt haben bzw. keine alternative Rechtsgrundlage vorliegt. Diese Partner/Dritten sitzen teilweise in Ländern, die kein der EU gleichwertiges Datenschutzniveau garantieren und wo deine Betroffenenrechte entsprechend nicht immer sichergestellt werden können. Dafür dass wir Ihre Daten dennoch dorthin transferieren dürfen, ist Ihre Einwilligung gem. Art. 6 (1) a, i.V.m. Art. 49 DSGVO die erforderliche Rechtsgrundlage. Sie können Ihre Einwilligungen jederzeit in unseren Datenschutz-Einstellungen konfigurieren und auch einen Widerruf erklären. Dieser Widerruf wirkt für alle weiteren Datenübermittlungen durch uns an den Partner/Dritten.
+Für die in Ziffer 2. oben beschriebene Verarbeitung von Daten durch Cookies und zu Zwecken der Werbevermarktung werden Daten darüber hinaus an Partner/Dritte weitergegeben, sofern und soweit Sie hierfür eine Einwilligung in den Datenschutz-Einstellungen erteilt haben bzw. keine alternative Rechtsgrundlage vorliegt. Diese Partner/Dritten sitzen teilweise in Ländern, die kein der EU gleichwertiges Datenschutzniveau garantieren und wo deine Betroffenenrechte entsprechend nicht immer sichergestellt werden können. Dafür dass wir Ihre Daten dennoch dorthin transferieren dürfen, ist Ihre Einwilligung gem. Art. 6 (1) a, i.V.m. Art. 49 DSGVO die erforderliche Rechtsgrundlage. Sie können Ihre Einwilligungen jederzeit in unseren Datenschutz-Einstellungen konfigurieren und auch einen Widerruf erklären. Dieser Widerruf wirkt für alle weiteren Datenübermittlungen durch uns an den Partner/Dritten.
 
 5\. Betroffenenrechte
 ---------------------

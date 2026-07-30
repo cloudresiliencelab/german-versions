@@ -1,14 +1,9 @@
 Google-Nutzungsbedingungen
 ==========================
 
-Wirksam ab dem 22. Mai 2024 | [Archivierte Versionen](https://policies.google.com/terms/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_de_de.pdf)
+Wirksam ab dem 30. Juli 2026 | [Archivierte Versionen](https://policies.google.com/terms/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_de_de.pdf)
 
 [Landesversion:](https://policies.google.com/terms?hl=de&fg=1#footnote-country-version) Deutschland
-
-Wir aktualisieren am 30. Juli 2026 unsere Nutzungsbedingungen, damit klarer wird, was Sie von Google erwarten können und was wir von Ihnen erwarten, wenn Sie unsere Dienste verwenden. Bis dahin gelten weiterhin die unten genannten Nutzungsbedingungen.
-
-*   [Vorschau der neuen Nutzungsbedingungen](https://policies.google.com/terms/update?hl=de&fg=1)
-*   [Zusammenfassung der wichtigsten Änderungen](https://policies.google.com/terms/changes?hl=de&fg=1)
 
 Was diese Nutzungsbedingungen umfassen
 --------------------------------------
@@ -105,7 +100,7 @@ Im Rahmen der kontinuierlichen Weiterentwicklung unserer digitalen Inhalte, Dien
 *   zur Verhinderung von Missbrauch oder Schäden
 *   zur Umsetzung gesetzlicher oder behördlicher Vorgaben oder sicherheitsbezogener Aspekte
 
-Im Besonderen nehmen wir gelegentlich rechtlich erforderliche Aktualisierungen (Updates) vor, d. h. Änderungen, die unsere digitalen Inhalte, Dienste und Waren gesetzeskonform halten. Wir nehmen diese Aktualisierungen an unseren digitalen Inhalten, Diensten und Waren aus Sicherheitsgründen vor und um dafür zu sorgen, dass sie den zu erwartenden Qualitätsstandards entsprechen (z. B. den im Abschnitt [Gesetzliche Gewährleistung](https://policies.google.com/terms?hl=de&fg=1#toc-legal-guarantee) beschriebenen). Aktualisierungen, die schwerwiegende Sicherheitsrisiken beheben, können wir automatisch installieren. Bei anderen Aktualisierungen können Sie selbst entscheiden, ob Sie sie installieren möchten.
+Wir müssen auch rechtlich erforderliche Aktualisierungen (Updates) vornehmen, d. h. Änderungen, die unsere digitalen Inhalte, Dienste und Waren gesetzeskonform halten, und zwar mindestens für den im Abschnitt [Gesetzliche Gewährleistung](https://policies.google.com/terms?hl=de&fg=1#toc-legal-guarantee) genannten Mindestzeitraum. Wir nehmen diese Aktualisierungen an unseren digitalen Inhalten, Diensten und Waren aus Sicherheitsgründen vor und um dafür zu sorgen, dass sie den zu erwartenden Qualitätsstandards entsprechen (z. B. den im Abschnitt [Gesetzliche Gewährleistung](https://policies.google.com/terms?hl=de&fg=1#toc-legal-guarantee) beschriebenen). Aktualisierungen, die schwerwiegende Sicherheitsrisiken beheben, können wir automatisch installieren. Bei anderen Aktualisierungen können Sie selbst entscheiden, ob Sie sie installieren möchten.
 
 Wir unterhalten ein striktes Produktforschungsprogramm; bevor wir einen Dienst ändern oder einstellen, wägen wir daher sorgfältig die Zumutbarkeit der Änderung oder Einstellung des Dienstes, Ihre Interessen als Nutzer, Ihre berechtigten Erwartungen und die möglichen Auswirkungen auf Sie und andere ab. Dienste werden von uns nur aus zumutbaren Gründen geändert oder eingestellt.
 
@@ -121,7 +116,7 @@ Die von uns erteilte Erlaubnis zum Zugriff und zur Nutzung unserer [Dienste](htt
 *   **diese Nutzungsbedingungen**
 *   **[dienstspezifische Zusatzbedingungen](https://policies.google.com/terms/service-specific?hl=de&fg=1)**, die beispielsweise zusätzliche Anforderungen an das Mindestalter enthalten können
 
-Sie können diese Nutzungsbedingungen ansehen, kopieren und in [PDF-Format](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_de_de.pdf) speichern. Sie können diesen Nutzungsbedingungen und eventuellen [dienstspezifischen Zusatzbedingungen](https://policies.google.com/terms/service-specific?hl=de&fg=1) zustimmen, wenn Sie in Ihrem Google-Konto angemeldet sind.
+Sie können diese Nutzungsbedingungen ansehen, kopieren und in [PDF-Format](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_de_de.pdf) speichern. Sie können diesen Nutzungsbedingungen und eventuellen [dienstspezifischen Zusatzbedingungen](https://policies.google.com/terms/service-specific?hl=de&fg=1) zustimmen, wenn Sie in Ihrem Google-Konto angemeldet sind.
 
 Wir stellen Ihnen außerdem verschiedene Richtlinien, die Google-Hilfen und andere Informationen zur Verfügung, um häufig gestellte Fragen zu beantworten und unsere Erwartungen hinsichtlich der Nutzung unserer Dienste zu beschreiben. Hierzu zählen unsere [Datenschutzerklärung](https://policies.google.com/privacy?hl=de&fg=1), die [Hilfe zum Urheberrecht](https://support.google.com/legal/topic/4558877?hl=de), das [Sicherheitscenter](https://safety.google/?hl=de), das [Transparenz-Center](https://transparency.google/?hl=de) und andere Seiten, die auf unserer [Seite für die Datenschutzerklärung und die Nutzungsbedingungen](https://policies.google.com/?hl=de&fg=1) zu finden sind. Außerdem können wir in unseren Diensten spezielle Anweisungen und Warnungen bereitstellen, beispielsweise Dialogfelder, in denen Sie auf wichtige Informationen hingewiesen werden.
 
@@ -247,6 +242,11 @@ Um Ihnen unsere Dienste anzubieten, senden wir Ihnen gelegentlich Dienstankündi
 
 Wenn Sie sich entscheiden, uns Feedback zu geben, beispielsweise in Form von Vorschlägen zur Verbesserung unserer Dienste, dürfen wir Ihr Feedback aufgreifen, ohne Ihnen gegenüber verpflichtet zu sein.
 
+Kosten für Mobilfunk-, WLAN- und andere Netzwerkverbindungen
+------------------------------------------------------------
+
+Google-Dienste können häufig das Internet nutzen, auch wenn Sie die Dienste oder Ihr Gerät nicht aktiv verwenden. Google nutzt das Internet auf diese Weise für eine Vielzahl von Zwecken, z. B. um Softwareupdates bereitzustellen und die Dienste, die Sicherheit, die Nutzerfreundlichkeit und/oder den Betrieb von Google, einschließlich Werbung, zu verbessern. Diese Nutzungen erfolgen über Ihre Mobilfunk-, WLAN- und/oder andere Netzwerkverbindungen und können auf Ihr Datenvolumen bei Ihrem Mobilfunk- oder Internetanbieter angerechnet werden. Sie sind für die gesamte Netzwerknutzung und die damit verbundenen Kosten verantwortlich. Es empfiehlt sich, Ihren Mobilfunk- oder Internettarif sowie Ihre Geräte- und Netzwerkeinstellungen zu überprüfen.
+
 Inhalte in Google-Diensten
 ==========================
 
@@ -339,7 +339,7 @@ Bevor wir die nachfolgend beschriebenen Maßnahmen ergreifen, werden wir Sie, we
 
 ### Entfernen Ihrer Inhalte
 
-Wenn es objektive und konkrete Gründe zu der Annahme gibt, dass einer [Ihrer Inhalte](https://policies.google.com/terms?hl=de&fg=1#footnote-your-content) (1) gegen diese Nutzungsbedingungen, die [dienstspezifischen Zusatzbedingungen oder die Richtlinien](https://policies.google.com/terms/service-specific?hl=de&fg=1) verstößt, (2) geltende Gesetze verletzt oder (3) anderen Nutzern, Dritten oder Google Schaden zufügen könnte, behalten wir uns das Recht vor, diesen Inhalt in Übereinstimmung mit geltendem Recht zum Teil oder vollständig zu entfernen. Beispiele dafür sind kinderpornografische Inhalte, Inhalte, die Menschenhandel oder Belästigung ermöglichen, terroristische Inhalte sowie Inhalte, die [geistige Eigentumsrechte](https://policies.google.com/terms?hl=de&fg=1#footnote-intellectual-property-rights) anderer verletzen.
+Wenn es objektive und konkrete Gründe zu der Annahme gibt, dass einer [Ihrer Inhalte](https://policies.google.com/terms?hl=de&fg=1#footnote-your-content) (1) gegen diese Nutzungsbedingungen, die [dienstspezifischen Zusatzbedingungen oder die Richtlinien](https://policies.google.com/terms/service-specific?hl=de&fg=1) verstößt, (2) geltende Gesetze verletzt oder (3) anderen Nutzern, Dritten oder Google Schaden zufügen könnte, behalten wir uns das Recht vor, diesen Inhalt in Übereinstimmung mit geltendem Recht zum Teil oder vollständig zu entfernen. Beispiele dafür sind kinderpornografische Inhalte, Inhalte, die Menschenhandel oder Belästigung ermöglichen, terroristische Inhalte sowie Inhalte, die [geistige Eigentumsrechte](https://policies.google.com/terms?hl=de&fg=1#footnote-intellectual-property-rights) anderer verletzen.
 
 ### Aussetzen oder Beenden Ihres Zugriffs auf Google-Dienste
 
@@ -353,17 +353,12 @@ Weitere Informationen zu den Gründen und den Folgen einer Kontodeaktivierung fi
 
 Natürlich steht es Ihnen jederzeit frei, die Nutzung unserer Dienste einzustellen. Wenn Sie ein im Europäischen Wirtschaftsraum (EWR) ansässiger [Verbraucher](https://policies.google.com/terms?hl=de&fg=1#footnote-consumer) sind, können Sie auch innerhalb von vierzehn Tagen ab Ihrer ursprünglichen Annahme [Ihre Zustimmung zu diesen Nutzungsbedingungen widerrufen](https://policies.google.com/terms?hl=de&fg=1#toc-withdrawal-form). Falls Sie die Nutzung eines Dienstes einstellen, freuen wir uns über Ihr [Feedback zu den Gründen](https://www.google.com/tools/feedback/intl/en/?hl=de), damit wir unsere Dienste weiter verbessern können.
 
-Bearbeitung von Anfragen zu Ihren Daten
----------------------------------------
-
-Die Achtung Ihrer Privatsphäre und der Sicherheit Ihrer Daten ist die Grundlage für unser Vorgehen bei der Beantwortung von Anfragen zur Datenherausgabe. Wenn wir Anfragen zur Datenherausgabe erhalten, überprüft unser Team diese, um sicherzustellen, dass sie den gesetzlichen Anforderungen und den [Richtlinien zur Herausgabe von Daten durch Google](https://policies.google.com/terms/information-requests?hl=de&fg=1) entsprechen. In Übereinstimmung mit den Gesetzen Irlands und dem in Irland geltenden EU-Recht greift Google Ireland Limited auf Daten zu und gibt Daten einschließlich Kommunikationsinhalte heraus. Weitere Informationen zu Anfragen zur Datenherausgabe, und wie wir auf solche Anfragen reagieren, finden Sie in unserem [Transparenzbericht](https://transparencyreport.google.com/?hl=de) und in unserer [Datenschutzerklärung](https://policies.google.com/privacy?hl=de&fg=1).
-
 Streitbeilegung, geltendes Recht und Gerichte
 ---------------------------------------------
 
 Informationen zur Kontaktaufnahme mit Google finden Sie auf unserer [Kontaktseite](https://www.google.com/contact?hl=de).
 
-Wenn Sie oder Ihre [Organisation](https://policies.google.com/terms?hl=de&fg=1#footnote-organization) im Europäischen Wirtschaftsraum (EWR) oder in der Schweiz ansässig sind, unterliegen diese Nutzungsbedingungen und Ihr Nutzungsverhältnis mit Google gemäß diesen Nutzungsbedingungen sowie den [dienstspezifischen Zusatzbedingungen](https://policies.google.com/terms/service-specific?hl=de&fg=1) dem Recht des Landes, in dem Sie Ihren Wohnsitz haben oder Ihre Organisation Ihren Sitz hat, und Sie können Rechtsstreitigkeiten vor Ihren lokalen Gerichten anhängig machen. Wenn Sie ein [Verbraucher](https://policies.google.com/terms?hl=de&fg=1#footnote-consumer) sind, der im Europäischen Wirtschaftsraum (EWR) ansässig ist, können Sie uns bei Problemen [direkt kontaktieren](https://google.com/contact?hl=de). Wir bemühen uns dann um eine Lösung. Die Europäische Kommission stellt auch eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr) bereit, allerdings ist Google gesetzlich nicht verpflichtet, diese oder andere Plattformen zur Streitbeilegung zu verwenden.
+Wenn Sie oder Ihre [Organisation](https://policies.google.com/terms?hl=de&fg=1#footnote-organization) im Europäischen Wirtschaftsraum (EWR) oder in der Schweiz ansässig sind, unterliegen diese Nutzungsbedingungen und Ihr Nutzungsverhältnis mit Google gemäß diesen Nutzungsbedingungen sowie den [dienstspezifischen Zusatzbedingungen](https://policies.google.com/terms/service-specific?hl=de&fg=1) dem Recht des Landes, in dem Sie Ihren Wohnsitz haben oder Ihre Organisation Ihren Sitz hat, und Sie können Rechtsstreitigkeiten vor Ihren lokalen Gerichten anhängig machen. Wenn Sie [eine Verbraucherin oder ein Verbraucher](https://policies.google.com/terms?hl=de&fg=1#footnote-consumer) sind, die bzw. der im Europäischen Wirtschaftsraum (EWR) ansässig ist, können Sie uns bei Problemen [direkt kontaktieren](https://google.com/contact?hl=de). Wir bemühen uns dann um eine Lösung. Google ist weder bereit noch verpflichtet, an an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 Über diese Nutzungsbedingungen
 ==============================
@@ -387,7 +382,7 @@ Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertr
 
 Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
 
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns mittels einer eindeutigen Erklärung (z. B. mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Das ist möglich per E-Mail an [account-withdrawal@google.com](mailto:account-withdrawal@google.com), per Telefon unter der Nummer [+353 1 533 9837](tel:+35315339837) (siehe unten für [landesspezifische Telefonnummern](https://policies.google.com/terms?hl=de&fg=1#country-phone-numbers)) oder per Post an Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite ([g.co/EEAWithdrawalForm](https://g.co/EEAWithdrawalForm)) elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns mittels einer eindeutigen Erklärung (z. B. mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Das ist möglich per E-Mail an [account-withdrawal@google.com](mailto:account-withdrawal@google.com), per Telefon unter der Nummer [+353 1 533 9837](tel:+35315339837) (siehe unten für [landesspezifische Telefonnummern](https://policies.google.com/terms?hl=de&fg=1#country-phone-numbers)) oder per Post an Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können Ihr Widerrufsrecht auch online unter [g.co/EEAWithdrawalForm](https://g.co/EEAWithdrawalForm) ausüben. Wenn Sie diese Online-Funktion nutzen, senden wir Ihnen unverzüglich eine Bestätigung über den Eingang des Widerrufs über ein dauerhaftes Medium (z. B. per E‑Mail) zu, die den Inhalt des Widerrufs sowie das Datum und die Uhrzeit seiner Übermittlung enthält.
 
 Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
 
@@ -501,7 +496,7 @@ Eine gesetzliche Gewährleistung ist die gesetzliche Verpflichtung eines Verkäu
 
 ### gewerbliche Garantie
 
-Eine gewerbliche Garantie ist eine freiwillige Zusage, dass gewisse Qualitätsstandards eingehalten werden und dass das Unternehmen, das die Garantie ausspricht, bei Nichteinhaltung dieser Standards dafür verantwortlich ist, die mangelhaften Gegenstände zu reparieren, zu ersetzen oder dem Verbraucher zu erstatten.
+Eine gewerbliche Garantie ist eine freiwillige Zusage, die zusätzlich zur [gesetzlichen Mängelhaftung](https://policies.google.com/terms/definitions?hl=de&fg=1#toc-terms-legal-guarantee) gilt. Das Unternehmen, das die gewerbliche Garantie ausspricht, verpflichtet sich, (a) bestimmte Dienste bereitzustellen oder (b) mangelhafte Gegenstände zu reparieren, zu ersetzen oder dem Verbraucher zu erstatten.
 
 ### Ihre Inhalte
 

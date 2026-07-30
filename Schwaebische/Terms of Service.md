@@ -782,7 +782,11 @@ Zusteller sind zur Entgegennahme von Kündigungen nicht befugt.
 
 Prospekte sind Bestandteile der Zeitung. Kundenwünschen, die Zeitung ohne Prospekte zu liefern, kann aus technischen Gründen nicht entsprochen werden.
 
-Abonnementveränderungen (Reise, Umzug) können nur pünktlich bearbeitet werden, wenn sie spätestens sechs Erscheinungstage vorher bei SV vorliegen. Bei einer Unterbrechung des Abonnements wird das anteilige Bezugsentgelt ab dem siebten Erscheinungstag der Bezugsunterbrechung gutgeschrieben. Anderslautende, auch mündliche oder schriftliche Vereinbarungen mit Beauftragten und/oder Erfüllungsgehilfen von SV haben keine Gültigkeit.
+Das Abonnement besteht auch während einer vorübergehenden Abwesenheit des Kunden unverändert fort. Eine vorübergehende Nichtinanspruchnahme der Lieferung aufgrund einer vorübergehenden Abwesenheit des Kunden, insbesondere aufgrund einer Urlaubsabwesenheit, berechtigt nicht zu einer Minderung des Bezugspreises oder zu einer Rückforderung bereits gezahlter Entgelte.
+
+Während eines Urlaubs oder einer sonstigen vorübergehenden Abwesenheit des Kunden bietet SV dem Kunden die Weiterleitung der Zeitung an eine andere Lieferanschrift (z. B. an einen Freund, Nachbarn oder Angehörigen) innerhalb des Zustellgebietes von SV an, ohne dass hierfür ein zusätzliches Entgelt anfällt. Sofern das Abonnement einen E-Paper-Zugang umfasst, kann dieser während einer Urlaubsabwesenheit oder sonstigen vorübergehenden Abwesenheit unverändert genutzt werden.
+
+Abonnementveränderungen (aufgrund eines Umzugs oder einer Abwesenheit) können nur pünktlich bearbeitet werden, wenn sie spätestens sechs Erscheinungstage zuvor bei SV vorliegen.
 
 **_5\. Haftung_**
 

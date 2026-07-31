@@ -62,7 +62,9 @@ Bis zum Ablauf der Frist für das gesetzliche Widerrufsrecht gelten ausschließl
 
 **6.** Lieferungen sind grundsätzlich nur innerhalb Deutschlands möglich, ausgeschlossen die Postleitzahlen 72866 Büsingen und 27498 Helgoland. Von uns verkaufte Artikel werden überwiegend durch Hermes oder DHL angeliefert. Andere Verkäufer auf otto.de verwenden unter Umständen andere Transportunternehmen. Die Abgabe von Artikeln erfolgt nur in haushaltsüblichen Mengen.
 
-**7\. Sollten gelieferte Artikel offensichtliche Material- oder Herstellungsfehler aufweisen, wozu auch Transportschäden zählen, so reklamieren Sie bitte solche Fehler sofort gegenüber uns oder dem Mitarbeiter des Versanddienstleisters, der die Artikel anliefert. Die Versäumung dieser Rüge hat allerdings für Ihre gesetzlichen Ansprüche keine Konsequenzen. Für alle auf** **otto.de** **gekauften Artikel stehen Ihnen die gesetzlichen Mängelgewährleistungsrechte zu.**
+**7\. Sollten gelieferte Artikel offensichtliche Material- oder Herstellungsfehler aufweisen, wozu auch Transportschäden zählen, so reklamieren Sie bitte solche Fehler sofort gegenüber uns oder dem Mitarbeiter des Versanddienstleisters, der die Artikel anliefert. Die Versäumung dieser Rüge hat allerdings für Ihre gesetzlichen Ansprüche keine Konsequenzen.** Informationen zum gesetzlichen Gewährleistungsrecht für Waren finden Sie unter [europa.eu/youreurope/garantien](https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_de.htm).
+
+Entscheiden Sie sich bei einem mangelhaften Produkt für eine Reparatur anstelle einer Ersatzlieferung, verlängert sich die gesetzliche Gewährleistungsfrist gegenüber dem Verkäufer gemäß den gesetzlichen Bestimmungen einmalig von zwei auf drei Jahre. Auch für digitale Inhalte und digitale Dienstleistungen gilt das gesetzliche Gewährleistungsrecht.
 
 **8\.** Ansprechpartner: Im Falle von Rückfragen oder Problemen im Zusammenhang mit einem OTTO-Artikel können Sie sich gern an uns wenden. Bei Fragen zu einem Artikel eines anderen Verkäufers platzieren Sie Ihr Anliegen bitte über den Button "Verkäufer kontaktieren" unter [Mein Konto > Meine Bestellungen](https://www.otto.de/myaccount/orders).
 
@@ -119,6 +121,8 @@ der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (\*) Unzutreffendes bitte streichen.
 
-[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20260619_AGB_OTTO.pdf)
+![EU GWL Notice Gesetzliche Gewaehrleistung](https://i.otto.de/i/otto/EU_GWL_Notice_Gesetzliche_Gewaehrleistung)
 
- Stand: 19.06.2026
+[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20260731_OTTO_Market_AGB.pdf)
+
+ Stand: 31.07.2026

@@ -109,7 +109,7 @@ Please note that some third party sellers may be selling as private individuals 
 
 If the third party seller’s items are indicated as Fulfilled by Amazon, Amazon will manage the delivery and our customer service will handle any issue related to the order. For more information, specifically on how to resolve disputes in these particular cases, see the help page [Fulfilled by Amazon](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=G239KSGYPUFUY8TQ).
 
-If the third party seller’s items are not indicated as Fulfilled by Amazon the seller will manage the delivery of your order. For more information see the help page [Ordering from a Marketplace Seller](https://www.amazon.de/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). The seller will also handle any customer services inquiries, except if it is indicated that customer service is provided by Amazon or if your order is marked with the Amazon Prime badge.
+If the third party seller’s items are not indicated as Fulfilled by Amazon the seller will manage the delivery of your order. For more information see the help page [Ordering from a Marketplace Seller](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). The seller will also handle any customer services inquiries, except if it is indicated that customer service is provided by Amazon or if your order is marked with the Amazon Prime badge.
 
 12 OUR LIABILITY
 ----------------

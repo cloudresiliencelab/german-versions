@@ -7,7 +7,11 @@ Ihre Daten
 Datenschutzhinweise
 ---------------------------------
 
-Kopiere den aktuellen Link Zur Merkliste hinzufügen
+_stern_ auf Google hinzufügen
+
+Legen Sie _stern_ als Ihre bevorzugte Quelle fest.
+
+[stern.de als bevorzugte Quelle festlegen](https://www.google.com/preferences/source?q=stern.de "stern.de als bevorzugte Quelle festlegen") Zur Merkliste hinzufügen
 
 Dialog schließen
 

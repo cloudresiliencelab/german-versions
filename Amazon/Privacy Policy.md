@@ -158,7 +158,7 @@ Related Practices & Information
 *   [Conditions of Use and Sale](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201909000)
 *   [Help Desk](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=508510)
 *   [Most Recent Purchases](https://www.amazon.de/-/en/gp/css/order-history)
-*   [Your Profile and Community Guidelines](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=201929730)
+*   [Your Profile and Community Guidelines](https://www.amazon.de/gp/help/customer/display.html?nodeId=201929730)
 
 Examples of Information Collected
 ---------------------------------

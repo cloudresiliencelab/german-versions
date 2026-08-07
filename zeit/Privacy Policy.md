@@ -326,6 +326,16 @@ Die Daten über nicht beglichene Forderungen speichern wir über den Ablauf gese
 
 [To the top of the section](#Schutz-vor-Forderungsausfall)
 
+### Schutz vor Mehrfachbestellungen von Probe-Abos
+
+Wir speichern Daten zu Personen und Aufträgen, um Mehrfachbestellungen von Probe-Abos zu verhindern und (erneute) Vertragsabschlüsse aus wirtschaftlichen oder rechtlichen Gründen abzulehnen. Dabei markieren wir Datensätze mit Attributen.
+
+Die Verarbeitung ist zur Wahrung unserer berechtigten Interessen zulässig (Art. 6 Abs. 1 f) DSGVO). Wir bieten Probe-Abos an, damit unsere Produkte getestet werden können. Die übermäßige Inanspruchnahme dieses Angebots können wir aufgrund der geltenden Privatautonomie verhindern und so unsere unternehmerischen Interessen schützen. Zu diesem Zweck findet ein Abgleich mit früheren Bestellungen und Vorgängen statt.
+
+Wir speichern die Daten, solange es zur Prüfung und Verhinderung von missbräuchlichen Bestellungen erforderlich ist.
+
+[To the top of the section](#Schutz-vor-Mehrfachbestellungen-von-Probe-Abos)
+
 ### Gewinnspiele
 
 Wir führen regelmäßig Gewinnspiele durch und fragen dabei verschiedene Daten ab. Diese verarbeiten wir zur Prüfung der Teilnahmeberechtigung, Ermittlung und Benachrichtigung des Gewinners, Zusendung des Gewinns sowie ggf. zur Veröffentlichung einer Gewinnerliste.

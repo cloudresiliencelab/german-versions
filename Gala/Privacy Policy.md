@@ -50,7 +50,7 @@ Die Verarbeitung der Daten zu diesem Zweck erfolgt auf Grundlage unseres berecht
 
 Ein Benutzerkonto können Sie über unsere Website erstellen. Bei der Anmeldung senden wir Ihnen einmalig zur Verifizierung einen Bestätigungslink (Double Opt-In). Nach der Verifizierung können Sie sich mit Ihren Zugangsdaten über das Login-Formular in Ihr Benutzerkonto einloggen. 
 
-Nach erfolgreicher Anmeldung wird in Ihrem Browser ein Autorisierungs-Cookie, und in den Apps ein Autorisierungstoken gespeichert. Darüber wird die Zuordnung zu Ihrem Plus-Abonnement abgebildet. Cookie oder Token erlöschen spätestens dreißig Tage nach der letztmaligen Nutzung oder dann, wenn Sie sich über die Logout-Funktion aus Ihrem Benutzerkonto ausloggen. Durch diese Autorisierungstechnik verhindern wir, dass Ihre Zugangsdaten lokal auf dem Smartphone oder auf dem Computer gespeichert werden. 
+Nach erfolgreicher Anmeldung wird in Ihrem Browser ein Autorisierungs-Cookie, und in den Apps ein Autorisierungstoken gespeichert. Darüber wird die Zuordnung zu Ihrem Account abgebildet. Cookie oder Token erlöschen spätestens dreißig Tage nach der letztmaligen Nutzung oder dann, wenn Sie sich über die Logout-Funktion aus Ihrem Benutzerkonto ausloggen. Durch diese Autorisierungstechnik verhindern wir, dass Ihre Zugangsdaten lokal auf dem Smartphone oder auf dem Computer gespeichert werden. 
 
 Die zu Ihnen hinterlegten Daten können Sie unter „Mein Profil“ einsehen, korrigieren oder auch Ihr Konto löschen. Solange Sie Ihr Konto nicht löschen oder wir es kündigen, bleiben die durch Sie angegebenen Daten gespeichert.
 

@@ -2,9 +2,9 @@ Zalando
 Privacy Notice
 ========================
 
-[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/be9b18fe-f9cd-491e-8d22-0588e36ed2c6.pdf)
+[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/25e063f8-5c8d-45ea-b6e2-a705faea26c7.pdf)
 
-As at: 05/2026
+As at: 08/2026
 
 This Privacy Notice gives you an overview of how Zalando processes your data. It applies to all websites, apps and other benefits and services offered by Zalando.
 
@@ -1240,6 +1240,13 @@ In order to classify the new customer as your friend and for us to ensure that b
 *   Shipping address.
 
 **Legal basis:** The legal basis for processing your data to send the gift cards and rewards under the terms of the promotion is article 6(1) b of the GDPR. Otherwise, the data processing is based on article 6(1) f of the GDPR, according to which our legitimate interests coincide with the above purposes.
+
+**Service providers for collection services**
+
+The service providers for collection services in Spain are:
+
+*   PAIR Finance GmbH, Knesebeckstrasse 62-63, 10719 Berlin, DE
+*   Team 4 Collections and Consulting, S.L.U., Avda. de Manoteras 14-16, 28050 Madrid
 
 ### 17.13 Poland
 

@@ -109,7 +109,7 @@ Please note that some third party sellers may be selling as private individuals 
 
 If the third party seller’s items are indicated as Fulfilled by Amazon, Amazon will manage the delivery and our customer service will handle any issue related to the order. For more information, specifically on how to resolve disputes in these particular cases, see the help page [Fulfilled by Amazon](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=G239KSGYPUFUY8TQ).
 
-If the third party seller’s items are not indicated as Fulfilled by Amazon the seller will manage the delivery of your order. For more information see the help page [Ordering from a Marketplace Seller](https://www.amazon.de/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). The seller will also handle any customer services inquiries, except if it is indicated that customer service is provided by Amazon or if your order is marked with the Amazon Prime badge.
+If the third party seller’s items are not indicated as Fulfilled by Amazon the seller will manage the delivery of your order. For more information see the help page [Ordering from a Marketplace Seller](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). The seller will also handle any customer services inquiries, except if it is indicated that customer service is provided by Amazon or if your order is marked with the Amazon Prime badge.
 
 12 OUR LIABILITY
 ----------------
@@ -286,7 +286,7 @@ Please note that we sell products only in quantities which correspond to the typ
 
 You have the right to cancel your order without giving any reason within 14 days from the day on which you or a third party indicated by you (other than the carrier) receives the goods purchased (or last good, lot or piece if the order relates to goods or multiple lots or pieces delivered separately) or from the day of the conclusion of the contract, in the case of services or digital content not supplied in a tangible medium (e.g. CD or DVD).
 
-You must inform us (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) of your decision to cancel your order. You may submit your request according to the instructions and forms available on our [Returns Support Center](https://www.amazon.de/-/en/returns), by [contacting us](https://www.amazon.de/-/en/kontakt) or using [this standard cancellation form](https://www.amazon.de/-/en/cancellationform) . In case you use the return center, we will communicate to you an acknowledgement of receipt of such cancellation without undue delay (e.g. by e-mail).
+You must inform us (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) of your decision to cancel your order. You may submit your request according to the instructions and forms available on our [Returns Support Center](https://www.amazon.de/returns), by [contacting us](https://www.amazon.de/-/en/kontakt) or using [this standard cancellation form](https://www.amazon.de/-/en/cancellationform) . In case you use the return center, we will communicate to you an acknowledgement of receipt of such cancellation without undue delay (e.g. by e-mail).
 
 To meet the cancellation deadline, it is sufficient for you to send your communication on the exercise of the right to cancellation before the cancellation period has expired and return the goods via our Return Support Center within the deadline defined below.
 

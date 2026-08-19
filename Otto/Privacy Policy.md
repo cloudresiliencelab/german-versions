@@ -163,7 +163,7 @@ Insoweit Sie darum gebeten werden, für die Erteilung einer Auskunft zu den Zahl
 Otto GmbH & Co. KGaA  
 Werner-Otto-Straße 1-7  
 22179 Hamburg Deutschland  
-Telefon: 040 - 3603 3603   
+Telefon: 040 - 64 61 - 0    
 E-Mail-Adresse: impressum@info.otto.de
 
 **vertreten durch:  

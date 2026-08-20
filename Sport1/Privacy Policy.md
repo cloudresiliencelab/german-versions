@@ -7,6 +7,8 @@ AT-Internet Opt-Out
 
 **Die Webseite [SPORT1.de](http://sport1.de/) (nachfolgend „Website“) wird von der SPORT1 GmbH betrieben (nachfolgend „SPORT1″ oder „wir“). Der Schutz Ihrer personenbezogenen Daten ist uns ein zentrales Anliegen. Im Rahmen dieser Datenschutzhinweise unterrichten wir Sie über Art, Umfang und Zweck der Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten.**
 
+\-> [Datenschutzhinweise Social Media](https://www.sport1.de/news/unternehmen/2026/08/datenschutzhinweise-social-media) <-
+
 Inhalt:
 -------
 
@@ -579,7 +581,7 @@ Die Daten werden für die Dauer der Befragung sowie Auswertung für ein Jahr ges
 
 Sie haben jederzeit die Möglichkeit Ihre Einwilligung zur Verarbeitung der personenbezogenen Daten im Rahmen der Feedback-Umfrage zu widerrufen bzw. Ihre angegebenen Daten zu löschen. Die Abmeldung ist jederzeit möglich. Sie kann per E-Mail ([datenschutz@sport1.de](mailto:datenschutz@sport1.de)) an uns erfolgen. Wir weisen jedoch darauf hin, dass aufgrund der anonymen Teilnahme eine nachträgliche Korrektur einzelner Antworten nach Absenden der Umfrage sowie das Löschen einzelner Antworten nicht möglich ist.
 
-### [Social Media](https://hootbio.com/sport1news)
+### [Social Media](https://hootbio.com/sport1news) (-> [Datenschutzhinweise Social Media](https://www.sport1.de/news/unternehmen/2026/08/datenschutzhinweise-social-media) <-)
 
 Auf unserer Website finden Sie zum Teil auch sogenannte „Social Plug-Ins“. Über diese Plug-ins bieten wir Ihnen die Möglichkeit, mit den sozialen Netzwerken und anderen Nutzern zu interagieren, so dass wir unser Angebot verbessern und für Sie interessanter gestalten können und geben zugleich uns die Möglichkeit, unser Unternehmen bekannter zu machen.
 
@@ -919,7 +921,7 @@ E-Mail: [datenschutz@sport1.de](mailto:datenschutz@sport1.de)
 
 Stand: Juni 2026
 
-[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-08-19%2013%3A08%3A54%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
+[Du hast einen Fehler gefunden oder möchtest uns Feedback geben? Schreibe uns gerne direkt hier!](mailto:feedback-digitale-produkte@sport1.de?body=%0A%0A%0AURL%3A%20https%3A%2F%2Fwww.sport1.de%2Fnews%2Funternehmen%2Fdatenschutz%0AZugriffsdatum%3A%202026-08-19%2019%3A05%3A03%0A%C3%84nderungsdatum%20des%20Artikels%3A%203.4.2025%2C%2008%3A31%3A19%0A)
 
 [
 

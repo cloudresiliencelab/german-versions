@@ -15,13 +15,13 @@ Legen Sie _stern_ als Ihre bevorzugte Quelle fest.
 
 Dialog schließen
 
-Debattieren Sie mit!
+Debattieren Sie mit
 
-*   Mit _stern_\-Account aktiv an allen Debatten teilnehmen und kommentieren.
+Erstellen Sie ein Konto, um aktiv an Debatten teilzunehmen und diese zu kommentieren.
 
-Jetzt registrieren
+Kostenlos registrieren
 
-Bereits registriert? Hier anmelden
+Bereits registriert? Anmelden
 
 Sie möchten wissen, wie wir mit dem Thema Datenschutz umgehen? Prima, im Folgenden geben wir genaue Auskunft darüber, weil es uns wichtig ist, Ihnen gegenüber transparent zu sein. Daher informieren wir im Folgenden umfassend über das Was, Wie und Warum solcher Verarbeitungen. Auch alle relevanten Pflichtinformationen, die wir gemäß der DSGVO bereitstellen müssen, haben wir hier für Sie zusammengestellt.
 

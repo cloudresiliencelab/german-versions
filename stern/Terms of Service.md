@@ -15,13 +15,13 @@ Legen Sie _stern_ als Ihre bevorzugte Quelle fest.
 
 Dialog schließen
 
-Debattieren Sie mit!
+Debattieren Sie mit
 
-*   Mit _stern_\-Account aktiv an allen Debatten teilnehmen und kommentieren.
+Erstellen Sie ein Konto, um aktiv an Debatten teilzunehmen und diese zu kommentieren.
 
-Jetzt registrieren
+Kostenlos registrieren
 
-Bereits registriert? Hier anmelden
+Bereits registriert? Anmelden
 
 Hier finden Sie die Allgemeinen Geschäftsbedingungen der G+J Medien GmbH.
 

@@ -15,13 +15,13 @@ Weitere rechtliche Informationen finden Sie hier:
 
 Bezüglich FlixBus:
 
-[Allgemeinen Geschäfts- und Buchungsbedingungen (AGB)](https://www.flixbus.de/agb)     
+[Allgemeinen Geschäfts- und Buchungsbedingungen (AGB)](https://www.flixbus.de/agb)      
 [Allgemeine Beförderungsbedingungen (ABB)](https://www.flixbus.de/abb-auswahl)
 
 Bezüglich FlixTrain:
 
-[Tarifbestimmungen der FlixTrain GmbH](https://www.flixtrain.de/tarifbestimmungen)     
-[Allgemeine Geschäfts- und Beförderungsbedingungen der FlixTrain GmbH (AGB)](https://www.flixtrain.de/agb)     
+[Tarifbestimmungen der FlixTrain GmbH](https://www.flixtrain.de/tarifbestimmungen)      
+[Allgemeine Geschäfts- und Beförderungsbedingungen der FlixTrain GmbH (AGB)](https://www.flixtrain.de/agb)      
 [Datenschutzerklärung der FlixTrain GmbH für FlixTrain in Deutschland](https://www.flixtrain.de/datenschutz)
 
 Für Bewerber:
@@ -46,10 +46,10 @@ Dieser Datenschutzerklärung liegen die folgenden, an Art. 4 DSGVO orientierten,
 
 Der für die Verarbeitung Ihrer personenbezogenen Daten Verantwortliche (Art. 4 Nr. 7 DSGVO) ist:
 
-Flix SE     
-Friedenheimer Brücke 16     
-80639 München     
-Telefon: +49 (0)30 300 137 300     
+Flix SE      
+Friedenheimer Brücke 16      
+80639 München      
+Telefon: +49 (0)30 300 137 300      
 E-Mail: [service@flixbus.de](mailto:service@flixbus.de)
 
 Weitere Angaben zu unserem Unternehmen entnehmen Sie bitte dem [Impressum](https://www.flixbus.de/impressum).
@@ -60,9 +60,9 @@ Bei allen Fragen und als Ansprechpartner zum Thema Datenschutz bei uns steht Ihn
 
 Kontaktdaten:
 
-Flix SE     
-Friedenheimer Brücke 16     
-80639 München     
+Flix SE      
+Friedenheimer Brücke 16      
+80639 München      
 E-Mail: [data.protection@flixbus.com](mailto:data.protection@flixbus.com)
 
 Für allgemeine Fragen zu FlixBus wenden Sie sich bitte gerne an [service@flixbus.de](mailto:service@flixbus.de).
@@ -146,39 +146,39 @@ Nähere Informationen hierzu erteilen wir Ihnen auf Anfrage gerne. Wenden Sie si
 
 Seine Kontaktdaten sind:
 
-Flix SE     
-Friedenheimer Brücke 16     
-80639 München     
+Flix SE      
+Friedenheimer Brücke 16      
+80639 München      
 E-Mail: [it-security@flixbus.com](mailto:it-security@flixbus.com)
 
 ### 1.12 Ihre Rechte
 
 Ihre Rechte als betroffene Person bezüglich Ihrer personenbezogenen Daten können Sie uns gegenüber insbesondere unter den unter Ziffer 1.2 angegebenen Kontaktdaten jederzeit geltend machen. Den betroffenen Personen stehen folgende Rechte aus der DSGVO zur Verfügung:
 
-**Recht auf Auskunft**     
+**Recht auf Auskunft**      
 Sie können Auskunft gem. Art. 15 DSGVO über Ihre von uns verarbeiteten personenbezogenen Daten verlangen. In Ihrem Auskunftsantrag sollten Sie Ihr Anliegen präzisieren, um uns das Zusammenstellen der erforderlichen Daten zu erleichtern. Auf Verlangen stellen wir Ihnen eine Kopie der Daten, die Gegenstand der Verarbeitung sind, zur Verfügung. Bitte beachten Sie, dass Ihr Auskunftsrecht unter bestimmten Umständen gemäß den gesetzlichen Vorschriften eingeschränkt sein kann.
 
-**Recht auf Berichtigung**     
+**Recht auf Berichtigung**      
 Sollten die Sie betreffenden Angaben nicht (mehr) zutreffend sein, können Sie nach Art. 16 DSGVO eine Berichtigung verlangen. Sollten Ihre Daten unvollständig sein, können Sie eine Vervollständigung verlangen.
 
-**Recht auf Löschung**     
+**Recht auf Löschung**      
 Sie können unter den Bedingungen des Art. 17 DSGVO die Löschung Ihrer personenbezogenen Daten verlangen. Ihr Anspruch auf Löschung hängt u. a. davon ab, ob die Sie betreffenden Daten von uns zur Erfüllung unserer gesetzlichen Aufgaben noch benötigt werden.
 
-**Recht auf Einschränkung der Verarbeitung**     
+**Recht auf Einschränkung der Verarbeitung**      
 Sie haben im Rahmen der Vorgaben des Art. 18 DSGVO das Recht, eine Einschränkung der Verarbeitung der Sie betreffenden Daten zu verlangen.
 
-**Recht auf Datenübertragbarkeit**     
+**Recht auf Datenübertragbarkeit**      
 Sie haben im Rahmen der Vorgaben des Art. 20 DSGVO das Recht Ihre Daten, die Sie uns bereitgestellt haben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen.
 
-**Recht auf Widerspruch**     
+**Recht auf Widerspruch**      
 **Sie haben nach Art. 21 Abs. 1 DSGVO das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung der Sie betreffenden Daten zu widersprechen. Der werblichen Ansprache können Sie nach Art. 21 Abs. 2 DSGVO jederzeit mit Wirkung für die Zukunft widersprechen (Werbewiderspruch bei Direktwerbung).**
 
-**Recht auf Beschwerde**     
+**Recht auf Beschwerde**      
 Wenn Sie der Auffassung sind, dass wir bei der Verarbeitung Ihrer Daten datenschutzrechtliche Vorschriften nicht beachtet haben, können Sie sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten beschweren, etwa bei der für uns zuständigen Datenschutz-Aufsichtsbehörde:
 
 Bayerisches Landesamt für Datenschutzaufsicht, Promenade 18, 91522 Ansbach
 
-**Recht auf Widerruf einer Einwilligung**     
+**Recht auf Widerruf einer Einwilligung**      
 Sie können eine Einwilligung zur Verarbeitung Ihrer Daten jederzeit für die Zukunft widerrufen. Dies gilt auch für Einwilligungserklärungen, die vor der Geltung der DSGVO, also vor dem 25.05.2018, erteilt wurden.
 
 2.  Besondere Informationen
@@ -264,10 +264,10 @@ Unser Zahlungsdienstleister sind:
 
 | Zahlungsdienstleister | Zahlungsarten |
 | --- | --- |
-| Adyen N.V.     <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Niederlande     <br>Datenschutzerklärung:     <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy) | Credit Card     <br>Swish     <br>Google Pay     <br>Apple Pay     <br>iDeal     <br>Dotpay     <br>Sofort/Klarna |
-| PayU Bilgi Teknolojileri A.S.     <br>Otakcilar Cad. No: 78, Flat Ofis D-Blok 34050, Eyup - ISTANBUL     <br>Datenschutzerklärung:     <br>[https://payu.in/privacy-policy](https://payu.in/privacy-policy) | Credit Card |
-| PayPal (Europe) S.à r.l. et Cie, S.C.A.     <br>22-24 Boulevard Royal, 2449 Luxemburg     <br>Datenschutzerklärung:     <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
-| Satispay Europe S.A.    <br>53 Boulevard Royal, 2449 Luxemburg    <br>Datenschutzerklärung:    <br>[https://www.satispay.com/de-lu/datenschutz-und-cookies/datenschutzerklarung/](https://www.satispay.com/de-lu/datenschutz-und-cookies/datenschutzerklarung/) | Satispay |
+| Adyen N.V.      <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Niederlande      <br>Datenschutzerklärung:      <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy) | Credit Card      <br>Swish      <br>Google Pay      <br>Apple Pay      <br>iDeal      <br>Dotpay      <br>Sofort/Klarna |
+| PayU Bilgi Teknolojileri A.S.      <br>Otakcilar Cad. No: 78, Flat Ofis D-Blok 34050, Eyup - ISTANBUL      <br>Datenschutzerklärung:      <br>[https://payu.in/privacy-policy](https://payu.in/privacy-policy) | Credit Card |
+| PayPal (Europe) S.à r.l. et Cie, S.C.A.      <br>22-24 Boulevard Royal, 2449 Luxemburg      <br>Datenschutzerklärung:      <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
+| Satispay Europe S.A.     <br>53 Boulevard Royal, 2449 Luxemburg     <br>Datenschutzerklärung:     <br>[https://www.satispay.com/de-lu/datenschutz-und-cookies/datenschutzerklarung/](https://www.satispay.com/de-lu/datenschutz-und-cookies/datenschutzerklarung/) | Satispay |
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. b bzw. f DSGVO.
 
@@ -309,7 +309,7 @@ Für die Versendung des Newsletters setzen wir externe IT-Dienstleister im Wege 
 
 ### 2.1.7 Kundenkonto
 
-Sie haben die Möglichkeit, ein persönliches Kundenkonto bei uns einzurichten. Im passwortgeschützten Bereich des Kundenkontos können Sie Ihre Buchungen bequem verwalten und Ihre Daten für zukünftige Fahrten speichern.     
+Sie haben die Möglichkeit, ein persönliches Kundenkonto bei uns einzurichten. Im passwortgeschützten Bereich des Kundenkontos können Sie Ihre Buchungen bequem verwalten und Ihre Daten für zukünftige Fahrten speichern.      
 Um ein Kundenkonto anzulegen, werden die folgenden Pflichtangaben erhoben:
 
 *   Telefonnummer (für Indien),
@@ -336,7 +336,7 @@ Sie können das Speichern von Cookies unterbinden und bereits vorhandene Cookies
 
 Umfassende Informationen dazu, wie man dies auf einer Vielzahl von Browsern bewerkstelligen kann, erhalten Sie auf den folgenden Internetseiten: [youronlinechoices](https://www.youronlinechoices.com/de/praferenzmanagement/), [Network Advertising Initiative](https://www.networkadvertising.org/) und/oder [Digital Advertising Alliance](https://optout.aboutads.info/?c=2&lang=EN). Sie finden dort auch Angaben dazu, wie Sie Cookies von Ihrem Computer löschen können sowie allgemeine Informationen über Cookies. Wir nutzen verschiedene Arten von Cookies:
 
-Bei transienten Cookies, die auch als temporäre oder „Session-Cookies“ bezeichnet werden, handelt es sich um Cookies, die gelöscht werden, nachdem Sie unser Onlineangebot verlassen und den Browser schließen. In derartigen Cookies werden z. B. Spracheinstellungen oder der Inhalt der Bestellung gespeichert.     
+Bei transienten Cookies, die auch als temporäre oder „Session-Cookies“ bezeichnet werden, handelt es sich um Cookies, die gelöscht werden, nachdem Sie unser Onlineangebot verlassen und den Browser schließen. In derartigen Cookies werden z. B. Spracheinstellungen oder der Inhalt der Bestellung gespeichert.      
   
 Persistente oder permanente Cookies, bleiben auch nach dem Schließen des Browsers gespeichert. So können z. B. der Login-Status oder eingegebene Suchbegriffe gespeichert werden. Solche Cookies nutzen wir unter anderem für Reichweitenmessung oder Marketingzwecke. Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können diese Cookies jedoch in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
 
@@ -369,6 +369,22 @@ Im Einzelfall kann nach der Buchung eine Entscheidung über eine Stornierung auf
 ### 2.1.11 Unterkunftsanbieter
 
 Die grundlegenden Informationen Ihrer Anfrage (einschließlich Ankunftsort, Ankunfts- und Abreisedatum, Anzahl der Erwachsenen und Kinder sowie IP-Adresse) dürfen an auf der Suchseite angezeigte Unterkunftsanbieter (z. B. Booking.com) weitergeleitet werden, sofern Sie dem nicht durch Deaktivieren des Kontrollkästchens auf der Suchseite widersprochen haben. Diese Anbieter schlagen Ihnen dann in einem neuen Fenster oder Tab Ihren Suchkriterien entsprechende unverbindliche Angebote vor. Die Übermittlung dieser Daten erfolgt auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 (f) DSGVO, Ihnen ein bequemes und effizientes Buchungserlebnis zu bieten. Sie können der Übermittlung der Daten zu jeder Zeit durch Deaktivieren des Kontrollkästchens auf der Suchseite widersprechen.
+
+### 2.1.12 KI-gestützter Planungs- und Buchungsassistent
+
+Wir bieten Ihnen einen KI-gestützten Assistenten an, der Sie im Dialog bei der Suche nach passenden Verbindungen unterstützt. Auf Grundlage Ihrer Angaben schlägt er passende Verbindungen vor und überträgt die von Ihnen mitgeteilten Daten in die Buchungsmaske. Die Buchung schließen Sie anschließend selbst ab.
+
+Folgende Daten werden verarbeitet:
+
+*   Reisedaten: z. B. Strecke, Datum, Uhrzeit, Anzahl und ggf. Alter der Reisenden
+*   Personenbezogene Daten: z. B. Nachname, Vorname
+*   Kontaktdaten: z. B. E-Mail-Adresse, Telefonnummer
+*   Technische Daten: z. B. IP-Adresse, Sitzungs-ID
+*   sowie sonstige Angaben, die Sie im Chat freiwillig mitteilen
+
+Dieser Assistent ist ein KI-System. Hierauf weisen wir Sie zu Beginn der Konversation hin. Die Verarbeitung dient dazu, Ihre Anfrage zu verstehen, Sie bei der Verbindungssuche zu unterstützen und Ihre Angaben in die Buchungsmaske zu übernehmen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse besteht darin, Ihnen einen komfortablen Weg zur Planung Ihrer Reise anzubieten. Zu Ihrem Widerspruchsrecht siehe Ziffer 1.12. Die Konversationsdaten werden nur für die Dauer der Sitzung verarbeitet und spätestens 24 Stunden nach Abschluss oder Abbruch gelöscht, soweit sie nicht für die Buchung erforderlich sind.
+
+Zur Verbesserung des Dienstes werten wir die Nutzung des Assistenten nur in nicht personenbezogener, aggregierter Form aus, die keine Rückschlüsse auf Ihre Person zulässt. Ihre personenbezogenen Daten werden nicht zum Training des KI-Modells verwendet. Rechtsgrundlage für die zu diesem Zweck erforderliche Verarbeitung ist unser berechtigtes Interesse an der Verbesserung und Sicherheit unserer Dienste, Art. 6 Abs. 1 lit. f DSGVO.
 
 ### 2.2 Kundenservice
 
@@ -406,7 +422,7 @@ LinkedIn (LinkedIn Ireland Unlimited Company, Gardner House Wilton Place, Dublin
 
 TikTok (TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Irland)
 
-Wir weisen Sie darauf hin, dass dabei Ihre Daten außerhalb des Raumes der Europäischen Union verarbeitet werden können.     
+Wir weisen Sie darauf hin, dass dabei Ihre Daten außerhalb des Raumes der Europäischen Union verarbeitet werden können.      
 Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten durch uns ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht in einer effektiven Information und Kommunikation.
 
 Hier finden Sie in Bezug auf unsere Unternehmensauftritte in Social-Media-Kanälen weiterführende Informationen zum Datenschutzrecht:
@@ -429,7 +445,7 @@ Ihre personenbezogenen Daten werden nur für die Verarbeitung Ihrer Meldung und 
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. a DSGVO.
 
-Ihre Daten werden freiwillig zur Verfügung gestellt und Sie können alle Meldungen anonym vornehmen.      
+Ihre Daten werden freiwillig zur Verfügung gestellt und Sie können alle Meldungen anonym vornehmen.       
 Gemäß Art. 6 Abs. 1 lit. c DSGVO sind wir gesetzlich verpflichtet, Ihre Daten auf Aufforderung an Behörden zu übermitteln. 
 
 Unser Webportal nutzt einen externen Dienstleister (Convercent, Inc.) als Auftragsverarbeiter.

@@ -1,3 +1,11 @@
+Google
+
+Klicken Sie hier, um sich Artikel von WELT in der Google-Suche bevorzugt anzeigen zu lassen.
+
+[Mehr erfahren](https://www.welt.de/services/article6a04922b2024a1440cb99ab1/so-legen-sie-welt-als-bevorzugtes-medium-bei-google-fest.html "Link wird in einem neuen Tab geöffnet")
+
+[Jetzt aktivieren](https://www.google.com/preferences/source?q=welt.de "Link wird in einem neuen Tab geöffnet")
+
 Wir freuen uns sehr über Ihr Interesse an WELT Digital. Mit dieser Datenschutzerklärung informieren wir Sie über Art, Umfang und Zweck der von uns verarbeiteten personenbezogenen Daten und Ihre Rechte als betroffene Person.
 
 **I. Allgemeines**

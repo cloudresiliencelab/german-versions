@@ -6,7 +6,7 @@ PayPal-Datenschutzerklärung
 
 PayPal-Datenschutzerklärung
 
-Letzte Aktualisierung 6. Mai 2026
+Letzte Aktualisierung 6. Juli 2026
 
 Übersicht
 ---------

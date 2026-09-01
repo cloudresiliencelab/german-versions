@@ -80,16 +80,6 @@ Wir speichern das Testergebnis für die Dauer Ihrer Registrierung. Wenn Sie Ihr 
 
 [To the top of the section](#Hey-Studium-Interessenstest)
 
-### Customer-Matching auf Social-Media-Plattformen
-
-Zur Vermeidung der Ausspielung von Werbe- und Akquisitionsmaßnahmen an bestehende Kunden gleichen wir selektierte Kundenstammdaten (insbesondere E-Mail-Adressen) mit Nutzerdaten von Social-Media-Plattformen (z.B. Meta, LinkedIn, Google) ab. Ziel ist es, aktive Bestandskunden von Neukundenkampagnen auszuschließen (sogenannte Suppression/Exclusion Audiences), Streuverluste zu minimieren, Werbebudgets effizient einzusetzen und eine unnötige Ansprache bestehender Kundenbeziehungen zu vermeiden.
-
-Rechtsgrundlage für diese Verarbeitung ist das berechtigte Interesse (Art. 6 Abs. 1 f) DSGVO) oder die Einwilligung (Art. 6 Abs. 1 a) DSGVO) – je nachdem, welche Vorgaben uns die Social-Media-Plattformen in ihren AGB machen. Dieses liegt in der effizienten Steuerung von Marketingmaßnahmen, der Vermeidung von Fehlansprachen bestehender Kunden sowie der wirtschaftlich sinnvollen Verwendung von Werbebudgets. Die Bereitstellung der für den Abgleich verwendeten Daten erfolgt im Rahmen der bestehenden Kundenbeziehung.
-
-Es erfolgt keine separate Speicherung über den Datenabgleich hinaus. Die auf den Social-Media-Plattformen für den Abgleich hochgeladenen Daten werden dort nach Abschluss des Matching-Vorgangs gelöscht.
-
-[To the top of the section](#Customer-Matching-auf-Social-Media-Plattformen)
-
 ![](//images.ctfassets.net/9q531vlek15f/7JafnzzJcw4YxTuZSzqaUr/3b01f95cf3ae0c39ae42351e8c7c37a3/Nutzung_von_zeit.de.png)
 
 Nutzung von zeit.de
@@ -602,48 +592,6 @@ Wir haben mit der iq digital media marketing GmbH vereinbart, dass wir uns um di
 
 [To the top of the section](#iq-digital-media-marketing-GmbH)
 
-### Meta Platforms Ireland Ltd.
-
-**Verantwortlichkeiten**
-
-Wir verwenden Meta‑Business‑Tools, um die Nutzung unserer Website besser zu verstehen, Werbemaßnahmen auf Facebook und Instagram zu optimieren und um deren Erfolg zu messen. Zu den Meta‑Business‑Tools gehören unter anderem das Facebook‑Pixel, die Meta Conversions API, Social Plugins sowie Funktionen zum Anmelden oder Teilen über Meta‑Dienste.
-
-Die Meta-Business-Tools werden von der Meta Platforms Ireland Ltd., Block J, Serpentine Avenue, Dublin 4, Irland bereitgestellt. Den Datenschutzbeauftragten erreichen Sie über ein [Online-Formular](https://www.facebook.com/help/contact/540977946302970 "Online-Formular").
-
-Je nachdem, welches der Meta-Business-Tools wir verwenden und welche Datenverarbeitungen wir durchführen, werden unterschiedliche Daten von Nutzern verarbeitet. Die Verantwortlichkeit für die Verarbeitung variiert dabei. Ein Teil erfolgt in gemeinsamer Verantwortlichkeit zwischen uns und der Meta Platforms Ireland Ltd. Wir haben aus diesem Grund einen [Vertrag nach Art. 26 DSGVO](https://www.facebook.com/legal/controller_addendum "Vertrag nach Art. 26 DSGVO") geschlossen, in dem vor allem die Erfüllung von Betroffenenrechten geregelt wird. Bei der Nutzung mancher Funktionen handelt das soziale Netzwerk wiederum in unserem Auftrag und auf unsere Weisung hin. Bei diesen Konstellationen handelt es sich um eine [Auftragsverarbeitung nach Art. 28 DSGVO](https://www.facebook.com/legal/terms/dataprocessing "Auftragsverarbeitung nach Art. 28 DSGVO"), die wir besonders vertraglich geregelt haben. Manchmal findet die Verarbeitung auch in getrennter Verantwortlichkeit statt, sodass wir und die Meta Platforms Ireland Ltd. jeweils selbst die Einhaltung der DSGVO sicherstellen müssen. Wann welches Unternehmen wie verantwortlich ist, ergibt sich aus der nachfolgenden Tabelle.
-
-| Zweck | Datenkategorien | Verantwortlichkeit |
-| --- | --- | --- |
-| Abgleich mit Nutzer-IDs und Kombination mit Event-Daten | Kontaktinformationen | Auftragsverarbeitung |
-| Ausschluss von Nutzern von ausgespielten Anzeigen, Erstellung von Custom Audiences, Erstellung von Berichten über die Auswirkungen von Werbekampagnen und anderer Inhalte, Erstellung von Analysen und Erkenntnissen über Personen und deren Nutzung von Apps, Websites und Produkten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten") | Auftragsverarbeitung |
-| Ausrichtung von Werbekampagnen auf Personen, die mit uns interagieren, Erstellung von Custom Audiences | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
-| Zustellung kommerzieller und transaktionsbezogener Nachrichten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
-| Verbesserung der Anzeigenauslieferung, zur Personalisierung von Funktionen und Inhalten sowie zur Verbesserung, Bereitstellung und Sicherung der Produkte der Meta-Unternehmen | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
-| Lead-Generierung | Individuell per Lead-Formular erhobene Daten | Getrennte Verantwortlichkeit |
-
-**Verarbeitete Daten**
-
-Mit Meta-Business-Tools werden personenbezogene Daten verarbeitet. Die Meta Platforms Ireland Ltd. gibt dabei vor, wie diese Daten insgesamt bezeichnet werden. Die Unterscheidung ist relevant für das Verständnis der in der Tabelle dargestellten Verarbeitungssituationen.  
-Kontaktinformationen sind Informationen, mit denen Einzelpersonen identifiziert werden können. Dabei handelt es sich z.B. um Namen, E-Mail-Adressen und Telefonnummern. Event-Daten sind sonstige Informationen, die Nutzer durch ihre Aktionen im Internet generieren. Dazu gehören z.B. Besuche auf Websites, Installationen von Apps und Käufe in einem Online-Shop. Noch detailliertere Informationen finden sich in den [Nutzungsbedingungen für Meta-Business-Tools](https://www.facebook.com/legal/technology_terms "Nutzungsbedingungen für Meta-Business-Tools").
-
-**Custom Audiences**
-
-Ein wichtiger Bestandteil der Meta-Business-Tools sind die Custom Audiences. Das sind Zielgruppen, die auf verschiedenen Daten beruhen und die wir dazu nutzen, gezielt Angebote auszuspielen. Die Meta-Business-Tool unterscheiden zwischen mehreren Custom Audiences:
-
-*   Website Custom Audiences (Personen, die die Website besucht haben)
-*   App Activity Custom Audiences (Personen, die eine App genutzt haben)
-*   Customer List Custom Audiences (Personen, deren Kontaktdaten wir hochgeladen haben)
-*   Engagement Custom Audiences (Personen, die mit Beiträgen oder Anzeigen interagiert haben)
-*   Shopping Custom Audiences (Personen, die einen Onlineshop oder Produktkatalog angesehen haben)
-
-Die Custom Audiences sind für uns nicht unmittelbar personenbezogen. Wir können nicht sehen oder herausfinden, ob bestimmte Personen in einer Zielgruppe sind oder nicht.
-
-**Rechtsgrundlage**
-
-Die Verarbeitungen in gemeinsamer und getrennter Verantwortlichkeit erfolgen auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 a) DSGVO, § 25 Abs. 1 TDDDG). Wir holen diese Einwilligung über eine Consent-Management-Plattform ein. Die Verarbeitungen, bei denen wir die Meta Platforms Ireland Ltd. als Auftragsverarbeiter einsetzen, stützen wir auf unser berechtigtes Interesse (Art. 6 Abs. 1 f) DSGVO). Wenn wir Kampagnen über Meta-Plattformen ausspielen, soll das besonders effizient und kostensparend sein. Um aktive Abonnenten von diesen Kampagnen auszuschließen, machen wir einen Abgleich zwischen den Daten von Abonnenten und Nutzern von Meta-Diensten (Name und E-Mail-Adresse).
-
-[To the top of the section](#Meta-Platforms-Ireland-Ltd)
-
 ### Anbieter von Social-Media-Plattformen
 
 Wir unterhalten Profile bei verschiedenen Social-Media-Plattformen, um unsere Leistungen zu zeigen, mit Nutzern zu interagieren und unsere Produkte zu bewerben. Die beim Aufruf unserer Profile stattfindende Datenverarbeitung findet teilweise in gemeinsamer Verantwortlichkeit mit dem Plattformbetreiber statt. Weitere Informationen hierzu finden Sie im Kapitel Social-Media-Profile.
@@ -686,6 +634,7 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   Stripo Inc. (SaaS-Anbieter Newsletter-Templates)
 *   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot-Lösung)
 *   Centinel Analytica GmbH (SaaS-Anbieter Anti-KI-Bot-Lösung)
+*   Snap Inc. (Social-Media-Plattform)
 
 [To the top of the section](#Unternehmensliste)
 
@@ -698,6 +647,7 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 *   MapTiler AG (visuelle Darstellung von Geoinformationen)
 *   Hola Org Ltd. (Spark Videovorschau)
 *   Meta Platforms Ireland Ltd. (Social-Media-Plattform)
+*   Snap Inc. (Social-Media-Plattform)
 
 [To the top of the section](#Unternehmensliste)
 
@@ -740,10 +690,10 @@ Unseren externen Datenschutzbeauftragten erreichen Sie postalisch bei der Hertin
 
 ![](//images.ctfassets.net/9q531vlek15f/CBqAslBDfUsYuDnEKyhE2/51f1384e645dac04efaf8845828d4a47/Social-Media-Profile.png)
 
-Social-Media-Profile
---------------------
+Social-Media
+------------
 
-Wir haben Profile bei sozialen Netzwerken, um unsere Inhalte zu veröffentlichen und mit Nutzern in Kontakt zu treten. Wie Sie auch haben wir dafür einen Account angelegt und den Nutzungsbedingungen des jeweiligen sozialen Netzwerks zugestimmt.
+Wir haben Profile bei verschiedenen sozialen Netzwerken, um unsere Inhalte zu veröffentlichen und mit Nutzern in Kontakt zu treten. Wie Sie auch haben wir dafür einen Account angelegt und den Nutzungsbedingungen des jeweiligen sozialen Netzwerks zugestimmt. Daneben nutzen wir die von den sozialen Netzwerken bereitgestellten Tools für unser Online-Marketing, um Zielgruppen zu definieren und Kampagnen auszuspielen.
 
 Die Verantwortlichkeiten für die Datenverarbeitung sind von Netzwerk zu Netzwerk unterschiedlich. Es kann sich um eine eigene oder gemeinsame Verantwortlichkeit nach Art. 26 DSGVO und in manchen Fällen sogar um eine Auftragsverarbeitung nach Art. 28 DSGVO handeln. Die Bewertung ergibt sich aus den Nutzungsbedingungen und integrierten Verträgen der Plattformanbieter, die wir als Grundlage für unsere Informationen nutzen (müssen).
 
@@ -790,6 +740,48 @@ Die Datenverarbeitung findet auf Servern der Meta Platforms Ireland Limited stat
 Unser Profil bei dem sozialen Netzwerk ist über das Internet auf der ganzen Welt abrufbar, sodass ein Zugriff auch aus Ländern ohne ausreichendes Datenschutzniveau möglich ist. Die Meta Platforms Ireland Limited hat [verschiedene Maßnahmen](https://www.facebook.com/privacy/policy?annotations%5b0%5d=9.ex.2-MechanismsWeUseFor&subpage=9.subpage.3-HowDoWeSafeguard "Maßnahmen der Meta Platforms Ireland Limited") ergriffen, um ein ausreichendes Datenschutzniveau zu gewährleisten.
 
 [To the top of the section](#Meta-Profile)
+
+### Meta‑Business‑Tools
+
+**Verantwortlichkeiten**
+
+Wir verwenden Meta‑Business‑Tools, um die Nutzung unserer Website besser zu verstehen, Werbemaßnahmen auf Facebook und Instagram zu optimieren und um deren Erfolg zu messen. Zu den Meta‑Business‑Tools gehören unter anderem das Facebook‑Pixel, die Meta Conversions API, Social Plugins sowie Funktionen zum Anmelden oder Teilen über Meta‑Dienste.
+
+Die Meta-Business-Tools werden von der Meta Platforms Ireland Ltd., Block J, Serpentine Avenue, Dublin 4, Irland bereitgestellt. Den Datenschutzbeauftragten erreichen Sie über ein [Online-Formular](https://www.facebook.com/help/contact/540977946302970 "Online-Formular").
+
+Je nachdem, welches der Meta-Business-Tools wir verwenden und welche Datenverarbeitungen wir durchführen, werden unterschiedliche Daten von Nutzern verarbeitet. Die Verantwortlichkeit für die Verarbeitung variiert dabei. Ein Teil erfolgt in gemeinsamer Verantwortlichkeit zwischen uns und der Meta Platforms Ireland Ltd. Wir haben aus diesem Grund einen [Vertrag nach Art. 26 DSGVO](https://www.facebook.com/legal/controller_addendum "Vertrag nach Art. 26 DSGVO") geschlossen, in dem vor allem die Erfüllung von Betroffenenrechten geregelt wird. Bei der Nutzung mancher Funktionen handelt das soziale Netzwerk wiederum in unserem Auftrag und auf unsere Weisung hin. Bei diesen Konstellationen handelt es sich um eine [Auftragsverarbeitung nach Art. 28 DSGVO](https://www.facebook.com/legal/terms/dataprocessing "Auftragsverarbeitung nach Art. 28 DSGVO"), die wir besonders vertraglich geregelt haben. Manchmal findet die Verarbeitung auch in getrennter Verantwortlichkeit statt, sodass wir und die Meta Platforms Ireland Ltd. jeweils selbst die Einhaltung der DSGVO sicherstellen müssen. Wann welches Unternehmen wie verantwortlich ist, ergibt sich aus der nachfolgenden Tabelle.
+
+| Zweck | Datenkategorien | Verantwortlichkeit |
+| --- | --- | --- |
+| Abgleich mit Nutzer-IDs und Kombination mit Event-Daten | Kontaktinformationen | Auftragsverarbeitung |
+| Ausschluss von Nutzern von ausgespielten Anzeigen, Erstellung von Custom Audiences, Erstellung von Berichten über die Auswirkungen von Werbekampagnen und anderer Inhalte, Erstellung von Analysen und Erkenntnissen über Personen und deren Nutzung von Apps, Websites und Produkten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten") | Auftragsverarbeitung |
+| Ausrichtung von Werbekampagnen auf Personen, die mit uns interagieren, Erstellung von Custom Audiences | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Zustellung kommerzieller und transaktionsbezogener Nachrichten | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Verbesserung der Anzeigenauslieferung, zur Personalisierung von Funktionen und Inhalten sowie zur Verbesserung, Bereitstellung und Sicherung der Produkte der Meta-Unternehmen | [Event-Daten](https://www.facebook.com/legal/terms/businesstools_jointprocessing "Event-Daten"), Nutzer-IDs | Gemeinsame Verantwortlichkeit |
+| Lead-Generierung | Individuell per Lead-Formular erhobene Daten | Getrennte Verantwortlichkeit |
+
+**Verarbeitete Daten**
+
+Mit Meta-Business-Tools werden personenbezogene Daten verarbeitet. Die Meta Platforms Ireland Ltd. gibt dabei vor, wie diese Daten insgesamt bezeichnet werden. Die Unterscheidung ist relevant für das Verständnis der in der Tabelle dargestellten Verarbeitungssituationen.  
+Kontaktinformationen sind Informationen, mit denen Einzelpersonen identifiziert werden können. Dabei handelt es sich z.B. um Namen, E-Mail-Adressen und Telefonnummern. Event-Daten sind sonstige Informationen, die Nutzer durch ihre Aktionen im Internet generieren. Dazu gehören z.B. Besuche auf Websites, Installationen von Apps und Käufe in einem Online-Shop. Noch detailliertere Informationen finden sich in den [Nutzungsbedingungen für Meta-Business-Tools](https://www.facebook.com/legal/technology_terms "Nutzungsbedingungen für Meta-Business-Tools").
+
+**Custom Audiences**
+
+Ein wichtiger Bestandteil der Meta-Business-Tools sind die Custom Audiences. Das sind Zielgruppen, die auf verschiedenen Daten beruhen und die wir dazu nutzen, gezielt Angebote auszuspielen. Die Meta-Business-Tool unterscheiden zwischen mehreren Custom Audiences:
+
+*   Website Custom Audiences (Personen, die die Website besucht haben)
+*   App Activity Custom Audiences (Personen, die eine App genutzt haben)
+*   Customer List Custom Audiences (Personen, deren Kontaktdaten wir hochgeladen haben)
+*   Engagement Custom Audiences (Personen, die mit Beiträgen oder Anzeigen interagiert haben)
+*   Shopping Custom Audiences (Personen, die einen Onlineshop oder Produktkatalog angesehen haben)
+
+Die Custom Audiences sind für uns nicht unmittelbar personenbezogen. Wir können nicht sehen oder herausfinden, ob bestimmte Personen in einer Zielgruppe sind oder nicht.
+
+**Rechtsgrundlage**
+
+Die Verarbeitungen in gemeinsamer und getrennter Verantwortlichkeit erfolgen auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 a) DSGVO, § 25 Abs. 1 TDDDG). Wir holen diese Einwilligung über eine Consent-Management-Plattform ein. Die Verarbeitungen, bei denen wir die Meta Platforms Ireland Ltd. als Auftragsverarbeiter einsetzen, stützen wir auf unser berechtigtes Interesse (Art. 6 Abs. 1 f) DSGVO). Wenn wir Kampagnen über Meta-Plattformen ausspielen, soll das besonders effizient und kostensparend sein. Um aktive Abonnenten von diesen Kampagnen auszuschließen, machen wir einen Abgleich zwischen den Daten von Abonnenten und Nutzern von Meta-Diensten (Name und E-Mail-Adresse).
+
+[To the top of the section](#Meta‑Business‑Tools)
 
 ### TikTok-Profile
 
@@ -924,10 +916,31 @@ Die Social-Media-Plattform SnapChat wird angeboten und betrieben von der Snap In
 
 **Nutzung von SnapChat**
 
-Wir verwenden SnapChat und die darüber bereitgestellten Funktionen zum Teilen von Informationen und zur Kommunikation mit anderen Nutzerinnen und Nutzern. Dabei halten wir uns an die Nutzungsbedingungen, denen wir bei der Anlage unseres Profils zugestimmt haben.  
+Wir verwenden SnapChat und die darüber bereitgestellten Funktionen zum Teilen von Informationen und zur Kommunikation mit anderen Nutzerinnen und Nutzern. Dabei halten wir uns an die Nutzungsbedingungen, denen wir bei der Anlage unseres Profils zugestimmt haben.
+
 Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung. Informationen dazu finden Sie in der [Datenschutzerklärung von SnapChat](https://values.snap.com/privacy/privacy-policy?lang=de-DE "Datenschutzerklärung von SnapChat"). Sie nutzen die Social-Media-Plattform in eigener Verantwortung und müssen selbst entscheiden, ob Sie mit der Datenverarbeitung durch die Snap Inc einverstanden sind. Dies gilt insbesondere für die Nutzung der Funktionen (z.B. Reactions, Stories, Chatten, SnapMap) und die Datenverarbeitung in Ländern außerhalb der EU und des EWR.
 
 [To the top of the section](#SnapChat)
+
+### Ad-Kampagnen
+
+Wir machen Ad-Kampagnen bei verschiedenen sozialen Netzwerken und platzieren unsere Anzeigen über die uns angebotenen Funktionen (z.B. bei Meta, Google oder SnapChat). Dabei geben wir unsere Kampagnen- und Werbeinhalte beim Anbieter ein, treffen die von uns gewollten Einstellungen und legen fest, welche Nutzerkategorien die Inhalte sehen sollen und wie lange. Das soziale Netzwerk kümmert sich als eigener Verantwortlicher um die Ausspielung der Inhalte und nutzt seine Datenbasis für die Auswahl der Adressaten. Um eine noch passgenauere Ansprache zu ermöglichen, können wir dem sozialen Netzwerk zusätzliche Daten liefern (z.B. IP-Adresse, Cookie- und Gerätekennungen, Browser- und Geräteinformationen, besuchte Seiten, Registrierungen).
+
+Für die Datenverarbeitung bei Ad-Kampagnen ohne Zulieferung von Daten durch uns ist allein das jeweilige soziale Netzwerk verantwortlich. Falls wir weitere Daten zur Verfügung stellen, tun wir dies nur mit der Einwilligung der Betroffenen (Art. 6 Abs. 1 a) DSGVO, § 25 Abs. 1 TDDDG). Diese zusätzlichen Daten erhalten wir insbesondere durch das Setzen von Cookies und Pixeln oder durch anderweitige Datenverarbeitungen auf den Endgeräten der Nutzer. Welche Verarbeitungen dabei konkret stattfinden, können Sie dem Privacy Center entnehmen.
+
+Die sozialen Netzwerke bestimmen selbst über die Speicherdauer der in ihrem Verantwortungsbereich verarbeiteten Daten. In unserem Privacy Center finden Sie Angaben darüber, wie lange Informationen auf Ihrem Endgerät gespeichert werden.
+
+[To the top of the section](#Ad-Kampagnen)
+
+### Customer-Matching
+
+Zur Vermeidung der Ausspielung von Werbe- und Akquisitionsmaßnahmen an bestehende Kunden gleichen wir selektierte Kundenstammdaten (insbesondere E-Mail-Adressen) mit Nutzerdaten von Social-Media-Plattformen (z.B. Meta, LinkedIn, Google, SnapChat) ab. Ziel ist es, aktive Bestandskunden von Neukundenkampagnen auszuschließen (sogenannte Suppression/Exclusion Audiences), Streuverluste zu minimieren, Werbebudgets effizient einzusetzen und eine unnötige Ansprache bestehender Kundenbeziehungen zu vermeiden.
+
+Rechtsgrundlage für diese Verarbeitung ist die Einwilligung (Art. 6 Abs. 1 a) DSGVO) oder das berechtigte Interesse (Art. 6 Abs. 1 f) DSGVO) – je nachdem, welche Vorgaben uns die Social-Media-Plattformen in ihren AGB machen. Unser berechtigtes Intersse liegt in der effizienten Steuerung von Marketingmaßnahmen, der Vermeidung von Fehlansprachen bestehender Kunden sowie der wirtschaftlich sinnvollen Verwendung von Werbebudgets. Die Bereitstellung der für den Abgleich verwendeten Daten erfolgt im Rahmen der bestehenden Kundenbeziehung.
+
+Es erfolgt keine separate Speicherung über den Datenabgleich hinaus. Die auf den Social-Media-Plattformen für den Abgleich hochgeladenen Daten werden dort nach Abschluss des Matching-Vorgangs gelöscht.
+
+[To the top of the section](#Customer-Matching)
 
 ![](//images.ctfassets.net/9q531vlek15f/2BNe7hg0ItTEUacAi4BYbm/e245a3cdf9cacfa3ec8dd23ab2f828e6/Medienprivileg.png)
 

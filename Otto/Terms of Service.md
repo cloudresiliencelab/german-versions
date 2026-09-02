@@ -11,7 +11,7 @@ Der Kaufvertrag/ die Kaufverträge kommt/ kommen zustande zwischen Ihnen und dem
 **Widerrufsrecht  
 **Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen den Vertrag mit uns oder einem anderen Verkäufer zu widerrufen.
 
-Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.
+Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat. Beim Erwerb rein digitaler Artikel beginnt die Widerrufsfrist ab dem Tage, an dem Ihnen der digitale Artikel im Mein Konto-Bereich bereitgestellt wird.
 
 Um ihr Widerrufsrecht auszuüben, können Sie den entsprechenden OTTO-Artikel oder den Artikel eines anderen Verkäufers zur Rücksendung unter [Mein Konto](https://www.otto.de/myaccount/dashboard) anmelden. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z.B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.
 
@@ -30,7 +30,7 @@ Der jeweilige Verkäufer trägt die Kosten für die Rücksendung der Ware.
 
 Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist. Haben Sie verlangt, dass Dienstleistungen, für die die Zahlung eines Preises vorgesehen ist, vor Ablauf der Widerrufsfrist beginnen sollen, so haben Sie einen angemessenen Betrag zu zahlen, der dem Anteil der bis zum Zeitpunkt des Widerrufs bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
 
-[» Widerrufsbelehrung als PDF herunterladen / drucken](https://d.otto.de/files/20260619__Widerrufsbelehrung_OTTO.pdf)
+[» Widerrufsbelehrung als PDF herunterladen / drucken](https://d.otto.de/files/20260901__Widerrufsbelehrung_OTTO.pdf)
 
 **4\. Nichtbestehen des Widerrufsrechts:** Ein Widerrufsrecht besteht nach § 312g Abs. 2 BGB u.a. nicht bei Verträgen zur Lieferung von Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen Bedürfnisse des Verbrauchers zugeschnitten sind.
 
@@ -56,15 +56,15 @@ Das freiwillige Rückgaberecht erlischt vorzeitig bei Verträgen zur Lieferung
     
 
   
-Das freiwillige Rückgaberecht gilt darüber hinaus nicht bei gemischten Verträgen über die Lieferung von Waren und die Erbringung von Dienstleistungen hinsichtlich der im gemischten Vertrag enthaltenen Dienstleistungen.
+Das freiwillige Rückgaberecht gilt darüber hinaus nicht bei gemischten Verträgen über die Lieferung von Waren und die Erbringung von Dienstleistungen hinsichtlich der im gemischten Vertrag enthaltenen Dienstleistungen. Das freiwillige Rückgaberecht besteht auch nicht bei dem Verkauf von rein digitalen Artikeln.
 
 Bis zum Ablauf der Frist für das gesetzliche Widerrufsrecht gelten ausschließlich die dort aufgeführten gesetzlichen Bedingungen. **Das vertraglich eingeräumte freiwillige Rückgaberecht lässt Ihre gesetzlichen Rechte und Ansprüche, deren Inanspruchnahme unentgeltlich ist, unberührt. Insbesondere Ihr gesetzliches Widerrufsrecht und Ihre gesetzlichen Gewährleistungsrechte bleiben Ihnen uneingeschränkt erhalten.**
 
 **6.** Lieferungen sind grundsätzlich nur innerhalb Deutschlands möglich, ausgeschlossen die Postleitzahlen 72866 Büsingen und 27498 Helgoland. Von uns verkaufte Artikel werden überwiegend durch Hermes oder DHL angeliefert. Andere Verkäufer auf otto.de verwenden unter Umständen andere Transportunternehmen. Die Abgabe von Artikeln erfolgt nur in haushaltsüblichen Mengen.
 
-**7\. Sollten gelieferte Artikel offensichtliche Material- oder Herstellungsfehler aufweisen, wozu auch Transportschäden zählen, so reklamieren Sie bitte solche Fehler sofort gegenüber uns oder dem Mitarbeiter des Versanddienstleisters, der die Artikel anliefert. Die Versäumung dieser Rüge hat allerdings für Ihre gesetzlichen Ansprüche keine Konsequenzen.** Informationen zum gesetzlichen Gewährleistungsrecht für Waren finden Sie unter [europa.eu/youreurope/garantien](https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_de.htm).
+**7\. Sollten gelieferte Artikel offensichtliche Material- oder Herstellungsfehler aufweisen, wozu auch Transportschäden zählen, so reklamieren Sie bitte solche Fehler sofort gegenüber uns oder dem Mitarbeiter des Versanddienstleisters, der die Artikel anliefert. Die Versäumung dieser Rüge hat allerdings für Ihre gesetzlichen Ansprüche keine Konsequenzen.** **Informationen zum gesetzlichen Gewährleistungsrecht für Waren finden Sie unter** [europa.eu/youreurope/garantien](https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_de.htm).
 
-Entscheiden Sie sich bei einem mangelhaften Produkt für eine Reparatur anstelle einer Ersatzlieferung, verlängert sich die gesetzliche Gewährleistungsfrist gegenüber dem Verkäufer gemäß den gesetzlichen Bestimmungen einmalig von zwei auf drei Jahre. Auch für digitale Inhalte und digitale Dienstleistungen gilt das gesetzliche Gewährleistungsrecht.
+**Entscheiden Sie sich bei einem mangelhaften Produkt für eine Reparatur anstelle einer Ersatzlieferung, verlängert sich die gesetzliche Gewährleistungsfrist gegenüber dem Verkäufer gemäß den gesetzlichen Bestimmungen einmalig von zwei auf drei Jahre. Auch für digitale Inhalte und digitale Dienstleistungen gilt das gesetzliche Gewährleistungsrecht.**
 
 **8\.** Ansprechpartner: Im Falle von Rückfragen oder Problemen im Zusammenhang mit einem OTTO-Artikel können Sie sich gern an uns wenden. Bei Fragen zu einem Artikel eines anderen Verkäufers platzieren Sie Ihr Anliegen bitte über den Button "Verkäufer kontaktieren" unter [Mein Konto > Meine Bestellungen](https://www.otto.de/myaccount/orders).
 
@@ -123,6 +123,6 @@ der folgenden Waren (\*)/ die Erbringung der folgenden Dienstleistung (\*)
 
 ![EU GWL Notice Gesetzliche Gewaehrleistung](https://i.otto.de/i/otto/EU_GWL_Notice_Gesetzliche_Gewaehrleistung)
 
-[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20260731_OTTO_Market_AGB.pdf)
+[» AGB als PDF herunterladen / drucken](https://d.otto.de/files/20260901_OTTO_Market_AGB.pdf)
 
- Stand: 31.07.2026
+ Stand: 01.09.2026

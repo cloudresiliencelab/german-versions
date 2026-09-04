@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.7, Datum: 13.08.2026)
+(Version 13.8, Datum: 03.09.2026)
 
 
 
@@ -116,7 +116,7 @@ Die Verarbeitung personenbezogener Daten erfolgt zur Erbringung von Finanzdienst
 
 ● Die betroffene Person hat ihre Einwilligung zu der Verarbeitung der sie betreffendenpersonenbezogenen Daten für einen oder mehrere bestimmte Zwecke gegeben (Art. 6 (1) a)DSGVO).
 
-Soweit wir deine Einwilligung zur Verarbeitung deiner personenbezogenen Daten für bestimmteZwecke erhalten haben, ist die Rechtmäßigkeit dieser Verarbeitung auf Basis deiner Einwilligunggegeben. Deine Einwilligung kann jederzeit widerrufen werden, wie in Abschnitt XIII. untenbeschrieben.
+Soweit wir deine Einwilligung zur Verarbeitung deiner personenbezogenen Daten für bestimmteZwecke erhalten haben, ist die Rechtmäßigkeit dieser Verarbeitung auf Basis deiner Einwilligunggegeben. Deine Einwilligung kann jederzeit widerrufen werden, wie in Abschnitt XIV. untenbeschrieben.
 
 
 
@@ -396,27 +396,25 @@ N26 sieht oder speichert zu keinem Zeitpunkt die Informationen der für die Einz
 
 
 
-14\. Datenverarbeitung im Rahmen vonN26 Crypto Service
+14\. Datenverarbeitung im Rahmen von N26 Crypto Service
 
-Um Ihnen den N26 Krypto-Service zur Verfügung stellen zu können, damit Sie die von Bitpanda GmbH,Stella-Klein-Löw-Weg 17, 1020 Wien, Österreich ("Bitpanda") bereitgestellten Krypto-Handelsdienste innerhalbIhrer N26-App nutzen können, verarbeiten wir zur Vorbereitung des dafür mit Ihnen abzuschließendenVertrages und auf dessen Grundlage die folgenden Daten (Art. 6 (1) b) DSGVO):
-
-
-
-Daten, die erhoben werden, wenn Sie ein N26 Krypto-Service-Konto erstellen: Ihr Name, Ihre E-Mail-Adresse,Ihre Mobiltelefonnummer, Ihr Geburtsdatum, Ihr Geburtsort, Ihre Anschrift, Ihr steuerlicher Wohnsitz undSteuer-ID(s), Ihr Geschlecht, Ihre Staatsangehörigkeit, Ihre Kunden-ID;
+Um dir den N26 Crypto Service zur Verfügung stellen zu können, damit du die von Bitpanda GmbH,Stella-Klein-Löw-Weg 17, 1020 Wien, Österreich („Bitpanda“) bereitgestellten Krypto-Handelsdienste innerhalbdeiner N26-App nutzen kannst, verarbeiten wir zur Vorbereitung des dafür mit dir abzuschließenden Vertragesund auf dessen Grundlage die folgenden Daten (Art. 6 (1) b) DSGVO):
 
 
 
-Daten, die von Ihnen im Rahmen der Anmeldung zum N26 Crypto Service erhoben werden: IhreEinkommensquellen für Investitionen in Kryptowährungen, Ihr derzeitiger Beschäftigungsstatus, Ihr jährlichesNettoeinkommen, Ihr ungefähres Nettovermögen, Ihre voraussichtliche Gesamtinvestition pro Jahr, IhreKenntnisse und Erfahrungen mit Investitionen; Ihre Kenntnisse über die potenziellen Risiken undVerpflichtungen von Aktien und Derivaten.
+Daten, die erhoben werden, wenn du ein N26 Crypto Service Konto erstellst: Dein Name, deine E-Mail-Adresse,deine Mobiltelefonnummer, dein Geburtsdatum, dein Geburtsort, deine Anschrift, dein steuerlicher Wohnsitzund Steuer-ID(s), dein Geschlecht, deine Staatsangehörigkeit, deine Kunden-ID;
 
 
 
-Wir verarbeiten diese Daten auch im Auftrag von Bitpanda (Art. 28 DSGVO) und übermitteln sie an Bitpandaund an die Bitpanda Asset Management GmbH, damit Bitpanda Ihren N26 Crypto Service einrichten kann.Gemäß Ihrer Anfrage erfolgt diese Verarbeitung zum Zweck des Vertragsabschlusses gemäß Art. 6 (1) b)DSGVO.
+Daten, die von dir im Rahmen der Anmeldung zum N26 Crypto Service erhoben werden: DeineEinkommensquellen für Investitionen in Kryptowährungen, dein derzeitiger Beschäftigungsstatus, deinjährliches Nettoeinkommen, dein ungefähres Nettovermögen, deine voraussichtliche Gesamtinvestition proJahr, deine Kenntnisse und Erfahrungen mit Investitionen; deine Kenntnisse über die potenziellen Risiken undVerpflichtungen von Aktien und Derivaten.
 
 
 
-Wenn Sie Ihren N26 Crypto Service nutzen, verarbeiten wir Ihre personenbezogenen Daten im Zusammenhangmit Anlageaufträgen und Transaktionen, die Sie auf Ihrem N26 Crypto-Konto durchführen möchten(einschließlich Investitionsplänen). Wir übermitteln diesbezügliche Daten an Bitpanda, damit Bitpanda IhreAufträge und Transaktionen als separater Verantwortlicher ausführen kann. Diese Verarbeitung erfolgt aufGrundlage Ihrer Einwilligung mit Bitpanda, gemäß Art. 6 (1) b) DSGVO.
+Wir verarbeiten diese Daten auch im Auftrag von Bitpanda (Art. 28 DSGVO) und übermitteln sie an Bitpandaund an die Bitpanda Asset Management GmbH, damit Bitpanda deinen N26 Crypto Service einrichten kann.Gemäß deiner Anfrage erfolgt diese Verarbeitung zum Zweck des Vertragsabschlusses gemäß Art. 6 (1) b)DSGVO.
 
 
+
+Wenn du deinen N26 Crypto Service nutzt, verarbeiten wir deine personenbezogenen Daten imZusammenhang mit Anlageaufträgen und Transaktionen, die du auf deinem N26 Crypto-Konto durchführenmöchtest (einschließlich Investitionsplänen). Wir übermitteln diesbezügliche Daten an Bitpanda, damit Bitpandadeine Aufträge und Transaktionen als separater Verantwortlicher ausführen kann. Diese Verarbeitung erfolgtauf Grundlage deiner Vereinbarung mit Bitpanda, gemäß Art. 6 (1) b) DSGVO.
 
 N26 bleibt der Verantwortliche für die Verarbeitung deiner personenbezogenen Daten, um dir diese Funktion indeiner N26 App bereitzustellen. Wenn du dich für den N26 Crypto Service anmeldest, wird automatisch einVerrechnungskonto („Portfolio Cash Space“) erstellt. Dieses ist darauf ausgelegt, dir eine klare Trennungzwischen deinem Anlagekapital und deinen alltäglichen Ausgaben zu ermöglichen. Die Verarbeitungpersonenbezogener Daten im Zusammenhang mit dem Portfolio Cash Space erfolgt gemäß Art. 6 (1) b) DSGVOauf Grundlage der Geschäftsbedingungen, die du mit N26 abgeschlossen hast. Die in dieserDatenschutzerklärung enthaltenen Informationen zur Nutzung deines Hauptkontos gelten auch für dieseVerarbeitung personenbezogener Daten durch N26 als Verantwortlicher.
 
@@ -524,7 +522,7 @@ Wir verwenden transaktionale E-Mails, SMS, Briefe, In-App-Nachrichten und Push-N
 
 Wir nutzen auch informative Emails, In-App-Nachrichten und Push-Nachrichten, um dich über andere relevanteInformationen im Zusammenhang mit deiner Nutzung unserer Produkte und Dienstleistungen zu informieren.
 
-Bei einigen informativen E-Mails, In-App-Nachrichten und Push-Nachrichten analysieren wir deinNutzerverhalten (Sign-up Status bei N26, kürzlich getätigte Transaktionen, Abhebungen, Interaktion mitangebotenen Dienstleistungen wie z.B. Freundeseinladungen), um dir andere relevante Informationen überdiese Vorgänge per E-Mail, In-App-Nachrichten oder Push-Nachrichten zu senden. Zu diesem Zweck nutzen wirKundensegmentierung auf der Grundlage unseres berechtigten Interesses gemäß Art. 6 (1) f DSGVO, dirInformationen zu senden, die für dich relevant sind. Wir senden dir diese E-Mails, In-App-Nachrichten undPush-Nachrichten im Rahmen unserer berechtigten Interessen, um dich über Transaktionen, Abhebungen undandere relevante Informationen im Zusammenhang mit deiner Nutzung unserer App zu informieren, soweit dieBereitstellung dieser Informationen erforderlich ist, gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben. Dukannst der Verarbeitung deiner personenbezogenen Daten zum Erhalt informativer Emails, In-App Nachrichtenund Push-Nachrichten in den App-Einstellungen widersprechen. Wähle dazu in der N26 App \> Mein Konto \>Einstellungen \> App-Einstellungen \> Kommunikation und deaktiviere den entsprechenden Toggle. Für alleanderen Kommunikationswege und dein Recht, der Verarbeitung deiner Daten zur Kundensegmentierung zuwidersprechen, siehe bitte Abschnitt XIII.2 unten.
+Bei einigen informativen E-Mails, In-App-Nachrichten und Push-Nachrichten analysieren wir deinNutzerverhalten (Sign-up Status bei N26, kürzlich getätigte Transaktionen, Abhebungen, Interaktion mitangebotenen Dienstleistungen wie z.B. Freundeseinladungen), um dir andere relevante Informationen überdiese Vorgänge per E-Mail, In-App-Nachrichten oder Push-Nachrichten zu senden. Zu diesem Zweck nutzen wirKundensegmentierung auf der Grundlage unseres berechtigten Interesses gemäß Art. 6 (1) f DSGVO, dirInformationen zu senden, die für dich relevant sind. Wir senden dir diese E-Mails, In-App-Nachrichten undPush-Nachrichten im Rahmen unserer berechtigten Interessen, um dich über Transaktionen, Abhebungen undandere relevante Informationen im Zusammenhang mit deiner Nutzung unserer App zu informieren, soweit dieBereitstellung dieser Informationen erforderlich ist, gemäß Art. 6 (1) f) DSGVO. Nähere Informationen zumberechtigten Interesse als Rechtsgrundlage für die Datenverarbeitung findest du in Abschnitt II. oben. Dukannst der Verarbeitung deiner personenbezogenen Daten zum Erhalt informativer Emails, In-App Nachrichtenund Push-Nachrichten in den App-Einstellungen widersprechen. Wähle dazu in der N26 App \> Mein Konto \>Einstellungen \> App-Einstellungen \> Kommunikation und deaktiviere den entsprechenden Toggle. Für alleanderen Kommunikationswege und dein Recht, der Verarbeitung deiner Daten zur Kundensegmentierung zuwidersprechen, siehe bitte Abschnitt XIV.2 unten.
 
 
 
@@ -1112,7 +1110,7 @@ Du kannst deine Einwilligung in den Erhalt von Marketing E-Mails jederzeit wider
 
 Marketingmitteilungen findest du in einem Support Center Artikel, der hier verfügbar ist. Du kannst auch der
 
-Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationen zu deinem Rechtauf Widerruf der Einwilligung und deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIII. 2.
+Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationen zu deinem Rechtauf Widerruf der Einwilligung und deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIV. 2.
 
 
 
@@ -1132,7 +1130,7 @@ Du kannst deine Einwilligung in den Erhalt von Marketing Push-Nachrichten jederz
 
 Marketingmitteilungen findest du in einem Support Center Artikel, der hier verfügbar ist. Du kannst auch der
 
-Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationen zu deinem Rechtauf Widerruf der Einwilligung und deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIII. 2.
+Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationen zu deinem Rechtauf Widerruf der Einwilligung und deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIV. 2.
 
 
 
@@ -1146,7 +1144,7 @@ Der Verarbeitung deiner Daten, damit wir dir Marketing In-App-Nachrichten senden
 
 Einstellungen für Marketingmitteilungen findest du in einem Support Center Artikel, der hier verfügbar ist. Du
 
-kannst auch der Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationenzu deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unter Abschnitt XIII. 2.
+kannst auch der Verarbeitung deiner Daten zur Kundensegmentierung widersprechen. Weitere Informationenzu deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unter Abschnitt XIV. 2.
 
 4\. Customer Chat
 
@@ -1158,7 +1156,7 @@ Um sicherzustellen, dass wir dir nur Informationen senden, die für dich möglic
 
 hier verfügbar ist. Du kannst auch der Verarbeitung deiner Daten zur Kundensegmentierung widersprechen.
 
-Weitere Informationen zu deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIII. 2.
+Weitere Informationen zu deinem Recht auf Widerspruch gegen die Datenverarbeitung findest du unterAbschnitt XIV. 2.
 
 
 
@@ -1186,7 +1184,7 @@ Fassung der SCCs findest Du hier;
 
 ● Deine ausdrückliche Einwilligung gemäß Art. 49 (1) a) DSGVO, wenn wir Daten an Stellen außerhalb desEuropäischen Wirtschaftsraums und in Drittländer übermitteln, die kein angemessenesDatenschutzniveau im Sinne der DSGVO bieten und keiner der anderen Übertragungsmechanismenanwendbar ist.
 
-Du kannst eine ausführliche Kopie des Übermittlungsinstruments und weitere Informationen dazu erhalten,indem Du eine Anfrage an N26 an die im Abschnitt XIII. unten angegebenen Adressen schickst.
+Du kannst eine ausführliche Kopie des Übermittlungsinstruments und weitere Informationen dazu erhalten,indem Du eine Anfrage an N26 an die im Abschnitt XIV. unten angegebenen Adressen schickst.
 
 
 
@@ -1226,7 +1224,41 @@ Die Aufzeichnungen werden nur so lange gespeichert, wie dies für die oben besch
 
 
 
-XIII. Rechte
+XIII. Einsatz von Systemen künstlicher Intelligenz
+
+Wir setzen automatisierte und algorithmusbasierte Systeme, einschließlich künstlicher Intelligenz(„KI-Systeme“), ein, um die Bereitstellung unserer Dienstleistungen und die Durchführung unserer internenAbläufe zu unterstützen.
+
+
+
+Alle Verarbeitungstätigkeiten, bei denen KI-Systeme zum Einsatz kommen, erfolgen zu den in den AbschnittenIII–VIII dieser Datenschutzerklärung beschriebenen Zwecken und auf Grundlage der entsprechenden, inAbschnitt II genannten Rechtsgrundlagen. Dieser Abschnitt dient ausschließlich dazu, zusätzliche Transparenzdarüber zu schaffen, wie KI-Systeme in diesem Zusammenhang eingesetzt werden können.
+
+
+
+KI-Systeme können die Entscheidungsfindung unterstützen, einzelne Verarbeitungsschritte automatisierenoder bei Analyse-, Klassifizierungs- oder Prognoseaufgaben unterstützen.
+
+
+
+Je nach konkretem Anwendungsfall können KI-Systeme in den folgenden Bereichen eingesetzt werden:
+
+
+
+● Risikomanagement und Compliance: zur Unterstützung von Prozessen im Zusammenhang mitRisikomanagement, Betrugsprävention, Geldwäscheprävention, Bekämpfung derTerrorismusfinanzierung, Einhaltung von Sanktionen und vergleichbaren regulatorischenVerpflichtungen. Dies kann die Erkennung ungewöhnlicher Muster, die Bewertung vonRisikoindikatoren, die Priorisierung von Warnmeldungen, die Klassifizierung von Fällen sowie dieUnterstützung bei der Vorbereitung und Dokumentation von Prüfungen umfassen.
+
+● Kreditwürdigkeit und Analyse finanzieller Risiken: zur Unterstützung der Bewertung vonKreditrisiken, der finanziellen Tragfähigkeit und anderer finanzieller Risikoindikatoren imZusammenhang mit kreditbezogenen Dienstleistungen. Dies kann die Analyse relevanterFinanzinformationen, die Erkennung von Risikomustern und die Erstellung risikobezogener Ergebnisseumfassen, die den jeweiligen Bewertungsprozess unterstützen.
+
+● Kundensupport und Kommunikation: zur Unterstützung bei der Bearbeitung von Kundenanfragenund der Kundenkommunikation, einschließlich der Klassifizierung eingehender Anfragen, ihrer
+
+Weiterleitung an den geeigneten Support-Kanal, der Unterstützung von Kundenservice-Mitarbeitern,der Erstellung von Antwortvorschlägen, der Zusammenfassung von Kundeninteraktionen und derUnterstützung bei Übersetzungen.
+
+● Personalisierung, Insights und Produktoptimierung: zur Unterstützung der Analyse vonKundeninteraktionen, Transaktionsdaten und Daten zur Produktnutzung, um Insights, Empfehlungenoder personalisierte Informationen in der N26 App bereitzustellen und unsere Produkte undDienstleistungen zu verbessern. Dies kann die Unterstützung bei der Kundensegmentierung, dieErkennung relevanter Trends oder Präferenzen, die Anpassung von Informationen und Empfehlungenan Kundenbedürfnisse, die Erstellung personalisierter Inhalte und die Priorisierung von Informationenumfassen, die für Kunden relevant sein können.
+
+● Operative Verarbeitung und Automatisierung: zur Unterstützung interner operativer Prozesse,einschließlich der Verarbeitung von Dokumenten, der Extraktion und Klassifizierung vonInformationen, der Zuweisung von Aufgaben, der Automatisierung von Arbeitsabläufen, vonÜbersetzungen und der Erstellung interner Dokumentation.
+
+● Informationssicherheit: zur Unterstützung bei der Erkennung, Verhinderung und Untersuchung vonSicherheitsbedrohungen, Schwachstellen und Vorfällen, die unsere Systeme, Netzwerke oderInformationswerte betreffen. Dies kann die Erkennung ungewöhnlichen technischen Verhaltens, dieKlassifizierung sicherheitsrelevanter Informationen sowie die Unterstützung bei der Datenzuordnungund bei Überwachungsmaßnahmen umfassen.
+
+
+
+XIV. Rechte
 
 
 
@@ -1246,7 +1278,7 @@ Bezüglich deiner personenbezogenen Daten hast du die folgenden Rechte:
 
 ● das Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO, was bedeutet, dass du dieEinschränkung der Verarbeitung deiner personenbezogenen Daten anfordern kannst, wenn diesrechtlich zulässig ist und insbesondere dann, (i) wenn du die Richtigkeit deiner Daten bestreitest, (ii)wenn du die Einschränkung forderst, weil du der Ansicht bist, dass die Verarbeitung unrechtmäßig ist,oder (iii) wenn die Daten für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind, N26sie jedoch für rechtliche Schritte benötigt;
 
-● das Recht, der Verarbeitung zu widersprechen, gemäß Art. 21 DSGVO, wie in Abschnitt XIII.2. nähererläutert;
+● das Recht, der Verarbeitung zu widersprechen, gemäß Art. 21 DSGVO, wie in Abschnitt XIV.2. nähererläutert;
 
 ● das Recht auf Datenübertragbarkeit gemäß Art. 20 DSGVO, was bedeutet, dass du N26 auffordernkannst, dir deine personenbezogenen Daten in einem strukturierten, gängigen undmaschinenlesbaren Format zur Verfügung zu stellen, und du deine Daten einem anderenVerantwortlichen übermitteln kannst, wenn die Datenverarbeitung auf einer Einwilligung oder aufeinem Vertrag beruht oder mithilfe automatisierter Verfahren erfolgt;
 
@@ -1254,7 +1286,7 @@ Bezüglich deiner personenbezogenen Daten hast du die folgenden Rechte:
 
 
 
-Ungeachtet des Abschnitts XIII.2. weiter unten, kannst du:
+Ungeachtet des Abschnitts XIV.2. weiter unten, kannst du:
 
 
 
@@ -1318,7 +1350,7 @@ ausüben.
 
 
 
-XIV. Lösch- und Aufbewahrungsfristen
+XV. Lösch- und Aufbewahrungsfristen
 
 
 

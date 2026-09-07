@@ -3,7 +3,7 @@ PayPal-Nutzungsbedingungen
 
 PayPal-Nutzungsbedingungen
 
-Letzte Aktualisierung 22. Januar 2026
+Letzte Aktualisierung 7. September 2026
 
 PayPal nimmt einige Änderungen an den Bedingungen zum Käuferschutz in den Nutzungsbedingungen und im Käuferschutzprogramm vor. Diese Änderungen kommen den Verbrauchern zugute und werden im Folgenden aufgeführt. PayPal wendet diese Änderungen ab dem 15. April 2025 auf alle Neukunden an. Wenn Sie Bestandskunde sind und vor dem 15. April 2025 ein PayPal-Konto eröffnet haben, wendet PayPal diese Änderungen auch auf Sie mit sofortiger Wirkung an, auch wenn diese Änderungen erst am 17. Juli 2025 formell Bestandteil Ihres Vertrags mit PayPal werden.
 
@@ -689,6 +689,18 @@ Wenn Sie einem Käufer etwas verkauft haben und den physischen Artikel bereits v
 
 Die Bedingungen des Programms sind auf der Seite [PayPal-Verkäuferschutz](https://www.paypal.com/de/webapps/mpp/ua/seller-protection?locale.x=en_DE) fqestgelegt.
 
+Verknüpfte Pay Later-Vereinbarungen
+-----------------------------------
+
+### **Pflichten des Händlers: Verknüpfte Pay Later-Vereinbarungen**
+
+Wenn Sie ein PayPal-Geschäftskonto haben und Ihre Kunden über ein Pay Later-Angebot bezahlen, das einen mit dem Kaufvertrag zwischen Ihnen und Ihrem Kunden verknüpften Kreditvertrag (im Sinne der Verbraucherkreditrichtlinie, wie sie nach dem Recht des betreffenden Mitgliedstaats umgesetzt wurde) ("**verknüpfter Kreditvertrag**") darstellt, gelten zwischen Ihnen und PayPal folgende Bestimmungen:
+
+*   Rückbuchungen: Wird ein verknüpfter Kreditvertrag aus irgendeinem Grund zurückgebucht, insbesondere wenn er infolge eines Widerrufs durch einen Kunden, einer anfänglichen oder späteren Unwirksamkeit, Nichtigkeit oder Mangelhaftigkeit des verknüpften Kreditvertrags oder des zugehörigen Kaufvertrags oder eines anderen rechtlich erkennbaren Einspruchs des Kunden gegen einen der beiden Verträge zurückgebucht wird, haben Sie den vollen Betrag, der Ihnen im Rahmen dieses verknüpften Kreditvertrags ausgezahlt wurde, unverzüglich an PayPal zurückzuzahlen. Nach einer solchen Rückbuchung müssen Sie PayPal unverzüglich benachrichtigen, indem Sie einen API-Aufruf senden oder auf Ihr PayPal-Konto zugreifen und die betreffende Transaktion als "ungültig", "storniert" oder "zurückgegeben" markieren. Ihre Rückzahlungsverpflichtung nach diesem Absatz gilt bedingungslos und wird nicht von Ihren finanziellen Verhältnissen oder anderen Angelegenheiten berührt. Resultiert die Rückabwicklung aus der Unwirksamkeit, Nichtigkeit oder Mangelhaftigkeit des verbundenen Kaufvertrags (und nicht nur aus der Unwirksamkeit, Nichtigkeit oder Mangelhaftigkeit des verknüpften Kreditvertrags selbst) und soweit diese Unwirksamkeit, diese Nichtigkeit bzw. dieser Mangel auf Ihre schuldhafte Handlung oder Unterlassung zurückzuführen ist, haben Sie uns hinsichtlich des vollen ausgezahlten Kreditbetrags, aller anfallenden Zinsen, Gerichtskosten und angemessenen Rechts- und Anwaltskosten, die uns im Zusammenhang mit der Rückbuchung entstehen, zu entschädigen und schadlos zu halten. Die Erstattung aller angemessenen Anwaltskosten wird nicht durch anwendbare gesetzliche Anwaltsgebührenordnungen beschränkt, soweit dies gesetzlich zulässig ist, da die Kosten, die sich aus der Durchsetzung und dem Schutz von Rechten im Rahmen verknüpfter Kreditverträge ergeben, die üblichen gesetzlichen Gebührenordnungen übersteigen können. Diese Freistellungsverpflichtung gilt unabhängig davon, ob Sie allen anderen in diesem Abschnitt dargelegten Verpflichtungen nachgekommen sind.
+*   Teilrückbuchungen: Die vorstehenden Bestimmungen gelten auch im Falle einer teilweisen Rückbuchung (insbesondere einer teilweisen Warenrückgabe) oder einer Reduzierung eines verknüpften Kreditvertrags. In einem solchen Fall gelten sowohl die Rückzahlungsverpflichtung als auch die Freistellungsverpflichtung (soweit zutreffend) anteilig, berechnet im Verhältnis zum Wert des zurückgebuchten Artikels bzw. zur Höhe der Reduzierung.
+*   Zurückhaltung der Zahlung durch Kunden: Wenn ein Kunde nach geltendem Verbraucherkreditrecht berechtigt ist, die Rückzahlung des Pay Later-Kredits von uns aufgrund von Einwänden zurückzuhalten, die sich aus dem zwischen Ihnen und dem Kunden geschlossenen verknüpften Kaufvertrag ergeben (einschließlich, aber nicht beschränkt auf Einwände, die auf Nichtlieferung, mangelhafter Leistung, anderen Ihnen zurechenbaren Verstößen gegen den Kaufvertrag oder der Nichtigkeit oder Ungültigkeit des Kaufvertrags selbst beruhen), haben Sie uns in vollem Umfang für alle entsprechenden Kreditrückzahlungen, die uns dadurch entgehen, einschließlich aller anfallenden Zinsen, zu entschädigen. Sie verpflichten sich hiermit, mit uns vollumfänglich zusammenzuarbeiten und unverzüglich alle zumutbaren Schritte zu unternehmen, um die Einwände des Kunden zu lösen und uns gegebenenfalls bei der Durchsetzung unserer Ansprüche gegen den Kunden zu unterstützen.
+*   Nichteinhaltung: Wenn Sie einer in diesem Abschnitt dargelegten Verpflichtung nicht nachkommen (einschließlich, aber nicht beschränkt auf das Versäumnis, uns über eine erforderliche Rückbuchung zu informieren oder diese einzuleiten, das Versäumnis, in Bezug auf unsere Regressansprüche mit uns zusammenzuarbeiten oder die erforderliche Entschädigung zu leisten), verpflichten Sie sich, uns alle Kosten und Ausgaben zu erstatten, die uns als direkte Folge eines solchen Versäumnisses entstehen, einschließlich aller angemessener Rechts- und Anwaltskosten. Eine solche Erstattung wird nicht durch anwendbare gesetzliche Anwaltsgebührenordnungen beschränkt, soweit dies gesetzlich zulässig ist, da die Kosten, die sich aus der Durchsetzung und dem Schutz von Rechten im Rahmen verknüpfter Kreditverträge ergeben, die üblichen gesetzlichen Gebührenordnungen übersteigen können. Dieses Recht auf Rückerstattung gilt unbeschadet anderer Rechte oder Rechtsbehelfe, die uns gemäß diesen Nutzungsbedingungen und/oder geltendem Recht zur Verfügung stehen, und gilt zusätzlich zu und nicht anstelle anderer Verpflichtungen, die Sie gemäß diesem Abschnitt schulden.
+
 PayPal Advertising-Programm
 ---------------------------
 
@@ -1029,7 +1041,7 @@ So setzen Sie sich mit uns in Verbindung:
 *   Über unsere [Kontaktseite](https://www.paypal.com/de/cgi-bin/helpscr?cmd=_help&t=escalateTab&locale.x=en_GB). Hier können Sie:
     *   Auf „Schreiben Sie uns“ klicken, um uns online zu kontaktieren.
     *   Auf „Rufen Sie uns an“ klicken, um uns telefonisch zu kontaktieren.
-*   Senden Sie eine E-Mail an [\[email protected\]](https://www.paypal.com/cdn-cgi/l/email-protection).
+*   Senden Sie eine E-Mail an [enquiry@paypal.com](mailto:enquiry@paypal.com).
 
 Senden Sie uns rechtliche Mitteilungen im Zusammenhang mit diesen Nutzungsbedingungen auf dem Postweg.
 

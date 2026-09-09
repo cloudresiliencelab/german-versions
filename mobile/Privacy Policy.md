@@ -3,8 +3,8 @@ mobile.de Datenschutzerklärung
 
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.
 
-Diese Datenschutzerklärung ist gültig ab 11.3.2025
---------------------------------------------------
+Diese Datenschutzerklärung ist gültig ab 9.9.2026
+-------------------------------------------------
 
 ### 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 

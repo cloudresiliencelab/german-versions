@@ -203,13 +203,15 @@ Bereich 5. Vertragsbeziehungen aufklappen
 
 Registrierung und "Angemeldet bleiben"-Funktion
 
-Wir bieten Ihnen auf unseren Webseiten unter Angabe Ihrer E-Mail-Adresse und Vergabe eines Passworts die Möglichkeit, ein kostenloses Nutzerkonto anzulegen, das die Grundlage für die Nutzung einiger registrierungspflichtiger Dienste (digitale Zeitzugangsverträge, Abos, Bestellen von Produkten, Teilnahme an wiederkehrenden Quizzen mit Zugriff auf eine persönliche Spielestatistik und Beteiligung an unseren Debattenformaten) darstellt und Ihnen die Inanspruchnahme von personalisierten Leistungen ermöglicht. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Weitere Angaben wie Name, Adresse, Geburtsdatum und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO).
+Wir bieten Ihnen auf unseren Webseiten unter Angabe Ihrer E-Mail-Adresse und Vergabe eines Passworts die Möglichkeit, ein kostenloses Nutzerkonto anzulegen, das die Grundlage für die Nutzung einiger registrierungspflichtiger Dienste (digitale Zeitzugangsverträge, Abos, Bestellen von Produkten, Teilnahme an wiederkehrenden Quizzen mit Zugriff auf eine persönliche Spielestatistik und Beteiligung an unseren Debattenformaten) darstellt und Ihnen die Inanspruchnahme von personalisierten Leistungen ermöglicht. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Weitere Angaben wie Name, Adresse, Geburtsdatum und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Wenn Sie ein bereits bestehendes Nutzerkonto für die Inanspruchnahme eines B2B-Abos verwenden, werden Ihre Daten aus diesem Nutzerkonto (Ihre E-Mail-Adresse und ggf. Ihr Name, Vorname) mit dem Einladenden geteilt und in der Nutzerverwaltung angezeigt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 Wenn Sie sich als Nutzer:in für ein Konto registrieren, verarbeiten wir in Zusammenhang mit Ihrer Anmeldung Ihre IP-Adresse, sowie Datum und Uhrzeit der Registrierung. Sie erhalten anschließend eine E-Mail von uns mit einem Link, über den Sie das Anlegen Ihres Nutzerkontos bestätigen können. Die Datenverarbeitung ist für die Registrierung erforderlich und beruht auf Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 In Zusammenhang mit Ihrer Registrierung haben Sie die Möglichkeit, der Verknüpfung der Informationen aus Ihrem Nutzerkonto mit den im Rahmen des Basistracking erhobenen Daten zuzustimmen. Die Datenverknüpfung auf Grundlage der Profilidentifizierung ermöglicht es uns, das Verhaltens- und Leseprofil des geräteübergreifend verwendeten Login-Nutzerkontos ganzheitlich zu erfassen und die Nutzungserfahrung über alle Endgeräte hinweg zu verbinden. Die Rechtsgrundlage ist Ihre Einwilligung, Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
 Sie haben die Möglichkeit, die »Angemeldet bleiben«-Funktion zu nutzen, damit Sie sich nach Beendigung einer Sitzung und bei einem späteren Wiederbesuch nicht von Neuem anmelden müssen. Dafür setzen wir ein Cookie im Browser Ihres Endgerätes, das für eine automatische Wiedererkennung bei einem neuen Besuch sorgt. Die Rechtsgrundlagen sind Ihre freiwillig erklärte Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG.
+
+Für die Nutzerverwaltung setzen wir den Dienstleister »frisbii« (Frisbii Media GmbH, Königstr. 4, 87435 Kempten, Deutschland, [www.frisbii.com](http://www.frisbii.com/) ) ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt.
 
 Leserpriorisierung
 
@@ -225,7 +227,7 @@ Ihre Daten werden für die Dauer der bestehenden Registrierung gespeichert und e
 
 Abschluss von Abonnementverträgen
 
-Für digitale Verträge wie Abonnementverträge (periodisch aktualisiertes Angebot digitaler Angebote), Zeitzugangsverträge (z.B. Wochen- bzw. Monats-, Mehrmonats- oder Jahrespass für vorhandene kostenpflichtige Inhalte) und für die Buchung der Werbefrei-lesen-Option benötigen Sie ein Nutzerkonto. Über die Datenverarbeitungen in Zusammenhang mit Ihrer Registrierung hinaus (siehe Ziffer 5.A.), verarbeiten wir für den Abschluss und die Verwaltung (digitaler) Verträge, sowie die in unseren spezifischen Lieferbedingungen jeweils genannten Zwecke Ihren vollständigen Namen, die Anrede, den Titel, ggf. die Information über ein bestehendes Print-Abonnement, Zahlungsdaten, Ihre Anschrift (Privat- oder Firmenadresse), sowie das Nutzungsland (Abodaten). Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Weitere Angaben wie Namensergänzung und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Sie haben ggf. die Möglichkeit, über die Funktion "Artikel verschenken" bis zu 10 Artikel, die von dieser Möglichkeit umfasst sind, an Interessierte kostenlosweiterzugeben. Wir verarbeiten die Anzahl der verschenkten Artikel, um die Begrenzung der Anzahl zu gewährleisten. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.
+Für digitale Verträge wie Abonnementverträge (periodisch aktualisiertes Angebot digitaler Angebote), Zeitzugangsverträge (z.B. Wochen- bzw. Monats-, Mehrmonats- oder Jahrespass für vorhandene kostenpflichtige Inhalte), das manager+academy-Abo und für die Buchung der Werbefrei-lesen-Option benötigen Sie ein Nutzerkonto. Über die Datenverarbeitungen in Zusammenhang mit Ihrer Registrierung hinaus (siehe Ziffer 5.A.), verarbeiten wir für den Abschluss und die Verwaltung (digitaler) Verträge, sowie die in unseren spezifischen Lieferbedingungen jeweils genannten Zwecke Ihren vollständigen Namen, die Anrede, den Titel, ggf. die Information über ein bestehendes Print-Abonnement, Zahlungsdaten, Ihre Anschrift (Privat- oder Firmenadresse), sowie das Nutzungsland (Abodaten). Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Weitere Angaben wie Namensergänzung und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Sie haben ggf. die Möglichkeit, über die Funktion "Artikel verschenken" bis zu 10 Artikel, die von dieser Möglichkeit umfasst sind, an Interessierte kostenlos weiterzugeben. Wir verarbeiten die Anzahl der verschenkten Artikel, um die Begrenzung der Anzahl zu gewährleisten. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 Abonnementspezifische Verarbeitungen beim Probe-Abo
 
@@ -233,7 +235,7 @@ Bei Abschluss eines Probe-Abonnements behalten wir uns vor, die Voraussetzungen 
 
 Abonnementspezifische Verarbeitungen beim U-30-Abo
 
-Für die erforderlichenfalls gebotene Altersverifikation im Rahmen des U-30-Abos verarbeiten wir eine 7-stellige Prüfnummer Ihres Personalausweises oder Reisepasses, aus dem sich Ihr Geburtsdatum und damit der Nachweis für das Bestehen des Rabattgrundes aufgrund Ihres Alters ergibt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Für die Altersverifikation setzen wir den Dienstleister »frisbii« \[Frisbii Media GmbH, Königstr. 4, 87435 Kempten, Deutschland, [www.frisbii.com](http://www.frisbii.com/) \] ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt. Die Prüfnummer wird nach Überprüfung Ihres Alters direkt gelöscht. In unserem Kundenverwaltungssystem wird lediglich das Ablaufdatum des Rabattgrundes hinterlegt, um Ihr Abo mit Ihrem 30. Geburtstag ohne Rabattierung fortzuführen.
+Für die erforderlichenfalls gebotene Altersverifikation im Rahmen des U-30-Abos verarbeiten wir eine 7-stellige Prüfnummer Ihres Personalausweises oder Reisepasses, aus dem sich Ihr Geburtsdatum und damit der Nachweis für das Bestehen des Rabattgrundes aufgrund Ihres Alters ergibt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Die Prüfnummer wird nach Überprüfung Ihres Alters direkt gelöscht. In unserem Kundenverwaltungssystem wird lediglich das Ablaufdatum des Rabattgrundes hinterlegt, um Ihr Abo mit Ihrem 30. Geburtstag ohne Rabattierung fortzuführen.
 
 Abonnementspezifische Verarbeitungen beim Duo-Abo
 
@@ -256,6 +258,20 @@ Prämien
 In bestimmten Fällen wie etwa der Werbung neuer Leser:innen können wir unseren Abonnent:innen mit Prämien danken. Wir verarbeiten für diese Zwecke Ihre Kontaktdaten (bei Geldprämien auch Ihre Bankdaten), um Ihnen die jeweilige Zugabe zukommen zu lassen. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Wir arbeiten für diese Zwecke mit unterschiedlichen Dienstleistern zusammen, die bspw. für den Versand beauftragt werden. Wir haben mit den Dienstleistern Verträge geschlossen, welche die Einhaltung der datenschutzrechtlichen Vorgaben gewährleisten.
 
 Wir speichern Ihre Daten stets bis zum Ende Ihres digitalen Vertrages. Bitte beachten Sie, dass eine Löschung Ihres Nutzerkontos nicht mit einer Kündigung Ihres digitalen Vertrages gleichzusetzen ist. Ggf. ist die Aufbewahrung Ihrer Daten erforderlich, um Voraussetzungen zur Begründung eines digitalen Vertrages zu überprüfen, bspw. zur Verhinderung einer wiederholten Bestellung zum Bezugsstart vergünstigter digitaler oder Prämien-Abonnements. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Darüber hinaus sind wir nach Art. 6 Abs. 1 S. 1 lit. c DSGVO verpflichtet, Daten aufgrund von steuer-, handelsrechtlichen Aufbewahrungspflichten vorzuhalten. Sofern die Daten nicht gelöscht werden, weil Ihre Aufbewahrung für andere vertraglich oder gesetzlich zulässige Zwecke erforderlich ist, wird ihre Verarbeitung eingeschränkt (besonders zugriffsgeschützte Archivierung) und mit angemessenen technischen und organisatorischen Maßnahmen nur den für Ihre Vorhaltung Berechtigten verfügbar gemacht.
+
+Für alle Verarbeitungen unter diesem Buchstaben B (Buchung, Zahlungsabwicklung, Rechnungstellung und Verwaltung Ihres Abonnements) setzen wir die folgenden Dienstleister ein, mit denen wir zu diesen Zwecken Auftragsverarbeitungsverträge geschlossen haben, die gewährleisten, dass die Datenverarbeitungen im Einklang mit den gesetzlichen Anforderungen erfolgen:
+
+**Frisbii Media GmbH**
+
+Königstr. 4, 87435 Kempten, Deutschland
+
+[www.frisbii.com](http://www.frisbii.com/) 
+
+**Darwin CX GmbH**
+
+Von-der-Tann-Str. 2, 80539 München
+
+[www.darwin.cx](https://www.spiegel.de/www.darwin.cx) 
 
 **C) Eigene personalisierte redaktionelle Inhalts- und Artikelempfehlungen**
 
@@ -323,10 +339,6 @@ babelforce GmbH
 Friedrichstr. 68  
 10405 Berlin, Deutschland  
 [https://www.babelforce.net](https://www.babelforce.net/) 
-
-novomind AG  
-Bramfelder Chaussee 45  
-22177 Hamburg, Deutschland
 
 Wir haben mit den Anbietern Verträge nach Art. 28 Abs. 3, sowie ggf. Art. 44 ff. DSGVO geschlossen, um die Einhaltung Ihrer Rechte zu gewährleisten.
 
@@ -502,19 +514,27 @@ Bereich 7. Eigene Produkt- und Vertriebsentwicklung aufklappen
 
 Im Rahmen unserer eigenen Produkt- und Vertriebsentwicklung arbeiten wir kontinuierlich daran, unsere Angebote zu verbessern und an die Bedürfnisse unserer Leser:innen anzupassen. Dies umfasst die Analyse von Marktrends, die Optimierung unserer Produktpalette sowie die Weiterentwicklung unserer Vertriebsstrategien. Ziel ist es, Ihnen als Leser:in stets hochwertige und bedarfsgerechte Lösungen anbieten zu können. Um diesen Prozess zu unterstützen, können bestimmte Daten zu festgelegten Zwecken, wie im Folgenden beschrieben, verwendet werden.
 
+Optimierung von Monetarisierungsstrategien auf Basis aggregierter Verhaltensdaten in Echtzeit
+
+Wir möchten unsere Produkte und Angebote bestmöglich monetarisieren. Für diesen Zweck sammeln und aggregieren wir Nutzungs- und Ereignisdaten, deren Auswertung uns die Ausspielung eines für Sie bestmöglichen Angebots erlaubt. Wir verarbeiten für diesen Zweck insbesondere eine Nutzer-, Login- oder Besuchskennung, Daten zur Nutzung der Registrierungs- und Bezahlschranke, technische Geräte- und Browserdaten, der Seitenaufruf- und Besuchsverlauf, Angaben zur Interaktion mit Inhalten, die Anzahl der Besuche, Informationen zur Besucherart sowie den »Engagement Score« (siehe Ziffer 7 der Datenschutzerklärung). Die Rechtsgrundlage ist Ihre freiwillig erklärte Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO. Wir setzen den Dienstleister »Mather« (Mather Economics LLC, 1215 Hightower Trail, Building A, Suite 100, Atlanta, Georgia, USA) ein. Mather verarbeitet die Daten in unserem Auftrag. Mit Mather Economics haben wir einen Auftragsverarbeitungsvertrag gem. Art. 28 Abs. 3 DSGVO geschlossen. Soweit im Rahmen der Verarbeitung personenbezogene Daten in Drittländer übermittelt werden, stellen wir sicher, dass die Voraussetzungen der Art. 44 ff. DSGVO eingehalten werden.
+
 On-site-Kampagnen und Testings
 
-Um unsere Webseite und Dienste kontinuierlich zu verbessern, spielen wir regelmäßig On-site-Kampagnen (darunter A/B/n-Tests, Verlagsangebote und ähnliche Verfahren zur Produktentwicklung) aus. Dabei werden u.a. verschiedene Versionen unserer Webseite oder einzelner Elemente einer begrenzten Anzahl von Nutzer:innen gezeigt, um deren Wirksamkeit zu testen. Die Testergebnisse dienen der Optimierung der Benutzerfreundlichkeit unserer Webseite, der Verbesserung unserer Produkte und Dienstleistungen und der Analyse des Nutzerverhaltens zur Weiterentwicklung unseres nutzungsorientierten Angebots. Wir verarbeiten für diese Zwecke die unter dem Stichwort "Adobe-basiertes Werbe-Tracking" zusammengefassten Daten (vgl. Ziffer 3. dieser Datenschutzerklärung) erhobenen Daten, ggf. auch unter Einsatz von KI-Systemen in Einzelfall. Die Verarbeitung erfolgt auf Grundlage Ihrer freiwillig erklärten Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO.
+Um unsere Webseite und Dienste kontinuierlich zu verbessern, spielen wir regelmäßig On-site-Kampagnen (darunter A/B/n-Tests, Verlagsangebote und ähnliche Verfahren zur Produktentwicklung) aus. Dabei werden u.a. verschiedene Versionen unserer Webseite oder einzelner Elemente einer begrenzten Anzahl von Nutzer:innen gezeigt, um deren Wirksamkeit zu testen. Die Testergebnisse dienen der Optimierung der Benutzerfreundlichkeit unserer Webseite, der Verbesserung unserer Produkte und Dienstleistungen und der Analyse des Nutzerverhaltens zur Weiterentwicklung unseres nutzungsorientierten Angebots. Wir verarbeiten für diese Zwecke die unter dem Stichwort "Adobe-basiertes Werbe-Tracking" zusammengefassten Daten (vgl. Ziffer 3. dieser Datenschutzerklärung) und sofern Sie eine Bestellung vorgenommen haben auch die Bestell-ID, ggf. auch unter Einsatz von KI-Systemen in Einzelfall. Die Verarbeitung erfolgt auf Grundlage Ihrer freiwillig erklärten Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
 Profilbezogene Ansprache
 
 Auf Grundlage des Basistracking verarbeiten wir Ihre personenbezogenen Daten für allgemeine Auswertungen hinsichtlich unserer Produkte und Angebote. Wir nutzen die Analysen, um Sie gemäß ermittelter, ggf. ergänzt durch von Ihnen bereitgestellte, Profilinformationen einem Segment zuordnen und anschließend mit On-Site-Kampagnen und Personalisierungen ansprechen zu können.
 
-Diese Eigenschaften für die profilbezogene Ansprache ergeben sich aus dem Kontext (dem Inhalt der angezeigten Webseite), aus ihren Merkmalen der Profilbildung, sowie aus Analysen und Tests der Produktentwicklung. Die daraus resultierende profilbezogene Ansprache basiert im Wesentlichen auf dem »Engagement Score« (Kennzeichnung Ihres Profils mit einer berechneten Nutzungsintensität unserer Angebote), dem »Propensity Score« (Kennzeichnung Ihres Profils mit einer berechneten Abo-Abschlusswahrscheinlichkeit) und dem »Churn Score« (Kennzeichnung Ihres Profils mit einer berechneten Kündigungswahrscheinlichkeit)). Diese Zuordnungen helfen uns bei der Bildung von Segmenten zur Ausspielung von passgenauen und relevanten On-Site-Kampagnen inkl. geeigneter Umfragen und bei der Ausspielung von E-Mail-Kampagnen. Die Rechtsgrundlage ist unser berechtigtes Interesse, Art. 6 Abs. 1 S. 1 lit. f DSGVO. Sie können der Verarbeitung jederzeit widersprechen.  
-  
+Diese Eigenschaften für die profilbezogene Ansprache ergeben sich aus dem Kontext (dem Inhalt der angezeigten Webseite), aus ihren Merkmalen der Profilbildung, sowie aus Analysen und Tests der Produktentwicklung. Die daraus resultierende profilbezogene Ansprache basiert im Wesentlichen auf dem »Engagement Score« (Kennzeichnung Ihres Profils mit einer berechneten Nutzungsintensität unserer Angebote), dem »Propensity Score« (Kennzeichnung Ihres Profils mit einer berechneten Abo-Abschlusswahrscheinlichkeit) und dem »Churn Score« (Kennzeichnung Ihres Profils mit einer berechneten Kündigungswahrscheinlichkeit)). Diese Zuordnungen helfen uns bei der Bildung von Segmenten zur Ausspielung von passgenauen und relevanten On-Site-Kampagnen inkl. geeigneter Umfragen und bei der Ausspielung von E-Mail-Kampagnen. Die Rechtsgrundlage ist unser berechtigtes Interesse, Art. 6 Abs. 1 S. 1 lit. f DSGVO. Sie können der Verarbeitung jederzeit widersprechen.
+
 Nutzer:innen Feedback
 
 Sofern Sie unser Kontaktformular (Ziffer 4. G) nutzen verarbeiten wir den Grund Ihrer Kontaktaufnahme, Channel und/oder Feature, den Betreff und Ihre inhaltliche Nachricht, um herauszufinden, wie zufrieden unsere Nutzer:innen mit unserem Produkt sind und damit in unserem berechtigten Interesse, Ihr Feedback direkt aufzunehmen und ggf. umzusetzen. Die Verarbeitung ist für die Produkt- und Vertriebsentwicklung erforderlich. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Wir setzen für die Erfassung der Informationen aus dem Kontaktformular den unter 4. G. bereits benannten Anbieter Zendesk ein, weshalb die systemseitigen Datenverarbeitungen durch Zendesk auch auf die Verarbeitung Ihres Feedbacks zu dem hier genannten Zweck erforderlich ist. Für die Darüber hinaus verwenden wir für die Strukturierung und Zusammenfassung der Feedbacks über das Formular die KI-Anwendung »Langdock« (Langdock GmbH, Fehrbelliner Straße 4, 10119 Berlin, [https://www.langdock.com/de](https://www.langdock.com/de) ) ein, mit denen wir einen Auftragsverarbeitungsvertrag gem. Art. 28 Abs. 3 DSGVO geschlossen haben.
+
+Nutzung der Funktion "Bevorzugte Quelle" bei Google
+
+Um die Auffindbarkeit und Sichtbarkeit unserer Inhalte in der Google-Suche zu erhöhen, bieten wir Ihnen die Möglichkeit, Inhalte des SPIEGEL bei Google als "bevorzugte Quelle" (preferred sources) auszuwählen. Dafür werden folgende Daten an Google übermittelt: Abruf-, Navigations- und Referrerdaten, Kampagnendaten, Verbindungs-, Geräte- und Browserdaten, Regionale Informationen, Nutzungs-, Ereignis- und Leistungsdaten, sowie pseudonyme Vorgangskennungen. Die Rechtsgrundlage ist Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG. Google verarbeitet diese Daten als eigenständig Verantwortlicher. Weitere Informationen finden Sie in den [Datenschutzhinweisen](https://policies.google.com/privacy?hl=de)  von Google.
 
 * * *
 
@@ -570,6 +590,14 @@ Moderation von Beiträgen auf Facebook, Instagram und Youtube
 Wir verarbeiten im Rahmen der Moderation von Kommentaren und Beiträgen auf Facebook, Instagram und YouTube stichprobenartig Ihre Nutzer-ID, den jeweiligen Kommentartext, sowie Datum und Uhrzeit des Kommentars. Die Verarbeitung dient der Überprüfung der Einhaltung vorgegebener Regeln zu Kommentarinhalten, dem Umgang mit anderen Nutzer:innen, dem Auffinden möglicherweise strafrechtlich relevanter Aussagen und somit auch dem Schutz unserer Rechte. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Wir setzen für diese Zwecke das Tool »Conversario« (ferret go GmbH, Brauerstraße 14, 16321 Bernau bei Berlin) auf Grundlage eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 DSGVO ein.
 
 Die Daten werden umgehend gelöscht, soweit keine Verstöße festgestellt werden. Andernfalls werden sie an die entsprechenden Stellen (an die Strafverfolgungsbehörden oder den jeweiligen Social-Media-Anbieter) weitergegeben.
+
+Bereitstellung einer Link-in-Bio-Landingpage
+
+Wir verarbeiten im Rahmen der Bereitstellung einer sogenannten "Link-in-Bio"-Seite personenbezogene Daten. Eine Link-in-Bio-Seite ist eine von uns in sozialen Netzwerken (z. B. im Profil/der Bio) verlinkte Landingpage, über die Nutzer:innen zu den in Posts/Reels erwähnten Inhalten weitergeleitet werden.
+
+Bei jedem Aufruf dieser Link-in-Bio-Seite werden technisch bedingt Ihre anonymisierte IP-Adresse, Browser- und Geräteinformationen, Nutzungs- und Protokolldaten (z. B. aufgerufene Seiten/URLs, Datum und Uhrzeit des Aufrufs sowie Dauer des Besuchs), technische Kennungen (z. B. Gerätekennungen), Diagnose- und Fehlerdaten sowie allgemeine Standortinformationen, beschränkt auf Stadt und Land, verarbeitet. Die Verarbeitung dient der Auslieferung und Darstellung der Link-in-Bio-Seite, der Gewährleistung von Sicherheit und Stabilität und der Fehleranalyse. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+
+Wir setzen für diese Zwecke den Dienst "Link in Bio" des Anbieters Mavrck LLC dba Later, 60 State Street, 8th Floor, Suite 810, Boston, MA 02109, USA auf Grundlage eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 DSGVO ein. Da Later personenbezogene Daten auch in den USA verarbeitet bzw. dorthin übermittelt, findet eine Drittlandsübermittlung statt. Diese erfolgt auf Grundlage der Standardvertragsklauseln der EU‑Kommission (Art. 46 Abs. 2 lit. c DSGVO). Personenbezogene Daten werden gelöscht, sobald sie für die genannten Zwecke nicht mehr erforderlich sind.
 
 * * *
 
@@ -703,4 +731,4 @@ Für Fragen zur Verarbeitung Ihrer Nutzungsdaten oder zur Wahrnehmung Ihrer Rech
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 7.2
+Versionsnummer: 7.3

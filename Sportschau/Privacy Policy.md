@@ -3,7 +3,7 @@
 Datenschutzbestimmungen
 =======================
 
-Stand: 06.09.2024 • 15:48 Uhr
+Stand: 18.09.2026 • 15:02 Uhr
 
 **Wir freuen uns über Ihr Interesse an unserem Angebot. sportschau.de nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich beim Besuch unserer Webseiten sicher fühlen. Hier erfahren Sie, welche Daten wir erheben und wie wir sie verwenden. Rechtsgrundlage sind die EU Datenschutzgrundverordnung (DSGVO) und begleitende Landes- und Bundesgesetze zum Datenschutz.**
 
@@ -77,10 +77,10 @@ Auf dieser Webseite werden Informationen über die Videonutzung auch mit einem V
 Nutzung des ARD-Kontos
 ----------------------
 
-Sportschau.de nutzt für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Für die Verarbeitung der dort hinterlegten Daten bleibt Sportschau mitverantwortlich. Informationen zu diesem übergreifenden ARD-Konto erhalten Sie auf der verlinkten [Datenschutzerklärung](https://accounts.ard.de/datenschutz?hasBackButton=true "Datenschutzerklärung ARD Login") und den [Nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true "Nutzungsbedingungen ARD Login").  
+Sportschau.de nutzt für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Für die Verarbeitung der dort hinterlegten Daten bleibt Sportschau mitverantwortlich. Informationen zu diesem übergreifenden ARD-Konto erhalten Sie auf der verlinkten [Datenschutzerklärung](https://accounts.ard-zdf.de/datenschutz "Datenschutzerklärung ARD Login") und den [Nutzungsbedingungen](https://accounts.ard-zdf.de/nutzungsbedingungen "Nutzungsbedingungen ARD Login").  
   
-Datenschutzerklärung ARD Konto: [https://accounts.ard.de/datenschutz?hasBackButton=true](https://accounts.ard.de/datenschutz?hasBackButton=true "Datenschutzerklärung ARD Login")  
-Nutzungsbedingungen ARD Konto: [https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true](https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true "Nutzungsbedingungen ARD Login")
+Datenschutzerklärung ARD-Konto: [https://accounts.ard.de/datenschutz?hasBackButton=true](https://accounts.ard-zdf.de/datenschutz "Datenschutzerklärung ARD Login")  
+Nutzungsbedingungen ARD-Konto: [https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true](https://accounts.ard-zdf.de/nutzungsbedingungen "Nutzungsbedingungen ARD Login")
 
 Content Delivery Network (CDN)
 ------------------------------
@@ -104,7 +104,7 @@ Wir nutzen die Dienste Firebase Crashlytics und Cloud Firestore sowie Chromecast
 Kalenderfunktion \- Termine
 ---------------------------
 
-Für die Kalenderfunktionen setzt Sportschau.de den Dienst calovo ein. Der Dienst wird von der Firma calovo GmbH, Grafenberger Allee 32, 40237 Düsseldorf angeboten, um Ihnen die Möglichkeit zu geben, einzelne oder mehrere Termine der Bundesliga (Männer und Frauen), 2. Bundesliga, EM/WM, Tour de France und weiterer Wettbewerbe in den Kalender Ihres Smartphones oder Tablets oder PCs aufzunehmen. Mit dem Dienstleister besteht eine vertragliche Vereinbarung, dass keine personenbezogenen Daten verarbeitet werden. Sofern Sie den entsprechenden Dienst abonnieren möchten, gelangen Sie auf eine Internetseite des Dienstleisters, auf der Sie das Abonnement durchführen können. Die Datenschutzbestimmungen und weitere Informationen zu diesem Dienstleister können Sie unter calovo.de/datenschutz abrufen. Auf den Seiten von cavalo.de werden Cookies eingesetzt, deren Verwendung Sie zuvor genehmigen können.
+Für die Kalenderfunktionen setzt Sportschau.de den Dienst calovo ein. Der Dienst wird von der Firma calovo GmbH, Grafenberger Allee 32, 40237 Düsseldorf angeboten, um Ihnen die Möglichkeit zu geben, einzelne oder mehrere Termine der Bundesliga (Männer und Frauen), 2. Bundesliga, EM/WM, Tour de France und weiterer Wettbewerbe in den Kalender Ihres Smartphones oder Tablets oder PCs aufzunehmen. Mit dem Dienstleister besteht eine vertragliche Vereinbarung, dass keine personenbezogenen Daten verarbeitet werden. Sofern Sie den entsprechenden Dienst abonnieren möchten, gelangen Sie auf eine Internetseite des Dienstleisters, auf der Sie das Abonnement durchführen können. Die Datenschutzbestimmungen und weitere Informationen zu diesem Dienstleister können Sie unter [calovo.de/datenschutz](https://calovo.de/datenschutz "Kalenderfunktion Datenschutz") abrufen. Auf den Seiten von cavalo.de werden Cookies eingesetzt, deren Verwendung Sie zuvor genehmigen können.
 
 Automotive Apps – Apps für die Entertainment-Center in Automobilen
 ------------------------------------------------------------------
@@ -114,11 +114,11 @@ Mit beiden Storebetreibern sind explizite Vereinbarungen getroffen, dass sie per
 
 Weitere Informationen finden Sie in den Datenschutzerklärungen der beteiligten Firmen und der Automobilhersteller:
 
-APP-Store-Betreiber: Faurecia Aptoide Automotive, S.A., Rua Soeiro Pereira Gomes, Lisboa, Portugal
+APP-Store-Betreiber: [Faurecia Aptoide Automotive](https://faurecia-aptoide.com/ "Website Faurecia Aptoide"), S.A., Rua Soeiro Pereira Gomes, Lisboa, Portugal
 
 Datenschutzerklärung: https://faurecia-aptoide.com/privacy-policy/
 
-APP-Store-Betreiber: Harman International Industries, Incorporated (“Harman”), 400 Atlantic Street, Stamford, Connecticut 06901, US
+APP-Store-Betreiber: [Harman International Industries](https://www.harman.com/ "Website Harman Ignite"), Incorporated (“Harman”), 400 Atlantic Street, Stamford, Connecticut 06901, US
 
 Datenschutzerklärung: https://www.harman.com/privacy-policy
 
@@ -152,7 +152,7 @@ Die im Rahmen der Kommentare abgegeben Daten, werden bis zum Ablauf der Veröffe
 Datenschutz bei Blogs und Apps von sportschau.de
 ------------------------------------------------
 
-sportschau.de betreibt verschiedene themenbezogene Blogs und APPs. Hier gilt auch diese Datenschutzerklärung, wenn keine eigene Erklärung verlinkt ist. Um einen sicheren und komfortabelen Betrieb zu gewährleisten, nimmt sportschau.de bei diesen Angeboten sogenannte Hostingleistungen in Anspruch. Die Apps werden in den Stores der Betriebssystemhersteller der mobilen Geräte zum Download vorgehalten. Hier gelten die Nutzungsbedingungen und die Datenschutzerklärungen der Stores.
+sportschau.de betreibt verschiedene themenbezogene Blogs und APPs. Hier gilt auch diese Datenschutzerklärung, wenn keine eigene Erklärung verlinkt ist. Um einen sicheren und komfortablen Betrieb zu gewährleisten, nimmt sportschau.de bei diesen Angeboten sogenannte Hostingleistungen in Anspruch. Die Apps werden in den Stores der Betriebssystemhersteller der mobilen Geräte zum Download vorgehalten. Hier gelten die Nutzungsbedingungen und die Datenschutzerklärungen der Stores.
 
 Sicherheitshinweis
 ------------------

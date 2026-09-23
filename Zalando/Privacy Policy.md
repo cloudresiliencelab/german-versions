@@ -2,9 +2,9 @@ Zalando
 Privacy Notice
 ========================
 
-[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/25e063f8-5c8d-45ea-b6e2-a705faea26c7.pdf)
+[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/2c5f76ce-8bfe-4c24-901b-34030dd1b5c1.pdf)
 
-As at: 08/2026
+As at: 09/2026
 
 This Privacy Notice gives you an overview of how Zalando processes your data. It applies to all websites, apps and other benefits and services offered by Zalando.
 
@@ -128,7 +128,7 @@ Payment details include:
 
 The payment details also include other information directly connected to payment processing and credit checking. This applies, for example, to information which external payment service providers use for identification such as your PayPal ID (if you are paying with PayPal).
 
-Zalando Payments GmbH, Mühlenstrasse 13-19, 10243 Berlin, Germany, is responsible for executing payments, managing claims and performing credit checks in connection with all private purchases from the Zalando shop and other fee-based services from Zalando Group.
+Zalando Payments GmbH, Hedwig-Wachenheim-Straße 7, 10243 Berlin, Germany, is responsible for executing payments, managing claims and performing credit checks in connection with all private purchases from the Zalando shop and other fee-based services from Zalando Group.
 
 Creditworthiness data consists of our own records on your previous payment behaviour towards all Zalando Group companies and of score values which we collect on you from external credit agencies. Creditworthiness data makes statements on a person’s estimated capacity and willingness to pay. This helps companies to avoid defaults which result when customers cannot fulfil their payment obligations or cannot do so in good time. Taking creditworthiness data when choosing payment methods is also intended to prevent us offering our customers payment methods which cannot be offered to them and our customers entering into payment obligations which they cannot fulfil themselves. Creditworthiness data is normally collected from so-called credit agencies. The credit agencies then use various information to calculate a so-called score value which takes into account existing payment obligations and any previous defaults. Score values are statistically justified estimates of the future risk of a person defaulting and are represented as a numerical value, such as a percentage. We only have limited influence on processing of data by external credit agencies (e.g. if we provide credit agencies information on payment obligations which have not been fulfilled).
 

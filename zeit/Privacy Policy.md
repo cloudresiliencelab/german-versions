@@ -635,6 +635,7 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot-Lösung)
 *   Centinel Analytica GmbH (SaaS-Anbieter Anti-KI-Bot-Lösung)
 *   Snap Inc. (Social-Media-Plattform)
+*   OpenAI Ireland Ltd. (LLM)
 
 [To the top of the section](#Unternehmensliste)
 

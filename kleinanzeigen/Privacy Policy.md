@@ -4,7 +4,7 @@ Datenschutzerklärung
   
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.  
   
-**Diese Datenschutzerklärung gilt ab dem 10.07.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-10072026/) können Sie die vorherige Datenschutzerklärung einsehen.**
+**Diese Datenschutzerklärung gilt ab dem 26.09.2026. [Hier](https://themen.kleinanzeigen.de/datenschutzerklarung-alt-bis-zum-26092026/) können Sie die vorherige Datenschutzerklärung einsehen.**
 
 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 --------------------------------------------------------------------
@@ -213,7 +213,7 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
     
 *   Automatische Filterung und ggf. manuelle Überprüfung der über unsere Nachrichten-Tools versendeten Nachrichten, inklusive der automatisiert erstellten Nachrichten, und, der von Nutzern eingestellten Anzeigen oder sonstigen Inhalten zum Schutz vor betrügerischen oder verdächtigen Aktivitäten oder bei Verstößen gegen unsere [Nutzungsbedingungen](https://themen.kleinanzeigen.de/nutzungsbedingungen/) oder unsere anderen Grundsätze, wie in Bezug auf versendete Nachrichten unten unter [Überprüfung der über unsere Nachrichten-Tools](https://themen.kleinanzeigen.de/datenschutzerklaerung/#weiteres) näher erläutert.
     
-*   Zurverfügungstellung von Funktionen für Nutzer, die die Abwicklung von Transaktionen einfacher oder komfortabler machen wie z.B. das automatische Vorausfüllen der von Ihnen zuvor angegebenen Lieferadresse für weitere Transaktionen sowie das Vorausfüllen von Namen Telefonnummer und zusätzliche für Inserierende interessante Angaben (z.B. ungefähres Netto-Einkommen oder Anzahl der im Haushalt lebenden Personen) für weitere Anfragen über die Funktion „Nachricht schreiben“ und, das automatisierte Erstellen von Antwortvorschlägen im Rahmen des Nachrichten-Tools.
+*   Zurverfügungstellung von Funktionen für Nutzer, die die Abwicklung von Transaktionen einfacher oder komfortabler machen wie z.B. das automatische Vorausfüllen der von Ihnen zuvor angegebenen Lieferadresse für weitere Transaktionen sowie das Vorausfüllen von Namen Telefonnummer und zusätzliche für Inserierende interessante Angaben (z.B. ungefähres Netto-Einkommen oder Anzahl der im Haushalt lebenden Personen) für weitere Anfragen über die Funktion „Nachricht schreiben“ und, das automatisierte Erstellen von Antwortvorschlägen sowie Antworten im Rahmen des Nachrichten-Tools.
     
 *   Bereitstellung zusätzlicher Funktionen für Nutzer, wie beispielsweise die Möglichkeit, anderen Nutzern zu folgen, deren Anzeigen Sie interessieren. Ihre Follower sind nur für Sie sichtbar und Sie können sich jederzeit aus Ihrer Follower-Liste entfernen.
     
@@ -450,7 +450,7 @@ Dies dient der Wahrung berechtigter Interessen wie dem Schutz vor betrügerische
 **Einsatz von KI**  
 Wir setzen Künstliche Intelligenz (KI) auf verantwortungsvolle Art und Weise zu verschiedenen Zwecken ein.
 
-Die Verwendung von KI erfolgt z.B., um Ihnen bestimmte Services wie etwa unseren KI-Antwortassistenten (z.B. mithilfe von KI erstellte Antwortvorschläge für gewerbliche Verkäufer oder unser “KI-Assistent für diese Wohnung” (bei der Immobiliensuche) oder “Kai”) oder das automatisierte Erstellen von Anzeigen anbieten zu können und sie z.B. durch Analysen stetig zu verbessern sowie um Ihnen einen besseren Kundenservice anbieten zu können. Zudem verwenden wir KI, um z.B. unsere Mitarbeiter zu entlasten und sie bei der Bearbeitung von Meldungen rechtswidriger Inhalte zu unterstützen. Nur offensichtlich unbegründete Meldungen können von uns automatisiert bearbeitet werden. Allerdings haben Sie auch in diesen Fällen die Möglichkeit, eine endgültige Entscheidung durch einen unserer Mitarbeiter herbeizuführen.
+Die Verwendung von KI erfolgt z.B., um Ihnen bestimmte Services wie etwa unseren KI-Antwortassistenten (z.B. mithilfe von KI erstellte Antwortvorschläge bzw. Antworten für gewerbliche Verkäufer oder unser “KI-Assistent für diese Wohnung” (bei der Immobiliensuche) oder “Kai”) oder das automatisierte Erstellen von Anzeigen anbieten zu können und sie z.B. durch Analysen stetig zu verbessern sowie um Ihnen einen besseren Kundenservice anbieten zu können. Zudem verwenden wir KI, um z.B. unsere Mitarbeiter zu entlasten und sie bei der Bearbeitung von Meldungen rechtswidriger Inhalte zu unterstützen. Nur offensichtlich unbegründete Meldungen können von uns automatisiert bearbeitet werden. Allerdings haben Sie auch in diesen Fällen die Möglichkeit, eine endgültige Entscheidung durch einen unserer Mitarbeiter herbeizuführen.
 
 Die Verwendung KI-gestützter Tools und Produkte kann in manchen Fällen mit der Verarbeitung personenbezogener Daten einhergehen. Bitte geben Sie bei der Interaktion mit unseren KI-Lösungen nur solche personenbezogenen Daten an, die für Ihr Anliegen erforderlich sind. Davon unabhängig haben wir strikte organisatorische und technische Maßnahmen getroffen, um Ihre personenbezogenen Daten zu schützen und den Personenbezug beim Einsatz von KI zu minimieren.
 

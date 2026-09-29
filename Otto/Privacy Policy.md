@@ -343,7 +343,7 @@ Beispiel 2: Wenn Sie z.B. eine Frage zu einer Bestellung haben, können Sie jede
 **3.1.9.2 Weitere Drittpartner  
 **Daneben setzt OTTO weitere Drittpartner ein, die für die Leistungserbringung und Erreichung verschiedener Zwecke erforderlich sind. An diese Drittpartner übermittelt OTTO personenbezogene Daten, sofern dies im Rahmen der Leistungserbringung notwendig ist (zum Beispiel an Affiliatenetzwerke zu reinen Abrechnungszwecken oder an Hersteller / Lieferanten im Falle von Produktrückrufen) bzw. sofern dies rechtlich zulässig ist (z.B. bei Vorliegen eines berechtigtes Interesse an der Weitergabe haben oder auf Grund einer rechtlichen Verpflichtung zur Weitergabe).
 
-Beispiel 1: Dies ist bei der Zusammenarbeit mit Affiliatenetzwerken zu reinen Abrechnungszwecken der Fall. Hier arbeiten wir neben dem OTTO-eigenen Private Network mit dem externen Affiliatenetzwerk AWIN (AWIN AG, Otto-Ostrowski-Straße 1A, 10249, Berlin) zusammen. AWIN und wir agieren hier abgesehen von der Erhebung der erforderlichen Identifier als eigenständig Verantwortliche. Die gemeinsame Verantwortlichkeit bezieht sich zum Teil auf die erhobenen Identifier und die damit zusammenhängenden Datenverarbeitung. Die Erhebung dieser Informationen ist technisch erforderlich, um eine Abrechnung zu ermöglichen (vgl. 4.1; § 25 Absatz 2 Nummer 2 TDDDG).
+Beispiel 1: Dies ist bei der Zusammenarbeit mit Affiliatenetzwerken zu reinen Abrechnungszwecken der Fall. Hier arbeiten wir neben dem OTTO-eigenen Private Network mit dem externen Affiliatenetzwerk AWIN (AWIN AG, Otto-Ostrowski-Straße 1A, 10249, Berlin) sowie Google (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland) zusammen. AWIN sowie Google und wir agieren hier abgesehen von der Erhebung der erforderlichen Identifier als eigenständig Verantwortliche. Die gemeinsame Verantwortlichkeit bezieht sich zum Teil auf die erhobenen Identifier und die damit zusammenhängenden Datenverarbeitung. Die Erhebung dieser Informationen ist technisch erforderlich, um eine Abrechnung zu ermöglichen (vgl. 4.1; § 25 Absatz 2 Nummer 2 TDDDG).
 
 Beispiel 2: An Hersteller / Lieferanten übermitteln wir im Falle von Produktrückrufen, sofern dies rechtlich zulässig oder erforderlich, Daten von Kunden, die entsprechende Produkte erworben haben. 
 
@@ -610,4 +610,4 @@ Eine Auskunft über Ihre bei uns gespeicherten persönlichen Daten können Sie z
 
   
   
-**Stand**: 14.09.2026
+**Stand**: 28.09.2026

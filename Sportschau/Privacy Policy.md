@@ -3,7 +3,7 @@
 Datenschutzbestimmungen
 =======================
 
-Stand: 18.09.2026 • 15:02 Uhr
+Stand: 30.09.2026 • 09:37 Uhr
 
 **Wir freuen uns über Ihr Interesse an unserem Angebot. sportschau.de nimmt den Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich beim Besuch unserer Webseiten sicher fühlen. Hier erfahren Sie, welche Daten wir erheben und wie wir sie verwenden. Rechtsgrundlage sind die EU Datenschutzgrundverordnung (DSGVO) und begleitende Landes- und Bundesgesetze zum Datenschutz.**
 
@@ -51,7 +51,8 @@ Verwendung von Zählpixeln
 
 Zu statistischen Zwecken werden sogenannte Zählpixel eingesetzt, die Daten in anonymisierter Form zu Optimierungs- und Studienzwecken sammeln und speichern. Aus diesen Daten werden nicht personenbezogene Auswertungen zur Nutzung unserer Internetangebote erstellt. Die Daten werden nicht dazu genutzt, den Besucher unserer Website persönlich zu identifizieren und sie werden nicht mit anderen Daten zusammengeführt. Diese Messung wurde unter Beachtung des Datenschutzes entwickelt. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
-*   **Analyse zur Optimierung durch Piano Analytics**
+Analyse zur Optimierung durch Piano Analytics
+---------------------------------------------
 
 Um dieses Online-Angebot ständig optimieren zu können, setzt sportschau.de zusätzlich eine Lösung der Firma Piano Analytics [https://piano.io/](https://piano.io/de/ "Piano Analytics") zur Analyse der Verwendung der Website ein. Auf diese Weise kann die Nutzung der Website ausgewertet und wertvolle Informationen über die Bedürfnisse unserer Nutzer gesammelt werden. Durch die Ergebnisse dieser Analysen kann die Nutzerfreundlichkeit unserer Seite und die Qualität unserer Angebote erhöht werden.  
   
@@ -59,7 +60,8 @@ Um diese Analysen durchführen zu können, sammelt Piano Analytics aggregierte u
 
 Darüber hinaus werden bei diesem Verfahren sogenannte "permanente Cookies" eingesetzt. Diese Cookies werden in Form von Textdateien im Browser des Besuchers der Website gespeichert. Sie ermöglichen die Erkennung eines Nutzers bei einem wiederholten Besuch der Website.
 
-*   **Nielsen Messverfahren**
+Nielsen Messverfahren
+---------------------
 
 Das von sportschau.de beauftragte Marktforschungsunternehmen Nielsen GmbH [www.nielsen.com](http://www.nielsen.com/de/de.html "Nielsen") setzt zum Zweck der Webanalyse auf dieser Website Cookies ein - erkennbar als imrworldwide.com oder IMRID. Die Webanalyse dient dazu, statistische Analysen über die Nutzung dieser Webseite und deren Angebot zu erstellen. Diese Informationen helfen dabei, die Webseite und die damit verbundenen Services im Hinblick auf Effektivität und Effizienz zu verbessern. Im Rahmen der Webanalyse und dem damit verbundenen Cookie werden nur anonyme Nutzerinformationen erfasst.
 
@@ -77,10 +79,13 @@ Auf dieser Webseite werden Informationen über die Videonutzung auch mit einem V
 Nutzung des ARD-Kontos
 ----------------------
 
-Sportschau.de nutzt für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Für die Verarbeitung der dort hinterlegten Daten bleibt Sportschau mitverantwortlich. Informationen zu diesem übergreifenden ARD-Konto erhalten Sie auf der verlinkten [Datenschutzerklärung](https://accounts.ard-zdf.de/datenschutz "Datenschutzerklärung ARD Login") und den [Nutzungsbedingungen](https://accounts.ard-zdf.de/nutzungsbedingungen "Nutzungsbedingungen ARD Login").  
-  
-Datenschutzerklärung ARD-Konto: [https://accounts.ard.de/datenschutz?hasBackButton=true](https://accounts.ard-zdf.de/datenschutz "Datenschutzerklärung ARD Login")  
-Nutzungsbedingungen ARD-Konto: [https://accounts.ard.de/nutzungsbedingungen?hasBackButton=true](https://accounts.ard-zdf.de/nutzungsbedingungen "Nutzungsbedingungen ARD Login")
+Sportschau.de nutzt für die Personalisierung des eigenen Angebots das von ARD Online betriebene gemeinsame ARD-Konto. Über das ARD-Konto können Sie unsere Angebote mit Komfortfunktionen personalisiert und geräteübergreifend nutzen. Für die Verarbeitung der dort hinterlegten Daten bleiben wir mitverantwortlich.
+
+Wenn Sie unsere Angebote gemeinsam mit dem ARD-Konto nutzen, verarbeiten wir von Ihnen bestimmte Nutzungsvorgänge (z.B. welche Inhalte Sie wann geschaut haben) zusammen mit einer zufällig generierten ID. Diese User-ID ist technisch erforderlich und ohne Hinzunahme weiterer Informationen nicht auf Sie zurückführbar. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
+
+Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten. Die Verarbeitung der User-ID findet in diesem Fall nur statt, wenn Sie unsere Angebote mit einem angemeldeten ARD-Konto nutzen. Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. e) DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
+
+Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der [Datenschutzerklärung](https://accounts.ard-zdf.de/datenschutz "Datenschutzerklärung ARD Login") und den [Nutzungsbedingungen](https://accounts.ard-zdf.de/nutzungsbedingungen "Nutzungsbedingungen ARD Login") zum ARD-Konto.
 
 Content Delivery Network (CDN)
 ------------------------------

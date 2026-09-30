@@ -11,7 +11,7 @@ Verantwortlich für die Datenverarbeitung ist grundsätzlich die Zeitverlag Gerd
 
 **Kundenservice DIE ZEIT**
 
-Bei Fragen zu Ihrem Abo, Kündigungen und bei einem Widerruf wenden Sie sich bitte ausschließlich an unseren [Kundenservice](https://abo.zeit.de/ "Kundenservice DIE ZEIT").
+Bei Fragen zu Ihrem Abo, Kündigungen und bei einem Widerruf wenden Sie sich bitte ausschließlich an unseren [Kundenservice](https://abo.zeit.de/service/ "Kundenservice").
 
 [als PDF speichern](https://datenschutz.zeit.de/zon/1.6/zon.pdf)
 

@@ -317,6 +317,8 @@ Die vollständigen Datenschutzhinweise der OTTO Payments können Sie [hier](http
 
 Rechtsgrundlage der Verarbeitung der Daten ist Artikel 6 Absatz 1 Buchstabe b) DSGVO.
 
+Soweit Sie zusätzliche Leistungen unmittelbar bei einem unserer logistischen Partnerunternehmen beauftragen, kommt hinsichtlich dieser Leistungen eine eigenständige Vertragsbeziehung zwischen Ihnen und dem jeweiligen Partnerunternehmen zustande. Zur Abwicklung dieser Leistungen können OTTO und das Partnerunternehmen die hierfür erforderlichen Daten austauschen.Die Verarbeitung Ihrer personenbezogenen Daten erfolgt auf Grundlage von Artikel 6 Absatz 1 Buchstabe b), f) DSGVO (Vertrag oder berechtigtes Interesse, wobei das berechtigte Interesse in der koordinierten Durchführung der Lieferung und der beauftragten Zusatzleistungen sowie in der Bearbeitung von Kundenanfragen und Reklamationen liegt).
+
 **3.1.5. Datenverarbeitung im Direktversand  
 **Im Rahmen Ihrer Bestellung auf otto.de ist es möglich, dass Sie einen Artikel erwerben, der nicht durch die Otto GmbH & Co. KGaA selbst versendet wird, sondern im Rahmen eines Direktversandes durch Lieferanten oder Kommissionspartner der Otto GmbH & Co. KGaA. Eine Datenübermittlung an entsprechende Versandpartner erfolgt auf Basis eines Auftragsverarbeitungsverhältnisses ausschließlich zum Zweck der Lieferung des gekauften Artikels.
 
@@ -610,4 +612,4 @@ Eine Auskunft über Ihre bei uns gespeicherten persönlichen Daten können Sie z
 
   
   
-**Stand**: 28.09.2026
+**Stand**: 30.09.2026

@@ -346,6 +346,16 @@ Die anonymisierten Umfrageergebnisse speichern wir zeitlich unbegrenzt. Nicht-an
 
 [To the top of the section](#Umfragen)
 
+### Abo-Verwaltung und Marketing
+
+Wir verarbeiten die personenbezogenen Daten unserer Abonnenten zur Anbahnung und Erfüllung von Abo-Verträgen sowie zur Durchführung verschiedener Marketingmaßnahmen. Dabei werden neben Personenstammdaten auch Angaben zu bezogenen Leistungen und zurückliegenden Vertragsverhältnisse verarbeitet. Bei unseren Marketingmaßnahmen berücksichtigen wir, was die Adressaten interessieren könnte und unterbreiten passende Angebote.
+
+Die Verarbeitung im Rahmen der Abo-Verwaltung erfolgt zur Abwicklung eines Vertragsverhältnisses und ist daher gesetzlich gestattet (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung Ihrer Daten ist erforderlich, damit wir unsere Leistungen erbringen können. Marketingmaßnahmen stützen wir entweder auf unser berechtigtes Unternehmensinteresse (Art. 6 Abs. 1 f) DSGVO), die UWG-Ausnahme (§ 7 Abs. 3 UWG) oder eine von Ihnen erteilte Einwilligung (Art. 6 Abs. 1 a) DSGVO).
+
+Die zur Verwaltung Ihres Abos gespeicherten Daten unterliegen verschiedenen gesetzlichen Aufbewahrungspflichten. Wir speichern alle Vertragsdaten für einen Zeitraum von mindestens 8 Jahren. Bei einem Widerspruch zur werblichen Nutzung werden die Daten eingeschränkt verarbeitet und mit einer Werbesperre versehen.
+
+[To the top of the section](#Abo-Verwaltung-und-Marketing)
+
 ![](//images.ctfassets.net/9q531vlek15f/10FECIvuTzyRAy52yyUrRy/97c3fd77550edb3178eaccac5b8e3d9c/Events_und_Seminare.png)
 
 Events und Seminare
@@ -475,7 +485,7 @@ Die Unternehmen der ZEIT Verlagsgruppe nutzen eine gemeinsame Infrastruktur und 
 
 [To the top of the section](#Allgemeine-Infrastruktur-und-Kommunikation)
 
-### Data Warehouse
+### Data Warehouse Abodaten
 
 Zur Analyse, Kontrolle und Optimierung von Werbemaßnahmen verarbeiten wir personenbezogene Daten in einem von den Produktivsystemen getrennten Data Warehouse. Hier werden die Informationen pseudonymisiert und für spezielle Fragestellungen, zur Gruppen-Profilbildung sowie zur Erstellung von Engagement und Propensity Scores genutzt.
 
@@ -483,9 +493,9 @@ Sofern wir für die Erhebung der Daten eine Einwilligung eingeholt haben, erfolg
 
 Die Dauer der pseudonymisierten Speicherung im Data Warehouse richtet sich nach der Speicherdauer in unseren anderen Systemen (z.B. Newsletter-Datenbank, Veranstaltungsdatenbank). Wenn die Daten dort gelöscht werden können, sind sie nicht mehr über das Data Warehouse abrufbar.
 
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Sprachen GmbH, academics GmbH, Studio ZX GmbH, ZEIT Akademie GmbH
+**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Sprachen GmbH, ZEIT Akademie GmbH
 
-[To the top of the section](#Data-Warehouse)
+[To the top of the section](#Data-Warehouse-Abodaten)
 
 ### Kundenbetreuung und Servicecenter
 
@@ -498,18 +508,6 @@ Die Speicherung Ihrer personenbezogenen Daten richtet sich bei einem bestehenden
 **Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Akademie GmbH
 
 [To the top of the section](#Kundenbetreuung-und-Servicecenter)
-
-### Abo-Verwaltung und Marketing
-
-Wir verarbeiten die personenbezogenen Daten unserer Abonnenten zur Anbahnung und Erfüllung von Abo-Verträgen sowie zur Durchführung verschiedener Marketingmaßnahmen. Dabei werden neben Personenstammdaten auch Angaben zu bezogenen Leistungen und zurückliegenden Vertragsverhältnisse verarbeitet. Bei unseren Marketingmaßnahmen berücksichtigen wir, was die Adressaten interessieren könnte und unterbreiten passende Angebote.
-
-Die Verarbeitung im Rahmen der Abo-Verwaltung erfolgt zur Abwicklung eines Vertragsverhältnisses und ist daher gesetzlich gestattet (Art. 6 Abs. 1 b) DSGVO). Die Bereitstellung Ihrer Daten ist erforderlich, damit wir unsere Leistungen erbringen können. Marketingmaßnahmen stützen wir entweder auf unser berechtigtes Unternehmensinteresse (Art. 6 Abs. 1 f) DSGVO), die UWG-Ausnahme (§ 7 Abs. 3 UWG) oder eine von Ihnen erteilte Einwilligung (Art. 6 Abs. 1 a) DSGVO).
-
-Die zur Verwaltung Ihres Abos gespeicherten Daten unterliegen verschiedenen gesetzlichen Aufbewahrungspflichten. Wir speichern alle Vertragsdaten für einen Zeitraum von mindestens 8 Jahren. Bei einem Widerspruch zur werblichen Nutzung werden die Daten eingeschränkt verarbeitet und mit einer Werbesperre versehen.
-
-**Gemeinsam verantwortliche Unternehmen:** Zeitverlag Gerd Bucerius GmbH & Co. KG, ZEIT Akademie GmbH
-
-[To the top of the section](#Abo-Verwaltung-und-Marketing)
 
 ### Andere Unternehmen
 

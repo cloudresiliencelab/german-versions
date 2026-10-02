@@ -627,7 +627,7 @@ Im Folgenden finden Sie Beispiele dafür, wie wir Ihre Daten zur Bereitstellung 
 
 *   Wir verwenden die IP-Adresse Ihres Geräts, damit Sie die von Ihnen angeforderten Daten laden können, wie etwa ein YouTube-Video.
 *   Wir verwenden eindeutige IDs, die in Cookies auf Ihrem Gerät gespeichert sind, um Sie als die Person zu authentifizieren, die auf Ihr Google-Konto zugreifen darf.
-*   Fotos und Videos, die Sie in Google Fotos hochladen, werden verwendet, um Ihnen zu helfen, Alben, Collagen und andere Kreationen zu erstellen, die Sie mit anderen teilen können. [Weitere Informationen](https://support.google.com/photos?p=privpol_manage&hl=de)
+*   Fotos und Videos, die Sie in Google Fotos hochladen, werden verwendet, um Ihnen zu helfen, Alben, Collagen und andere Kreationen zu erstellen, die Sie mit anderen teilen können.
 *   Eine Flugbestätigung, die Sie per E-Mail erhalten, kann verwendet werden, um eine Check-in-Schaltfläche in Gmail zu erstellen.
 *   Wenn Sie Dienstleistungen oder Artikel von uns kaufen, teilen Sie uns möglicherweise Informationen wie Ihre Lieferadresse oder Lieferanweisungen mit. Wir verwenden diese Informationen beispielsweise für die Verarbeitung, die Durchführung und die Lieferung Ihrer Bestellung sowie zur Bereitstellung des Supports für den Artikel oder die Dienstleistung, die Sie kaufen.
 
@@ -797,7 +797,7 @@ Wenn Sie Ihrem Konto Ihre Telefonnummer hinzugefügt haben, kann diese abhängig
 
 ### Trends aufzuzeigen
 
-Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss über aktuelle Trends geben. Google Trends analysiert Suchanfragen in der Google Websuche, um die Anzahl der Suchanfragen in einem bestimmten Zeitraum zu ermitteln, und veröffentlicht eine Zusammenfassung dieser Ergebnisse. [Weitere Informationen](https://support.google.com/trends?p=privpol_about&hl=de)
+Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss über aktuelle Trends geben. Google Trends analysiert Suchanfragen in der Google Websuche, um die Anzahl der Suchanfragen in einem bestimmten Zeitraum zu ermitteln, und veröffentlicht eine Zusammenfassung dieser Ergebnisse.
 
 ### Unsere Dienste verbessern
 

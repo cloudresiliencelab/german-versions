@@ -15,7 +15,7 @@ Sie möchten Ihre Datenschutzeinstellungen ändern?
 
 [Privatsphärecheck machen](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=de)
 
-Wirksam ab dem 2. April 2026 | [Archivierte Versionen](https://policies.google.com/privacy/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/privacy/pdf/20260402/p5bwm5x1/google_privacy_policy_de_eu.pdf)
+Wirksam ab dem 1. Oktober 2026 | [Archivierte Versionen](https://policies.google.com/privacy/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/privacy/pdf/20261001/f86f5p0s/google_privacy_policy_de_eu.pdf)
 
 Inhalt
 ------

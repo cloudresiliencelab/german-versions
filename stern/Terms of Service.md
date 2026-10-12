@@ -7,11 +7,7 @@ AGB
 Allgemeine Geschäftsbedingungen
 --------------------------------------
 
-_stern_ auf Google hinzufügen
-
-Legen Sie _stern_ als Ihre bevorzugte Quelle fest.
-
-[stern.de als bevorzugte Quelle festlegen](https://www.google.com/preferences/source?q=stern.de "stern.de als bevorzugte Quelle festlegen") Zur Merkliste hinzufügen
+[stern bei Google bevorzugen](https://www.google.com/preferences/source?q=stern.de) Merken
 
 Dialog schließen
 

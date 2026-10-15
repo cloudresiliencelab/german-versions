@@ -207,7 +207,7 @@ _**14\. Vertragslaufzeit, Kündigung**_
 
 **_15\. Hinweise zur Datenverarbeitung_**
 
-SV erhebt im Rahmen der Abwicklung des Vertrages Daten des Kunden. SV beachtet dabei die geltenden Datenschutzvorschriften, insbesondere die Vorschriften der Datenschutzgrundverordnung (EU-DSGVO). Weitere Informationen zum Datenschutz unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz).
+SV erhebt im Rahmen der Abwicklung des Vertrages Daten des Kunden. SV beachtet dabei die geltenden Datenschutzvorschriften, insbesondere die Vorschriften der Datenschutzgrundverordnung (EU-DSGVO). Weitere Informationen zum Datenschutz unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz/).
 
 _**16\. Verbraucherschlichtung**_
 
@@ -940,7 +940,7 @@ Sollte eine Bestimmung dieser AGB unwirksam sein oder werden, so lässt dies die
 
 SV ist berechtigt, diese AGB mit Wirkung für die Zukunft zu ändern, wenn sich z.B. die Gesetzeslage, die höchstrichterliche Rechtsprechung oder die Marktgegebenheiten ändern. Über die geänderten AGB wird der Kunde rechtzeitig informiert. Der Kunde kann dann in einer angemessenen Frist widersprechen. Sofern er nicht fristgerecht widerspricht, werden die neuen AGB in das Vertragsverhältnis einbezogen.
 
-SV wird die Daten des Kunden im Rahmen der Vertragszwecke mittels EDV und unter Einhaltung der geltenden Datenschutzbestimmungen, insb. der EU-Datenschutz-Grundverordnung (DS-GVO) verarbeiten. Alle relevanten Informationen zum Datenschutz bei SV sind abrufbar unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz).
+SV wird die Daten des Kunden im Rahmen der Vertragszwecke mittels EDV und unter Einhaltung der geltenden Datenschutzbestimmungen, insb. der EU-Datenschutz-Grundverordnung (DS-GVO) verarbeiten. Alle relevanten Informationen zum Datenschutz bei SV sind abrufbar unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz/).
 
 ### **3\. Zusätzliche Allgemeine Geschäftsbedingungen für Digitalabonnements mit Endgerät**
 
@@ -1058,7 +1058,7 @@ Bei Schadensersatzansprüchen nach dem Produkthaftungsgesetz wegen vorsätzliche
 
 **_9\. Datenschutz und Datenverarbeitung_**
 
-SV erhebt im Rahmen der Abwicklung des Vertrages Daten des Kunden. SV beachtet dabei insbesondere die Vorschriften der Datenschutzgrundverordnung (DS-GVO). SV bedient sich zur Erfüllung ihrer vertraglichen Pflichten Subunternehmern, darunter auch Tochterunternehmen aus dem Bereich Print, TV und Digitalmedien. Um dem Kunden ein optimales Medienangebot anbieten zu können, behält sich SV vor, ihn regelmäßig über Angebote auch ihrer Tochterunternehmen zu informieren, soweit dies rechtlich zulässig ist. Weitere Informationen zum Datenschutz unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz).
+SV erhebt im Rahmen der Abwicklung des Vertrages Daten des Kunden. SV beachtet dabei insbesondere die Vorschriften der Datenschutzgrundverordnung (DS-GVO). SV bedient sich zur Erfüllung ihrer vertraglichen Pflichten Subunternehmern, darunter auch Tochterunternehmen aus dem Bereich Print, TV und Digitalmedien. Um dem Kunden ein optimales Medienangebot anbieten zu können, behält sich SV vor, ihn regelmäßig über Angebote auch ihrer Tochterunternehmen zu informieren, soweit dies rechtlich zulässig ist. Weitere Informationen zum Datenschutz unter [https://www.schwaebische.de/datenschutz](https://www.schwaebische.de/datenschutz/).
 
 **_10\. Verbraucherschlichtung_**
 

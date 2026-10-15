@@ -133,6 +133,14 @@ a) Standortbasierte Dienste
 
 Einige unserer Dienste funktionieren nur, bzw. einige unserer Inhalte (redaktionell und werblich) können nur ausgespielt werden, wenn wir Ihren ungefähren Standort feststellen können. Hierzu bestimmen wir anhand Ihrer IP-Adresse den ungefähren Standort Ihres Gerätes und stellen Ihnen hierzu sowohl passende redaktionelle als auch werbliche Inhalte zur Verfügung. Es wird dabei nicht die volle IP-Adresse verwendet, sondern eine um drei Stellen gekürzte IP-Adresse. Diese kann daher nicht mehr zur Identifizierung Ihres Rechners/Internetanschlusses verwendet werden. Die Standortdaten werden dabei allein zur Ausspielung der Inhalte verwendet. Sie können hierüber nicht als Person identifiziert werden. Die Daten werden nicht dauerhaft gespeichert und nicht an Dritte weitergegeben. Wir erstellen darüber hinaus auch keine Profile mit Standort- und/oder Bewegungsdaten.
 
+**Nutzung des genauen Gerätestandorts durch Shopfully**
+
+Darüber hinaus können Sie einwilligen, dass Shopfully auf den genauen Standort Ihres Geräts zugreift. Der genaue Standort wird insbesondere verwendet, um Ihnen Angebote von Handelspartnern in Ihrer Nähe auszuwählen und anzuzeigen.
+
+Shopfully verarbeitet die hierbei erhobenen Standortdaten für eigene Zwecke als Verantwortlicher (gemäß seiner [Datenschutzerklärung](https://shopfully.com/privacy-policy/)).
+
+Der Zugriff auf Ihren genauen Gerätestandort erfolgt nur mit Ihrer Einwilligung. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über unsere Datenschutzeinstellungen widerrufen.
+
 b) Sonstige Datenerfassungen
 
 Ferner erfassen wir in Logfiles insbesondere zum Zwecke der Sicherheit, Stabilität und aus sonstigen technischen Gründen bei Besuch unserer Angebote folgende Daten:

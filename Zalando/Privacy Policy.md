@@ -2,9 +2,9 @@ Zalando
 Privacy Notice
 ========================
 
-[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/2c5f76ce-8bfe-4c24-901b-34030dd1b5c1.pdf)
+[PDF-Version](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/d614acec-74cb-4f61-aaca-83c2ebcc408a.pdf)
 
-As at: 09/2026
+As at: 10/2026
 
 This Privacy Notice gives you an overview of how Zalando processes your data. It applies to all websites, apps and other benefits and services offered by Zalando.
 

@@ -15,7 +15,7 @@ Wenn Sie registrierungspflichtige Dienste nutzen wollen, müssen Sie ggf. weiter
 
 ### Was wir Ihnen bieten und wie Sie unsere Angebote nutzen können
 
-Wir liefern Ihnen laufend von unserer Redaktion recherchierte und für relevant erachtete journalistische Inhalte. Dabei bieten wir Ihnen kostenlos zugängliche und kostenpflichtige, so genannte +-Artikel an, für die Sie ein Digital-Abonnement abschließen müssen. Weiter können Sie die Inhalte jeweils monatsweise ohne Werbung bzw. Werbetracking gegen Zahlung eines (Auf-)Preises nutzen. Nähere Informationen zu Ihrer etwaigen Einwilligung in die Speicherung und Verarbeitung von Daten für personalisierte Werbung mit Profilbildung etc. finden Sie in unserer [Datenschutzerklärung](https://www.spiegel.de/datenschutz-spiegel) (SPIEGEL), [Datenschutzerklärung](https://www.manager-magazin.de/datenschutz)  (manager magazin) und [Datenschutzerklärung](https://www.11freunde.de/datenschutz)  (11Freunde).
+Wir liefern Ihnen laufend von unserer Redaktion recherchierte und für relevant erachtete journalistische Inhalte. Dabei bieten wir Ihnen kostenlos zugängliche und kostenpflichtige Artikel an, für die Sie ein Digital-Abonnement abschließen müssen. Weiter können Sie die Inhalte jeweils monatsweise ohne Werbung bzw. Werbetracking gegen Zahlung eines (Auf-)Preises nutzen. Nähere Informationen zu Ihrer etwaigen Einwilligung in die Speicherung und Verarbeitung von Daten für personalisierte Werbung mit Profilbildung etc. finden Sie in unserer [Datenschutzerklärung](https://www.spiegel.de/datenschutz-spiegel) (SPIEGEL), [Datenschutzerklärung](https://www.manager-magazin.de/datenschutz)  (manager magazin) und [Datenschutzerklärung](https://www.11freunde.de/datenschutz)  (11Freunde).
 
 Wie auch immer Sie unser Angebot nutzen: Ein Anspruch auf bestimmte Inhalte, Themen, Periodizität und/oder Quantitäten besteht nicht– all dies steht im freien Ermessen der Redaktion, die stets den Anspruch verfolgt, Sie so gut und umfassend wie möglich mit Informationen zu versorgen.
 
@@ -78,4 +78,4 @@ In einigen gesetzlich definierten Fällen (von Zwecken der Strafverfolgung über
 
 Unsere Nutzungsbedingungen werden immer wieder aktualisiert und gelten in der jeweils aktuellen Version, sobald Sie unsere Angebote nutzen, auch ohne ausdrückliche Einwilligung. Erfüllungsort und Gerichtsstand ist Hamburg.
 
-**Version 2.3.0 \[11.04.2025\]**
+**Version 2.4.0 \[16.10.2026\]**

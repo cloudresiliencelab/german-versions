@@ -15,7 +15,7 @@ Sie möchten Ihre Datenschutzeinstellungen ändern?
 
 [Privatsphärecheck machen](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=de)
 
-Wirksam ab dem 12. Oktober 2026 | [Archivierte Versionen](https://policies.google.com/privacy/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/privacy/pdf/20261012/p7v4n2m9/google_privacy_policy_de_eu.pdf)
+Wirksam ab dem 16. Oktober 2026 | [Archivierte Versionen](https://policies.google.com/privacy/archive?hl=de&fg=1) | [PDF herunterladen](https://www.gstatic.com/policies/privacy/pdf/20261016/k8m9x4w2/google_privacy_policy_de_eu.pdf)
 
 Inhalt
 ------
@@ -146,12 +146,12 @@ Wir nutzen die im Rahmen unserer bestehenden Dienste erhobenen Daten zur Entwick
 
 ### Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen
 
-Wir nutzen die von uns erhobenen Daten zur Personalisierung unserer Dienste. Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und [von personalisierten Suchergebnissen](https://policies.google.com/privacy?hl=de&fg=1#footnote-customized-search). Beispielsweise erhalten Sie im [Sicherheitscheck](https://myaccount.google.com/security-checkup?utm_source=pp&hl=de) Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind. Je nach Ihren verfügbaren Einstellungen kann Google Play Daten nutzen, etwa über Apps, die Sie installiert haben, und Videos, die Sie sich auf YouTube angesehen haben, um neue Apps zu empfehlen, die Ihnen gefallen könnten.
+Wir nutzen die von uns erhobenen Daten zur Personalisierung unserer Dienste. Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und [von personalisierten Suchergebnissen](https://policies.google.com/privacy?hl=de&fg=1#footnote-customized-search). Beispielsweise erhalten Sie im [Sicherheitscheck](https://myaccount.google.com/security-checkup?utm_source=pp&hl=de) Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind. Je nach Ihren verfügbaren Einstellungen kann Google Play Daten nutzen, etwa über Apps, die Sie installiert haben, und Videos, die Sie sich auf YouTube angesehen haben, um neue Apps zu empfehlen, die Ihnen gefallen könnten. Sie können bestimmten Google-Diensten, etwa der Google Suche oder Gemini-Apps, den Zugriff auf Daten aus anderen von Ihnen genutzten Google-Diensten wie Google Fotos oder Workspace-Apps (z. B. Gmail und Drive) erlauben, um Ihre Nutzung zu personalisieren. Dabei gelten die Richtlinien und Einstellungen des zugreifenden Dienstes. Beispielsweise kann die Google Suche einige der Daten verarbeiten, auf die Sie ihr Zugriff gewähren, um [Inhalte zu personalisieren](https://policies.google.com/privacy?hl=de&fg=1#footnote-personalize-content), einschließlich Werbung.
 
-Je nach Ihren Einstellungen zeigen wir Ihnen möglicherweise auch auf Ihre Interessen und Aktivitäten in Google-Diensten bezogene [personalisierte Werbung](https://policies.google.com/privacy?hl=de&fg=1#footnote-personalized-ads). Wenn Sie beispielsweise nach „Mountainbikes“ suchen, kann auf YouTube Werbung für Sportausrüstung eingeblendet werden. In Ihren Einstellungen für Werbung unter [Mein Anzeigen-Center](https://myadcenter.google.com/?hl=de) können Sie festlegen, welche Daten wir zur Auswahl der präsentierten Werbung verwenden.
+Je nach Ihren Einstellungen zeigen wir Ihnen möglicherweise auch [personalisierte Werbung](https://policies.google.com/privacy?hl=de&fg=1#footnote-personalized-ads) auf Grundlage Ihrer Interessen, Aktivitäten oder personalisierten Inhalte aus Google-Diensten. Wenn Sie in der Google Suche beispielsweise nach „Mountainbikes“ suchen, kann auf YouTube Werbung für Sportausrüstung eingeblendet werden. In Ihren Einstellungen für Werbung unter [Mein Anzeigen-Center](https://myadcenter.google.com/?hl=de) können Sie festlegen, welche Daten wir zur Auswahl der präsentierten Werbung verwenden.
 
 *   Wir zeigen Ihnen keine personalisierte Werbung, die auf [sensiblen Kategorien](https://policies.google.com/privacy?hl=de&fg=1#footnote-sensitive-categories), wie der ethnischen Zugehörigkeit, Religion, sexuellen Orientierung oder Gesundheit beruht.
-*   Wir zeigen Ihnen keine personalisierte Werbung auf Grundlage von Ihren Inhalten aus Google Drive, Gmail oder Google Fotos.
+*   Wir zeigen Ihnen keine personalisierte Werbung auf Grundlage von Ihren Inhalten aus Google Drive, Gmail oder Google Fotos, es sei denn, Sie stellen Daten aus diesen Diensten für andere Google-Dienste zur Verfügung, die personalisierte Werbung unterstützen.
 *   Wir geben Daten, durch die Sie persönlich identifizierbar sind, wie beispielsweise Ihren Namen oder Ihre E-Mail-Adresse, nur dann an Werbetreibende weiter, wenn Sie uns dazu auffordern. Wenn Sie beispielsweise Werbung für einen Blumenladen in Ihrer Nähe sehen und die Schaltfläche "Zum Anrufen tippen" auswählen, verbinden wir Ihren Anruf und geben Ihre Telefonnummer möglicherweise an den Blumenladen weiter.
 
 ![](https://www.gstatic.com/policies/privacy/900a793eae04f4bddd675f8d95c4a794.svg)
@@ -195,7 +195,7 @@ In diesem Abschnitt werden die wichtigsten Einstellungen beschrieben, mit denen 
 Daten verwalten, überprüfen und aktualisieren
 ---------------------------------------------
 
-Wenn Sie angemeldet sind, können Sie Ihre Daten jederzeit in den von Ihnen verwendeten Diensten überprüfen und aktualisieren. Beispielsweise ermöglichen Ihnen Fotos und Drive die Verwaltung bestimmter auf Google gespeicherter Inhaltstypen.
+Wenn Sie angemeldet sind, können Sie Ihre Daten jederzeit in den von Ihnen verwendeten Diensten einsehen und aktualisieren. Beispielsweise ermöglichen Ihnen Google Fotos und Drive die Verwaltung bestimmter auf Google gespeicherter Inhaltstypen.
 
 Wir stellen Ihnen auch einen Ort zur Verfügung, an dem Sie die in Ihrem Google-Konto gespeicherten Daten überprüfen und deren Speicherung steuern können. Ihr [Google-Konto](https://myaccount.google.com/?hl=de) beinhaltet:
 
@@ -721,6 +721,10 @@ Je nach Ihren verfügbaren Einstellungen finden Sie im Folgenden Beispiele für 
 ### Informationen über Objekte in der Nähe Ihres Geräts
 
 Wenn Sie die Standortdienste von Google unter Android nutzen, können wir die Leistung von Apps verbessern, die, wie Google Maps, Standortdaten benötigen. Wenn Sie den Standortdienst von Google nutzen, sendet Ihr Gerät über Sensoren wie den Beschleunigungsmesser, über nahe gelegene Mobilfunkmasten und über WLAN-Zugangspunkte, wie die MAC-Adresse und die Signalstärke, Informationen an Google. Diese Daten ermöglichen eine bessere Bestimmung Ihres Standorts. Den Google-Standortdienst können Sie in den Einstellungen Ihres Geräts aktivieren. [Weitere Informationen](https://support.google.com/accounts?p=privpol_androidloc&hl=de)
+
+### Inhalte personalisieren
+
+Wenn Sie bestimmten Diensten erlauben, Daten aus anderen Diensten zu verarbeiten, beispielsweise für Funktionen wie Personal Intelligence, können diese Daten auch verwendet werden, um die Nutzung für Sie zu personalisieren. Wenn Sie in der Google Suche beispielsweise eine Frage zu einer kürzlichen Hotelbuchung stellen, kann die Google Suche Buchungsdetails aus einer E-Mail verwenden, um Ihnen mögliche Aktivitäten in der Nähe Ihres Hotels vorzuschlagen. [Weitere Informationen zu Personal Intelligence](https://support.google.com/websearch/answer/16859283?p=lm-pi-faq&rd=1&hl=de#lm-pi-faq)
 
 ### Inhalte und Werbeanzeigen, die Sie sich ansehen und mit denen Sie interagieren
 

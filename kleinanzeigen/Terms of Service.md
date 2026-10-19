@@ -39,7 +39,7 @@ Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginn
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
 *   An kleinanzeigen.de GmbH, Dernburgstraße 50, 14057 Berlin, E-Mail: impressum@kleinanzeigen.de:
-*   Hiermit widerrufe(n) ich/wir ( _den von mir/uns (_) abgeschlossenen Vertrag über den Kauf der folgenden Waren (_)/ die Erbringung der folgenden Dienstleistung (_)
+*   Hiermit widerrufe(n) ich/wir (\* den von mir/uns (_) abgeschlossenen Vertrag über den Kauf der folgenden Waren (_)/ die Erbringung der folgenden Dienstleistung (\*)
     
 *   Bestellt am (_)/erhalten am (_)
     

@@ -159,15 +159,15 @@ Angaben zur Speicherdauer können Sie dem Privacy-Center entnehmen.
 
 [To the top of the section](#Messung-der-Nutzung)
 
-### Sicherer Betrieb der Seite
+### Sicherer Betrieb von zeit.de
 
-Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils geltenden vertraglichen Vereinbarungen genutzt werden. Um eine missbräuchliche Nutzung zu erkennen und angemessen reagieren zu können, werden personenbezogene Daten (z.B. Login-Daten, Devices, Login-Häufigkeit, Datum und Uhrzeit) in unserer Datenbank zum Schutz unserer Rechte verarbeitet und ungewöhnliche Nutzungen identifiziert. So wehren wir insbesondere Credential Stuffing (Automatisiertes Ausprobieren geleakter Zugangsdaten), Brute-Force-/Password-Spraying-Angriffe, Session-Hijacking / Session-Fixation, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), SQL-Injection / Injection-Angriffe auf Backend-Systeme und das Abgreifen unserer journalistischen Inhalte durch KI-Bots ab.
+Unsere digitalen Angebote und Abonnements dürfen nur entsprechend der jeweils geltenden vertraglichen Vereinbarungen genutzt werden. Um eine missbräuchliche Nutzung zu erkennen und angemessen reagieren zu können, werden personenbezogene Daten (z.B. Login-Daten, Devices, Login-Häufigkeit, Datum und Uhrzeit) zum Schutz unserer Rechte verarbeitet und ungewöhnliche Nutzungen identifiziert. So wehren wir insbesondere Credential Stuffing (Automatisiertes Ausprobieren geleakter Zugangsdaten), Brute-Force-/Password-Spraying-Angriffe, Session-Hijacking / Session-Fixation, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), SQL-Injection / Injection-Angriffe auf Backend-Systeme und das Abgreifen unserer journalistischen Inhalte durch KI-Bots ab.
 
-Rechtsgrundlage dieser Verarbeitungen ist das zustande gekommene Nutzungsverhältnis sowie unser berechtigtes Interesse (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Die Inhalte auf zeit.de sind die Verkörperung der journalistischen Arbeit unseres Unternehmens und unser wichtigstes wirtschaftliches Gut. Dieses müssen wir durch technische Maßnahmen schützen, um unser Geschäftsmodell aufrechterhalten zu können. Die Datenverarbeitung erfolgt automatisiert und kann nicht unterbunden werden.
+Rechtsgrundlage dieser Verarbeitungen ist das zustande gekommene Nutzungsverhältnis sowie unser berechtigtes Interesse (Art. 6 Abs. 1 b), f) DSGVO, § 25 Abs. 2 Nr. 2 TDDDG). Die Inhalte auf zeit.de sind die Verkörperung der journalistischen Arbeit unseres Unternehmens und unser wichtigstes wirtschaftliches Gut. Dieses müssen wir durch technische Maßnahmen schützen, um unser Geschäftsmodell aufrechterhalten zu können. Die Datenverarbeitung erfolgt automatisiert und kann nicht unterbunden werden. Falls Sie zu einer Aktion aufgefordert werden (z.B. das Anklicken bestimmter Felder zum Nachweis, dass Sie ein Mensch und kein Bot sind), ist die Ausführung dieser Aktion erforderlich, um die Seite aufzurufen.
 
 Eine separate Datenspeicherung für diese Zwecke findet nicht statt.
 
-[To the top of the section](#Sicherer-Betrieb-der-Seite)
+[To the top of the section](#Sicherer-Betrieb-von-zeit-de)
 
 ### A/B-Testing
 
@@ -616,23 +616,23 @@ Wir setzen diverse Auftragsverarbeiter wie Softwareanbieter, Rechenzentrumsbetre
 *   Optimizely GmbH (SaaS-Anbieter Newsletter-Tool)
 *   ferret go GmbH (Kommentarprüfung)
 *   Tickaroo GmbH (Einbindung Live-Blog)
-*   Audio Ventures Inc. (SimpleCast Audiobereitstellung)
+*   Audio Ventures, Inc. (SimpleCast Audiobereitstellung)
 *   Salesforce, Inc. (Heroku Webhosting)
 *   Snowplow Analytics Ltd. (SaaS-Anbieter Tracking-Tool)
-*   Freshworks Inc. (SaaS-Anbieter Ticketsystem)
+*   Freshworks, Inc. (SaaS-Anbieter Ticketsystem)
 *   Meta Platforms Ireland Ltd. (Social-Media-Plattform)
 *   MaxMind, Inc. (Geolokalisierung)
 *   Fastly, Inc. (Anbieter Content Delivery Network)
 *   StorifyMe GmbH (SaaS-Anbieter Social-Media-Stories)
 *   Amazon Web Services, Inc. (Anbieter Hosting)
 *   Kilkaya AS (SaaS-Anbieter Analyse-Tool)
-*   SpeedCurve Ltd (SaaS-Anbieter Pagespeed Performance)
+*   SpeedCurve Ltd. (SaaS-Anbieter Pagespeed Performance)
 *   7 Points Sp. z o.o. (SaaS-Anbieter Umfrage-Tool SurveyLab)
 *   Piano Software Norway (SaaS-Anbieter für Personalisierung und Nutzeransprache)
 *   Stripo Inc. (SaaS-Anbieter Newsletter-Templates)
 *   Friendly Captcha GmbH (SaaS-Anbieter Anti-Bot-Lösung)
 *   Centinel Analytica GmbH (SaaS-Anbieter Anti-KI-Bot-Lösung)
-*   Snap Inc. (Social-Media-Plattform)
+*   Snap, Inc. (Social-Media-Plattform)
 *   OpenAI Ireland Ltd. (LLM)
 
 [To the top of the section](#Unternehmensliste)
@@ -646,7 +646,7 @@ Manche Vorgänge beinhalten die Weitergabe von personenbezogenen Daten an Dritte
 *   MapTiler AG (visuelle Darstellung von Geoinformationen)
 *   Hola Org Ltd. (Spark Videovorschau)
 *   Meta Platforms Ireland Ltd. (Social-Media-Plattform)
-*   Snap Inc. (Social-Media-Plattform)
+*   Snap, Inc. (Social-Media-Plattform)
 
 [To the top of the section](#Unternehmensliste)
 

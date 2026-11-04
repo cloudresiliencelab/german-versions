@@ -1,7 +1,7 @@
 Amazon.de Privacy Notice
 ========================
 
- Last Updated: 17.09.2026
+ Last Updated: 28.10.2026
 
 To see prior version, please click [here](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -270,7 +270,7 @@ Subject to applicable law and in certain instances, you have the following right
 
   
 
-**Objection and restriction.** To object to or ask that we restrict the use of your personal information, contact Customer Service. You can also directly adjust your Customer Communication Preferences by going [here](https://www.amazon.de/-/en/gp/gss/ccp/) or Advertising Preference by going [here](https://www.amazon.de/-/en/privacyprefs/customize?oCT=ads)
+**Objection and restriction.** To object to or ask that we restrict the use of your personal information, contact Customer Service. You can also directly adjust your Customer Communication Preferences by going [here](https://www.amazon.de/-/en/gp/gss/ccp/) or Advertising Preference Center by going [here](https://www.amazon.de/-/en/privacyprefs/customize?oCT=ads)
 
   
 

@@ -3,7 +3,7 @@ PayPal-Nutzungsbedingungen
 
 PayPal-Nutzungsbedingungen
 
-Letzte Aktualisierung 7. September 2026
+Letzte Aktualisierung 4. November 2026
 
 PayPal nimmt einige Änderungen an den Bedingungen zum Käuferschutz in den Nutzungsbedingungen und im Käuferschutzprogramm vor. Diese Änderungen kommen den Verbrauchern zugute und werden im Folgenden aufgeführt. PayPal wendet diese Änderungen ab dem 15. April 2025 auf alle Neukunden an. Wenn Sie Bestandskunde sind und vor dem 15. April 2025 ein PayPal-Konto eröffnet haben, wendet PayPal diese Änderungen auch auf Sie mit sofortiger Wirkung an, auch wenn diese Änderungen erst am 17. Juli 2025 formell Bestandteil Ihres Vertrags mit PayPal werden.
 
@@ -1059,12 +1059,6 @@ Unsere Rechte
 #### Sicherungsrecht
 
 Um Ihre Erfüllung dieser Nutzungsbedingungen zu sichern, gewähren Sie uns Rechtsanspruch auf das Geld in Ihrem PayPal-Konto als Sicherheit für jeden Betrag, den Sie uns schulden. Dies ist juristisch als "Pfandrecht" und in Ihrem PayPal-Konto als "Sicherungsrecht" bekannt.
-
-#### Inaktive Konten
-
-Ist Ihr PayPal-Konto für mindestens zwölf aufeinanderfolgende Monate inaktiv, können wir eine jährliche [**Inaktivitätsgebühr**](https://www.paypal.com/de/webapps/mpp/paypal-fees?locale.x=en_DE) erheben. Inaktivität liegt vor, wenn Sie sich weder in Ihr PayPal-Konto eingeloggt noch Ihr PayPal-Konto anderweitig genutzt haben, um Geld zu senden, zu empfangen oder abzubuchen.
-
-Diese Bestimmung und die Inaktivitätsgebühr gelten nicht für in Deutschland registrierte Privatkonten.
 
 #### Ihre Haftung
 

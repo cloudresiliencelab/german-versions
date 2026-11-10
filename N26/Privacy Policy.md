@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.8, Datum: 03.09.2026)
+(Version 13.9, Datum: 11.10.2026)
 
 
 
@@ -28,7 +28,7 @@ N26 Bank SEVoltairestraße 810179 Berlin
 
 
 
-N26 hat einen Datenschutzbeauftragten bestellt, der unter dpo@n26.com zu erreichen ist.
+N26 hat einen Datenschutzbeauftragten bestellt, der unter privacy@n26.com zu erreichen ist.
 
 
 
@@ -218,7 +218,7 @@ Sollten die Informationen, die du uns auf unsere Anfrage hin gesendet hast, unzu
 
 
 
-Um dir bei der Personalisierung deines Kontos zu helfen, hast du die Möglichkeit, freiwillig ein Profilbildhochzuladen. Das Profilbild ist nur für dich innerhalb der App sichtbar und ermöglicht es dir, dein Erlebnis inder App zu personalisieren. Wir speichern und zeigen das von dir hochgeladene Bild basierend auf unseremberechtigten Interesse gemäß Art. 6 (1) f) DSGVO an, dir ein verbessertes, individuelles Kundenerlebnisinnerhalb der App zu bieten. Du kannst dieser Verarbeitung jederzeit widersprechen, indem du das Profilbildeinfach in den App-Einstellungen löschst.
+Um dir bei der Personalisierung deines Kontos zu helfen, hast du die Möglichkeit, freiwillig ein Profilbildhochzuladen. Wir speichern und zeigen das von dir hochgeladene Bild basierend auf unserem berechtigtenInteresse gemäß Art. 6 (1) f) DSGVO an, dir ein verbessertes, individuelles Kundenerlebnis innerhalb der App zubieten. Du kannst dieser Verarbeitung jederzeit widersprechen, indem du das Profilbild einfach in denApp-Einstellungen löschst.
 
 Zusätzlich prüfen wir das hochgeladene Bild auf schädliche oder rechtswidrige Inhalte. Diese Prüfung basiertauf unserem berechtigten Interesse an der Gewährleistung der IT-Sicherheit, nämlich der Aufrechterhaltungeiner sicheren Umgebung für alle unsere Kunden und dem Schutz unserer Plattform vor Missbrauch, gemäßArt. 6 (1) f) DSGVO. Weitere Informationen zum berechtigten Interesse als Rechtsgrundlage für dieDatenverarbeitung findest du oben in Abschnitt II.
 
@@ -227,6 +227,8 @@ Zusätzlich prüfen wir das hochgeladene Bild auf schädliche oder rechtswidrige
 2\. Datenerhebung und -verarbeitung bei der Eröffnung und Nutzung einesN26 Gemeinschaftskontos
 
 Zum Zwecke der Eröffnung und Nutzung eines N26 Gemeinschaftskonto, müssen wir die im vorherigenAbschnitt (Abschnitt III.1) bezeichneten personenbezogenen Daten verarbeiten. Außerdem:
+
+
 
 ● Wenn du das Gemeinschaftskonto eröffnest:
 
@@ -312,9 +314,9 @@ Der Dienst MoneyBeam steht dir im Rahmen der Nutzung deines Girokontos zur Verf�
 
 5\. Sichtbarkeit als N26 Kunde bei Nutzung bestimmter Funktionen von N26
 
-Im Rahmen der Nutzung bestimmter N26 Funktionen wie MoneyBeam, MoneyBeam Anfragen, Shared Spaces,Split the Bill, MoneyQR Code oder Wero bitten wir dich im Einklang mit Art. 6 (1) a) DSGVO, uns die Einwilligungzu erteilen, dass du für andere N26 NutzerInnen als N26 Kunde sichtbar bist. Indem du N26 die Erlaubniserteilst, deinen Status als N26 Kunde zu teilen, können wir diese Information anderen N26 Kunden, sofern du inihrer Kontaktliste auf ihrem Endgerät enthalten bist und im Rahmen der Nutzung der N26 Features, anzeigen.Du bist in dem Fall für deine Kontakte sichtbar, sofern sie ebenfalls Kunden von N26 sind. Diese Einwilligungkannst du jederzeit in der App widerrufen. Öffne dazu Mein Konto \> Einstellungen \> Persönliche Einstellungen \>
+Im Rahmen der Nutzung bestimmter N26 Funktionen wie MoneyBeam, MoneyBeam Anfragen, Shared Spaces,Split the Bill, MoneyQR Code oder Wero bitten wir dich im Einklang mit Art. 6 (1) a) DSGVO, uns die Einwilligungzu erteilen, dass du für andere N26 NutzerInnen als N26 Kunde sichtbar bist. Indem du N26 die Erlaubniserteilst, deinen Status als N26 Kunde zu teilen, können wir diese Information (dies umfasst auch deinen Namen,deine Telefonnummer oder die mit deinem Konto verknüpfte E-Mail-Adresse sowie dein Profilbild, falls du eineshochgeladen hast) anderen N26 Kunden, sofern du in ihrer Kontaktliste auf ihrem Endgerät enthalten bist undim Rahmen der Nutzung der N26 Features, anzeigen. Du bist in dem Fall für deine Kontakte sichtbar, sofern sieebenfalls Kunden von N26 sind. Diese Einwilligung kannst du jederzeit in der App widerrufen. Öffne dazu MeinKonto \> Einstellungen \> Persönliche Einstellungen \> Persönliche Daten, und verwalte deine Sichtbarkeit, wie
 
-Persönliche Daten, und verwalte deine Sichtbarkeit, wie hier näher beschrieben.
+hier näher beschrieben.
 
 6\. Datenverarbeitung im Rahmen der Nutzung von N26 Features mit deinerKontaktliste
 

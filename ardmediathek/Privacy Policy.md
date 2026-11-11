@@ -1,13 +1,11 @@
 Datenschutzerklärung von ARD Online
 ===================================
 
-Die ARD nimmt den Schutz Ihrer Daten sehr ernst. Diese Datenschutzerklärung informiert über die Verarbeitung Ihrer personenbezogenen Daten bei der Nutzung der folgenden Angebote: ARD.de, ARD Mediathek, ARD Sounds (früher ARD Audiothek) und KiKA HbbTV.
+Die ARD nimmt den Schutz Ihrer personenbezogenen Daten sehr ernst. Transparenz ist uns dabei wichtig: Deshalb möchten wir Sie mit dieser Datenschutzerklärung darüber informieren, welche Daten wir erheben und wie wir damit umgehen.
 
-ARD Mediathek und ARD Sounds können Sie mit oder ohne ARD-Konto nutzen. Wenn Sie diese Angebote angemeldet mit einem ARD-Konto nutzen, gelten zusätzlich die Datenschutzinformationen für das ARD-Konto. Diese erläutern ergänzend zu dieser Datenschutzerklärung, wie Ihre personenbezogenen Daten im Zusammenhang mit Ihrem Nutzerkonto verarbeitet werden.
+Die ARD-Gemeinschaftseinrichtung ARD Online (nachfolgend "wir") betreibt die Webseiten ard.de, ardmediathek.de und ardsounds.de sowie der mobilen Apps und TV-Apps von ARD Mediathek und ARD Sounds. Dies gilt ebenso für die HbbTV-Apps von ARD Mediathek, ARD Sounds und KiKA. Diese Webseiten und Apps werden im Folgenden als "Angebote" bezeichnet.
 
-Die Datenschutzinformationen zum ARD Konto finden Sie hier: [https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz).
-
-Wir behalten uns vor, die nachfolgende Datenschutzerklärung jederzeit anzupassen, wenn dies aufgrund rechtlicher Änderungen oder bei Weiterentwicklung unserer Angebote erforderlich ist.
+In dieser Datenschutzerklärung erfahren Sie, welche personenbezogenen Daten bei der Nutzung unserer Angebote erhoben und gespeichert werden und wie, wann und zu welchen Zwecken wir diese Daten verarbeiten.
 
 Protokoll- und Diagnosedaten
 ----------------------------
@@ -16,14 +14,12 @@ Wenn Sie unsere Angebote aufrufen, protokollieren wir zu statistischen Zwecken j
 
 In sogenannten Logfiles halten wir Ihre IP-Adresse, Ihre Gerätekennung, die besuchte Domain, der Name der abgerufenen Datei, das Datum und die Uhrzeit des Abrufs, die übertragene Datenmenge sowie der erfolgreiche Abruf fest. Diese Daten haben keinen direkten Personenbezug und dienen ausschließlich internen Zwecken. Wir geben diese Daten nicht an Dritte weiter.
 
-Nutzen Sie unsere iOS-Apps, haben Sie die Möglichkeit, einen App-Diagnosebericht an uns zu senden. Dieser hilft uns, Fehler analysieren zu können. Hierzu ist Ihre freiwillige Einwilligung notwendig, die Sie jederzeit widerrufen können. Der Diagnosebericht enthält applikationsspezifische Daten der zuletzt genutzten Beiträge. Falls Sie ein ARD-Konto verwenden, enthält der Bericht Ihre User-ID, damit wir Fehler auch in unserer Datenbank analysieren können. Nachdem die Analyse abgeschlossen ist, löschen wir unverzüglich Ihre Daten.
+Cookies und vergleichbare Technologien
+--------------------------------------
 
-Cookies
--------
+Wir nutzen Cookies und vergleichbare Technologien, um Ihnen grundlegende Funktionen unserer Angebote bereitzustellen, und die Nutzung und Reichweite unserer Angebote zu messen. Auf unseren Web-Angeboten setzen wir zu statischen Zwecken Client-Side-Cookies ein. Die Cookies \_pcid, \_pctx und \_pprv haben auf ardsounds.de eine Lebensdauer von 384 Tagen, und auf ard.de – einschließlich des Cookies pa\_privacy – eine Lebensdauer von 380 Tagen. Informationen zum genauen Zweck dieser Cookies können Sie hier einsehen: [https://developers.piano.io/analytics/data-collection/general/cookie-storage/](https://developers.piano.io/analytics/data-collection/general/cookie-storage/)
 
-Wir nutzen Cookies und ähnliche Technologien, um Ihnen einen komfortableren Zugriff auf unsere Angebote zu ermöglichen. Cookies sind kleine Textdateien, die vorübergehend lokal bei Ihnen gespeichert werden. Es gibt verschiedene Arten von Cookies: Funktionale Cookies setzen wir zum Beispiel ein, damit Sie in Formularen Ihre persönlichen Daten nicht immer wieder neu eingeben müssen, oder um Ihnen die Regionen-Auswahl bei Radiosendern ein- bzw. auszublenden. Statistische Cookies verwenden wir, um unsere Angebote und Reichweiten auswerten zu können. Unsere statistischen Cookies haben eine Lebensdauer von 12 Monaten.
-
-Wenn Sie nicht möchten, dass wir Cookies allgemein auf Ihrem Gerät setzen, können Sie das Speichern von Cookies deaktivieren. Besuchen Sie hierfür die Einstellungen Ihres Browsers oder Endgeräts.
+Wenn Sie nicht möchten, dass wir Cookies und vergleichbare Technologien allgemein auf Ihrem Gerät setzen, können Sie das Speichern von Cookies deaktivieren und/oder Cookies und die lokalen Daten Ihres Endgeräts löschen. Besuchen Sie hierfür die Einstellungen Ihres Browsers oder Endgeräts.
 
 Nutzungsmessung
 ---------------
@@ -38,7 +34,7 @@ Wenn Sie mehr über die von uns eingesetzten Mess-Technologien erfahren möchten
 
 • AGF/GfK-Streaming-Messung ([https://sensic.net/privacypolicy\_de.html?scope=streaming-agf](https://sensic.net/privacypolicy_de.html?scope=streaming-agf))
 
-Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im aktuellen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1 ([https://www.mdr.de/rundfunkdatenschutz/index.html](https://www.mdr.de/rundfunkdatenschutz/index.html)).
+Ausführliche Informationen zur Nutzungsmessung finden Sie außerdem im 2025 erschienenen Tätigkeitsbericht des gemeinsamen Rundfunkbeauftragten für Datenschutz unter Kapitel 6.1 ([https://www.mdr.de/rundfunkdatenschutz/index.html](https://www.mdr.de/rundfunkdatenschutz/index.html)).
 
 Ihre Widerspruchsmöglichkeit
 
@@ -69,31 +65,15 @@ Caplena ermöglicht uns einen schnellen Überblick über die gemachten Angaben, 
 
 Mehr erfahren Sie in der Datenschutzerklärungen der Firma Caplena unter: [https://caplena.com/en/privacy-policy/](https://caplena.com/en/privacy-policy/)
 
-Chromecast
+Google-Dienste
 
-Wir nutzen den Dienst Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)), damit Sie Videos von unserer Website auf ein Chromecast-Gerät übertragen können. Google kann im Rahmen der Cast Funktion System- und Nutzungsdaten verarbeiten, die notwendigen Geräteinformationen enthalten können. Eine Datenverarbeitung findet nur statt, wenn Sie Google Chrome als Browser verwenden, da nur hier die Cast-Funktionalität unterstützt wird.
+Wir nutzen die folgenden Plattformen und Dienste der Firma Google Ireland Limited ([https://about.google/](https://about.google/)):
 
-Mehr erfahren Sie in der Datenschutzerklärung zu Google Chromecast unter: [https://support.google.com/chromecast/answer/6076570?hl=de](https://support.google.com/chromecast/answer/6076570?hl=de)
+Google Cloud und Firebase (einschließlich Firebase Crashlytics) verwenden wir als Teil unserer technischen Infrastruktur, beispielsweise für den Betrieb von Backend-Services, zur Authentifizierung von Nutzern, oder zur Ermittlung von App-Abstürzen. Mehr Informationen zum Datenschutz erhalten Sie auf folgenden Seiten: Google Cloud: [https://cloud.google.com/transparency](https://cloud.google.com/transparency) Firebase: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
-Google Cloud Platform (GCP)
+Google Cast verwenden wir bei ARD Mediathek und ARD Sounds, damit Sie Inhalte von einem Smartphone, Tablet oder Computer auf Ihren Fernseher oder Lautsprecher übertragen können. Wenn Sie Google Cast nutzen, können je nach App, Gerät und Nutzung Daten an Google übermittelt werden. Mehr Informationen hierzu erhalten Sie hier: [https://support.google.com/chromecast/answer/6076570?hl=de](https://support.google.com/chromecast/answer/6076570?hl=de)
 
-Wir nutzen verschiedene Dienste der Google Cloud Platform der Firma Google ([https://about.google/](https://about.google/)):
-
-Cloud Logging: Wir nutzen Cloud Logging, um die Leistungsfähigkeit und Verfügbarkeit unserer Online-Dienste sicherzustellen sowie Änderungen und Zugriffe im Rahmen von Sicherheits- und Compliance-Anforderungen zu protokollieren. In Audit Logs werden hierbei folgende Daten verarbeitet:
-
-• IP-Adressen,
-
-• Zeitstempel von Zugriffen oder Änderungen an unseren Systemen,
-
-• Zugriffsrechte sowie Nutzeraktionen in Bezug auf verwaltete Ressourcen.
-
-Die gespeicherten Daten werden nur so lange aufbewahrt, wie es für die jeweiligen Sicherheits- oder Nachverfolgbarkeitsanforderungen erforderlich ist. Die Speicherfristen richten sich nach unseren internen Richtlinien und gesetzlichen Vorgaben.
-
-Firebase Cloud Messaging: Wir nutzen Firebase Cloud Messaging (FCM), um Ihnen Push-Benachrichtigungen in der ARD Sounds Android-App senden zu können. Bei der ersten Installation der App können Sie bestätigen, ob Sie Push-Benachrichtigungen erhalten möchten. Sämtliche Benachrichtigungen oder Zugriffsmöglichkeiten können im Einstellungsmenü nachträglich an- oder ausgeschaltet werden. Firebase Cloud Messaging erzeugt einen berechneten Schlüssel, der sich aus der Kennung der App und ihrer Geräte-Kennung zusammensetzt. Dieser Schlüssel wird je nach App auf der ARD Push-Plattform mit den von Ihnen gewählten Einstellungen hinterlegt, um Ihnen die Inhalte ihren Wünschen entsprechend zur Verfügung zu stellen. Die Google-Server können keinerlei Rückschluss auf die Anfragen des Nutzers ziehen oder sonstige Daten ermitteln, die mit einer Person im Zusammenhang stehen. Google dient ausschließlich als Übermittler.
-
-Firebase Crashlytics und Cloud Firestore: Wir nutzen Firebase Crashlytics und Cloud Firestore, um unsere Angebote zu optimieren. Diese Dienste sind integraler Bestandteil unserer Angebote und können nicht deaktiviert werden.
-
-Mehr erfahren Sie in der Datenschutzerklärung der Firma Google unter: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Google Tag Manager verwenden wir bei ardsounds.de zur zentralen Verwaltung und Steuerung von Piano Analytics. Durch Google Tag Manager können bestimmte technische Daten, z.B. HTTP-Logs oder aggregierte Diagnosedaten, an Google übermittelt werden. Es werden keine Nutzungsdaten an Google gesendet. Mehr Informationen zu den GTM-Datenschutzbestimmungen erhalten Sie hier: [https://support.google.com/tagmanager/answer/9323295](https://support.google.com/tagmanager/answer/9323295)
 
 Nielsen Digital Measurement
 
@@ -173,11 +153,15 @@ Wenn Sie unsere Angebote gemeinsam mit dem ARD-Konto nutzen, verarbeiten wir von
 
 Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. a DSGVO.
 
-Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten. Die Verarbeitung der User-ID findet in diesem Fall nur statt, wenn Sie unsere Angebote mit einem angemeldeten ARD-Konto nutzen.
+Wir nutzen Ihre User-ID und Nutzungsdaten innerhalb des ARD-Kontos auch, um die angemeldete Nutzung unserer Angebote statistisch auszuwerten.
 
-Rechtsgrundlage für die analytische Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
+Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. e DSGVO in Verbindung mit den gesetzlichen Bestimmungen zum öffentlich-rechtlichen Telemedienauftrag.
 
-Mehr Informationen zum Datenschutz beim ARD-Konto erhalten Sie in der Datenschutzerklärung ([https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz)) und den Nutzungsbedingungen ([https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen)) zum ARD-Konto.
+Wir weisen darauf hin, dass bei Nutzung des übergreifenden ARD-Kontos zusätzlich personenbezogene Daten von Ihnen erhoben und verarbeitet werden können. Wenn Sie das ARD-Konto im Zusammenhang mit unseren Angeboten nutzen, gilt die Datenschutzerklärung des ARD-Kontos ergänzend zu den hier vorliegenden Informationen.
+
+Die Datenschutzerklärung des ARD-Kontos finden Sie hier: [https://accounts.ard.de/datenschutz](https://accounts.ard.de/datenschutz)
+
+Die Nutzungsbedingungen des ARD-Kontos finden Sie hier: [https://accounts.ard.de/nutzungsbedingungen](https://accounts.ard.de/nutzungsbedingungen)
 
 Chatfunktion
 ------------
@@ -268,4 +252,4 @@ Datenschutzerklärungen der Gemeinschaftseinrichtungen und kooperierten Angebote
 
 • 3sat: [https://www.3sat.de/datenschutz](https://www.3sat.de/datenschutz)
 
-20.5.2026
+4.11.2026

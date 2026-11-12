@@ -2,7 +2,7 @@ Datenschutzerklärung
 
 
 
-(Version 13.9, Datum: 11.10.2026)
+(Version 13.9, Datum: 10.11.2026)
 
 
 

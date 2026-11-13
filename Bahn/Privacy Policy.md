@@ -5,9 +5,9 @@ Eine Nutzung unserer Webseite ist grundsätzlich ohne Angabe personenbezogener D
 Die wichtigsten Fragen im Überblick
 -----------------------------------
 
-### Wer ist verantwortlich für die Datenerhebung und -verarbeitung?
+### Wer ist verantwortlich für die Datenverarbeitung?
 
-#### Wer ist verantwortlich für die Datenerhebung und -verarbeitung?
+#### Wer ist verantwortlich für die Datenverarbeitung?
 
 Bei Nutzung der Website verarbeiten die DB Vertrieb GmbH, die DB Fernverkehr AG und die DB Regio AG Ihre Daten als gemeinsam Verantwortliche.   
 Sollten Sie Fragen oder Anregungen zum Datenschutz haben, kontaktieren Sie bitte eine der aufgeführten Verantwortlichen:
@@ -37,6 +37,10 @@ Für verschiedene Datenverarbeitungen im Zusammenhang mit einem Ticketkauf oder 
 *   Prozesse im Zug (z.B. Fahrkartenverkauf und -kontrolle, Fahrpreisnacherhebung) 
 *   Abwicklung und Auszahlung von Kulanzen und Entschädigungen (z.B. bei Störungen, unvorhergesehenen Ereignissen) 
 *   Umsetzung der Betroffenenrechte, Beschwerdemanagement, Serviceanliegen und Kundendialog 
+
+**Für die Bereitstellung und den Betrieb der Webseite und der damit verbundenen Vertriebsinfrastruktur liegen die Verantwortlichkeiten bei der DB Fernverkehr AG.**
+
+**Über weitere Verantwortlichkeiten informieren wir Sie im** [**Datenschutzhinweis zum DB Kundenkonto**](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)**.**
 
 ### Welche Daten erheben wir und wie und warum verarbeiten wir Ihre Daten?
 

@@ -579,7 +579,7 @@
     
 *   ### 6. Wer ist verantwortlich für die Datenverarbeitung? Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?
     
-    Datenverantwortliche ist die Telekom Deutschland GmbH, Landgrabenweg 149, 53327 Bonn. Bei Fragen können Sie sich an unseren Kundenservice wenden oder an unseren Datenschutzbeauftragten, Friedrich-Ebert-Allee 140, 53113 Bonn, [datenschutz@telekom.de](mailto:datenschutz@telekom.de).
+    Datenverantwortliche ist die Telekom Deutschland GmbH, Landgrabenweg 149, 53227 Bonn. Bei Fragen können Sie sich an unseren Kundenservice wenden oder an unseren Datenschutzbeauftragten, Friedrich-Ebert-Allee 140, 53113 Bonn, [datenschutz@telekom.de](mailto:datenschutz@telekom.de).
     
 *   ### 7\. Welche Rechte habe ich?
     
@@ -589,14 +589,14 @@
     2.  die **Berichtigung** bzw. Ergänzung unrichtiger bzw. unvollständiger Daten zu verlangen (Art. 16 DSGVO);
     3.  eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft zu **widerrufen** (Art. 7 Abs. 3 DSGVO);
     4.  einer Datenverarbeitung, die aufgrund eines berechtigten Interesses erfolgen soll, aus Gründen zu **widersprechen**, die sich aus Ihrer besonderen Situation ergeben (Art. 21 Abs. 1 DSGVO);
-    5.  in bestimmten Fällen im Rahmen des Art. 17 DSGVO die **Löschung** von Daten zu verlangen - insbesondere soweit die Daten für den vorgesehenen Zweck nicht mehr erforderlich sind bzw. unrechtmäßig verarbeitet werden, oder Sie Ihre Einwilligung gemäß oben (c) widerrufen oder einen Widerspruch gemäß oben (d) erklärt haben;
+    5.  in bestimmten Fällen im Rahmen des Art. 17 DSGVO die **Löschung** von Daten zu verlangen - insbesondere soweit die Daten für den vorgesehenen Zweck nicht mehr erforderlich sind bzw. unrechtmäßig verarbeitet werden, oder Sie Ihre Einwilligung gemäß oben (3.) widerrufen oder einen Widerspruch gemäß oben (4.) erklärt haben;
     6.  unter bestimmten Voraussetzungen die **Einschränkung** von Daten zu verlangen, soweit eine Löschung nicht möglich bzw. die Löschpflicht streitig ist (Art. 18 DSGVO);
     7.  auf **Datenübertragbarkeit**, d.h. Sie können Ihre Daten, die Sie uns bereitgestellt haben, in einem gängigen maschinenlesbaren Format wie z.B. CSV erhalten und ggf. an andere übermitteln (Art. 20 DSGVO;)
     8.  sich bei der zuständigen **Aufsichtsbehörde** über die Datenverarbeitung zu **beschweren** (für Telekommunikationsverträge: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit; im Übrigen: Landesbeauftragte für den Datenschutz und die Informationsfreiheit Nordrhein-Westfalen).
     
 *   ### 8. An wen gibt die Telekom meine Daten weiter?
     
-    An **Auftragsverarbeiter**, das sind Unternehmen, die wir im gesetzlich vorgesehenen Rahmen mit der Verarbeitung von Daten beauftragen, Art. 28 DSGVO (Dienstleister, Erfüllungsgehilfen). Die Telekom bleibt auch in dem Fall weiterhin für den Schutz Ihrer Daten verantwortlich. Wir beauftragen Unternehmen insbesondere in folgenden Bereichen: IT, Vertrieb, Marketing, Finanzen, Beratung, Kundenservice, Personalwesen, Logistik, Druck.
+    An **Auftragsverarbeiter**, das sind Unternehmen, die wir im gesetzlich vorgesehenen Rahmen mit der Verarbeitung von Daten beauftragen, Art. 28 DSGVO (Dienstleister, Erfüllungsgehilfen). Die Telekom bleibt auch in dem Fall weiterhin für den Schutz Ihrer Daten verantwortlich. Wir beauftragen Unternehmen insbesondere in folgenden Bereichen: IT, Vertrieb, Marketing, Finanzen, Beratung, Kundenservice, Personalwesen, Logistik und Druck.
     
     An **Kooperationspartner**, die in eigener Verantwortung Leistungen für Sie bzw. im Zusammenhang mit Ihrem Telekom-Vertrag erbringen. Dies ist der Fall, wenn Sie Leistungen solcher Partner bei uns beauftragen oder wenn Sie in die Einbindung des Partners einwilligen oder wenn wir den Partner aufgrund einer gesetzlichen Erlaubnis einbinden.
     
@@ -662,4 +662,4 @@
     
     Alternativ können Sie Ihren Verlauf und Ihre Webseiten-Daten jederzeit über Ihre Browser-Einstellungen löschen. Dadurch werden alle Utiq Einwilligungen aus Ihrem Browser gelöscht. Alle Daten auf der Utiq-Plattform werden ebenfalls innerhalb der in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators "Zum Utiq consenthub Privacy Statement") angegebenen Fristen gelöscht wird. Weitere Informationen über die Utiq Technologie finden Sie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators "Zum Utiq consenthub Privacy Statement").
     
-    Stand der Datenschutzhinweise März 2026
+    Stand der Datenschutzhinweise Juli 2026

@@ -1,7 +1,7 @@
 [Spotify Allgemeine Nutzungsbedingungen](#spotify-allgemeine-nutzungsbedingungen)
 =================================================================================
 
-**Stand: 15.02.2024**
+**Stand:** **13.11.2026**
 
 [1 Einführung, Zugang zu den Spotify-Diensten](#1-einf%C3%BChrung-zugang-zu-den-spotify-diensten)
 
@@ -95,15 +95,13 @@ Die Spotify-Dienste können in Applikationen, Webseiten und Dienste Dritter („
 
 Ein kostenpflichtiges Abonnement können Sie unmittelbar bei Spotify oder über einen Dritten erwerben, (1) indem Sie monatlich im Voraus oder in einer anderen Periode, die wir Ihnen vor Ihrem Erwerb mitteilen, eine Abonnementgebühr zahlen oder (2) durch Leistung einer Vorauszahlung, mit der Sie für einen bestimmten Zeitraum Zugang zu den Spotify-Diensten erhalten („vorausbezahlter Zeitraum"). Wenn Sie ein kostenpflichtiges Abonnement über einen Dritten abschließen, können zusätzlich zu dieser Vereinbarung gesonderte Bedingungen mit dem Dritten bei Ihrer Nutzung der Spotify-Dienste gelten. Wenn Sie ein kostenpflichtiges Abonnement unter Nutzung eines Codes, einer Geschenkkarte, eines vorausbezahlten Angebots oder eines anderen Angebots abschließen, das von oder im Namen von Spotify für den Zugang zu einem kostenpflichtigen Abonnement bereitgestellt oder verkauft wird („Codes"), müssen Sie den Spotify [Karten-Nutzungsbedingungen](https://www.spotify.com/legal/gift-card/) zustimmen.
 
-Wenn Sie sich mit einem Probeabonnement für ein kostenpflichtiges Abonnement registrieren, können Sie Ihre Meinung innerhalb der Laufzeit des Probeabonnements ab dem Tag Ihrer Registrierung für den betreffenden Spotify-Dienst („Bedenkzeit") ohne Angabe von Gründen nach Maßgabe der folgenden Bestimmungen ändern und das kostenpflichtiges Abonnement noch vor dessen Beginn kündigen (in diesem Fall fallen keine Gebühren für das auf diese Weise gekündigte kostenpflichtige Abonnement an):
-
-Wenn Sie sich für ein Probeabonnement registrieren, stimmen Sie zu, dass die Bedenkzeit für das kostenpflichtige Abonnement, für das Sie ein Probeabonnement erhalten, mit Ablauf Ihres Probeabonnements endet. In diesem Fall beginnt das kostenpflichtige Abonnement mit Ablauf des Probeabonnements. Wenn Sie das kostenpflichtige Abonnement nicht vor Ende des Probeabonnements kündigen, verlieren Sie dieses Vorab-Kündigungsrecht und erteilen Spotify die Erlaubnis, Ihnen bis zur Kündigung des kostenpflichtigen Abonnements monatlich die vereinbarte Gebühr in Rechnung zu stellen. Ihre sonstigen gesetzlichen oder vertraglichen Kündigungsrechte nach Maßgabe dieser Allgemeinen Nutzungsbedingungen bleiben hiervon unberührt.
+Wenn Sie sich mit einem Probeabonnement für ein kostenpflichtiges Abonnement registrieren, können Sie Ihre Meinung innerhalb der Laufzeit des Probeabonnements ab dem Tag Ihrer Registrierung für den betreffenden Spotify-Dienst („Bedenkzeit") ohne Angabe von Gründen ändern und das kostenpflichtige Abonnement noch vor dessen Beginn kündigen (in diesem Fall fallen keine Gebühren für das auf diese Weise gekündigte kostenpflichtige Abonnement an).
 
 #### [](#42-widerrufsrecht)**4.2 Widerrufsrecht**
 
-Soweit Sie nicht wirksam auf Ihr Widerrufsrecht verzichtet haben, steht Ihnen, wenn Sie in Deutschland ansässig sind, ein gesetzliches Widerrufsrecht wie folgt zu:
+Ihnen steht ein gesetzliches Widerrufsrecht gemäß den nachstehenden Bestimmungen zu, es sei denn, Sie haben einem vorzeitigen Erlöschen Ihres Widerrufsrechts gemäß den Bestimmungen am Ende dieses Abschnitts zugestimmt.
 
-### [](#widerrufsbelehrung)**WIDERRUFSBELEHRUNG**
+**WIDERRUFSBELEHRUNG**
 
 **Widerrufsrecht**
 
@@ -111,23 +109,31 @@ Soweit Sie nicht wirksam auf Ihr Widerrufsrecht verzichtet haben, steht Ihnen, w
 
 **Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses.**
 
-**Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Spotify AB, Regeringsgatan 19, 111 53 Stockholm, Schweden, E-Mail:** [kundendienst\_de@spotify.com](mailto:kundendienst_de@spotify.com), **Fax: +49 30 5770 2443 mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer [Webseite](https://support.spotify.com/contact-spotify-support/) elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z.B. per Email) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.**
+**Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Spotify AB, [Regeringsgatan 19, 111 53 Stockholm, Schweden](https://www.google.com/maps/search/Regeringsgatan+19,+111+53+Stockholm,+Schweden?entry=gmail&source=g), E-Mail: kundendienst\_de@spotify.com) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer [Webseite](https://support.spotify.com/contact-spotify-support/) elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z.B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln. Sie können Ihr Widerrufsrecht auch online [hier](https://www.spotify.com/account/cancel) ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.**
 
 **Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.**
 
 **Folgen des Widerrufs**
 
-**Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstige Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.**
+**Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.**
+
+**Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen sollen, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.**
+
+**Erlöschen des Widerrufsrechts**
+
+**Bei Verträgen über die Bereitstellung digitaler Inhalte (z. B. der kostenpflichtige Zugang zu einzelnen Hörbuch-Titeln), die nicht auf einem körperlichen Datenträger geliefert werden, erlischt Ihr Widerrufsrecht, sobald Ihnen der Zugang zu Ihren digitalen Inhalten gewährt wird, nachdem (i) Sie Ihre ausdrückliche vorherige Zustimmung erteilt haben, dass mit dem Zugang zu den digitalen Inhalten sofort begonnen wird, (ii) Sie bestätigt haben, dass Ihnen bekannt ist, dass Sie mit der Bereitstellung des Zugangs zu den digitalen Inhalten Ihr Widerrufsrecht verlieren und (iii) wir Ihnen eine Vertragsbestätigung zur Verfügung gestellt haben.**
+
+**Bei Verträgen über die Erbringung von Dienstleistungen (z.B. ein Spotify Premium-Abonnement) erlischt Ihr Widerrufsrecht mit der vollständigen Erbringung der Dienstleistung, wenn Sie vor Beginn der Erbringung (i) ausdrücklich zugestimmt haben, dass wir mit der Erbringung der Dienstleistung vor Ablauf der Widerrufsfrist beginnen, und (ii) Ihre Kenntnis davon bestätigt haben, dass Sie Ihr Widerrufsrecht mit vollständiger Vertragserfüllung durch uns verlieren. Wir werden Sie beim Kauf über das Erlöschen des Widerrufsrechts informieren.**
 
 **Muster-Widerrufsformular**
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
-An die Spotify AB, Regeringsgatan 19, 111 53 Stockholm, Schweden, E-Mail: [kundendienst\_de@spotify.com](mailto:kundendienst_de@spotify.com); Fax: +49 30 5770 2443:
+An die Spotify AB, [Regeringsgatan 19, 111 53 Stockholm, Schweden](https://www.google.com/maps/search/Regeringsgatan+19,+111+53+Stockholm,+Schweden?entry=gmail&source=g), E-Mail: [kundendienst\_de@spotify.com](mailto:kundendienst_de@spotify.com):
 
-Hiermit widerrufe(n) ich/wir (_) den von mir/uns (_) abgeschlossenen Vertrag über den Kauf der folgenden Waren (_)/ die Erbringung der folgenden Dienstleistung (_)
+Hiermit widerrufe(n) ich/wir () den von mir/uns () abgeschlossenen Vertrag über den Kauf der folgenden Waren ()/ die Erbringung der folgenden Dienstleistung ()
 
-Bestellt am (_)/erhalten am (_)
+Bestellt am ()/erhalten am ()
 
 Name des/der Verbraucher(s)
 
@@ -141,7 +147,9 @@ Datum
 
 #### [](#43-abrechnung-und-k%C3%BCndigung-kostenpflichtiger-abonnements)**4.3 Abrechnung und Kündigung kostenpflichtiger Abonnements**
 
-Sofern Ihr kostenpflichtiges Abonnement nicht für einen vorausbezahlten Zeitraum erworben wurde, läuft das kostenpflichtige Abonnement auf unbestimmte Zeit bis zur Kündigung. Am ersten Tag jedes Abrechnungszeitraums wird Ihnen die Abonnementgebühr in Rechnung gestellt und Sie zahlen und ermächtigen uns (oder den betreffenden Dritten, wenn Sie sich über einen Dritten anmelden), über Ihre Zahlungsmethode die jeweils aktuellen Abonnementgebühr zu belasten. Sie können Ihr kostenpflichtiges Abonnement jederzeit kündigen, indem Sie sich bei Ihrem Spotify-Konto anmelden und den Anweisungen auf der Kontoseite folgen oder indem Sie [hier](https://support.spotify.com/de/article/cancel-premium/?_gl=1*2y9g6z*_gcl_au*MTkyNDM5MjI3My4xNzAxNzEwMzMz) klicken und den Anweisungen folgen, falls Sie das kostenpflichtige Abonnement über Spotify erworben haben. Falls Sie das kostenpflichtige Abonnement über einen Dritten erworben haben, sollten Sie dieses möglichst direkt über den Dritten kündigen. Wir können Ihr kostenpflichtiges Abonnement mit einer Frist von mindestens 14 Tagen kündigen. Sofern nicht anders angegeben, wird jede Kündigung von Ihnen oder Spotify am Ende des Abrechnungszeitraums wirksam, in dem Sie oder Spotify kündigen und Sie werden auf den kostenlosen Dienst heruntergestuft.
+Sofern Ihr kostenpflichtiges Abonnement nicht für einen vorausbezahlten Zeitraum erworben wurde, läuft das kostenpflichtige Abonnement auf unbestimmte Zeit bis zur Kündigung. Am ersten Tag jedes Abrechnungszeitraums wird Ihnen die Abonnementgebühr in Rechnung gestellt und Sie zahlen und ermächtigen uns (oder den betreffenden Dritten, wenn Sie sich über einen Dritten anmelden), über Ihre Zahlungsmethode die jeweils aktuellen Abonnementgebühr zu belasten.
+
+Unabhängig von Ihrem Widerrufsrecht wie in Abschnitt 4.2 beschrieben, können Sie Ihr kostenpflichtiges Abonnement jederzeit kündigen, indem Sie sich bei Ihrem Spotify-Konto anmelden und den Anweisungen auf der Kontoseite folgen oder indem Sie [hier](https://support.spotify.com/de/article/cancel-premium/?_gl=1*2y9g6z*_gcl_au*MTkyNDM5MjI3My4xNzAxNzEwMzMz) klicken und den Anweisungen folgen, falls Sie das kostenpflichtige Abonnement über Spotify erworben haben. Falls Sie das kostenpflichtige Abonnement über einen Dritten erworben haben, sollten Sie dieses möglichst direkt über den Dritten kündigen. Wir können Ihr kostenpflichtiges Abonnement mit einer Frist von mindestens 14 Tagen kündigen. Sofern nicht anders angegeben, wird jede Kündigung von Ihnen oder Spotify am Ende des Abrechnungszeitraums wirksam, in dem Sie oder Spotify kündigen und Sie werden auf den kostenlosen Dienst heruntergestuft.
 
 Wenn Sie ein kostenpflichtiges Abonnement durch die Nutzung eines Codeserworben haben, endet Ihr Abonnement automatisch zum Ende des im Code angegebenen Zeitraums oder wenn das Prepaid-Guthaben für die Zahlung der Spotify-Dienste nicht ausreicht.
 

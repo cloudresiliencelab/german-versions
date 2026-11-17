@@ -27,7 +27,7 @@ Inhaltsverzeichnis
 *   [2\. Änderungen der AGB](#2-aenderungen-der-agb)
 *   [3\. Anerkennung der AGB als Vertragsgrundlage/AGB der Kooperationspartner](#3-anerkennung-der-agb-als-vertragsgrundlage-agb-der-kooperationspartner)
 *   [4\. Registrierung/Nutzungsberechtigung](#4-registrierung-nutzungsberechtigung)
-*   [5\. Widerrufsrecht](#5-widerrufsrecht)
+*   [5\. Widerrufsbelehrung und Widerrufsrecht](#5-widerrufsbelehrung-und-widerrufsrecht)
 *   [6\. Kündigung](#6-kuendigung)
 *   [7\. Änderungen und Einstellung von Angeboten der Plattform/Erreichbarkeit](#7-aenderungen-und-einstellung-von-angeboten-der-plattform-erreichbarkeit)
 *   [8\. Haftung von stern](#8-haftung-von-stern)
@@ -44,7 +44,7 @@ Inhaltsverzeichnis
 *   [2\. Kein Ersatz für ärztliche Behandlung](#2-kein-ersatz-fuer-aerztliche-behandlung)
 *   [3\. Keine Gewähr für die Richtigkeit oder Vollständigkeit erteilter Informationen](#3-keine-gewaehr-fuer-die-richtigkeit-oder-vollstaendigkeit-erteilter-informationen)
 *   [4\. Nutzungsvertrag](#4-nutzungsvertrag)
-*   [5\. Widerrufsrecht](#5-widerrufsrecht)
+*   [5\. Widerrufsbelehrung und Widerrufsrecht](#5-widerrufsbelehrung-und-widerrufsrecht)
 *   [6\. Geltung deutschen Rechts](#6-geltung-deutschen-rechts)
 
 mehr anzeigen
@@ -116,10 +116,47 @@ Es besteht kein Rechtsanspruch auf Registrierung. _stern_ ist berechtigt, die Re
 4.2 Der Nutzer ist mit der Registrierung berechtigt, alle Angebote der Plattform wahrzunehmen. Dies gilt u. a. für alle Angebote der "Community" von _stern_ (z. B. Fragen-Community, Foren, Gästebücher, Kommentare, Newsletter usw.) und der "sternblogs" (Nutzer schreiben Kommentare zu Artikeln von Autoren).  
 4.3 Die Nutzung des Angebots der View-Fotocommunity und die Nutzung kostenpflichtiger Dienste des Gesundheitsportals setzen zusätzlich voraus, dass der Nutzer einen Wohnsitz bzw. Sitz in Deutschland oder einem anderen Mitgliedstaat des Europäischen Wirtschaftsraumes oder in der Schweiz hat. Der Nutzer ist verpflichtet, _stern_ über einen Wohnsitzwechsel unverzüglich zu unterrichten. Die Nutzung dieser Angebote bedarf darüber hinaus einer zusätzlichen Registrierung.
 
-5\. Widerrufsrecht
-------------------
+5\. Widerrufsbelehrung und Widerrufsrecht
+-----------------------------------------
 
-Der Nutzungsvertrag kann vom Nutzer innerhalb von zwei Wochen nach Eingang der Registrierungsmitteilung schriftlich widerrufen werden. Der Widerruf ist schriftlich an die G+J Medien GmbH, Am Baumwall 11, 20459 Hamburg oder per E-Mail an [info@stern.de](mailto:info@stern.de) zu senden. Im Betreff sollte "Widerruf Registrierung stern.de" angegeben werden. Zur Fristwahrung genügt, dass der Widerruf rechtzeitig abgesendet wird. Wird der Widerruf rechtzeitig erklärt, ist der Nutzer nicht an den Nutzungsvertrag und diese AGB gebunden.
+Bei Abschluss eines Nutzungsvertrages steht Ihnen als Nutzer das nachfolgende Widerrufsrecht zu:
+
+**Widerrufsrecht**
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses.
+
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (die G+J Medien GmbH, Koreastraße 7, 20457 Hamburg, E-Mail: [info@stern.de](mailto:info@stern.de); Telefon:  +49 40 87709550) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, den Vertrag zu widerrufen, informieren. Sie können dafür das untenstehende Musterformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können Ihr Widerrufsrecht auch online unter [Kontakt – Widerruf](https://serviceportal.stern.de/s/widerrufsformular) ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs. 
+
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+
+**Folgen des Widerrufs**
+
+Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrages bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
+
+Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen sollen, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
+
+**Muster-Widerrufsformular**  
+  
+(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)  
+  
+An  
+(Titel\*)  
+c/o DPV Deutscher Pressevertrieb GmbH, Koreastraße 7, 20457 Hamburg  
+  
+Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag mit dem Vertragspartner über den Kauf der folgenden Waren (\*)/die Erbringung der folgenden Dienstleistung (\*)  
+  
+Bestellt am (\*)/erhalten am (\*)  
+  
+Name des/der Verbraucher(s)  
+  
+Anschrift des/der Verbraucher(s)  
+  
+Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)  
+  
+Datum  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+(\*) Unzutreffendes streichen.
 
 6\. Kündigung
 -------------
@@ -233,10 +270,47 @@ Weder _stern_ noch dessen ärztliche, pharmazeutische, wissenschaftliche oder so
 
 Für die Nutzung einiger Angebote des Gesundheitsportals ist der Abschluss eines zusätzlichen Vertrags über deren Nutzung erforderlich (nachfolgend "der Nutzungsvertrag"). Dieser kommt durch den Antrag des Nutzers auf Registrierung für diese Angebote und der Registrierung durch _stern_ zustande und endet mit Erbringung der jeweiligen Leistung. Die Registrierung wird dem Nutzer auf der entsprechenden Bestätigungsseite mitgeteilt. Der Nutzer erkennt mit seinem Antrag die Geltung der AGB und dieser Besonderen Nutzungsbedingungen als Grundlage des Nutzungsvertrags ausdrücklich an.
 
-5\. Widerrufsrecht
-------------------
+5\. Widerrufsbelehrung und Widerrufsrecht
+-----------------------------------------
 
-Dem Nutzer steht das in Ziff. 5 der AGB beschriebene Widerrufsrecht zu. Der Widerruf ist schriftlich an die G+J Medien GmbH, Am Baumwall 11, 20459 Hamburg oder per E-Mail an [info@stern.de](mailto:info@stern.de) zu senden. Im Betreff sollte "Widerruf der Registrierung beim Gesundheitsportal" angegeben werden.
+Bei Abschluss eines Nutzungsvertrages steht Ihnen als Nutzer das nachfolgende Widerrufsrecht zu:
+
+**Widerrufsrecht**
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses.
+
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (die G+J Medien GmbH, Koreastraße 7, 20457 Hamburg, E-Mail: [info@stern.de](mailto:info@stern.de); Telefon:  +49 40 87709550) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, den Vertrag zu widerrufen, informieren. Sie können dafür das untenstehende Musterformular verwenden, das jedoch nicht vorgeschrieben ist. Sie können Ihr Widerrufsrecht auch online unter [Kontakt – Widerruf](https://serviceportal.stern.de/s/widerrufsformular) ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs. 
+
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+
+**Folgen des Widerrufs**
+
+Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrages bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
+
+Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen sollen, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
+
+**Muster-Widerrufsformular**  
+  
+(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)  
+  
+An  
+(Titel\*)  
+c/o DPV Deutscher Pressevertrieb GmbH, Koreastraße 7, 20457 Hamburg  
+  
+Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag mit dem Vertragspartner über den Kauf der folgenden Waren (\*)/die Erbringung der folgenden Dienstleistung (\*)  
+  
+Bestellt am (\*)/erhalten am (\*)  
+  
+Name des/der Verbraucher(s)  
+  
+Anschrift des/der Verbraucher(s)  
+  
+Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)  
+  
+Datum  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+(\*) Unzutreffendes streichen.
 
 6\. Geltung deutschen Rechts
 ----------------------------

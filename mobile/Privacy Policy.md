@@ -3,8 +3,8 @@ mobile.de Datenschutzerklärung
 
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.
 
-Diese Datenschutzerklärung ist gültig ab 9.9.2026
--------------------------------------------------
+Diese Datenschutzerklärung ist gültig ab 23.9.2026
+--------------------------------------------------
 
 ### 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 
@@ -289,7 +289,7 @@ Informationen zu Ihrem Widerspruchsrecht gegen die Verarbeitung auf Basis unsere
 
 ### 5.5 Mit Ihrer Einwilligung verarbeiten wir Ihre personenbezogenen Daten zu den folgenden Zwecken:
 
-*   Personalisierung, Messung und Verbesserung unserer Werbeanzeigen und Werbeanzeigen Dritter in unseren Online-Angeboten, Online-Angeboten anderer Mitglieder unserer Unternehmensgruppe oder Dritter.
+*   Personalisierung, Messung und Verbesserung unserer Werbeanzeigen und Werbeanzeigen Dritter in unseren Online-Angeboten, Online-Angeboten anderer Mitglieder unserer Unternehmensgruppe oder Dritter. Hierzu setzen wir Cookies und vergleichbare Technologien wie Pixel ein. Informationen über Ihre Nutzung unserer Services, etwa aufgerufene Seiten und abgeschlossene Aktionen, können wir außerdem unmittelbar von unseren Servern an Werbepartner übermitteln. Beides geschieht nur, wenn Sie in die Verarbeitung zu diesem Zweck eingewilligt haben. Einige Werbepartner können dabei auch Angaben, die Sie in Formulare auf unseren Seiten eingeben, etwa Ihre E-Mail-Adresse, in pseudonymisierter (gehashter) Form erfassen. Soweit Werbepartner über diese Technologien Daten erheben, sind wir für die Erhebung und Übermittlung gemeinsam mit dem jeweiligen Partner verantwortlich. Soweit der Partner die Daten anschließend für eigene Zwecke verarbeitet, ist er dafür allein verantwortlich. Werbepartner können die Daten auch außerhalb des EWR, insbesondere in den USA, verarbeiten. Einzelheiten zu den einzelnen Partnern finden Sie in den Anbieterinformationen in unseren Datenschutzeinstellungen.
     
 *   Conversion-Messung mit Google Ads (Enhanced Conversions). Wenn Sie in den Nutzerabgleich für Marketing-Zwecke eingewilligt haben und in Ihrem mobile.de-Konto angemeldet sind, übermitteln wir bei einer Kontaktaufnahme mit einem Anbieter (Kontaktanfrage oder Abruf der Telefonnummer) Ihre E-Mail-Adresse in gehashter Form zusammen mit der Information über die Kontaktaufnahme an Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google gleicht den Hashwert mit eigenen Kontodaten ab und stellt uns das Ergebnis nur in zusammengefasster Form zur Verfügung. Google handelt dabei als unser Auftragsverarbeiter. Eine Übermittlung an Google LLC in den USA ist möglich. Google LLC ist unter dem EU-U.S. Data Privacy Framework zertifiziert. Rechtsgrundlage ist Ihre Einwilligung (§ 25 Abs. 1 TDDDG, Art. 6 Abs. 1 lit. a DSGVO). Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie den Schalter ‚Nutzerabgleich für Marketing-Zwecke‘ unter [Personalisierung des Nutzererlebnisses - mobile.de](https://www.mobile.de/consent) deaktivieren.
     

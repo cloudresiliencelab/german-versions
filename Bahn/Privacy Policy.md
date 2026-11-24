@@ -191,17 +191,8 @@ Für Zwecke der Betrugsprävention verwenden wir die Technologie JSC-Tools der R
 **easy Marketing**   
 Mit den Technologien von easy Marketing GmbH (Asselner Hellweg 124, 44319 Dortmund) stellen wir die Vergütung von Partnerunternehmen sicher, falls Sie eine Buchung auf bahn.de nach Klick auf einen DB-Affiliate-Link bzw. Werbemittel durchgeführt haben. Hierfür werden Cookies mit einer Laufzeit von 12 Monaten ausgewertet, in die Sie zuvor auf diesen Partner-Sites eingewilligt haben. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG in Verbindung mit Art. 6 Abs. 1 lit. f) DSGVO. Das berechtigte Interesse liegt dabei darin, die Affiliate-Abrede für den herbeigeführten Ticket-Kaufvertrag entsprechend vergüten zu können. 
 
-**CrossEngage**   
-Wenn Sie Inhaber eines bahn.de-Kundenkontos sind, können Ihnen persönliche Angebote und Aktionen angezeigt werden, nachdem Sie sich eingeloggt haben. Falls Sie dem Einsatz von Marketing-Cookies zugestimmt haben, wird zusätzlich Ihr Online-Nutzungsverhalten berücksichtigt. Für die Gestaltung der persönlichen Inhalte auf bahn.de werden Cookies mit einer Laufzeit von 13 Monaten in Ihrem Browser gesetzt. Die hierbei verwendeten Daten werden pseudonymisiert auf Servern unseres Dienstleisters CrossEngage GmbH (Bertha-Benz-Str. 5, 10557 Berlin) verarbeitet. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG in Verbindung mit Art. 6 Abs. 1 lit. b) DSGVO. 
-
 **Tealium**   
 Für Zwecke der dynamischen Anpassbarkeit dieser Website und für die Verwaltung der dynamischen Inhalte setzen wir den Tag Management Dienst Tealium iQ (Tealium Inc., 9605 Scranton Rd., Ste. 600 San Diego, CA 92121, USA) ein. Dies umfasst auch die Verarbeitung der von Ihnen gewählten Cookie-Einstellungen. Die hierfür eingesetzten Cookies haben eine Laufzeit von 12 Monaten. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG. Rechtsgrundlage für die Protokollierung Ihrer Einwilligung ist Art. 6 Abs. 1 lit. b) DSGVO. 
-
-**Qualtrics**   
-Zur kontinuierlichen Verbesserung unserer Angebote und Services laden wir Sie ggf. auf unserer Website zu Umfragen ein. Dazu verwenden wir die Technologien von Qualtrics LLC (333 W. River Park Drive, Provo UT 84604, USA). Die Informationen werden anonym erhoben. Die von Qualtrics gesetzten Cookies haben den Zweck, Nutzerinnen und Nutzern innerhalb eines bestimmten Zeitraums von Mehrfachteilnahmen auszuschließen. Die Cookies haben eine Laufzeit von 12 Monaten. Die Teilnahme an den Umfragen ist freiwillig. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG. Sofern personenbezogene Daten in Freitextfelder eingegeben werden, ist Art.6 Abs.1 lit b) DSGVO die Rechtsgrundlage. 
-
-**Verint Systems GmbH**  
-Auf dieser Website werden durch Technologien der Verint Systems GmbH (Ziegelteich 29, 24103 Kiel) Sitzungs- und Interaktionsdaten der Website-Besucher gesammelt und gespeichert. Diese Informationen werden verwendet, um den Inhalt und die Benutzerfreundlichkeit der Seiten zu verbessern. Zu diesem Zweck werden auch Cookies eingesetzt, welche eine Laufzeit von 24 Monaten haben. Rechtsgrundlage für den Einsatz der Technologie ist § 25 Abs. 2 Nr. 2 TDDDG in Verbindung mit Art. 6 Abs. 1 lit. b) DSGVO.
 
 **Optimizely**   
 Damit wir die bestmögliche Gestaltung unserer Website bereitstellen können, zeigen wir Ihnen im Rahmen des sogenannten A/B-Testing leicht variierte Inhalte an und messen die Reaktion darauf. Der hierfür verwendete Webanalysedienst Optimizely (119 5th Ave 7th floor, New York, NY 10003, USA) speichert dazu benötigte Informationen auf Ihrem Endgerät. Die Informationen werden für die Dauer des einzelnen Testlaufs ohne Personenbezug auf Servern von Optimizely in den USA verarbeitet. Rechtsgrundlage hierfür ist § 25 Abs. 2 Nr. 2 TDDDG in Verbindung mit Art. 6 Abs. 1 lit. b) DSGVO.
@@ -230,6 +221,15 @@ Adform verwendet diese Information, um gezieltere, nutzungsbasierte Online-Werbu
 
 **Exactag**  
 Wir nutzen den Analysedienst der Exactag GmbH (Wanheimer Straße 68, 40468 Düsseldorf) auf unserer Website. Über Cookies werden Daten darüber gespeichert, wie Sie bahn.de nutzen. Hierbei werden auch Vorgangskennungen verarbeitet, die bei Weiterleitung von anderen Webseiten (z.B. LinkeId.com, Bing.com, Google.com, Youtube.com) übermittelt werden, und die erfolgreiche Weiterleitung ggf. an den Betreiber der jeweiligen Webseite zurückgemeldet. Personenbezogene Daten übermitteln wir nicht. Das von Exactag gesetzte Cookie hat eine Laufzeit von 6 Monaten. 
+
+**CrossEngage**  
+Wenn Sie Inhaber eines DB Kundenkontos sind, können Ihnen persönliche Angebote und Aktionen angezeigt werden, nachdem Sie sich eingeloggt oder die "angemeldet bleiben" Funktion aktiviert haben. Um diese Inhalte gestalten zu können, wird nach Ihrer Einwilligung ein Cookie mit einer Laufzeit von 13 Monaten in Ihrem Browser gesetzt. Die über das Cookie ermittelten Daten werden pseudonymisiert auf Servern unseres Dienstleisters CrossEngage GmbH (Bertha-Benz-Str. 5, 10557 Berlin) verarbeitet.
+
+**Qualtrics**  
+Zur kontinuierlichen Verbesserung unserer Angebote und Services laden wir Sie ggf. auf unserer Website zu Umfragen ein. Dazu verwenden wir die Technologien von Qualtrics LLC (333 W. River Park Drive, Provo UT 84604, USA). Die Informationen werden anonym erhoben. Die von Qualtrics gesetzten Cookies haben den Zweck, Nutzerinnen und Nutzern innerhalb eines bestimmten Zeitraums von Mehrfachteilnahmen auszuschließen. Die Cookies haben eine Laufzeit von 12 Monaten. Die Teilnahme an den Umfragen ist freiwillig. Sofern Sie personenbezogene Daten in Freitextfelder eingeben, erfolgt deren Verarbeitung auf Rechtsgrundlage des Art.6 Abs.1 lit. a) DSGVO.
+
+**Verint Systems GmbH**  
+Auf dieser Website werden durch Technologien der Verint Systems GmbH (Ziegelteich 29, 24103 Kiel) Sitzungs- und Interaktionsdaten der Website-Besucherinnen und -Besuchern gesammelt und gespeichert. Diese Informationen werden verwendet, um den Inhalt und die Benutzerfreundlichkeit der Seiten zu verbessern. Zu diesem Zweck werden auch Cookies eingesetzt, welche eine Laufzeit von 24 Monaten haben.
 
 ### Welche Rechte haben Nutzerinnen und Nutzer von bahn.de?
 

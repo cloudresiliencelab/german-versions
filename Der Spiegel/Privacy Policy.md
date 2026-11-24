@@ -508,6 +508,18 @@ Meta Remarketing/Retargeting
 
 Wir haben in unseren Angeboten, wo passend, Remarketing-Tags von »Meta« (Meta Platforms Inc, 1601 Willow Road, Menlo Park, CA 94025, USA) zugehörigen sozialen Netzwerken (bspw. Facebook) integriert. Wenn Sie bei einem der Netzwerke angemeldet sind, erhält die Plattform über eigens gesetzte Cookies im Webbrowser oder in der APP die Information, dass Sie unsere Seite besucht haben, wodurch wir Sie mit Werbung auf den Meta zugehörigen Netzwerken ansprechen können. Die Übermittlung Ihrer Daten als Nutzer:in wird in der Datenschutzerklärung von Meta selbst geregelt. Sie können [hier](https://www.facebook.com/privacy/center/)  die Datenschutzeinstellungen für Ihr Profil verwalten. Wenn Sie darüber hinaus ein Kundenkonto bei uns besitzen und sich durch den Login bei uns authentifizieren, können wir mittels einer eindeutigen Kennung Ihre Profil-/Bestandsdaten endgeräteübergreifend mit Ihren Nutzungsdaten verknüpfen. Auf Grundlage dieser angereicherten Profile können wir Ihnen individualisierte Verlagsangebote über unser Werbenetzwerk zukommen lassen.
 
+_OpenAI Remarketing (Werbepixel)_
+
+Wir schalten Anzeigen für unsere Verlagsangebote auch in Diensten des Anbieters OpenAI. Dafür haben wir auf unseren Webseiten das Werbepixel von OpenAI integriert.
+
+Dieses übermittelt an OpenAI die Information, dass Ihr Browser unsere Webseite aufgerufen hat, sowie die dabei anfallenden Ereignisdaten (z. B. Seitenaufrufe, Klicks und Zeitstempel), Geräte- und Browserinformationen und eine Cookie- bzw. Online-Kennung. Auf dieser Grundlage kann OpenAI Ihrem Browser Anzeigen für unsere Verlagsangebote ausspielen, wenn Sie später Dienste von OpenAI nutzen (sogenanntes "Remarketing"). Zusätzlich erhalten wir aggregierte Auswertungen zu Häufigkeit, Reichweite und Wirksamkeit unserer Anzeigen, mit denen wir unsere Werbemaßnahmen steuern.
+
+Die Rechtsgrundlage für die Weitergabe Ihrer Daten an OpenAI ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG.
+
+Die Daten werden an OpenAI Ireland Limited (Dublin, Irland) für Daten aus dem EWR und der Schweiz sowie an OpenAI OpCo, LLC (San Francisco, USA) übermittelt. OpenAI kann die Daten an weitere Empfänger in Drittländern weitergeben. Für Übermittlungen in Drittländer stellt OpenAI nach eigenen Angaben geeignete Garantien gemäß Art. 46 DSGVO sicher. Sofern Sie die Werbefrei-lesen-Option gebucht haben, wird das Pixel nicht eingesetzt.
+
+OpenAI verarbeitet die über den Pixel erhobenen Daten als eigenständig Verantwortlicher für eigene Zwecke. Zu diesen Zwecken gehören auch die Entwicklung und Verbesserung der OpenAI-Produkte. Weitere Informationen zur Verarbeitung durch OpenAI finden Sie in den Werbebestimmungen ([Werbebestimmungen | OpenAI](https://openai.com/de-DE/policies/advertising-terms/) ) und im Datenverarbeitungszusatz für Werbetools ([OpenAI Ad Tools Data Processing Addendum | OpenAI](https://openai.com/policies/ad-tools-dpa/) ).
+
 Bing Ads
 
 Der Dienst des US-Unternehmens »Microsoft« (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) setzt ein Cookie, wenn Sie über eine Bing-Anzeige auf eine unserer Angebotsseiten gelangt sind, damit wir die Gesamtzahl der Klicks von der Anzeige auf unsere Angebote erfahren. Ihr Nutzungsprofil wird nur pseudonymisiert erfasst. Eine Übertragung von Daten findet nicht statt. Sie können dies [hier](http://choice.microsoft.com/de-DE/opt-out)  unterbinden.
@@ -743,4 +755,4 @@ Für Fragen zur Verarbeitung Ihrer Nutzungsdaten oder zur Wahrnehmung Ihrer Rech
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 7.4
+Versionsnummer: 7.5

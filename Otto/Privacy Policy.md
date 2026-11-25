@@ -577,7 +577,7 @@ Rechtsgrundlage für diese Datenverarbeitung(en) ist Artikel 6 Absatz 1 Buchstab
 
 **Beispielhafte Nennung von Speicherdauern:**
 
-**Daten im Kundenkonto**: Unbegrenzte Speicherung der Stammdaten bei Aktivität des Kunden. Das Kundenkonto wird nach 3 Jahren einer Inaktivität gelöscht. Wird ein Kundenkonto angelegt und erfolgt innerhalb von 30 Tagen nach Anlage keine Bestellung, wird das Kundenkonto automatisch gelöscht.  
+**Daten im Kundenkonto**: Unbegrenzte Speicherung der Stammdaten bei Aktivität des Kunden. Das Kundenkonto wird nach 4 Jahren einer Inaktivität gelöscht. Wird ein Kundenkonto angelegt und erfolgt innerhalb von einem Jahr nach Anlage keine Bestellung, wird das Kundenkonto automatisch gelöscht.  
 **Nutzung von Daten zu Marketingzwecken (ohne Tracking)**: 3 Jahre  
 **Einwilligungen**: Dauerhafte Speicherung, so lange die Einwilligungen kontinuierlich genutzt werden (z.B. dauerhafte Versendung von E-Mail-Newslettern).  
 **Information über die Nutzung von Daten zu Drittwerbezwecken zum Zweck der Auskunfterteilung**: 2 Jahre  

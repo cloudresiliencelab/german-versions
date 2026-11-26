@@ -152,13 +152,15 @@ Insoweit Sie darum gebeten werden, für die Erteilung einer Auskunft zu den Zahl
 
 [9\. Zahlungen](#block9)
 
-[10\. Empfänger außerhalb der EU](#block10)
+[10\. Weiterentwicklung unserer Produkte, Systeme und Services](#block8)
 
-[11\. Dauer der Speicherung der Daten](#block11)
+[11\. Empfänger außerhalb der EU](#block10)
 
-[12\. Ihre Rechte](#block12)
+[12\. Dauer der Speicherung der Daten](#block11)
 
-[12.1. Ihre Rechte im Einzelnen](#block121)
+[13\. Ihre Rechte](#block12)
+
+[13.1. Ihre Rechte im Einzelnen](#block121)
 
 **1\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen  
 **Diese Datenschutzinformationen gelten für die Datenverarbeitung durch die
@@ -551,15 +553,15 @@ Die Erstellung dieser E-Mails und der Versand erfolgen nicht durch OTTO, selbst 
 **Unser Tipp und Service für Sie:** Sollten Sie einmal unsicher sein, nutzen Sie einfach unseren kostenlosen Rückruf-Service oder schreiben Sie uns eine E-Mail an: impressum@info.otto.de 
 
 **7\. Kontaktaufnahme mit OTTO / mit Partnern  
-**Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon, per Chat oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten (inkl. bereitgestellte Dokumente), die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können. In diesem Kontext kann es auch zur Verwendung von künstlicher Intelligenz (z.B. im Rahmen des OTTO KI-Assistenten im Rahmen des Kundenservice oder der Produktberatung) kommen.
+**Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon, per Chat oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten (inkl. bereitgestellte Dokumente), die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können.
 
-Zur Verbesserung unserer Services verwenden wir Ihre Daten nur, wenn Sie der Verwendung zu Optimierungszwecken zugestimmt haben (z.B. am Telefon oder bei Nutzung des Chatbots Ally).
+In diesem Kontext kann es auch zur Verwendung von KI-gestützten Systemen (z.B. im Rahmen des OTTO KI-Assistenten im Rahmen des Kundenservice oder der Produktberatung) kommen. Diese können uns beispielsweise dabei unterstützen, Anfragen entgegenzunehmen und einem Themenbereich zuzuordnen, Inhalte zusammenzufassen, die für die Bearbeitung relevanten Informationen zu ermitteln oder Antworten auf Anfragen zu erstellen. Soweit Sie unmittelbar mit einem KI-Assistenten kommunizieren, werden Ihre Eingaben verarbeitet, um Ihre Anfrage zu bearbeiten und Ihnen eine Antwort bereitzustellen.
 
 Insofern OTTO ihnen die Möglichkeit gibt, Kontakt zu anderen Händlern als OTTO auf der Plattform otto.de aufzunehmen, speichert OTTO den Inhalt der Kommunikation grundsätzlich ausschließlich zum Zweck des Informationsaustausches zwischen Ihnen und dem jeweiligen Partner von OTTO. OTTO hat nur in wenigen Fällen die Möglichkeit, den Inhalt der Kommunikation auch zu eigenen Zwecken zu verarbeiten. Eine solche Möglichkeit besteht z.B. im Hinblick auf die Erkennung und Vermeidung von Betrugstaten.
 
 Insoweit Sie sich an OTTO als Betreiber der Plattform otto.de wenden und OTTO in diesem Zusammenhang Leistungen für Partner von OTTO auf der Plattform otto.de übernimmt (z.B. „First-Level-Support), verarbeitet OTTO die im Rahmen der Erbringung dieser Leistungen erhobenen Daten grundsätzlich im Auftrag des jeweiligen Partners.
 
-Rechtsgrundlage für diese Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe a), Artikel 6 Absatz 1 Buchstabe b), Artikel 6 Absatz 1 Buchstabe c) DSGVO sowie Artikel 6 Absatz 1 Buchstabe f) DSGVO.
+Soweit die Verarbeitung zur Durchführung eines Vertrags oder vorvertraglicher Maßnahmen erforderlich ist, erfolgt sie gemäß Artikel 6 Absatz 1 Buchstabe b) DSGVO. Soweit die Verarbeitung zur Erfüllung gesetzlicher Verpflichtungen erforderlich ist, erfolgt sie gemäß Artikel 6 Absatz 1 Buchstabe c) DSGVO. Im Übrigen stützen wir die Verarbeitung auf Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse besteht in der effizienten Bearbeitung Ihrer Anfrage und der Bereitstellung eines effektiven Kundenservice sowie zur Sicherheit unserer Plattform und dem Schutz vor Betrugstaten. Zur Verbesserung und Optimierung unserer Services verwenden wir Ihre personenbezogenen Daten nur, wenn Sie hierin eingewilligt haben, zum Beispiel am Telefon. Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe a) DSGVO. Die Einwilligung können Sie jederzeit widerrufen.
 
 **8\. Kundenbewertungen / Kommentare / sonstige Beiträge  
 **Wenn Nutzer Kommentare / Produktbewertungen oder sonstige Beiträge auf otto.de hinterlassen, werden ihre IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des Artikel 6 Absatz 1 Buchstabe f) DSGVO für 7 bzw. 14 Tage gespeichert. Das erfolgt zu unserer Sicherheit, falls in Kommentaren und Beiträgen rechtswidrige Inhalte hinterlassen werden (Beleidigungen, verbotene politische Propaganda etc.). Wenn Sie einen Kommentar, eine Empfehlung oder eine Bewertungen zu Produkten, Marken und Styles abgeben, verarbeiten wir jene personenbezogenen Daten, die Sie im Rahmen des Kommentars oder einer Bewertung freiwillig eingeben.
@@ -569,10 +571,19 @@ Rechtsgrundlage für diese Datenverarbeitung(en) ist Artikel 6 Absatz 1 Buchstab
 **9\. Zahlungen  
 **Die Zahlungsarten auf otto.de werden von dem Zahlungsdienstleister OTTO Payments GmbH („OTTO Payments“) angeboten. Insofern die OTTO Payments nach einer erfolgten Risikoprüfung (Bonitätsprüfung und / oder Prüfung zur Vermeidung von Betrugstaten, vgl die Ausführungen unter Ziffer 3.1.2. und Ziffer 3.1.3.) Ihnen eine Zahlungsart einräumt und Sie diese in Anspruch nehmen, erfolgt eine Abtretung der jeweiligen Forderung an die OTTO Payments und die OTTO Payments macht Ihnen gegenüber die Forderung daraufhin geltend. Die Datenschutzinformationen der OTTO Payments sind unter: [https://www.otto.de/shoppages/service/ottopayments/datenschutzinformationen\_otto\_payments](https://www.otto.de/shoppages/service/ottopayments/datenschutzinformationen_otto_payments) abrufbar.
 
-**10\. Empfänger außerhalb der EU  
+**10\. Weiterentwicklung unserer Produkte, Systeme und Services  
+**Wir verarbeiten personenbezogene Daten, um unsere Produkte, Services und technischen Systeme weiterzuentwickeln und zu verbessern, soweit dies für den jeweiligen Zweck erforderlich ist. Hierzu nutzen wir Erkenntnisse über die Nutzung unserer Angebote, Kundenpräferenzen sowie aggregierte, pseudonymisierte oder anonymisierte Datenbestände. Darüber hinaus setzen wir moderne Analyseverfahren und Systeme des maschinellen Lernens sowie der künstlichen Intelligenz ein, um bestehende Funktionen zu optimieren und neue Lösungen zu entwickeln.
+
+Dies umfasst insbesondere die Verbesserung von Produktempfehlungen, Such- und Personalisierungsfunktionen, die Optimierung von Geschäfts- und Logistikprozessen, die Weiterentwicklung von Maßnahmen zur IT-Sicherheit und Betrugsprävention sowie die Verbesserung der Nutzerfreundlichkeit der digitalen Angebote. Zur Erreichung dieser Zwecke können wir personenbezogene Daten zudem anonymisieren. 
+
+Die im Rahmen dieser Verarbeitungen gewonnenen Erkenntnisse können zudem zur Entwicklung, zum Training, zur Validierung und zur Verbesserung von Algorithmen und KI-gestützten Systemen genutzt werden, die zur Erbringung und Weiterentwicklung unserer Services eingesetzt werden.
+
+Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten einschließlich ihrer Anonymisierung zu den vorstehend genannten Zwecken ist regelmäßig Artikel 6 Absatz 1 Buchstabe f DSGVO. Unser berechtigtes Interesse liegt in der kontinuierlichen Verbesserung unserer Produkte, Dienstleistungen und technischen Systeme sowie in der Entwicklung innovativer, sicherer und kundenorientierter Angebote. Soweit wir für eine bestimmte Verarbeitung Ihre Einwilligung eingeholt haben, erfolgt die Verarbeitung auf Grundlage von Artikel 6 Absatz 1 Buchstabe a) DSGVO. Ihr Einwilligung können Sie mir Wirkung für die Zukunft widerrufen.
+
+**11\. Empfänger außerhalb der EU  
 **Mit Ausnahme der Verarbeitungen, bei denen wir über die Möglichkeit der Übermittlung von Daten an Empfänger mit Sitz außerhalb der EU in diesen Hinweisen zum Datenschutz aufklären, geben wir Ihre Daten nicht an Empfänger mit Sitz außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraumes weiter. Die Datenübermittlungen erfolgen in der Regel auf Grundlage sogenannter [Standardvertragsklauseln](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj) der EU-Kommission oder eines gültigen Angemessenheitsbeschlusses.
 
-**11\. Dauer der Speicherung der Daten  
+**12\. Dauer der Speicherung der Daten  
 **Die Dauer der Speicherung der über Sie erhobenen Daten ist von dem Zweck, zu dem OTTO die Daten verarbeitet, abhängig. Die Speicherung erfolgt so lange diese für die Erreichung des verfolgten Zwecks erforderlich ist. Insofern OTTO aufgrund gesetzlicher Verpflichtungen (z.B. steuerrechtliche Verpflichtungen) bestimmte Datenkategorien über einen bestimmten Zeitraum speichern muss, erfolgt die Fortführung der Speicherung der Daten, nachdem deren Speicherung für die Erreichung des jeweiligen Zwecks nicht mehr erforderlich ist, ausschließlich zum Zweck der Erfüllung der gesetzlichen Verpflichtung. In diesem Fällen werden die Daten für Zugriffe gesperrt.
 
 **Beispielhafte Nennung von Speicherdauern:**
@@ -584,12 +595,12 @@ Rechtsgrundlage für diese Datenverarbeitung(en) ist Artikel 6 Absatz 1 Buchstab
 **Trackingdaten**: 2 Jahre  
 **Daten zum Zweck der Umsetzung von (Werbe-)widersprüchen**: Unbegrenzte Speicherung
 
-**12\. Ihre Rechte**
+**13\. Ihre Rechte**
 
 **Kurzzusammenfassung  
 **Im Zusammenhang mit der Verarbeitung personenbezogener Daten durch OTTO stehen Ihnen Betroffenenrechte zu. Sie haben z.B. das Recht, Auskunft im Hinblick auf die über Sie durch OTTO gespeicherten Daten geltend zu machen. Auch können Sie gegenüber OTTO erteilte Einwilligungen widerrufen und Widerspruch gegen einzelne Datenverarbeitungen einlegen. Sie haben des Weiteren das Recht, dass unrichtige Daten korrigiert werden und können von OTTO verlangen, Ihnen bestimmte Daten in einem gängigen elektronischen Format zu übermitteln. Außerdem haben Sie ein Recht auf Löschung der durch OTTO über Sie gespeicherten Daten. Bitte beachten Sie diesbezüglich, dass OTTO aus gesetzlichen Gründen verpflichtet sein kann, trotz der Geltendmachung Ihres Rechts auf Löschung die Daten weiterhin zu speichern. Außerdem hat OTTO in einzelnen Konstellationen ein Interesse an der Fortführung der Speicherung Ihrer Daten, das Ihrem Interesse an deren Löschung überwiegt (z.B., wenn OTTO noch offene Forderungen Ihnen gegenüber innehat). Betroffenenrechte, die sich auf Verarbeitungen von Daten durch Partner auf der Plattform otto.de beziehen, müssen Sie gegenüber den jeweiligen Partnern geltend machen. Die Partner sind von OTTO dazu verpflichtet worden, entsprechende Hinweise zum Datenschutz auf otto.de zum Abruf bereitzustellen.
 
-**12.1. Ihre Rechte im Einzelnen  
+**13.1. Ihre Rechte im Einzelnen  
 **Neben dem Recht auf Widerruf Ihrer uns gegenüber erteilten Einwilligungen stehen Ihnen bei Vorliegen der jeweiligen gesetzlichen Voraussetzungen die folgenden weiteren Rechte zu:
 
 • **das Recht auf Auskunft über Ihre bei uns gespeicherten persönlichen Daten (Artikel 15 DSGVO)**, insbesondere können Sie Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, die Herkunft ihrer Daten, sofern diese nicht direkt bei Ihnen erhoben wurden, verlangen;
@@ -602,6 +613,8 @@ Rechtsgrundlage für diese Datenverarbeitung(en) ist Artikel 6 Absatz 1 Buchstab
 
 • **das Recht auf Datenübertragbarkeit (Artikel 20 DSGVO)**, d.h. das Recht, ausgewählte bei uns über Sie gespeicherte Daten in einem gängigen, maschinenlesbaren Format übertragen zu bekommen, oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;
 
+• **das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten (Artikel 21 DSGVO)**, soweit die Verarbeitung auf Grundlage berechtigter Interessen erfolgt; liegen die gesetzlichen Voraussetzungen vor, werden wir Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten;
+
 •  **das Recht auf Beschwerde bei einer Aufsichtsbehörde**. In der Regel können Sie sich hierfür an die Aufsichtsbehörde ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Unternehmenssitzes wenden.
 
 Die zuvor genannten, Ihrerseits gegenüber OTTO zustehenden Rechte, können Sie unter [datenschutzauskunft@info.otto.de](mailto:datenschutzauskunft@info.otto.de) geltend machen. Das Recht auf Auskunft und Datenübertragbarkeit können Sie in Ihrem [Kundenkonto](https://www.otto.de/myaccount/dashboard) geltend machen.
@@ -612,4 +625,4 @@ Eine Auskunft über Ihre bei uns gespeicherten persönlichen Daten können Sie z
 
   
   
-**Stand**: 30.09.2026
+**Stand**: 26.11.2026

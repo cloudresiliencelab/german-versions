@@ -3,8 +3,8 @@ mobile.de Datenschutzerklärung
 
 In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über unseren Umgang mit Ihren personenbezogenen Daten und Ihre diesbezüglichen Rechte zusammengestellt.
 
-Diese Datenschutzerklärung ist gültig ab 23.9.2026
---------------------------------------------------
+Diese Datenschutzerklärung ist gültig ab 26.11.2026
+---------------------------------------------------
 
 ### 1\. Anwendungsbereich und Aktualisierung dieser Datenschutzerklärung
 
@@ -145,12 +145,12 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
     
 *   Darstellung der Geschäftsadresse von angemeldeten Automobil-Händlern in einer Karte in Inseraten des jeweiligen Händlers (Hierzu übermitteln wir die Adressdaten an externe Dienstleister wie Google Ireland Limited im Rahmen von Google Maps ([Google Datenschutzerklärung](https://policies.google.com/privacy?hl=de-de)). Falls ein Händler nicht möchte, dass seine Standortangaben in einer Karte in seinen Inseraten angezeigt werden, kann er sich jederzeit an den mobile.de Kundenservice wenden.).
     
-*   Gewährung des Zugriffs auf Ihre Inserate und deren Inhalt für andere Mitglieder unserer Unternehmensgruppe (insbesondere [Kleinanzeigen](https://www.kleinanzeigen.de/) für den automatischen Export von Inseraten) oder kooperierende externe Anbieter von Websites, Anwendungen, Dienstleistungen und Tools, mit denen wir gemäß unseren Allgemeinen Geschäftsbedingungen zusammenarbeiten, damit diese Ihre Inserate und deren Inhalt auf ihren Websites oder in ihren Anwendungen, Dienstleistungen und Tools veröffentlichen oder bewerben.  
-      
-    Bereitstellung unseres KI-Assistenten mobee auf unserer Website und über WhatsApp, einschließlich der Beantwortung Ihrer Anfragen mit Hilfe eines Sprachmodells. Einzelheiten, auch zur Verarbeitung auf Grundlage unseres berechtigten Interesses, finden Sie in den Rechtlichen Hinweisen zu mobee [hier](https://www.mobile.de/service/mobeeLegalNotice).
+*   Gewährung des Zugriffs auf Ihre Inserate und deren Inhalt für andere Mitglieder unserer Unternehmensgruppe (insbesondere [Kleinanzeigen](https://www.kleinanzeigen.de/) für den automatischen Export von Inseraten) oder kooperierende externe Anbieter von Websites, Anwendungen, Dienstleistungen und Tools, mit denen wir gemäß unseren Allgemeinen Geschäftsbedingungen zusammenarbeiten, damit diese Ihre Inserate und deren Inhalt auf ihren Websites oder in ihren Anwendungen, Dienstleistungen und Tools veröffentlichen oder bewerben.
+    
+*   Bereitstellung unseres KI-Assistenten mobee auf unserer Website und über WhatsApp, einschließlich der Beantwortung Ihrer Anfragen mit Hilfe eines Sprachmodells. Einzelheiten, auch zur Verarbeitung auf Grundlage unseres berechtigten Interesses, finden Sie in den Rechtlichen Hinweisen zu mobee [hier](https://www.mobile.de/service/mobeeLegalNotice).
     
 
-### Soweit erforderlich, übermitteln wir Ihre personenbezogenen Daten zu einem oder mehreren der genannten Zwecke an Auftragsverarbeiter und folgende weitere Empfänger:
+### Soweit erforderlich, übermitteln wir Ihre personenbezogenen Daten zu einem oder mehreren der genannten Zwecke an Auftragsverarbeiter und folgende weitere Empfänger:
 
 *   Andere mobile.de Nutzer
     
@@ -161,6 +161,10 @@ Im Folgenden finden Sie eine – nach Rechtsgrundlagen geordnete – Zusammenfas
 *   Externe Serviceanbieter, wie Finanzierungsvermittler, Banken und sonstige Partner für das Angebot und die Vermittlung von Kfz-Finanzierungen
     
 *   Externe Betreiber von Websites, Anwendungen, Dienstleistungen und Tools
+    
+*   Meta Platforms Ireland Limited, sofern Sie unseren KI-Assistenten mobee über WhatsApp nutzen (Übermittlung Ihrer Nachrichten in der Eigenschaft als unser Auftragsverarbeiter)
+    
+*   Amazon Web Services als Betreiber der Infrastruktur und Anbieter des Sprachmodells für unseren KI-Assistenten mobee (in der Rolle als unser Auftragsverarbeiter)
     
 
 ### 5.2 Wir verarbeiten Ihre personenbezogenen Daten, um unsere gesetzlichen Verpflichtungen zu erfüllen (Art. 6 Abs. 1 lit. c) DSGVO). Dies umfasst die folgenden Zwecke:
@@ -302,6 +306,8 @@ Informationen zu Ihrem Widerspruchsrecht gegen die Verarbeitung auf Basis unsere
 *   Verarbeitung Ihrer exakten Standortdaten, um standortbezogene Dienstleistungen bereitstellen zu können.
     
 *   Verarbeitung Ihrer personenbezogenen Daten auf Grundlage einer Einwilligung, die Sie erteilt haben, damit wir oder Dritte Ihnen die Nutzung bestimmter Services ermöglichen oder Ihnen diese zur Verfügung stellen können, wie z. B. das automatische Vorausfüllen von Eingabeformularen für weitere Finanzierungsanfragen innerhalb der Services.
+    
+*   Einbindung von Videos von Drittplattformen: Auf einigen Seiten binden wir Videos von YouTube, TikTok und Instagram ein. Bevor Sie zustimmen, zeigen wir nur ein Vorschaubild, das wir selbst bereitstellen, und es werden keine Daten an die Plattform übermittelt. Erst wenn Sie dem Hinweis am Videobereich zustimmen, lädt Ihr Browser die Videos der dort genannten Plattformen von deren Servern. Dabei erhält die Plattform insbesondere Ihre IP-Adresse, Angaben zu Ihrem Browser und Gerät, die aufgerufene Seite und den Zeitpunkt des Abrufs. Die Plattform kann außerdem Cookies oder vergleichbare Technologien auf Ihrem Gerät speichern oder auslesen und, wenn Sie dort eingeloggt sind, den Abruf Ihrem Konto zuordnen. Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG). Ihre Einwilligung gilt nur für den jeweiligen Seitenaufruf und endet, wenn Sie die Seite verlassen oder neu laden. Für die Erhebung und Übermittlung der Daten beim Laden der Videos sind wir gemeinsam mit der jeweiligen Plattform verantwortlich. Soweit die Plattform die Daten anschließend für eigene Zwecke verarbeitet, ist sie dafür allein verantwortlich. Anbieter sind für YouTube die Google Ireland Limited, für TikTok die TikTok Technology Limited und für Instagram die Meta Platforms Ireland Limited. Die Plattformen können die Daten auch außerhalb des EWR verarbeiten, etwa in den USA. Weitere Informationen finden Sie in den Datenschutzerklärungen von YouTube ([https://policies.google.com/privacy?hl=de-de](https://policies.google.com/privacy?hl=de-de)), TikTok ([https://www.tiktok.com/legal/page/eea/privacy-policy/de](https://www.tiktok.com/legal/page/eea/privacy-policy/de)) und Instagram ([https://privacycenter.instagram.com/policy](https://privacycenter.instagram.com/policy)).
     
 
 Informationen zu Ihrem Recht auf Widerruf einer erteilten Einwilligung finden Sie unten unter '8. Rechte als betroffene Person' und im Hinblick auf die Nutzung von Cookies und ähnlichen Technologien unten unter '9. Cookies und ähnliche Technologien'.
